@@ -1,0 +1,661 @@
+Título,Ubicación,Versión,Color,Marca,Modelo,Año,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Kilómetros,Dirección,Control de tracción,Capacidad de personas,Potencia,Precio
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,99000.0,Asistida,Delantera,5.0,170.0,12333.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,148000.0,Asistida,4x4,5.0,170.0,15593.33
+Fiat Toro 1.8 Freedom,Entre Ríos,1.8 Freedom,Rojo,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,60000.0,Hidráulica,4x2,5.0,130.0,18500.0
+Fiat Toro 2.0 Volcano 4x4 At,Santa Fe,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,135000.0,Asistida,4x4,5.0,170.0,13333.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,87000.0,Asistida,4x4,5.0,170.0,18500.0
+Fiat Toro 1.8 Freedom,Entre Ríos,1.8 Freedom,Blanco,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,10000.0,Eléctrica,4x2,5.0,130.0,6868.67
+Fiat Toro 1.3 270 Firefly Turbo Volcano 4x2 At,Ubicación no encontrada,1.3 270 Firefly Turbo Volcano 4x2 At,Negro,Fiat,Toro,2024,Nafta,4.0,Automática,1.3,Pick-Up,1000.0,Eléctrica,4x2,5.0,175.0,16200.0
+Fiat Toro 2.0 Freedom 4x4,Córdoba,2.0 Freedom 4x4,Gris,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,92000.0,Asistida,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Gris,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,29000.0,Eléctrica,4x4,5.0,170.0,21933.33
+Fiat Toro 2.0 350 Multijet Ultra 4x4 At,Ubicación no encontrada,2.0 350 Multijet Ultra 4x4 At,Azul,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,38000.0,Asistida,4x4,5.0,170.0,27500.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,120000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,98000.0,Asistida,4x4,5.0,170.0,14666.67
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Azul,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,28000.0,Asistida,4x2,5.0,130.0,26000.0
+Fiat Toro 1.8 170 E-Torq Evo Freedom S-Design,Bs.As. G.B.A. Oeste,1.8 170 E-Torq Evo Freedom S-Design,Negro,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,2000.0,Eléctrica,4x2,5.0,130.0,19720.0
+Fiat Toro 2.0 350 Multijet Ultra 4x4 At,Ubicación no encontrada,2.0 350 Multijet Ultra 4x4 At,Azul,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,33000.0,Asistida,4x4,5.0,170.0,23326.67
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,71558.0,Asistida,4x4,5.0,170.0,21742.67
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Verde,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,168000.0,Hidráulica,4x4,5.0,170.0,16800.0
+Fiat Toro 2.0 Ranch 4x4 At,Capital Federal,2.0 Ranch 4x4 At,,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,55000.0,Asistida,4x4,5.0,170.0,24150.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,140000.0,Asistida,4x4,5.0,170.0,15990.0
+Fiat Toro 1.8,Bs.As. G.B.A. Sur,1.8,Gris,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,5000.0,Hidráulica,4x2,5.0,170.0,29000.0
+Fiat Toro 1.8 Freedom 4X2 At,Ubicación no encontrada,1.8 Freedom 4X2 At,Rojo,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,110831.0,Eléctrica,4x2,5.0,130.0,14866.67
+Fiat Toro 1.8 Freedom 4X2 At,Bs.As. G.B.A. Oeste,1.8 Freedom 4X2 At,Azul,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,80000.0,Eléctrica,4x2,5.0,130.0,20000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Violeta,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,41000.0,Hidráulica,4x4,5.0,170.0,19333.33
+Fiat Toro 2.0 Freedom 4x4 At,Bs.As. G.B.A. Oeste,2.0 Freedom 4x4 At,Blanco,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,88000.0,Asistida,4x4,5.0,170.0,14000.0
+Fiat Toro 2.0 Freedom 4x2,Misiones,2.0 Freedom 4x2,,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,97000.0,Asistida,Delantera,5.0,170.0,10666.67
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Verde,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,130000.0,Asistida,Delantera,5.0,170.0,13266.67
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Plateado,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,150000.0,Asistida,Delantera,5.0,170.0,11333.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,88900.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro 2.0 350 Multijet Volcano 4x4 At,Ubicación no encontrada,2.0 350 Multijet Volcano 4x4 At,Gris,Fiat,Toro,2024,Diésel,4.0,Automática,2.0,Pick-Up,1200.0,Eléctrica,4x4,5.0,170.0,9866.67
+Fiat Toro 2.0 Ranch 4x4 At,Bs.As. G.B.A. Sur,2.0 Ranch 4x4 At,,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,78000.0,Asistida,4x4,5.0,170.0,24000.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,143300.0,Asistida,4x4,5.0,170.0,14666.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Verde,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,115000.0,Asistida,4x4,5.0,170.0,15400.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,80033.0,Eléctrica,4x4,5.0,170.0,18533.33
+Fiat Toro 2.0 Freedom 4x4,Capital Federal,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,135000.0,Asistida,4x4,5.0,170.0,11333.33
+Fiat Toro 2.0 Volcano My19 4x4 At,Ubicación no encontrada,2.0 Volcano My19 4x4 At,Gris,Fiat,Toro,2024,Diésel,4.0,Automática,2.0,Pick-Up,1000.0,Eléctrica,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,Dorado,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,100000.0,Eléctrica,4x4,5.0,170.0,21333.33
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,133000.0,Asistida,4x4,5.0,170.0,17000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Gris,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,130000.0,Asistida,4x4,5.0,170.0,25400.0
+Fiat Toro 1.8Mpi Freedom 4X2 At Modelo 2020,Ubicación no encontrada,1.8Mpi Freedom 4X2 At Modelo 2020,,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,90100.0,Eléctrica,4x4,5.0,170.0,17466.67
+Fiat Toro 2.0 Freedom 4x4,Bs.As. G.B.A. Sur,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,166000.0,Eléctrica,4x4,5.0,170.0,12000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,68000.0,Asistida,Delantera,5.0,170.0,18000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,118000.0,Asistida,Delantera,5.0,170.0,12666.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,48000.0,Asistida,4x4,5.0,170.0,17666.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,128000.0,Asistida,4x4,5.0,170.0,13333.33
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Ubicación no encontrada,2.0 Freedom 4x4 At Pack Technology,Blanco,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,38000.0,Asistida,4x4,5.0,170.0,26800.0
+Fiat Toro Freedom 1.8 4x2 At 2020,Ubicación no encontrada,freedom 1.8 4x2 at,Plateado,Fiat,Toro,2020,Nafta,4.0,Automática,2.0,Pick-Up,57000.0,Hidráulica,4x4,5.0,170.0,17900.0
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,Blanco,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,59800.0,Eléctrica,4x4,5.0,170.0,21933.33
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,Gris,Fiat,Toro,2023,Nafta,4.0,Automática,1.8,Pick-Up,2000.0,Asistida,4x2,5.0,130.0,16713.47
+Fiat Toro 1.8 Freedom,Capital Federal,1.8 Freedom,Gris,Fiat,Toro,2022,Nafta,4.0,Automática,1.8,Pick-Up,3500.0,Asistida,4x2,5.0,130.0,17466.67
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,130000.0,Asistida,4x4,5.0,170.0,11866.67
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Gris,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,140000.0,Asistida,4x4,5.0,170.0,16900.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,107000.0,Asistida,4x4,5.0,170.0,15800.0
+Fiat Toro 2.0 Freedom 4x4 At,Santa Fe,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,117000.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Ubicación no encontrada,2.0 Freedom 4x4 At Pack Technology,Plateado,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,126000.0,Asistida,4x4,5.0,170.0,19500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Gris,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,53000.0,Asistida,4x4,5.0,170.0,20500.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,89000.0,Asistida,Delantera,5.0,170.0,14500.0
+Fiat Toro 2.0 TDI 4X4 FREEDOM AT L18,Ubicación no encontrada,2.0 TDI 4X4 FREEDOM AT L18,Blanco,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,96126.0,Asistida,4x4,5.0,170.0,16834.67
+Fiat Toro 1.8 Nafta At Freedon,Córdoba,1.8 nafta at freedon,,Fiat,Toro,2019,Nafta,4.0,Automática,2.0,Pick-Up,91000.0,Hidráulica,4x4,5.0,170.0,15333.33
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,65000.0,Asistida,4x4,5.0,170.0,13666.67
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,53000.0,Eléctrica,4x4,5.0,170.0,26500.0
+Fiat Toro 2.0 Freedom 4x4 At,Bs.As. G.B.A. Norte,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,80000.0,Hidráulica,4x4,5.0,170.0,18900.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. Costa Atlántica,2.0 Freedom 4x2,Gris,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,140000.0,Asistida,Delantera,5.0,170.0,15000.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Blanco,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,92000.0,Asistida,4x4,5.0,170.0,16333.33
+Vendo Fiat Toro Freedom 1.8 Con G.n.c Automática Exelente,Santa Fe,Freedom 1.8,Gris,Fiat,Toro,2451,Nafta/GNC,60252.0,Automática,1.8,Pick-Up,107000.0,Eléctrica,4x2,,,19000.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,Blanco,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,500.0,Eléctrica,4x2,5.0,130.0,8666.67
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,60000.0,Asistida,4x4,5.0,170.0,26000.0
+Fiat Toro FREEDOM 2.0 16V 4X4,Ubicación no encontrada,FREEDOM 2.0 16V 4X4,Gris,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,98000.0,Asistida,Integral,5.0,170.0,16000.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Oeste,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,98000.0,Asistida,4x4,5.0,170.0,17200.0
+Fiat Toro 2.0 Volcano My19 4x4 At,Ubicación no encontrada,2.0 Volcano My19 4x4 At,Plateado,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,84000.0,Asistida,4x4,5.0,170.0,21666.67
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At Pack Premium,Azul,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,27000.0,Eléctrica,4x4,5.0,170.0,25000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,100000.0,Asistida,4x4,5.0,170.0,19900.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Gris,Fiat,Toro,2018,Eléctrico,4.0,Automática,2.0,Pick-Up,88000.0,Asistida,4x4,5.0,170.0,15653.33
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,84000.0,Eléctrica,4x4,5.0,170.0,18333.33
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,Gris,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,53000.0,Eléctrica,4x4,5.0,170.0,25500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,130000.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. Costa Atlántica,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,117000.0,Asistida,4x4,5.0,170.0,18000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,68000.0,Asistida,Delantera,5.0,170.0,18000.0
+Fiat Toro 1.8 170 E-Torq Evo Freedom S-Design,Ubicación no encontrada,1.8 170 E-Torq Evo Freedom S-Design,Blanco,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,2222.0,Eléctrica,4x2,5.0,130.0,14500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,95000.0,Asistida,4x4,5.0,170.0,18500.0
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Ubicación no encontrada,2.0 Freedom 4x4 At Pack Technology,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,86000.0,Asistida,4x4,5.0,170.0,18800.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,85000.0,Asistida,4x4,5.0,170.0,18000.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At,,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,90000.0,Asistida,4x4,5.0,170.0,18500.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,118000.0,Asistida,Delantera,5.0,170.0,12393.33
+Fiat Toro FREEDOM 4X4 AT9,Ubicación no encontrada,FREEDOM 4X4 AT9,Blanco,Fiat,Toro,2020,Diésel,5.0,Automática,2.0,Pick-Up,70590.0,Eléctrica,4x4,5.0,170.0,18666.67
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,145000.0,Asistida,4x4,5.0,170.0,14900.0
+Fiat Toro FREEDOM 4X2,Ubicación no encontrada,FREEDOM 4X2,Blanco,Fiat,Toro,2020,Nafta,5.0,Automática,2.0,Pick-Up,131400.0,Hidráulica,4x2,5.0,170.0,22500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Rojo,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,83000.0,Eléctrica,4x4,5.0,170.0,18999.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Bs.As. G.B.A. Oeste,1.8 170 E-torq Evo Freedom At6,Blanco,Fiat,Toro,2022,Nafta,4.0,Automática,1.8,Pick-Up,50000.0,Asistida,4x2,5.0,130.0,22000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Capital Federal,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,11111.0,Asistida,4x4,5.0,170.0,20533.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,170000.0,Asistida,4x4,5.0,170.0,12200.0
+Fiat Toro 1.8 Freedom,Bs.As. G.B.A. Norte,1.8 Freedom,Negro,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,500.0,Eléctrica,4x2,5.0,130.0,27000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,115000.0,Asistida,Delantera,5.0,170.0,11933.33
+Fiat Toro 2.0 350 Multijet Ultra 4x4 At,Bs.As. G.B.A. Sur,2.0 350 Multijet Ultra 4x4 At,Negro,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,29800.0,Asistida,4x4,5.0,170.0,28800.0
+Fiat Toro 2.0 Ranch 4x4 At,Capital Federal,2.0 Ranch 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,33000.0,Eléctrica,4x4,5.0,170.0,25000.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Oeste,2.0 Volcano 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,89500.0,Asistida,4x4,5.0,170.0,19500.0
+Fiat Toro 2.0 Black Jack 4x4 At,Ubicación no encontrada,2.0 Black Jack 4x4 At,Negro,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,68000.0,Asistida,4x4,5.0,170.0,21500.0
+Fiat Toro,Ubicación no encontrada,1.8,Gris,Fiat,Toro,2019,Nafta,5.0,Automática,2.0,Pick-Up,62500.0,Hidráulica,4x4,5.0,170.0,10666.67
+Fiat Toro 2.0 Volcano 4x4 At,Buenos Aires Interior,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,110000.0,Asistida,4x4,5.0,170.0,18200.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Mendoza,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,115000.0,Asistida,4x4,5.0,170.0,14866.67
+Fiat Toro 2.0 Freedom My19 4x4 At,Ubicación no encontrada,2.0 Freedom My19 4x4 At,Plateado,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,88300.0,Asistida,4x4,5.0,170.0,17000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,140000.0,Eléctrica,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Oeste,2.0 Volcano 4x4 At Pack Premium,Negro,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,85000.0,Hidráulica,4x4,5.0,170.0,21000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,81000.0,Asistida,4x4,5.0,170.0,18000.0
+Fiat Toro Freedom 4X4,Ubicación no encontrada,Freedom 4X4,Negro,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,86700.0,Asistida,Delantera,5.0,170.0,13266.67
+Fiat Toro 2.0 350 Multijet Volcano 4x4 At,Ubicación no encontrada,2.0 350 Multijet Volcano 4x4 At,Azul,Fiat,Toro,2024,Diésel,4.0,Automática,2.0,Pick-Up,500.0,Eléctrica,4x4,5.0,170.0,15466.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,100845.0,Asistida,4x4,5.0,170.0,16436.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,133000.0,Asistida,4x4,5.0,170.0,15900.0
+Fiat Toro 2.0 Ranch 4x4 At,Córdoba,2.0 Ranch 4x4 At,Plateado,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,82000.0,Eléctrica,4x4,5.0,170.0,24000.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. Costa Atlántica,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,71000.0,Asistida,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 Freedom My19 4x4 At,Ubicación no encontrada,2.0 Freedom My19 4x4 At,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,70000.0,Hidráulica,4x4,5.0,170.0,20000.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,Rojo,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,1000.0,Eléctrica,4x2,5.0,130.0,23500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,88000.0,Asistida,4x4,5.0,170.0,16720.0
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Ubicación no encontrada,2.0 Freedom 4x4 At Pack Technology,,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,10000.0,Asistida,4x4,5.0,170.0,24000.0
+Fiat Toro 2.0 Freedom 4x4 Pack Xtreme,Tucumán,2.0 Freedom 4x4 Pack Xtreme,,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,27000.0,Asistida,4x4,5.0,170.0,13333.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,132380.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro 2.0 350 Multijet Volcano 4x4 At,Mendoza,2.0 350 Multijet Volcano 4x4 At,Gris,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,12000.0,Asistida,4x4,5.0,170.0,29000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,131000.0,Asistida,Delantera,5.0,170.0,17000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,74000.0,assisted,4x4,5.0,170.0,15666.67
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Gris,Fiat,Toro,2022,Nafta,4.0,Automática,1.8,Pick-Up,69000.0,Asistida,4x2,5.0,130.0,19333.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,190000.0,Asistida,4x4,5.0,170.0,16500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,132380.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro 2.0 Volcano 4x4 At,Neuquén,2.0 Volcano 4x4 At,,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,68000.0,Asistida,4x4,5.0,170.0,14000.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Blanco,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,22000.0,Asistida,4x4,5.0,170.0,28500.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,143300.0,Asistida,4x4,5.0,170.0,14666.67
+Fiat Toro 2.0 350 Multijet Freedom 4x4 At,Ubicación no encontrada,2.0 350 Multijet Freedom 4x4 At,Blanco,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,214000.0,Asistida,4x4,5.0,170.0,17333.33
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,112000.0,Asistida,Delantera,5.0,170.0,16120.0
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,57000.0,Eléctrica,4x4,5.0,170.0,26000.0
+Fiat Toro 2.0 350 Multijet Volcano 4x4 At,Ubicación no encontrada,2.0 350 Multijet Volcano 4x4 At,Rojo,Fiat,Toro,2024,Diésel,4.0,Automática,2.0,Pick-Up,1000.0,Eléctrica,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 Volcano My19 4x4 At,Santa Fe,2.0 Volcano My19 4x4 At,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,41000.0,Hidráulica,4x4,5.0,170.0,22000.0
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,Gris,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,91000.0,Eléctrica,4x4,5.0,170.0,19933.33
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Gris,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,1000.0,Eléctrica,4x2,5.0,130.0,9333.33
+Fiat Toro 1.8 Freedom,Bs.As. G.B.A. Sur,1.8 Freedom,,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,34300.0,Asistida,4x2,5.0,130.0,20500.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,244000.0,Asistida,4x4,5.0,170.0,15900.0
+Fiat Toro,Ubicación no encontrada,1.8 Freedom,Rojo,Fiat,Toro,2020,Nafta,5.0,Manual,1.8,Pick-Up,76000.0,Asistida,4x4,5.0,170.0,9333.33
+Fiat Toro,Córdoba,1.8 Freedom,Rojo,Fiat,Toro,2018,Nafta/GNC,4.0,Automática,1.8,Pick-Up,115000.0,Eléctrica,4x2,5.0,170.0,14700.0
+Fiat Toro 2.0 Freedom 4x2,Buenos Aires Interior,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,115000.0,Asistida,Delantera,5.0,170.0,15000.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Santiago del Estero,1.8 170 E-torq Evo Freedom At6,Negro,Fiat,Toro,2022,Nafta,4.0,Automática,1.8,Pick-Up,40000.0,Eléctrica,4x2,5.0,130.0,25000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Plateado,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,83000.0,Asistida,4x4,5.0,170.0,19933.33
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,88000.0,Asistida,4x4,5.0,170.0,14400.0
+Fiat Toro Freedom 4x2 AT,Ubicación no encontrada,Freedom 4x2 AT,Gris,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,37000.0,Asistida,4x2,5.0,170.0,16568.0
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,58000.0,Eléctrica,4x4,5.0,170.0,23000.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Sur,2.0 Freedom 4x2,Blanco,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,135000.0,Asistida,Delantera,5.0,170.0,15500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,119000.0,Hidráulica,4x4,5.0,170.0,26500.0
+Fiat Toro 2.0 Ranch 4x4 At,Santa Fe,2.0 Ranch 4x4 At,Blanco,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,43000.0,Eléctrica,4x4,5.0,170.0,24000.0
+Fiat Toro FREEDOM,Ubicación no encontrada,FREEDOM,Rojo,Fiat,Toro,2019,Nafta/GNC,4.0,Automática,1.8,Pick-Up,90000.0,Hidráulica,4x4,5.0,170.0,14660.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Oeste,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,66000.0,Asistida,4x4,5.0,170.0,24500.0
+Fiat Toro 2.0 Ranch 4x4 At,Capital Federal,2.0 Ranch 4x4 At,Gris,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,130000.0,Asistida,4x4,5.0,170.0,21000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Negro,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,112000.0,Asistida,4x4,5.0,170.0,19900.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2017,Eléctrico,4.0,Automática,2.0,Pick-Up,60000.0,Asistida,4x4,5.0,170.0,16333.33
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,96000.0,Asistida,Delantera,5.0,170.0,17190.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,108000.0,Asistida,4x4,5.0,170.0,17266.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,Gris,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,500.0,Eléctrica,4x2,5.0,130.0,10286.67
+Fiat Toro 1.8 Freedom 4X2 At,Ubicación no encontrada,1.8 Freedom 4X2 At,Azul,Fiat,Toro,2020,Nafta/GNC,4.0,Automática,1.8,Pick-Up,70000.0,Eléctrica,4x2,5.0,130.0,23000.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Oeste,2.0 Freedom 4x2,,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,117000.0,Asistida,Delantera,5.0,170.0,11666.67
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,130000.0,Asistida,4x4,5.0,170.0,17000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Verde,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,100000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Gris,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,92000.0,Asistida,Delantera,5.0,170.0,13658.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,131000.0,Asistida,4x4,5.0,170.0,14000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,96000.0,Asistida,4x4,5.0,170.0,16333.33
+Fiat Toro 2.0 Volcano 4x4 At,Córdoba,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,68000.0,Asistida,4x4,5.0,170.0,19666.67
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,91102.0,Hidráulica,4x4,5.0,170.0,18599.33
+Fiat Toro 2.0 Freedom 4x2,Córdoba,2.0 Freedom 4x2,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,46000.0,Asistida,Delantera,5.0,170.0,12000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,99100.0,Asistida,4x4,5.0,170.0,19500.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Blanco,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,90000.0,Asistida,4x2,5.0,130.0,17476.67
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,42000.0,Asistida,4x4,5.0,170.0,21333.33
+Fiat Toro 2.0 Freedom 4x4,Bs.As. G.B.A. Oeste,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,130000.0,Asistida,4x4,5.0,170.0,14000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,93000.0,Asistida,4x4,5.0,170.0,19200.0
+Fiat Toro Freedom 1.8 At6,Ubicación no encontrada,Freedom 1.8 at6,Gris,Fiat,Toro,2020,Nafta,5.0,Automática,1.8,Pick-Up,45000.0,Eléctrica,4x4,5.0,170.0,21900.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,73000.0,Asistida,4x4,5.0,170.0,17000.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,Rojo,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,1000.0,Eléctrica,4x2,5.0,130.0,21333.33
+Fiat Toro 4X2 FREEDOM,Ubicación no encontrada,4X2 FREEDOM,Blanco,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,243000.0,Eléctrica,4x2,5.0,170.0,11666.67
+Fiat Toro 2.0 Volcano 4x4 At,Córdoba,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,119000.0,Asistida,4x4,5.0,170.0,14533.33
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,53000.0,Asistida,Delantera,5.0,170.0,15666.67
+Fiat Toro 2.0 Freedom 4x4 At,Bs.As. G.B.A. Sur,2.0 Freedom 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,30000.0,Eléctrica,4x4,5.0,170.0,19000.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,59000.0,Asistida,4x4,5.0,170.0,18500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,108805.0,Asistida,4x4,5.0,170.0,23666.67
+Fiat Toro 1.8 Freedom,Capital Federal,1.8 Freedom,Gris,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,20000.0,Asistida,4x2,5.0,130.0,16266.67
+Fiat Toro,Ubicación no encontrada,1.8 Freedom,Rojo,Fiat,Toro,2020,Nafta,5.0,Automática secuencial,1.8,Pick-Up,76000.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro Volcano,Ubicación no encontrada,Volcano,Azul,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,187000.0,Asistida,4x4,5.0,170.0,21500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,132000.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro 2.0 350 Multijet Ultra 4x4 At,Ubicación no encontrada,2.0 350 Multijet Ultra 4x4 At,,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,21000.0,Asistida,4x4,5.0,170.0,27200.0
+Fiat Toro 1.8 Freedom 4X2 At,Capital Federal,1.8 Freedom 4X2 At,,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,80000.0,Eléctrica,4x2,5.0,130.0,21800.0
+Fiat Toro 1.3 270 Firefly Turbo Volcano 4x2 At,Ubicación no encontrada,1.3 270 Firefly Turbo Volcano 4x2 At,Blanco,Fiat,Toro,2024,Nafta,4.0,Automática,1.3,Pick-Up,500.0,Eléctrica,4x2,5.0,175.0,8966.67
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,138000.0,Asistida,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,150000.0,Asistida,4x4,5.0,170.0,15900.0
+Fiat Toro 2.0 Freedom My19 4x4 At,Bs.As. Costa Atlántica,2.0 Freedom My19 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,90000.0,Asistida,4x4,5.0,170.0,17000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,34000.0,Asistida,4x4,5.0,170.0,26000.0
+Fiat Toro 2.0 Volcano 4x4 At,Córdoba,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,106000.0,Asistida,4x4,5.0,170.0,17000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Negro,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,90700.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,51700.0,Asistida,4x4,5.0,170.0,20500.0
+Fiat Toro 1.8 Freedom 4X2 At,Ubicación no encontrada,1.8 Freedom 4X2 At,Rojo,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,50000.0,Eléctrica,4x2,5.0,130.0,20600.0
+Fiat Toro 2.0 Black Jack 4x4 At,Bs.As. G.B.A. Norte,2.0 Black Jack 4x4 At,Negro,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,130000.0,Asistida,4x4,5.0,170.0,18000.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Rojo,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,86000.0,Asistida,4x2,5.0,130.0,15933.33
+Fiat Toro 2.0 Freedom 4x4 At,Buenos Aires Interior,2.0 Freedom 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,93000.0,Asistida,4x4,5.0,170.0,19900.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,132380.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro 1.8 Freedom 4X2 At,Ubicación no encontrada,1.8 Freedom 4X2 At,,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,50000.0,Eléctrica,4x2,5.0,130.0,19000.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Gris,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,1111111.0,Asistida,4x2,5.0,130.0,19216.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,105000.0,Asistida,4x4,5.0,170.0,13266.67
+Fiat Toro Freedom 1.8 Con G.n.c Automática C/porta Bicicleta,Bs.As. G.B.A. Norte,Freedom 1.8,Gris,Fiat,Toro,2019,Nafta/GNC,4.0,Automática,2.0,Pick-Up,168000.0,Hidráulica,Delantera,5.0,170.0,14666.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2017,Eléctrico,4.0,Automática,2.0,Pick-Up,134000.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro 2.0 350 Multijet Ultra 4x4 At,Bs.As. G.B.A. Sur,2.0 350 Multijet Ultra 4x4 At,,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,24700.0,Asistida,4x4,5.0,170.0,23333.33
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Blanco,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,115000.0,Asistida,4x4,5.0,170.0,14500.0
+Fiat Toro 2.0 Volcano 4x4 At,Santa Fe,2.0 Volcano 4x4 At,Negro,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,135000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,139846.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Plateado,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,88767.0,Asistida,4x4,5.0,170.0,19666.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,63000.0,Eléctrica,4x4,5.0,170.0,21990.0
+Fiat Toro 1.8 Freedom 4x2 At,Bs.As. G.B.A. Oeste,1.8 Freedom 4x2 At,,Fiat,Toro,2019,Nafta,4.0,Automática,2.0,Pick-Up,54000.0,Hidráulica,4x4,5.0,170.0,18000.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Norte,2.0 Freedom 4x2,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,140000.0,Asistida,Delantera,5.0,170.0,11333.33
+Fiat Toro 2.0 Freedom 4x4,Bs.As. G.B.A. Sur,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,117200.0,Hidráulica,4x4,5.0,170.0,15500.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,Blanco,Fiat,Toro,2022,Nafta,4.0,Automática,1.8,Pick-Up,10000.0,Asistida,4x2,5.0,130.0,19933.33
+Fiat Toro FREEDOM AT6 4x2,Ubicación no encontrada,FREEDOM AT6 4x2,,Fiat,Toro,2019,Nafta,4.0,Automática,2.0,Pick-Up,39000.0,Hidráulica,4x4,5.0,170.0,21500.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,110000.0,Asistida,4x4,5.0,170.0,13900.0
+Fiat Toro 2.0 350 Multijet Volcano 4x4 At,Bs.As. G.B.A. Sur,2.0 350 Multijet Volcano 4x4 At,,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,90000.0,Asistida,4x4,5.0,170.0,20000.0
+Fiat Toro 2.0 Volcano 4x4 At,Córdoba,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,130000.0,Asistida,4x4,5.0,170.0,18500.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,Blanco,Fiat,Toro,2023,Nafta,4.0,Automática,1.8,Pick-Up,1500.0,Asistida,4x2,5.0,130.0,9333.33
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Ubicación no encontrada,2.0 Freedom 4x4 At Pack Technology,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,100000.0,Hidráulica,4x4,5.0,170.0,18000.0
+Fiat Toro 1.8 4x2 Freedom At6 C/ Gnc,Ubicación no encontrada,1.8 4x2 Freedom AT6,,Fiat,Toro,2019,Nafta/GNC,4.0,Automática,1.8,Pick-Up,68000.0,Eléctrica,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,125000.0,Asistida,Delantera,5.0,170.0,13200.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Blanco,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,144000.0,Asistida,4x4,5.0,170.0,14000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,58000.0,Eléctrica,4x4,5.0,170.0,23500.0
+Fiat Toro Freedom 1.8 At 4x2 2019,Ubicación no encontrada,FREDOM 1.8 4X2 AT6,Blanco,Fiat,Toro,2019,Nafta,4.0,Automática,2.0,Pick-Up,60000.0,Hidráulica,4x4,5.0,170.0,19500.0
+Fiat Toro Freedom 4x4,Capital Federal,Freedom 4x4,Blanco,Fiat,Toro,2016,Diésel,5.0,Manual,2.0,Pick-Up,92000.0,Hidráulica,4x4,5.0,170.0,17500.0
+Fiat Toro 2.0 350 Multijet Volcano 4x4 At,Bs.As. G.B.A. Norte,2.0 350 Multijet Volcano 4x4 At,Azul,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,7500.0,Asistida,4x4,5.0,170.0,34000.0
+Fiat Toro Freedom 4x4,Corrientes,Freedom 4x4,,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,140000.0,Asistida,Delantera,5.0,170.0,10000.0
+Fiat Toro 2.0 Ranch 4x4 At,Neuquén,2.0 Ranch 4x4 At,Blanco,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,42700.0,Asistida,4x4,5.0,170.0,29500.0
+Fiat Toro 2.0 Ranch 4x4 At,Bs.As. G.B.A. Oeste,2.0 Ranch 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,19500.0,Eléctrica,4x4,5.0,170.0,26600.0
+Fiat Toro 1.8 Freedom,Buenos Aires Interior,1.8 Freedom,Gris,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,25700.0,Asistida,4x2,5.0,130.0,16666.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,94000.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,Blanco,Fiat,Toro,2022,Nafta,4.0,Automática,1.8,Pick-Up,31000.0,Asistida,4x2,5.0,130.0,24500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,121000.0,Asistida,4x4,5.0,170.0,13266.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,105000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 Freedom 4x2,Mendoza,2.0 Freedom 4x2,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,126000.0,Asistida,Delantera,5.0,170.0,16500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,120000.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro 2.0 Black Jack 4x4 At,Ubicación no encontrada,2.0 Black Jack 4x4 At,Blanco,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,157000.0,assisted,Delantera,5.0,170.0,15866.67
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Oeste,2.0 Freedom 4x2,Gris,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,99800.0,Eléctrica,Delantera,5.0,170.0,11933.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,78386.0,Asistida,4x4,5.0,170.0,20000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Plateado,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,130000.0,Asistida,Delantera,5.0,170.0,16500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Blanco,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,59000.0,Eléctrica,4x4,5.0,170.0,21066.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,163000.0,Asistida,4x4,5.0,170.0,15333.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,100000.0,Asistida,4x4,5.0,170.0,18520.0
+Fiat Toro 2.0 Freedom 4x4,Buenos Aires Interior,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,68000.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,64400.0,Asistida,4x4,5.0,170.0,27000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,99000.0,Asistida,Delantera,5.0,170.0,12333.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,57000.0,Asistida,4x4,5.0,170.0,21900.0
+Fiat Toro Freedom 1.8 16v 4x2,Capital Federal,Freedom 1.8 16v 4x2,,Fiat,Toro,2019,Nafta,6.0,Automática,2.0,Pick-Up,90000.0,Hidráulica,4x4,5.0,170.0,15666.67
+Fiat Toro Ranch 2.0 Tdi At9 4x4,Ubicación no encontrada,2.0,Rojo,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,67317.0,Eléctrica,4x4,5.0,170.0,20000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,93000.0,Asistida,Delantera,5.0,170.0,12666.67
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Plateado,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,165000.0,Asistida,Delantera,5.0,170.0,16500.0
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Bs.As. G.B.A. Norte,2.0 Freedom 4x4 At Pack Technology,Negro,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,107000.0,Asistida,4x4,5.0,170.0,19450.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Blanco,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,90000.0,Asistida,4x2,5.0,130.0,15933.33
+Fiat Toro 2.0 Volcano 4x4 At,Córdoba,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,70000.0,Asistida,4x4,5.0,170.0,18500.0
+Fiat Toro 1.8 Freedom 4X2 At,Bs.As. G.B.A. Oeste,1.8 Freedom 4X2 At,,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,44300.0,Eléctrica,4x2,5.0,130.0,20000.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,,Fiat,Toro,2022,Nafta,4.0,Automática,1.8,Pick-Up,20000.0,Asistida,4x2,5.0,130.0,21000.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,73000.0,hydraulic,Delantera,5.0,170.0,16866.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,Blanco,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,730.0,Eléctrica,4x2,5.0,130.0,26000.0
+Fiat Toro Volcano Pack Premium 2.0jtd 4x4 At9,Ubicación no encontrada,Volcano Pack Premium 2.0jtd 4x4 At9,Gris,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,151000.0,Hidráulica,4x4,5.0,170.0,16800.0
+Fiat Toro Fredom 1.8 NAFTA,Bs.As. G.B.A. Oeste,Fredom 1.8 NAFTA,,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,23000.0,Eléctrica,4x2,5.0,130.0,21500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Blanco,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,110000.0,Eléctrica,4x4,5.0,170.0,17665.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,53300.0,Asistida,4x4,5.0,170.0,24500.0
+Fiat Toro 1.8 Freedom 4X2 At,Capital Federal,1.8 Freedom 4X2 At,Blanco,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,80500.0,Eléctrica,4x2,5.0,130.0,20500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At Pack Premium,Negro,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,107000.0,Asistida,4x4,5.0,170.0,21000.0
+Fiat Toro 1.8 Freedom,Córdoba,1.8 Freedom,Rojo,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,600.0,Eléctrica,4x2,5.0,130.0,21333.33
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Blanco,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,115000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Oeste,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,26000.0,Hidráulica,4x4,5.0,170.0,24900.0
+Fiat Toro 2.0 Ranch 4x4 At,Buenos Aires Interior,2.0 Ranch 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,135000.0,Eléctrica,4x4,5.0,170.0,22000.0
+Fiat Toro 2.0 Freedom 4x4,Córdoba,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,138000.0,Asistida,4x4,5.0,170.0,14900.0
+Fiat Toro 2.0 Freedom 4x4,Bs.As. Costa Atlántica,2.0 Freedom 4x4,,Fiat,Toro,2019,Diésel,4.0,Manual,2.0,Pick-Up,80000.0,Hidráulica,4x4,5.0,170.0,12666.67
+Fiat Toro 2.0 Volcano My19 4x4 At,Ubicación no encontrada,2.0 Volcano My19 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,94000.0,Hidráulica,4x4,5.0,170.0,17000.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Gris,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,29000.0,Asistida,4x4,5.0,170.0,20666.67
+Fiat Toro 2.0 Freedom 4x4 At,Buenos Aires Interior,2.0 Freedom 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,116000.0,Asistida,4x4,5.0,170.0,17800.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,85000.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro Volcano 2.0 4x4 mt,Ubicación no encontrada,Volcano 2.0 4x4 mt,,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,110000.0,Asistida,4x4,5.0,170.0,18500.0
+Fiat Toro 2.0 Freedom 4x4,Córdoba,2.0 Freedom 4x4,Gris,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,30000.0,Asistida,4x4,5.0,170.0,20000.0
+Fiat Toro 2.0 Volcano My19 4x4 At,Bs.As. G.B.A. Norte,2.0 Volcano My19 4x4 At,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,39500.0,Hidráulica,4x4,5.0,170.0,26000.0
+Fiat Toro 2.0 Volcano 4x4 At,Capital Federal,2.0 Volcano 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,27000.0,Eléctrica,4x4,5.0,170.0,11666.67
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Norte,2.0 Freedom 4x2,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,111600.0,Asistida,Delantera,5.0,170.0,17000.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Oeste,2.0 Freedom 4x2,Plateado,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,89000.0,Asistida,Delantera,5.0,170.0,13666.67
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Gris,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,109000.0,Asistida,4x4,5.0,170.0,16500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,94172.0,Hidráulica,4x4,5.0,170.0,17000.0
+Fiat Toro 1.8 Freedom 4X2 At,Bs.As. G.B.A. Norte,1.8 Freedom 4X2 At,Azul,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,140000.0,Eléctrica,4x2,5.0,130.0,18500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,94173.0,Hidráulica,4x4,5.0,170.0,17000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,49000.0,Asistida,4x4,5.0,170.0,28000.0
+Fiat Toro Freedom 1.8 4x2 At6,Ubicación no encontrada,Freedom 1.8 4x2 At6,,Fiat,Toro,2020,Nafta,4.0,Automática,2.0,Pick-Up,60000.0,Eléctrica,4x4,5.0,170.0,20000.0
+Fiat Toro 2.0 Black Jack 4x4 At,Capital Federal,2.0 Black Jack 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,73000.0,Asistida,4x4,5.0,170.0,23500.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Gris,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,1200.0,Eléctrica,4x2,5.0,130.0,16000.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Blanco,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,58000.0,Eléctrica,4x2,5.0,130.0,20100.0
+Fiat Toro 2.0 Freedom 4x4 At,Bs.As. Costa Atlántica,2.0 Freedom 4x4 At,Blanco,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,78000.0,Hidráulica,4x4,5.0,170.0,23000.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,76000.0,Hidráulica,4x4,5.0,170.0,18490.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Blanco,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,90000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 Freedom 4x4,Catamarca,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,80000.0,Asistida,4x4,5.0,170.0,18000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,100000.0,Asistida,4x4,5.0,170.0,15800.0
+Fiat Toro 1.8 170 E-Torq Evo Freedom S-Design,Ubicación no encontrada,1.8 170 E-Torq Evo Freedom S-Design,Blanco,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,1000.0,Eléctrica,4x2,5.0,130.0,29000.0
+Fiat Toro 2.0 Volcano 4x4 At,Santa Cruz,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,7500.0,Asistida,4x4,5.0,170.0,19000.0
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,41000.0,Eléctrica,4x4,5.0,170.0,33000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Capital Federal,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,85000.0,Hidráulica,4x4,5.0,170.0,21000.0
+Fiat Toro 1.8 Freedom 4x4 AT,Ubicación no encontrada,1.8 Freedom 4x4 AT,,Fiat,Toro,2019,Nafta,4.0,Automática,2.0,Pick-Up,102000.0,Hidráulica,4x4,5.0,170.0,15333.33
+Fiat Toro 2.0 Freedom My19 4x4 At,Córdoba,2.0 Freedom My19 4x4 At,Gris,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,80000.0,Asistida,4x4,5.0,170.0,20000.0
+Fiat Toro 2.0 Freedom 4x4,Córdoba,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,101000.0,Asistida,4x4,5.0,170.0,17000.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Blanco,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,37000.0,Asistida,4x4,5.0,170.0,22000.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,60000.0,Asistida,4x2,5.0,130.0,19666.67
+Fiat Toro Freedom 1.8 At 4x2,Ubicación no encontrada,Freedom 1.8 AT 4X2,Blanco,Fiat,Toro,2020,Nafta,4.0,Automática,2.0,Pick-Up,54000.0,Eléctrica,4x4,5.0,170.0,21000.0
+Fiat Toro 1.3 270 Firefly Turbo Volcano 4x2 At,Ubicación no encontrada,1.3 270 Firefly Turbo Volcano 4x2 At,Gris,Fiat,Toro,2024,Nafta,4.0,Automática,1.3,Pick-Up,1000.0,Eléctrica,4x2,5.0,175.0,15900.0
+Fiat Toro 1.8 Freedom 4X2 At,Ubicación no encontrada,1.8 Freedom 4X2 At,,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,47000.0,Eléctrica,4x2,5.0,130.0,17700.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Negro,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,135000.0,Asistida,4x4,5.0,170.0,13000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At Pack Premium,Blanco,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,84000.0,Asistida,4x4,5.0,170.0,19000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,99000.0,Asistida,Delantera,5.0,170.0,12333.33
+Fiat Toro 2.0 Black Jack 4x4 At,Catamarca,2.0 Black Jack 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,83000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,59000.0,Asistida,4x4,5.0,170.0,21266.67
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Plateado,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,116000.0,Asistida,4x4,5.0,170.0,15066.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,140000.0,Asistida,4x4,5.0,170.0,16490.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,73000.0,Asistida,4x4,5.0,170.0,15666.67
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Blanco,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,90000.0,Hidráulica,4x4,5.0,170.0,17990.0
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Bs.As. G.B.A. Oeste,2.0 Freedom 4x4 At Pack Technology,,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,51000.0,Asistida,4x4,5.0,170.0,30000.0
+Fiat Toro 1.8 Freedom,Capital Federal,1.8 Freedom,Rojo,Fiat,Toro,2022,Nafta,4.0,Automática,1.8,Pick-Up,13000.0,Asistida,4x2,5.0,130.0,17200.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,Blanco,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,1000.0,Eléctrica,4x2,5.0,130.0,15000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Verde,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,98000.0,Asistida,Delantera,5.0,170.0,13900.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,138000.0,Asistida,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 Freedom 4x4,Capital Federal,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,47490.0,Asistida,4x4,5.0,170.0,17200.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,Blanco,Fiat,Toro,2023,Nafta,4.0,Automática,1.8,Pick-Up,10000.0,Asistida,4x2,5.0,130.0,17600.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,94000.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro 2.0 350 Multijet Volcano 4x4 At,Córdoba,2.0 350 Multijet Volcano 4x4 At,,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,24800.0,Asistida,4x4,5.0,170.0,32000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Negro,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,154000.0,assisted,Delantera,5.0,170.0,17000.0
+Fiat Toro 1.8 Freedom 4X2 At,Bs.As. G.B.A. Norte,1.8 Freedom 4X2 At,Azul,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,56000.0,Eléctrica,4x2,5.0,130.0,20000.0
+Fiat Toro 1.8 Freedom,Capital Federal,1.8 Freedom,Blanco,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,1000.0,Eléctrica,4x2,5.0,130.0,16000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,60000.0,Asistida,4x4,5.0,170.0,19500.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,96000.0,Asistida,Delantera,5.0,170.0,17160.0
+Fiat Toro 1.8 Freedom 4X2 At,Ubicación no encontrada,1.8 Freedom 4X2 At,Rojo,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,75000.0,Hidráulica,4x2,5.0,130.0,18300.0
+Fiat Toro 2.0 Volcano My19 4x4 At,Bs.As. G.B.A. Oeste,2.0 Volcano My19 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,47000.0,Eléctrica,4x4,5.0,170.0,24000.0
+Fiat Toro 2.0 Volcano 4x4 At,Buenos Aires Interior,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,116000.0,Asistida,4x4,5.0,170.0,16000.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Gris,Fiat,Toro,2023,Nafta,4.0,Automática,1.8,Pick-Up,22000.0,Asistida,4x2,5.0,130.0,16333.33
+Fiat Toro Fiat toro 1.8freedom,Capital Federal,Fiat toro 1.8freedom,Blanco,Fiat,Toro,2020,Nafta,4.0,Manual,2.0,Pick-Up,72000.0,Eléctrica,4x4,5.0,170.0,17199.0
+Fiat Toro 1.8 Freedom 4x2 At. Recibo Vehículos.,Ubicación no encontrada,FREEDOM 1.8 16V 4X2 AT,Negro,Fiat,Toro,2019,Nafta,5.0,Automática,1.8,Pick-Up,90000.0,Hidráulica,4x4,5.0,170.0,19990.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Oeste,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,146000.0,Asistida,4x4,5.0,170.0,16000.0
+Fiat Toro freedom,Ubicación no encontrada,freedom,Blanco,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,76000.0,Asistida,4x4,5.0,170.0,14400.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,135000.0,Asistida,4x4,5.0,170.0,13333.33
+Fiat Toro Freedom 1.8 4x2 At6,Bs.As. G.B.A. Norte,1.8 Freedom 4x2 AT6,Negro,Fiat,Toro,2019,Nafta,4.0,Automática,1.8,Pick-Up,62000.0,Hidráulica,4x2,5.0,170.0,21000.0
+Fiat Toro 1.8 Freedom,Buenos Aires Interior,1.8 Freedom,Gris,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,130000.0,Asistida,4x2,5.0,130.0,18000.0
+Fiat Toro 1.8 Freedom,Bs.As. G.B.A. Sur,1.8 Freedom,,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,54000.0,Asistida,4x2,5.0,130.0,17333.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,47300.0,Asistida,4x4,5.0,170.0,23000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Negro,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,88000.0,Asistida,4x4,5.0,170.0,16333.33
+Fiat Toro 1.8 Freedom,Bs.As. G.B.A. Norte,1.8 Freedom,Negro,Fiat,Toro,2022,Nafta,4.0,Automática,1.8,Pick-Up,21000.0,Asistida,4x2,5.0,130.0,21500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Blanco,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,50000.0,Eléctrica,4x4,5.0,170.0,23900.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,91000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro VOLCANO 2.0 16V 4X4 AT,Ubicación no encontrada,VOLCANO 2.0 16V 4X4 AT,Blanco,Fiat,Toro,2021,Nafta,4.0,Automática,2.0,Pick-Up,106041.0,Asistida,4x4,5.0,170.0,21306.67
+Fiat Toro 2.0 Freedom 4x4,Córdoba,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,140000.0,Asistida,4x4,5.0,170.0,16500.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,74000.0,Asistida,4x4,5.0,170.0,20000.0
+Fiat Toro 1.8 Freedom,Santa Fe,1.8 Freedom,Gris,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,46000.0,Asistida,4x2,5.0,130.0,24000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,75000.0,Eléctrica,4x4,5.0,170.0,17666.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Verde,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,150000.0,Asistida,4x4,5.0,170.0,15932.67
+Fiat Toro 1.8 Freedom 4X2 At,Bs.As. G.B.A. Sur,1.8 Freedom 4X2 At,,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,120000.0,Eléctrica,4x2,5.0,130.0,17000.0
+Fiat Toro 2.0 Freedom 4x4,Buenos Aires Interior,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,134000.0,Asistida,4x4,5.0,170.0,12000.0
+Fiat Toro 1.8 Freedom,Bs.As. G.B.A. Norte,1.8 Freedom,Blanco,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,54000.0,Asistida,4x2,5.0,130.0,18900.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Norte,2.0 Freedom 4x2,Verde,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,102000.0,Asistida,Delantera,5.0,170.0,16500.0
+Fiat Toro 2.0 Freedom 4x4,Río Negro,2.0 Freedom 4x4,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,78000.0,Eléctrica,4x4,5.0,170.0,14666.67
+Fiat Toro 2.0 Volcano 4x4 At,Capital Federal,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,108000.0,Asistida,4x4,5.0,170.0,14500.0
+Fiat Toro 2.0 CD TD VOLCANO L19 AT 4x4,Ubicación no encontrada,2.0 CD TD VOLCANO L19 AT 4x4,Red,Fiat,Toro,2022,Diésel,4.0,Automático,1.0,Pick-Up,71519.0,Asistida,4x4,5.0,170.0,19613.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,170000.0,Asistida,4x4,5.0,170.0,13000.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,137000.0,Asistida,4x4,5.0,170.0,16500.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Gris,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,88000.0,Asistida,Delantera,5.0,170.0,14200.0
+Fiat Toro 2.0 Volcano 4x4 At,Córdoba,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,100000.0,Asistida,4x4,5.0,170.0,14000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Negro,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,140000.0,Asistida,4x4,5.0,170.0,14600.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Plateado,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,69000.0,Asistida,4x4,5.0,170.0,27000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At Pack Premium,Blanco,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,83000.0,Asistida,4x4,5.0,170.0,29000.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,46500.0,Asistida,4x4,5.0,170.0,23000.0
+Fiat Toro 2.0 Volcano 4x4 At,Capital Federal,2.0 Volcano 4x4 At,Verde,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,139000.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro 1.8 Nafta Fredon,Capital Federal,1.8 nafta fredon,,Fiat,Toro,2019,Nafta,4.0,Automática,2.0,Pick-Up,26400.0,Hidráulica,4x4,5.0,170.0,18500.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Blanco,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,86000.0,Asistida,4x2,5.0,130.0,19200.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,62000.0,Hidráulica,4x4,5.0,170.0,18100.0
+Fiat Toro 2.0 Volcano My19 4x4 At,Ubicación no encontrada,2.0 Volcano My19 4x4 At,Blanco,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,108000.0,Asistida,4x4,5.0,170.0,19333.33
+Fiat Toro 2.0 TDI 4X4 FREEDOM AT L18,Ubicación no encontrada,2.0 TDI 4X4 FREEDOM AT L18,Blanco,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,97000.0,Asistida,4x4,5.0,170.0,15333.33
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Negro,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,83000.0,Asistida,4x4,5.0,170.0,19993.33
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Azul,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,15000.0,Asistida,4x4,5.0,170.0,27000.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Oeste,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,78753.0,Asistida,4x4,5.0,170.0,18990.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,99000.0,Asistida,Delantera,5.0,170.0,12333.33
+Fiat Toro 2.0 Freedom 4x4 At,Córdoba,2.0 Freedom 4x4 At,Blanco,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,112000.0,Asistida,4x4,5.0,170.0,18000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,101000.0,Asistida,4x4,5.0,170.0,18000.0
+Fiat Toro 1.3 270 Firefly Turbo Volcano 4x2 At,Ubicación no encontrada,1.3 270 Firefly Turbo Volcano 4x2 At,,Fiat,Toro,2024,Nafta,4.0,Automática,1.3,Pick-Up,1111.0,Eléctrica,4x2,5.0,175.0,23666.67
+Fiat Toro FREEDOM 2.0 TDI 4X4 PK XTR,Bs.As. G.B.A. Oeste,FREEDOM 2.0 TDI 4X4 PK XTR,Negro,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,130000.0,Asistida,4x4,5.0,170.0,16500.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,60000.0,Asistida,Delantera,5.0,170.0,14000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,93000.0,Asistida,4x4,5.0,170.0,18000.0
+Fiat Toro 2.0 Freedom 4x4 At,Córdoba,2.0 Freedom 4x4 At,Gris,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,47000.0,Asistida,4x4,5.0,170.0,15200.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,148000.0,Asistida,4x4,5.0,170.0,16800.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Negro,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,49000.0,Hidráulica,4x4,5.0,170.0,19000.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Negro,Fiat,Toro,2023,Nafta,4.0,Automática,1.8,Pick-Up,6000.0,Asistida,4x2,5.0,130.0,22500.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At,Negro,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,134540.0,Asistida,4x4,5.0,170.0,13333.33
+Fiat Toro Freedom,Capital Federal,Freedom,,Fiat,Toro,2020,Nafta,4.0,Manual,2.0,Pick-Up,73000.0,Eléctrica,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At Pack Premium,Gris,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,39000.0,Asistida,4x4,5.0,170.0,24800.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,83092.0,Eléctrica,4x4,5.0,170.0,25000.0
+Fiat Toro 1.8 Freedom 4X2 At,Bs.As. G.B.A. Sur,1.8 Freedom 4X2 At,Blanco,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,66000.0,Eléctrica,4x2,5.0,130.0,22500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,56000.0,Asistida,4x4,5.0,170.0,29000.0
+Fiat Toro 1.8mpi Freedom 4x2 At 2019,Ubicación no encontrada,1.8 mpi freedom at6,Gris oscuro,Fiat,Toro,2019,Nafta,4.0,Automática,2.0,Pick-Up,36000.0,hydraulic,Delantera,5.0,170.0,16792.67
+Fiat Toro 2.0 Volcano 4x4 At,Capital Federal,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,160100.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro 1.8 Cd Freedom At 4x2,Ubicación no encontrada,1.8 CD FREEDOM AT 4x2,Negro,Fiat,Toro,2019,Nafta,4.0,Automático,2.0,Pick-Up,30791.0,Asistida,4x4,5.0,170.0,15946.67
+Fiat Toro 2.0 Volcano My19 4x4 At,Bs.As. Costa Atlántica,2.0 Volcano My19 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,96000.0,Eléctrica,4x4,5.0,170.0,21500.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,93000.0,Asistida,Delantera,5.0,170.0,14100.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,164000.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,107000.0,Asistida,4x4,5.0,170.0,19000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,156000.0,Asistida,Delantera,5.0,170.0,12133.33
+Fiat Toro 1.8 Freedom 4X2 At,Ubicación no encontrada,1.8 Freedom 4X2 At,Azul,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,92000.0,Eléctrica,4x2,5.0,130.0,17000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,120000.0,Asistida,Delantera,5.0,170.0,11333.33
+"Fiat Toro 1,8 4x2 No Permuto ,unica Mano",Bs.As. G.B.A. Norte,,Negro,Fiat,Toro,2019,Nafta,5.0,Automática,2.0,Pick-Up,70000.0,Hidráulica,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,120000.0,Asistida,4x4,5.0,170.0,14900.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,83000.0,Asistida,4x4,5.0,170.0,18000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,19900.0,Asistida,4x4,5.0,170.0,19900.0
+Fiat Toro 2.0 Freedom My19 4x4 At,Ubicación no encontrada,2.0 Freedom My19 4x4 At,Gris,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,19000.0,Asistida,4x4,5.0,170.0,28000.0
+Fiat Toro 2.0 Volcano My19 4x4 At,Capital Federal,2.0 Volcano My19 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,64000.0,Hidráulica,4x4,5.0,170.0,24000.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Rojo,Fiat,Toro,2023,Nafta,4.0,Automática,1.8,Pick-Up,15000.0,Asistida,4x2,5.0,130.0,17333.33
+Fiat Toro 2.0 Freedom AT9 4x2,Ubicación no encontrada,2.0 Freedom AT9 4x2,Blanco,Fiat,Toro,2020,Nafta,5.0,Automática,2.0,Pick-Up,65000.0,Hidráulica,4x2,5.0,170.0,20500.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,88000.0,Asistida,Delantera,5.0,170.0,16600.0
+Fiat Toro 2.0 Freedom 4x4 At,Bs.As. G.B.A. Sur,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,48000.0,Hidráulica,4x4,5.0,170.0,22000.0
+Fiat Toro 2.0 Freedom 4x4,Capital Federal,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,108000.0,Asistida,4x4,5.0,170.0,21000.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Oeste,2.0 Freedom 4x2,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,110000.0,Asistida,Delantera,5.0,170.0,14000.0
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Neuquén,2.0 Freedom 4x4 At Pack Technology,Blanco,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,30000.0,Asistida,4x4,5.0,170.0,31000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,126000.0,Asistida,Delantera,5.0,170.0,15700.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Rojo,Fiat,Toro,2020,Nafta/GNC,4.0,Manual,2.0,Pick-Up,45000.0,Eléctrica,4x4,5.0,170.0,17800.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,144000.0,Asistida,4x4,5.0,170.0,13933.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,94173.0,Hidráulica,4x4,5.0,170.0,17000.0
+Fiat Toro 2.0 Freedom 4x4,Bs.As. G.B.A. Norte,2.0 Freedom 4x4,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,112000.0,Asistida,4x4,5.0,170.0,18500.0
+Fiat Toro 2.0 Volcano 4x4 At,Córdoba,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,145900.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Capital Federal,2.0 Volcano 4x4 At Pack Premium,Blanco,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,140000.0,Eléctrica,4x4,5.0,170.0,22000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,87000.0,Eléctrica,4x4,5.0,170.0,20333.33
+Fiat Toro 2.0 350 Multijet Freedom 4x4 At,Ubicación no encontrada,2.0 350 Multijet Freedom 4x4 At,,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,40000.0,Asistida,4x4,5.0,170.0,26990.0
+Fiat Toro 2.0 TDI 4X4 VOLCANO AT L19,Ubicación no encontrada,2.0 TDI 4X4 VOLCANO AT L19,Gris,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,101031.0,Eléctrica,4x4,5.0,170.0,19331.33
+Fiat Toro 2.0 350 Multijet Ultra 4x4 At,Ubicación no encontrada,2.0 350 Multijet Ultra 4x4 At,Blanco,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,60000.0,Asistida,4x4,5.0,170.0,29500.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,99000.0,Asistida,Delantera,5.0,170.0,12333.33
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,95000.0,Asistida,Delantera,5.0,170.0,20100.0
+Fiat Toro 2.0 Black Jack 4x4 At,Ubicación no encontrada,2.0 Black Jack 4x4 At,Negro,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,87000.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Rojo,Fiat,Toro,2019,Diésel,4.0,Manual,2.0,Pick-Up,93000.0,Hidráulica,4x4,5.0,170.0,16333.33
+Fiat Toro 2.0 Freedom 4x4 At,Buenos Aires Interior,2.0 Freedom 4x4 At,Negro,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,110000.0,Hidráulica,4x4,5.0,170.0,21000.0
+Fiat Toro 2.0 TDI 4X4 VOLCANO AT9 L22,Ubicación no encontrada,2.0 TDI 4X4 VOLCANO AT9 L22,Azul,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,110575.0,Asistida,4x4,5.0,170.0,22660.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. Costa Atlántica,2.0 Freedom 4x2,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,90000.0,Asistida,Delantera,5.0,170.0,17200.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Negro,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,500.0,Eléctrica,4x2,5.0,130.0,17333.33
+Fiat Toro 1.3 270 Firefly Turbo Volcano 4x2 At,Ubicación no encontrada,1.3 270 Firefly Turbo Volcano 4x2 At,Blanco,Fiat,Toro,2022,Nafta,4.0,Automática,1.3,Pick-Up,49000.0,Asistida,4x2,5.0,175.0,21266.67
+Fiat Toro 2.0 Freedom 4x4,Bs.As. G.B.A. Oeste,2.0 Freedom 4x4,Negro,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,154000.0,Asistida,4x4,5.0,170.0,15500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Verde,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,120000.0,Asistida,4x4,5.0,170.0,18900.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,71000.0,Asistida,4x4,5.0,170.0,19866.67
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,95000.0,Eléctrica,4x4,5.0,170.0,20000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,100000.0,Asistida,4x4,5.0,170.0,16436.67
+Fiat Toro 1.3 270 Firefly Turbo Volcano 4x2 At,Córdoba,1.3 270 Firefly Turbo Volcano 4x2 At,,Fiat,Toro,2023,Nafta,4.0,Automática,1.3,Pick-Up,13500.0,Asistida,4x2,5.0,175.0,24900.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,44000.0,Asistida,4x4,5.0,170.0,32000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Oeste,2.0 Volcano 4x4 At Pack Premium,Negro,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,136000.0,Hidráulica,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 Freedom 4x4,Bs.As. Costa Atlántica,2.0 Freedom 4x4,Gris,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,118000.0,Asistida,4x4,5.0,170.0,16800.0
+Fiat Toro Freedom 4x2 Aut 1.8,Capital Federal,FREEDOM 4X2 AUT 1.8,,Fiat,Toro,2019,Nafta,4.0,Automática,2.0,Pick-Up,88000.0,Hidráulica,4x4,5.0,170.0,15500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,61200.0,Asistida,4x4,5.0,170.0,23500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,107000.0,Asistida,4x4,5.0,170.0,16000.0
+Fiat Toro Freedom 1.8 4x2,Ubicación no encontrada,Freedom 1.8 4x2,,Fiat,Toro,2020,Nafta,4.0,Automática,2.0,Pick-Up,68000.0,Eléctrica,4x4,5.0,170.0,22000.0
+Fiat Toro 4x4 Freedom pack extreme,Bs.As. G.B.A. Norte,4x4 Freedom pack extreme,Rojo,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,158000.0,Eléctrica,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 TDI 4X4 VOLCANO AT L19,Ubicación no encontrada,2.0 TDI 4X4 VOLCANO AT L19,Negro,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,76000.0,Hidráulica,4x4,5.0,170.0,23000.0
+Fiat Toro 2.0 Freedom 4x4,Córdoba,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,150000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 Freedom 4x4 At,Bs.As. G.B.A. Oeste,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,90000.0,Asistida,4x4,5.0,170.0,17400.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Negro,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,54000.0,Asistida,4x4,5.0,170.0,17800.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,110000.0,Asistida,4x4,5.0,170.0,15500.0
+Fiat Toro 2.0 Volcano My19 4x4 At,Bs.As. Costa Atlántica,2.0 Volcano My19 4x4 At,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,83000.0,Hidráulica,4x4,5.0,170.0,22500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,89000.0,Hidráulica,4x4,5.0,170.0,26000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Gris,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,29000.0,Eléctrica,4x4,5.0,170.0,25900.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,186000.0,Asistida,Delantera,5.0,170.0,12800.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,67000.0,Asistida,4x4,5.0,170.0,21500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Negro,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,97400.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,Gris,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,44000.0,Eléctrica,4x4,5.0,170.0,21933.33
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Gris,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,46800.0,Asistida,4x4,5.0,170.0,29500.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Bs.As. Costa Atlántica,1.8 170 E-torq Evo Freedom At6,,Fiat,Toro,2022,Nafta,4.0,Automática,1.8,Pick-Up,46000.0,Asistida,4x2,5.0,130.0,23000.0
+Fiat Toro VOLCANO 2.0 16V 4X4 AT,Ubicación no encontrada,VOLCANO 2.0 16V 4X4 AT,Gris,Fiat,Toro,2017,Nafta,4.0,Automática,2.0,Pick-Up,139846.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro 1.8 Freedom 4X2 At,Ubicación no encontrada,1.8 Freedom 4X2 At,,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,49500.0,Eléctrica,4x2,5.0,130.0,17333.33
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Gris,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,96000.0,Hidráulica,4x4Capacidad de la batería51 Ah,5.0,170.0,16000.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Blanco,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,52800.0,Asistida,4x2,5.0,130.0,21500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,90000.0,Asistida,4x4,5.0,170.0,17990.0
+Fiat Toro 2.0 Freedom 4x2,Formosa,2.0 Freedom 4x2,,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,55489.0,Asistida,Delantera,5.0,170.0,12666.67
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Azul,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,137000.0,Asistida,4x4,5.0,170.0,20900.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Oeste,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,72000.0,Eléctrica,4x4,5.0,170.0,22500.0
+Fiat Toro Freedom 4x2 At6 Cd,Ubicación no encontrada,1.8 FREEDOM 4X2 AT6 CD,Blanco,Fiat,Toro,2018,Nafta,4.0,Automática,1.8,Pick-Up,77000.0,Eléctrica,4x4,5.0,170.0,19500.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Gris,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,88000.0,Asistida,4x4,5.0,170.0,16333.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Azul,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,58300.0,Eléctrica,4x4,5.0,170.0,22500.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,88300.0,Asistida,4x4,5.0,170.0,15653.33
+Fiat Toro Freedom 1.8 At,Ubicación no encontrada,Freedom 1.8 At,,Fiat,Toro,2018,Nafta,4.0,Automática,2.0,Pick-Up,141000.0,Asistida,4x4,5.0,170.0,13333.33
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Negro,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,20000.0,Hidráulica,4x4,5.0,170.0,21500.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. Costa Atlántica,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,61000.0,Asistida,4x4,5.0,170.0,21500.0
+Fiat Toro 2.0 Volcano My19 4x4 At,Córdoba,2.0 Volcano My19 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,38500.0,Eléctrica,4x4,5.0,170.0,19200.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Buenos Aires Interior,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,60500.0,Eléctrica,4x4,5.0,170.0,21000.0
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,Blanco,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,29000.0,Asistida,4x4,5.0,170.0,23666.67
+Fiat Toro 2.0 Volcano 4x4 At,Buenos Aires Interior,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,184500.0,Asistida,4x4,5.0,170.0,16000.0
+Fiat Toro 1.8 Freedom,Bs.As. G.B.A. Norte,1.8 Freedom,Rojo,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,26000.0,Asistida,4x2,5.0,130.0,21000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Negro,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,54355.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,154000.0,Asistida,4x4,5.0,170.0,19000.0
+Fiat Toro 2.0 Volcano 4x4 At,Capital Federal,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,99900.0,Asistida,4x4,5.0,170.0,18700.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,150000.0,Asistida,4x4,5.0,170.0,16000.0
+"Fiat Toro 1,8 nafta freedom",Bs.As. G.B.A. Sur,,,Fiat,Toro,2019,Nafta,4.0,Manual,2.0,Pick-Up,114000.0,Hidráulica,4x4,5.0,170.0,17000.0
+Fiat Toro 2.0 Volcano My19 4x4 At,Bs.As. G.B.A. Norte,2.0 Volcano My19 4x4 At,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,50000.0,Hidráulica,4x4,5.0,170.0,20000.0
+Fiat Toro 2.0 Ranch 4x4 At,Capital Federal,2.0 Ranch 4x4 At,Negro,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,75000.0,Eléctrica,4x4,5.0,170.0,24750.0
+Fiat Toro 1.3 270 Firefly Turbo Volcano 4x2 At,Ubicación no encontrada,1.3 270 Firefly Turbo Volcano 4x2 At,Negro,Fiat,Toro,2024,Nafta,4.0,Automática,1.3,Pick-Up,500.0,Eléctrica,4x2,5.0,175.0,10900.0
+Fiat Toro 2.0 Ranch 4x4 At,Neuquén,2.0 Ranch 4x4 At,,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,60000.0,Asistida,4x4,5.0,170.0,24000.0
+Fiat Toro 2.0 Freedom 4x4 MT,Ubicación no encontrada,2.0 Freedom 4x4 MT,Blanco,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,110000.0,Asistida,4x4,5.0,170.0,14333.33
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Mendoza,1.8 170 E-torq Evo Freedom At6,Negro,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,2120.0,Eléctrica,4x2,5.0,130.0,21000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Negro,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,178130.0,Asistida,4x4,5.0,170.0,12254.53
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,95000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 TDI 4X4 FREEDOM L16,Ubicación no encontrada,2.0 TDI 4X4 FREEDOM L16,BLANCA PERLADA,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,100000.0,Asistida,4x4,5.0,170.0,13666.67
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Blanco,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,89000.0,Asistida,4x4,5.0,170.0,16900.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Negro,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,53000.0,Asistida,4x4,5.0,170.0,20333.33
+Fiat Toro 2.0 Volcano 4x4 At,Entre Ríos,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,127000.0,Asistida,4x4,5.0,170.0,15500.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Verde,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,107000.0,Asistida,Delantera,5.0,170.0,11980.0
+Fiat Toro 2.0 Freedom 4x4,Córdoba,2.0 Freedom 4x4,,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,200000.0,Asistida,4x4,5.0,170.0,13333.33
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,67500.0,Asistida,4x4,5.0,170.0,25000.0
+Fiat Toro 2.0 Freedom 4x4 At,Bs.As. G.B.A. Norte,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,80000.0,Hidráulica,4x4,5.0,170.0,13333.33
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Córdoba,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,80000.0,Asistida,4x4,5.0,170.0,16333.33
+Fiat Toro 1.8 170 E-Torq Evo Freedom S-Design,Bs.As. G.B.A. Norte,1.8 170 E-Torq Evo Freedom S-Design,Blanco,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,1500.0,Hidráulica,4x2,5.0,130.0,24000.0
+Fiat Toro 1.8 170 E-Torq Evo Freedom S-Design,Ubicación no encontrada,1.8 170 E-Torq Evo Freedom S-Design,Negro,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,500.0,Eléctrica,4x2,5.0,130.0,8666.67
+Fiat Toro 1.8 Freedom 4X2 At,Capital Federal,1.8 Freedom 4X2 At,Rojo,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,84000.0,Eléctrica,4x2,5.0,130.0,21500.0
+Fiat Toro 2.0 Volcano My19 4x4 At,Ubicación no encontrada,2.0 Volcano My19 4x4 At,Gris,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,15000.0,Asistida,4x4,5.0,170.0,27900.0
+Fiat Toro 2.0 Freedom 4x4 At,Salta,2.0 Freedom 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,85000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Norte,2.0 Freedom 4x2,,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,10900.0,Asistida,Delantera,5.0,170.0,18000.0
+Fiat Toro 2.0 Freedom 4x2,Tucumán,2.0 Freedom 4x2,Blanco,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,115000.0,Asistida,Delantera,5.0,170.0,10666.67
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Ubicación no encontrada,2.0 Freedom 4x4 At Pack Technology,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,110000.0,Hidráulica,4x4,5.0,170.0,16900.0
+Fiat Toro 2.0 350 Multijet Ultra 4x4 At,Córdoba,2.0 350 Multijet Ultra 4x4 At,,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,30000.0,Asistida,4x4,5.0,170.0,21000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,86000.0,Asistida,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 350 Multijet Volcano 4x4 At,Ubicación no encontrada,2.0 350 Multijet Volcano 4x4 At,Azul,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,10000.0,Asistida,4x4,5.0,170.0,20466.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,103000.0,assisted,4x4,5.0,170.0,15666.67
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,49000.0,Eléctrica,4x4,5.0,170.0,23500.0
+Fiat Toro 2.0 350 Multijet Freedom 4x4 At,Córdoba,2.0 350 Multijet Freedom 4x4 At,,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,17500.0,Asistida,4x4,5.0,170.0,20900.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,107000.0,Asistida,Delantera,5.0,170.0,12800.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At Pack Premium,Gris,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,39000.0,Asistida,4x4,5.0,170.0,24800.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,193000.0,Asistida,4x4,5.0,170.0,14900.0
+Fiat Toro 2.0 Volcano 4x4 At,Capital Federal,2.0 Volcano 4x4 At,Verde,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,139000.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro Fiat toro Freedom At,Ubicación no encontrada,Fiat toro Freedom At,,Fiat,Toro,2020,Nafta,4.0,Automática,2.0,Pick-Up,49000.0,Eléctrica,4x4,5.0,170.0,21000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,85000.0,Asistida,4x4,5.0,170.0,18500.0
+Fiat Toro Freedom At,Ubicación no encontrada,1.8 Freedom AT,Blanco,Fiat,Toro,2019,Nafta,4.0,Manual,1.8,Pick-Up,55000.0,Hidráulica,4x2,5.0,170.0,15666.67
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Buenos Aires Interior,2.0 Volcano 4x4 At Pack Premium,Rojo,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,72000.0,Eléctrica,4x4,5.0,170.0,25000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,10000.0,Asistida,4x4,5.0,170.0,35000.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Oeste,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,90000.0,Asistida,4x4,5.0,170.0,22000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,140000.0,Asistida,4x4,5.0,170.0,11266.67
+Fiat Toro FREEDOM 2.0 16V 4X4,Ubicación no encontrada,FREEDOM 2.0 16V 4X4,Negro,Fiat,Toro,2016,Diésel,4.0,Manual,2000.0,Pick-Up,154535.0,Asistida,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Ubicación no encontrada,2.0 Freedom 4x4 At Pack Technology,Azul,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,53200.0,Asistida,4x4,5.0,170.0,18333.33
+Fiat Toro 2.0 Freedom My19 4x4 At,Ubicación no encontrada,2.0 Freedom My19 4x4 At,Negro,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,95000.0,Hidráulica,4x4,5.0,170.0,17800.0
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,Blanco,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,59000.0,Asistida,4x4,5.0,170.0,26500.0
+Fiat Toro 1.8 Mpi 4x2 Freedom At L18,Ubicación no encontrada,1.8 MPI 4X2 FREEDOM AT L18,Blanco,Fiat,Toro,2019,Nafta,4.0,Automática,2.0,Pick-Up,108589.0,Asistida,4x4,5.0,170.0,16335.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,127000.0,Asistida,4x4,5.0,170.0,16000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Capital Federal,2.0 Volcano 4x4 At Pack Premium,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,77000.0,Asistida,4x4,5.0,170.0,20500.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Gris,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,115000.0,Asistida,Delantera,5.0,170.0,13000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,118000.0,Asistida,Delantera,5.0,170.0,15000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,115000.0,Asistida,Delantera,5.0,170.0,13700.0
+Fiat Toro 1.8 Freedom 4X2 At,Ubicación no encontrada,1.8 Freedom 4X2 At,Gris,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,59000.0,Hidráulica,4x2,5.0,130.0,19500.0
+Fiat Toro 1.8 Freedom,Bs.As. G.B.A. Sur,1.8 Freedom,Blanco,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,50000.0,Asistida,4x2,5.0,130.0,16666.67
+Fiat Toro FREEDOM 2.0,Ubicación no encontrada,FREEDOM 2.0,Negro,Fiat,Toro,2017,Nafta,5.0,Manual,2.0,Pick-Up,117402.0,Asistida,Delantera,5.0,170.0,12133.33
+Fiat Toro 2.0 Volcano My19 4x4 At,Ubicación no encontrada,2.0 Volcano My19 4x4 At,Negro,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,1111111.0,Eléctrica,4x4,5.0,170.0,18786.67
+Fiat Toro 2.0 Ranch 4x4 At,Córdoba,2.0 Ranch 4x4 At,Negro,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,47000.0,Asistida,4x4Capacidad de la batería70 Ah,5.0,170.0,27000.0
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,Blanco,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,108805.0,Asistida,4x4,5.0,170.0,23666.67
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Blanco,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,86000.0,Asistida,4x2,5.0,130.0,22000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,103200.0,Asistida,4x4,5.0,170.0,15900.0
+Fiat Toro 2.0 Ranch 4x4 At,Bs.As. G.B.A. Norte,2.0 Ranch 4x4 At,Azul,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,114000.0,Eléctrica,4x4,5.0,170.0,18400.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,95000.0,Asistida,Delantera,5.0,170.0,14500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,141000.0,Asistida,4x4,5.0,170.0,21500.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Norte,2.0 Freedom 4x2,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,130000.0,Asistida,Delantera,5.0,170.0,15500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Blanco,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,63000.0,Hidráulica,4x4,5.0,170.0,22000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,88000.0,Asistida,4x4,5.0,170.0,17800.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,60000.0,Hidráulica,4x4,5.0,170.0,24500.0
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Ubicación no encontrada,2.0 Freedom 4x4 At Pack Technology,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,48000.0,Eléctrica,4x4,5.0,170.0,23000.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Gris,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,89000.0,Asistida,4x2,5.0,130.0,22800.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Oeste,2.0 Freedom 4x2,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,180000.0,Asistida,Delantera,5.0,170.0,14500.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Negro,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,125000.0,Asistida,Delantera,5.0,170.0,13999.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,220000.0,Asistida,4x4,5.0,170.0,12000.0
+Fiat Toro 2.0 Freedom 4x4,Capital Federal,2.0 Freedom 4x4,,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,135000.0,Asistida,4x4,5.0,170.0,13000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,69000.0,Asistida,4x4,5.0,170.0,20133.33
+Fiat Toro 1.8 Freedom 4X2 At,Ubicación no encontrada,1.8 Freedom 4X2 At,Rojo,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,45000.0,Eléctrica,4x2,5.0,130.0,16333.33
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,78600.0,Asistida,4x2,5.0,130.0,17000.0
+Fiat Toro 1.8 170 E-torq Evo Freedom At6,Ubicación no encontrada,1.8 170 E-torq Evo Freedom At6,Negro,Fiat,Toro,2023,Nafta,4.0,Automática,1.8,Pick-Up,12000.0,Asistida,4x2,5.0,130.0,18000.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Norte,2.0 Freedom 4x2,Gris,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,86000.0,Asistida,Delantera,5.0,170.0,15200.0
+Fiat Toro 2.0 Volcano 4x4 At,Córdoba,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,130000.0,Asistida,4x4,5.0,170.0,13333.33
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Rojo,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,85000.0,Asistida,4x4,5.0,170.0,20000.0
+Fiat Toro 2.0 Freedom 4x4,Buenos Aires Interior,2.0 Freedom 4x4,Plateado,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,145000.0,Asistida,4x4,5.0,170.0,12000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Gris,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,102100.0,Asistida,Delantera,5.0,170.0,14200.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,220000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 350 Multijet Volcano 4x4 At,Ubicación no encontrada,2.0 350 Multijet Volcano 4x4 At,Plateado,Fiat,Toro,2024,Diésel,4.0,Automática,2.0,Pick-Up,1111.0,Eléctrica,4x4,5.0,170.0,9133.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,41000.0,Hidráulica,4x4,5.0,170.0,26800.0
+Fiat Toro 1.8 Freedom 4x2,Ubicación no encontrada,1.8 Freedom 4x2,Gris,Fiat,Toro,2019,Nafta,4.0,Automática,1.8,Pick-Up,50000.0,Hidráulica,4x4,5.0,170.0,14660.0
+Fiat Toro 1.8 Freedom 4X2 At,Santa Fe,1.8 Freedom 4X2 At,,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,42000.0,Eléctrica,4x2,5.0,130.0,18000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,60000.0,Asistida,Delantera,5.0,170.0,12866.67
+Fiat Toro 2.0 Freedom 4x2,Capital Federal,2.0 Freedom 4x2,Negro,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,156000.0,Asistida,Delantera,5.0,170.0,16500.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Verde,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,148000.0,Asistida,4x4,5.0,170.0,15800.0
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,Dorado,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,69000.0,Eléctrica,4x4,5.0,170.0,25000.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Negro,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,11800.0,Asistida,4x2,5.0,130.0,20500.0
+Fiat Toro 2.0 Volcano 4x4 At,Buenos Aires Interior,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,70000.0,Asistida,4x4,5.0,170.0,19500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,150000.0,Asistida,4x4,5.0,170.0,15500.0
+Fiat Toro 2.0 Freedom My19 4x4 At,Ubicación no encontrada,2.0 Freedom My19 4x4 At,Gris,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,116000.0,Asistida,4x4,5.0,170.0,18500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,30000.0,Asistida,4x4,5.0,170.0,30000.0
+Fiat Toro 2.0 Ultra 4x4 AT9,Ubicación no encontrada,2.0 Ultra 4x4 AT9,Azul,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,110000.0,Asistida,4x4,5.0,170.0,29500.0
+Fiat Toro 2.0 350 Multijet Ultra 4x4 At,Capital Federal,2.0 350 Multijet Ultra 4x4 At,,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,1111.0,Asistida,4x4,5.0,170.0,20400.0
+Fiat Toro 1.8 Freedom 4X2 At,Ubicación no encontrada,1.8 Freedom 4X2 At,,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,92000.0,Eléctrica,4x2,5.0,130.0,21000.0
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Ubicación no encontrada,2.0 Freedom 4x4 At Pack Technology,Blanco,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,121000.0,Eléctrica,4x4,5.0,170.0,18666.67
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,58500.0,Hidráulica,4x4,5.0,170.0,20600.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,100800.0,Asistida,4x4,5.0,170.0,16400.0
+Fiat Toro 2.0 Volcano My19 4x4 At,Ubicación no encontrada,2.0 Volcano My19 4x4 At,Blanco,Fiat,Toro,2021,Diésel,4.0,Automática,2.0,Pick-Up,102000.0,Asistida,4x4,5.0,170.0,26990.0
+Fiat Toro Freedom 1.8 Cvt 4x2,Bs.As. G.B.A. Sur,Freedom 1.8 cvt 4X2,Blanco,Fiat,Toro,2019,Nafta/GNC,4.0,Automática,1.8,Pick-Up,65000.0,Eléctrica,Delantera,5.0,170.0,17300.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Verde,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,143200.0,Asistida,4x4,5.0,170.0,15715.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Blanco,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,1000.0,Eléctrica,4x2,5.0,130.0,17066.67
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Blanco,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,135000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,177000.0,Asistida,Delantera,5.0,170.0,11666.67
+Fiat Toro 1.8 Freedom 4X2 At,Santa Fe,1.8 Freedom 4X2 At,,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,42000.0,Eléctrica,4x2,5.0,130.0,19500.0
+Fiat Toro Freedom 1.8 4x2,Ubicación no encontrada,Freedom 1.8 4x2,,Fiat,Toro,2020,Nafta,4.0,Automática,2.0,Pick-Up,53000.0,Eléctrica,4x4,5.0,170.0,21000.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Capital Federal,2.0 Volcano 4x4 At Pack Premium,Gris,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,49000.0,Asistida,4x4,5.0,170.0,20500.0
+Fiat Toro 2.0 Ranch 4x4 At,Ubicación no encontrada,2.0 Ranch 4x4 At,Blanco,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,59000.0,Eléctrica,4x4,5.0,170.0,22600.0
+Fiat Toro 1.8 Freedom,Ubicación no encontrada,1.8 Freedom,Blanco,Fiat,Toro,2021,Nafta,4.0,Automática,1.8,Pick-Up,58000.0,Asistida,4x2,5.0,130.0,18066.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,120000.0,Asistida,4x4,5.0,170.0,15333.33
+Fiat Toro 1.8 170 E-Torq Evo Freedom S-Design,Ubicación no encontrada,1.8 170 E-Torq Evo Freedom S-Design,Blanco,Fiat,Toro,2024,Nafta,4.0,Automática,1.8,Pick-Up,2222.0,Eléctrica,4x2,5.0,130.0,27000.0
+Fiat Toro 2.0 16V 4X4,Ubicación no encontrada,2.0 16V 4X4,Rojo,Fiat,Toro,2016,Diésel,5.0,Manual,2.0,Pick-Up,135000.0,Mecánica,4x4,5.0,170.0,13480.0
+Fiat Toro 1.8 Freedom 4X2 At,Córdoba,1.8 Freedom 4X2 At,Blanco,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,47000.0,Eléctrica,4x2,5.0,130.0,16400.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Blanco,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,95000.0,Asistida,4x4,5.0,170.0,17266.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,197000.0,Asistida,4x4,5.0,170.0,12666.67
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,10000.0,Asistida,4x4,5.0,170.0,25500.0
+Fiat Toro 2.0 Freedom 4x4,Córdoba,2.0 Freedom 4x4,Plateado,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,95000.0,Asistida,4x4,5.0,170.0,17500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Ubicación no encontrada,2.0 Volcano 4x4 At Pack Premium,Blanco,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,110000.0,Eléctrica,4x4,5.0,170.0,17665.33
+Fiat Toro 2.0 Volcano 4x4 At,Misiones,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,98000.0,Asistida,4x4,5.0,170.0,13000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,105700.0,Asistida,4x4,5.0,170.0,18200.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Gris,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,180000.0,Asistida,Delantera,5.0,170.0,13000.0
+Fiat Toro 2.0 350 Multijet Volcano 4x4 At,Ubicación no encontrada,2.0 350 Multijet Volcano 4x4 At,,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,30000.0,Asistida,4x4,5.0,170.0,26500.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,82000.0,Asistida,4x4,5.0,170.0,19800.0
+Fiat Toro Freedom 4x4 2.0 MT,Ubicación no encontrada,Freedom 4x4 2.0 MT,Gris,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,79000.0,Asistida,Delantera,5.0,170.0,15500.0
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Capital Federal,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,60000.0,Asistida,4x4,5.0,170.0,19900.0
+Fiat Toro 2.0 Freedom 4x2,Capital Federal,2.0 Freedom 4x2,,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,124000.0,Asistida,Delantera,5.0,170.0,12700.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,90000.0,Asistida,4x4,5.0,170.0,15500.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. Costa Atlántica,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,45000.0,Asistida,4x4,5.0,170.0,23333.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,160000.0,Asistida,4x4,5.0,170.0,16333.33
+Fiat Toro 2.0 Volcano 4x4 At Pack Premium,Córdoba,2.0 Volcano 4x4 At Pack Premium,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,160000.0,Asistida,4x4,5.0,170.0,16000.0
+Fiat Toro 4x2 1.8 Freedom,Bs.As. G.B.A. Oeste,4x2 1.8 Freedom,Negro,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,69000.0,Eléctrica,4x2,5.0,130.0,19000.0
+Fiat Toro Diésel,Santa Fe,Diesel,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,113000.0,Asistida,4x4,5.0,170.0,13000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Plateado,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,60000.0,Asistida,Delantera,5.0,170.0,15000.0
+Fiat Toro 2.0 Volcano My19 4x4 At,Ubicación no encontrada,2.0 Volcano My19 4x4 At,,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,39000.0,Eléctrica,4x4,5.0,170.0,23500.0
+Fiat Toro 2.0 Freedom 4x4,Bs.As. G.B.A. Sur,2.0 Freedom 4x4,Plateado,Fiat,Toro,2018,Diésel,4.0,Manual,2.0,Pick-Up,90000.0,Asistida,4x4,5.0,170.0,15333.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,100000.0,Asistida,4x4,5.0,170.0,16433.33
+Fiat Toro FREEDOM 2.0 16V 4X4 C/D PICK-UP,Ubicación no encontrada,,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,100000.0,Hidráulica,4x4,5.0,170.0,14574.67
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Rojo,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,82000.0,Hidráulica,4x4,5.0,170.0,25000.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Oeste,2.0 Freedom 4x2,,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,117000.0,Asistida,Delantera,5.0,170.0,12333.33
+Fiat Toro 2.0 Volcano 4x4 At,Mendoza,2.0 Volcano 4x4 At,Negro,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,28000.0,Asistida,4x4,5.0,170.0,23333.33
+Fiat Toro 2.0 Freedom 4x4 At Pack Technology,Capital Federal,2.0 Freedom 4x4 At Pack Technology,,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,65000.0,Asistida,4x4,5.0,170.0,17333.33
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,51000.0,Asistida,4x4,5.0,170.0,30000.0
+Fiat Toro 2.0 CD TD FREEDOM AT 4x4,Ubicación no encontrada,2.0 CD TD FREEDOM AT 4x4,Rojo,Fiat,Toro,2018,Diésel,4.0,Automático,1.0,Pick-Up,74765.0,Asistida,4x4,5.0,170.0,14973.33
+Fiat Toro 2.0 Volcano 4x4 At,Capital Federal,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,115000.0,Asistida,4x4,5.0,170.0,18000.0
+Fiat Toro 2.0 Freedom 4x4 At,Ubicación no encontrada,2.0 Freedom 4x4 At,Gris,Fiat,Toro,2022,Diésel,4.0,Automática,2.0,Pick-Up,106000.0,Asistida,4x4,5.0,170.0,21333.33
+Fiat Toro 2.0 Volcano 4x4 At,Capital Federal,2.0 Volcano 4x4 At,Plateado,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,70000.0,Eléctrica,4x4,5.0,170.0,21500.0
+Fiat Toro volcano 2.0 16V 4x4,Bs.As. G.B.A. Sur,volcano 2.0 16V 4x4,,Fiat,Toro,2019,Diésel,4.0,Automática,2.0,Pick-Up,63000.0,Hidráulica,4x4,5.0,170.0,25000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Gris,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,116000.0,Asistida,Delantera,5.0,170.0,12333.33
+Fiat Toro 2.0 Freedom 4x4,Buenos Aires Interior,2.0 Freedom 4x4,,Fiat,Toro,2020,Diésel,4.0,Manual,2.0,Pick-Up,48000.0,Eléctrica,4x4,5.0,170.0,16666.67
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Sur,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,120000.0,Asistida,4x4,5.0,170.0,18500.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Norte,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,154000.0,Asistida,4x4,5.0,170.0,15300.0
+Fiat Toro 2.0 Freedom 4x2,Entre Ríos,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,52900.0,Asistida,Delantera,5.0,170.0,17000.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,110000.0,Asistida,Delantera,5.0,170.0,15500.0
+Fiat Toro 2.0 Volcano 4x4 At,Capital Federal,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,103000.0,Asistida,4x4,5.0,170.0,23000.0
+Fiat Toro 2.0 Freedom 4x4,Ubicación no encontrada,2.0 Freedom 4x4,Blanco,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,120000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,95000.0,Asistida,4x4,5.0,170.0,19000.0
+Fiat Toro 1.3 270 Firefly Turbo Volcano 4x2 At,Córdoba,1.3 270 Firefly Turbo Volcano 4x2 At,Gris,Fiat,Toro,2023,Nafta,4.0,Automática,1.3,Pick-Up,18500.0,Asistida,4x2,5.0,175.0,21000.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Azul,Fiat,Toro,2023,Diésel,4.0,Automática,2.0,Pick-Up,22276.0,Asistida,4x4,5.0,170.0,23000.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Norte,2.0 Freedom 4x2,,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,130000.0,Asistida,Delantera,5.0,170.0,15500.0
+Fiat Toro 2.0 Freedom 4x2,Ubicación no encontrada,2.0 Freedom 4x2,Rojo,Fiat,Toro,2017,Diésel,4.0,Manual,2.0,Pick-Up,99000.0,Asistida,Delantera,5.0,170.0,12333.33
+Fiat Toro 1.8 Freedom 4X2 At,Bs.As. G.B.A. Norte,1.8 Freedom 4X2 At,Gris,Fiat,Toro,2020,Nafta,4.0,Automática,1.8,Pick-Up,99000.0,Eléctrica,4x2,5.0,130.0,18500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,85000.0,Asistida,4x4,5.0,170.0,14000.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. Costa Atlántica,2.0 Volcano 4x4 At,,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,110000.0,Asistida,4x4,5.0,170.0,19500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Gris,Fiat,Toro,2020,Diésel,4.0,Automática,2.0,Pick-Up,58000.0,Eléctrica,4x4,5.0,170.0,23500.0
+Fiat Toro,Mendoza,FREEDOM 4x2 1.8 16 V,Rojo,Fiat,Toro,2019,Nafta,4.0,Automática,2.0,Pick-Up,100000.0,Hidráulica,4x4,5.0,170.0,14666.67
+Fiat Toro Freedom 4x4.  2.0,San Luis,Freedom 4x4.  2.0,,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,110000.0,Asistida,Delantera,5.0,170.0,13333.33
+Fiat Toro 2.0 Freedom My19 4x4 At,Ubicación no encontrada,2.0 Freedom My19 4x4 At,Plateado,Fiat,Toro,2018,Diésel,4.0,Automática,2.0,Pick-Up,80000.0,Asistida,4x4,5.0,170.0,17580.0
+Fiat Toro 2.0 Volcano 4x4 At,Bs.As. G.B.A. Oeste,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2017,Diésel,4.0,Automática,2.0,Pick-Up,189000.0,Asistida,4x4,5.0,170.0,15000.0
+Fiat Toro 2.0 Freedom 4x2,Bs.As. G.B.A. Norte,2.0 Freedom 4x2,,Fiat,Toro,2016,Diésel,4.0,Manual,2.0,Pick-Up,118000.0,Asistida,Delantera,5.0,170.0,15500.0
+Fiat Toro 2.0 Volcano 4x4 At,Ubicación no encontrada,2.0 Volcano 4x4 At,Blanco,Fiat,Toro,2016,Diésel,4.0,Automática,2.0,Pick-Up,139987.0,Asistida,4x4,5.0,170.0,15933.33

@@ -1,0 +1,788 @@
+Título,Ubicación,Versión,Color,Marca,Modelo,Año,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Kilómetros,Dirección,Control de tracción,Capacidad de personas,Potencia,Precio
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,136000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris oscuro,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,67000.0,assisted,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.4 EFFECT MT,Ubicación no encontrada,1.4 EFFECT MT,Rojo,Chevrolet,Onix,2017,Nafta,5.0,Manual,1,Hatchback,74563.0,Asistida,4x2,5.0,98.0,9133.33
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Rojo,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,75133.0,Asistida,Delantera,5.0,98.0,10200.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,43900.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Negro,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,73500.0,Hidráulica,Delantera,5.0,98.0,11666.67
+Chevrolet Onix 1.4 Lt Mt 98cv,Buenos Aires Interior,1.4 Lt Mt 98cv,Naranja,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,169000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Azul,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,57000.0,Asistida,Delantera,5.0,98.0,8600.0
+Chevrolet Onix 1.4 Ltz  Modelo 2018,Ubicación no encontrada,Ltz,Negro,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,108000.0,Asistida,Delantera,5.0,98.0,8533.33
+Chevrolet Onix 1.4 Joy Ls + 98cv,Corrientes,,Rojo,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,102522.0,Asistida,Delantera,5.0,98.0,7133.33
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Rojo,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.0 T PREMIER II AT,Ubicación no encontrada,1.0 T PREMIER II AT,Plateado,Chevrolet,Onix,2020,Nafta,5.0,Automático,1,Hatchback,21174.0,Asistida,4x2,5.0,116.0,13640.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,98.0,9400.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Blanco,Chevrolet,Onix,2017,Nafta/GNC,5.0,Manual,1.4,Hatchback,89000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Joy Ls,Misiones,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,47500.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,71000.0,Asistida,Delantera,5.0,98.0,10800.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,102000.0,Asistida,Delantera,5.0,98.0,9999.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,106000.0,Asistida,Delantera,5.0,98.0,7333.33
+Chevrolet Onix 1.4 Joy Ls,Capital Federal,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,104000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Capital Federal,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,88625.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.2,Ubicación no encontrada,1.2,Gris,Chevrolet,Onix,2024,Nafta,5.0,Manual,1.2,Hatchback,1111.0,Asistida,Delantera,5.0,90.0,14666.67
+Chevrolet Onix LT 1.4 98cv L/17,Mendoza,,Rojo,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Sedán,58500.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Norte,,Plateado,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,92000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.0 T PREMIERE AT,Ubicación no encontrada,1.0 T PREMIERE AT,Blanco,Chevrolet,Onix,2020,Nafta,4.0,Automático,1,Hatchback,26205.0,Asistida,4x2,5.0,116.0,12886.67
+Chevrolet Onix 1.4 JOY MT,Ubicación no encontrada,1.4 JOY MT,White,Chevrolet,Onix,2020,Híbrido,5.0,Manual,1,Hatchback,45329.0,Asistida,4x2,5.0,98.0,10740.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Capital Federal,,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,31500.0,Asistida,Delantera,5.0,98.0,11300.0
+Chevrolet Onix 1.2,Tucumán,1.2,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,50000.0,Asistida,Delantera,5.0,90.0,6666.67
+Chevrolet Onix 1.4 Activ 98cv,Bs.As. G.B.A. Oeste,1.4 Activ 98cv,Negro,Chevrolet,Onix,2017,Nafta/GNC,5.0,Manual,1.4,Hatchback,93000.0,Asistida,Delantera,5.0,98.0,10800.0
+Chevrolet Onix 1.0 Turbo Premier I Mt,Ubicación no encontrada,1.0 Turbo Premier I Mt,Gris,Chevrolet,Onix,2020,Nafta,5.0,Automática,1.4,Hatchback,35000.0,assisted,Delantera,5.0,98.0,17500.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,112000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Onix 1.4 Joy Ls,Mendoza,1.4 Joy Ls,Gris,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,103000.0,Asistida,Delantera,5.0,98.0,7466.67
+Chevrolet Onix 1.2,Bs.As. G.B.A. Norte,1.2,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,66000.0,Asistida,Delantera,5.0,90.0,13000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Norte,,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,54000.0,Asistida,Delantera,5.0,98.0,9900.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,86000.0,Asistida,Delantera,5.0,98.0,11700.0
+Chevrolet Onix 1.4 ltz GNC 5 ger,Bs.As. G.B.A. Oeste,1.4 ltz GNC 5 ger,,Chevrolet,Onix,2018,Nafta/GNC,5.0,Manual,1.4,Hatchback,64000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,43500.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Joy Ls,Capital Federal,1.4 Joy Ls,Plateado,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,98.0,9333.33
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Norte,1.4 Lt Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,91000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Rojo,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.4,Hatchback,11000.0,Asistida,Delantera,5.0,98.0,13866.67
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,Plateado,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,30000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.0 Turbo Ltz Mt,Ubicación no encontrada,1.0 Turbo Ltz Mt,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.0,Hatchback,40373.0,Asistida,Delantera,5.0,116.0,14000.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,64000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Rojo,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,146000.0,hydraulic,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Ltz 98cv,Buenos Aires Interior,1.4 Ltz 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,149500.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 N LTZ,Bs.As. G.B.A. Sur,1.4 N LTZ,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Hidráulica,Delantera,5.0,98.0,13500.0
+Chevrolet Onix 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Automática,1.4,Hatchback,94000.0,Asistida,Delantera,5.0,98.0,11300.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,1111.0,Asistida,Delantera,5.0,98.0,12666.67
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Asistida,Delantera,5.0,98.0,7000.0
+Chevrolet Onix 1.0 Turbo Premier I Mt,Ubicación no encontrada,1.0 Turbo Premier I Mt,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.0,Hatchback,102000.0,Asistida,Delantera,5.0,116.0,13259.33
+Chevrolet Onix 1.4 Joy Ls + 98cv,Córdoba,,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,135000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,160000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.0T PLUS PREMIER,Ubicación no encontrada,1.0T PLUS PREMIER,Blanco,Chevrolet,Onix,2021,Nafta,4.0,Manual,1.0,Sedán,52977.0,Hidráulica,Delantera,5.0,116.0,15000.0
+Chevrolet Onix Activ,Capital Federal,ONIX ACTIV 5P 1.4,Negro,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Sedán,117000.0,Asistida,Delantera,5.0,98.0,9200.0
+Chevrolet Onix ONIX 1.4 JOY PLUS BLACK,Ubicación no encontrada,ONIX 1.4 JOY PLUS BLACK,Blanco,Chevrolet,Onix,2023,Nafta,4.0,Manual,14,Sedán,30155.0,Hidráulica,Delantera,5.0,98.0,12748.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Córdoba,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.2 Lt,Ubicación no encontrada,1.2 Lt,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,40500.0,Asistida,Delantera,5.0,90.0,13800.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Rojo,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,98.0,9300.0
+Chevrolet Onix Modelo 2015 Ltz,Bs.As. G.B.A. Sur,Modelo 2015 LTZ,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,78000.0,Hidráulica,Delantera,5.0,98.0,7000.0
+Chevrolet Onix 1.0 Turbo Premier I Mt,Ubicación no encontrada,1.0 Turbo Premier I Mt,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.0,Hatchback,80020.0,Asistida,Delantera,5.0,116.0,12925.0
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Sur,1.4 Ltz At 98cv,Negro,Chevrolet,Onix,2018,Nafta,5.0,Automática,1.4,Hatchback,64000.0,Asistida,Delantera,5.0,98.0,12900.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Negro,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,83000.0,Asistida,Delantera,5.0,98.0,9800.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Córdoba,1.4 Ltz Mt 98cv,Negro,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,136000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Lt 98cv,Buenos Aires Interior,1.4 Lt 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,92500.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Rojo,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,98000.0,Asistida,Delantera,5.0,98.0,7933.33
+Chevrolet Onix 1.4 Joy Ls,Río Negro,1.4 Joy Ls,Gris,Chevrolet,Onix,2022,Nafta,4.0,Manual,1.4,Hatchback,26000.0,Asistida,DelanteraCapacidad de la batería60 AhTiempo de carga1 hTipo de cargador0Autonomia de la batería0 km,5.0,98.0,11000.0
+Chevrolet Onix 1.2 Lt,Ubicación no encontrada,1.2 Lt,Naranja,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,39200.0,Asistida,Delantera,5.0,90.0,13700.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,142300.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Onix Rs,Buenos Aires Interior,RS,,Chevrolet,Onix,2023,Nafta,4.0,Manual,1.4,Hatchback,6000.0,Asistida,Delantera,5.0,98.0,22000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Asistida,Delantera,5.0,98.0,9600.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Córdoba,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Asistida,Delantera,5.0,98.0,7666.67
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Sur,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,79000.0,Asistida,Delantera,5.0,98.0,9466.67
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,87580.0,Asistida,Delantera,5.0,98.0,9400.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,84000.0,Asistida,Delantera,5.0,98.0,9332.67
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,89000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Buenos Aires Interior,1.0 Turbo Premier Ii At,Gris,Chevrolet,Onix,2022,Nafta,5.0,Automática,1.0,Hatchback,60000.0,Asistida,Delantera,5.0,116.0,16000.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,57600.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Ltz 98cv,Buenos Aires Interior,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,54000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,76090.0,Asistida,Delantera,5.0,98.0,9642.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,91818.0,Asistida,Delantera,5.0,98.0,9666.67
+Chevrolet Onix 1.4 Ltz 98cv,Buenos Aires Interior,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,103000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Bs.As. G.B.A. Sur,1.4 Joy Ls 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,93000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Negro,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,51000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Sur,1.4 Joy Ls,Negro,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,14500.0
+Chevrolet Onix Onix joy,Bs.As. G.B.A. Sur,Onix joy,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,53000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Rojo,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,73000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Blanco,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,122000.0,Hidráulica,Delantera,5.0,98.0,6200.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Rojo,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Hidráulica,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Ltz At,Ubicación no encontrada,1.4 Ltz At,Grey,Chevrolet,Onix,2016,Nafta,5.0,Automático,1,Hatchback,96334.0,Asistida,4x2,5.0,98.0,8266.67
+Chevrolet Onix 1.0 Turbo Premier I Mt,Ubicación no encontrada,1.0 Turbo Premier I Mt,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.0,Hatchback,59600.0,Asistida,Delantera,5.0,116.0,14613.33
+Chevrolet Onix 1.0 Turbo Premier Ii At,Ubicación no encontrada,1.0 Turbo Premier Ii At,Naranja,Chevrolet,Onix,2020,Nafta,5.0,Automática,1.0,Hatchback,30200.0,Asistida,Delantera,5.0,116.0,17500.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.4,Hatchback,45000.0,Asistida,Delantera,5.0,98.0,11266.67
+Chevrolet Onix 1.0 Turbo Ltz Mt,Córdoba,1.0 Turbo Ltz Mt,,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.0,Hatchback,33000.0,Asistida,Delantera,5.0,116.0,18000.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,118000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.2,Ubicación no encontrada,1.2,blue,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.2,Sedán,42000.0,assisted,Delantera,5.0,98.0,10666.67
+Chevrolet Onix PLUS PREMIER,Ubicación no encontrada,PLUS PREMIER,Gris,Chevrolet,Onix,2020,Nafta,4.0,Manual,1.0,Sedán,33290.0,Hidráulica,Delantera,5.0,116.0,14333.33
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Negro,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,85000.0,Asistida,Delantera,5.0,98.0,9933.33
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Norte,1.4 Ltz At 98cv,Azul,Chevrolet,Onix,2014,Nafta,5.0,Automática,1.4,Hatchback,129000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Norte,1.4 Lt Mt 98cv,Azul,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,127000.0,Hidráulica,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Bs.As. G.B.A. Oeste,1.4 Joy Ls 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,49000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Córdoba,1.4 Black Edition 1.4,,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,6800.0,Asistida,Delantera,5.0,98.0,11333.33
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,142000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Capital Federal,1.4 Lt Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,139780.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,9333.33
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,85000.0,Hidráulica,Delantera,5.0,98.0,6446.67
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,32000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,120084.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,45000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Lt 98cv,Neuquén,1.4 Lt 98cv,Rojo,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,95200.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Automática,1.4,Hatchback,50000.0,Asistida,Delantera,5.0,98.0,12900.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,98.0,10660.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Blanco,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,98.0,6666.0
+Chevrolet Onix 1.2,Ubicación no encontrada,1.2,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.2,Hatchback,60000.0,Asistida,Delantera,5.0,90.0,11000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,14000.0
+Chevrolet Onix 1.4 JOY BLACK MT,Ubicación no encontrada,1.4 JOY BLACK MT,Silver,Chevrolet,Onix,2023,Nafta,5.0,Manual,1,Hatchback,8039.0,Asistida,4x2,5.0,98.0,12406.67
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,93000.0,Asistida,Delantera,5.0,98.0,10800.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.4,Hatchback,30000.0,Asistida,Delantera,5.0,98.0,11325.33
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Sur,,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,64000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.4,Hatchback,30000.0,Asistida,Delantera,5.0,98.0,11325.33
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,Plateado,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,63000.0,Asistida,Delantera,5.0,98.0,10999.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,81000.0,Asistida,Delantera,5.0,98.0,8326.67
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,86000.0,Hidráulica,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Ltz 98cv,Tucumán,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,48300.0,Asistida,Delantera,5.0,98.0,9333.33
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,115000.0,Hidráulica,Delantera,5.0,98.0,9200.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,Blanco,Chevrolet,Onix,2019,Nafta/GNC,5.0,Manual,1.4,Hatchback,120000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,41000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.2 Lt Tech Onstar,Ubicación no encontrada,1.2 Lt Tech Onstar,Rojo,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,73000.0,Asistida,Delantera,5.0,90.0,13600.0
+Chevrolet Onix 1.4 Joy Ls,Córdoba,1.4 Joy Ls,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,65000.0,Asistida,Delantera,5.0,98.0,11333.33
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Norte,1.4 Ltz Mt 98cv,Blanco,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,93000.0,Hidráulica,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Capital Federal,1.0 Turbo Premier Ii At,,Chevrolet,Onix,2024,Nafta,5.0,Automática,1.0,Hatchback,1000.0,Asistida,Delantera,5.0,116.0,21900.0
+Chevrolet Onix 1.0 Turbo Premier I Mt,Ubicación no encontrada,1.0 Turbo Premier I Mt,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.0,Hatchback,27700.0,Asistida,Delantera,5.0,116.0,17000.0
+Chevrolet Onix 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,Negro,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,36000.0,Asistida,Delantera,5.0,98.0,14500.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. Costa Atlántica,1.4 Ltz 98cv,Plateado,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,129000.0,Asistida,Delantera,5.0,98.0,9666.67
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Gris oscuro,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,60000.0,assisted,Delantera,5.0,98.0,11200.0
+Chevrolet Onix 1.4 Activ 98cv,Buenos Aires Interior,1.4 Activ 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,64000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Norte,1.4 Black Edition 1.4,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,9466.67
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Oeste,1.4 Joy Ls,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,79500.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.2 Lt Tech,Bs.As. G.B.A. Oeste,1.2 Lt Tech,Plateado,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,69000.0,Asistida,Delantera,5.0,90.0,11333.33
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Norte,1.4 Black Edition 1.4,Gris,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,57000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Bs.As. G.B.A. Oeste,1.0 Turbo Premier Ii At,Azul,Chevrolet,Onix,2022,Nafta,5.0,Automática,1.0,Hatchback,63000.0,Asistida,Delantera,5.0,116.0,18500.0
+Chevrolet Onix LTZ AT,Ubicación no encontrada,LTZ AT,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Automática,1.4,Hatchback,92820.0,Asistida,Delantera,5.0,98.0,10133.33
+Chevrolet Onix 1.2,Ubicación no encontrada,1.2,Blanco,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.2,Hatchback,10652.0,Asistida,Delantera,5.0,90.0,12852.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,86000.0,Hidráulica,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Salta,1.0 Turbo Premier Ii At,Gris,Chevrolet,Onix,2020,Nafta,4.0,Automática,1.0,Sedán,67800.0,Eléctrica,Delantera,5.0,116.0,11666.67
+Chevrolet Onix 1.2,Bs.As. G.B.A. Oeste,1.2,Gris,Chevrolet,Onix,2024,Nafta,5.0,Manual,1.2,Hatchback,1000.0,Asistida,Delantera,5.0,90.0,13666.67
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Sur,1.4 Lt Mt 98cv,Blanco,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,106000.0,Hidráulica,Delantera,5.0,98.0,8900.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,45000.0,Asistida,Delantera,5.0,98.0,14000.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Negro,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,91000.0,Asistida,Delantera,5.0,98.0,9533.33
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Norte,,Gris,Chevrolet,Onix,2017,GNC,5.0,Manual,1.4,Hatchback,197500.0,Asistida,Delantera,5.0,98.0,8800.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,10400.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Norte,,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,80000.0,Asistida,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.2 MT,Ubicación no encontrada,1.2 MT,White,Chevrolet,Onix,2020,Híbrido,4.0,Manual,1,Hatchback,50333.0,Asistida,4x2,5.0,90.0,10746.67
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,115000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,43000.0,Asistida,Delantera,5.0,98.0,12666.67
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,78000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Ltz At 98cv,Entre Ríos,1.4 Ltz At 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Automática,1.4,Hatchback,125000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Río Negro,1.4 Black Edition 1.4,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,79000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.2,Ubicación no encontrada,1.2,Plateado,Chevrolet,Onix,2020,Nafta,4.0,Manual,1.2,Hatchback,52300.0,Asistida,Delantera,5.0,90.0,6666.67
+Chevrolet Onix 1.2 Lt Tech,Ubicación no encontrada,1.2 Lt Tech,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,60000.0,Asistida,Delantera,5.0,90.0,13900.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Entre Ríos,,Plateado,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. Costa Atlántica,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,153000.0,Hidráulica,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Bs.As. G.B.A. Norte,1.4 Joy Ls 98cv,Negro,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,118000.0,Asistida,Delantera,5.0,98.0,7666.67
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,210000.0,Asistida,Delantera,5.0,98.0,6666.67
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,180000.0,Asistida,Delantera,5.0,98.0,7933.33
+Chevrolet Onix 1.4 Lt Mt 98cv,Capital Federal,1.4 Lt Mt 98cv,Blanco,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,72000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Bs.As. G.B.A. Oeste,1.0 Turbo Premier Ii At,,Chevrolet,Onix,2024,Nafta,5.0,Automática,1.0,Hatchback,14000.0,Asistida,Delantera,5.0,116.0,17000.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Negro,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,105000.0,Asistida,Delantera,5.0,98.0,8900.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Celeste,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,48000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Sur,1.4 Ltz At 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Automática,1.4,Hatchback,37000.0,Asistida,Delantera,5.0,98.0,12800.0
+Chevrolet Onix 1.2,Capital Federal,1.2,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,47000.0,Asistida,Delantera,5.0,90.0,15250.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,91000.0,Asistida,Delantera,5.0,98.0,13500.0
+Chevrolet Onix 1.4 Joy Ls,Capital Federal,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,76000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,78000.0,Asistida,Delantera,5.0,98.0,10666.67
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,85000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.2 Lt Tech,Ubicación no encontrada,1.2 Lt Tech,Gris,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.2,Hatchback,47000.0,assisted,Delantera,5.0,90.0,14500.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,116260.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,64200.0,Asistida,Delantera,5.0,98.0,9258.67
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,76200.0,Asistida,Delantera,5.0,98.0,10200.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,130000.0,Asistida,Delantera,5.0,98.0,7333.33
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Sur,1.4 Joy Ls,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,56000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,40000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.0 Turbo Premier I Mt,Ubicación no encontrada,1.0 Turbo Premier I Mt,Naranja,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.0,Hatchback,25500.0,Asistida,Delantera,5.0,116.0,15500.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,63000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.2 PLUS LS,Ubicación no encontrada,1.2 PLUS LS,Blanco,Chevrolet,Onix,2023,Nafta,4.0,Manual,1.2,Sedán,21222.0,Hidráulica,Delantera,5.0,90.0,12669.33
+Chevrolet Onix 1.4 Ltz At,Ubicación no encontrada,1.4 Ltz At,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Automática,1,Hatchback,50127.0,Asistida,4x2,5.0,98.0,8613.33
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Norte,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,95333.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Azul,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,63000.0,Hidráulica,Delantera,5.0,98.0,6966.67
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,29700.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,115000.0,Asistida,Delantera,5.0,98.0,8900.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,78500.0,Asistida,Delantera,5.0,98.0,11300.0
+Chevrolet Onix 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,Negro,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,100700.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Rojo,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,31000.0,Asistida,Delantera,5.0,98.0,13300.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,53000.0,Hidráulica,Delantera,5.0,98.0,9900.0
+Chevrolet Onix Joy LS,Ubicación no encontrada,Joy LS,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Asistida,Delantera,5.0,98.0,7866.67
+Chevrolet Onix 1.2 Lt Tech,Capital Federal,1.2 Lt Tech,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,30000.0,Asistida,Delantera,5.0,90.0,10000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Azul,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,63000.0,Hidráulica,Delantera,5.0,98.0,7333.33
+Chevrolet Onix 1.2 Lt Tech,Bs.As. G.B.A. Sur,1.2 Lt Tech,Blanco,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.2,Hatchback,51000.0,Asistida,Delantera,5.0,90.0,11333.33
+Chevrolet Onix 1.0 Turbo Ltz At,Ubicación no encontrada,1.0 Turbo Ltz At,Azul,Chevrolet,Onix,2023,Nafta,5.0,Automática,1.0,Hatchback,20500.0,Asistida,Delantera,5.0,116.0,20000.0
+Chevrolet Onix 1.4 JOY LS  PLUS MT,Ubicación no encontrada,1.4 JOY LS  PLUS MT,Silver,Chevrolet,Onix,2018,Nafta,5.0,Manual,1,Hatchback,37310.0,Asistida,4x2,5.0,98.0,8926.67
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,Rojo,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,39000.0,Hidráulica,Delantera,5.0,98.0,13000.0
+Chevrolet Onix 1.4 Ltz At 98cv,Capital Federal,1.4 Ltz At 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,49000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,137000.0,Asistida,Delantera,5.0,98.0,5966.67
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,73000.0,Asistida,Delantera,5.0,98.0,9200.0
+Chevrolet Onix 1.4 LT L16,Ubicación no encontrada,1.4 LT L16,Gris,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,21000.0,Asistida,Delantera,5.0,98.0,11933.33
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,93000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,84000.0,Hidráulica,Delantera,5.0,98.0,6333.33
+Chevrolet Onix 1.2 Lt Tech Onstar,Bs.As. G.B.A. Sur,1.2 Lt Tech Onstar,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,90000.0,Asistida,Delantera,5.0,90.0,14000.0
+Chevrolet Onix 1.4 JOY BLACK MT,Ubicación no encontrada,1.4 JOY BLACK MT,Gris,Chevrolet,Onix,2021,Nafta,4.0,Manual,1,Hatchback,28338.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Effect 98cv,Bs.As. G.B.A. Oeste,1.4 Effect 98cv,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,26500.0,Asistida,Delantera,5.0,98.0,13500.0
+Chevrolet Onix 1.0 Turbo Premier I Mt,Ubicación no encontrada,1.0 Turbo Premier I Mt,Rojo,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.0,Hatchback,26000.0,Asistida,Delantera,5.0,116.0,17000.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Negro,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,86000.0,Asistida,Delantera,5.0,98.0,9990.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Plateado,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,57000.0,Asistida,Delantera,5.0,98.0,8600.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. Costa Atlántica,1.4 Lt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,107000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix Ltz,Bs.As. G.B.A. Oeste,Ltz,,Chevrolet,Onix,2018,Nafta/GNC,5.0,Manual,1.4,Hatchback,55000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Onix 1.4 Joy Plus Black 2023 La Plata 951,Ubicación no encontrada,JOY PLUS BLACK,Gris,Chevrolet,Onix,2023,Nafta,4.0,Manual,1.4,Sedán,16934.0,Hidráulica,Delantera,5.0,98.0,12748.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Negro,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,98773.0,Asistida,Delantera,5.0,98.0,10600.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Rojo,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,27400.0,Asistida,Delantera,5.0,98.0,12666.67
+Chevrolet Onix 1.4 JOY PLUS L20,Ubicación no encontrada,1.4 JOY PLUS L20,Gris,Chevrolet,Onix,2021,Nafta,4.0,Manual,1.4,Sedán,120121.0,Asistida,Delantera,5.0,98.0,10771.33
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,104000.0,Asistida,Delantera,5.0,98.0,12300.0
+Chevrolet Onix 1.2 Lt Tech Onstar,Ubicación no encontrada,1.2 Lt Tech Onstar,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,36000.0,Asistida,Delantera,5.0,90.0,14500.0
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Sur,1.4 Ltz At 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Automática,1.4,Hatchback,94000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Ltz Mt,Ubicación no encontrada,1.4 Ltz Mt,Silver,Chevrolet,Onix,2013,Nafta,5.0,Manual,1,Hatchback,85666.0,Asistida,4x2,5.0,98.0,7000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,89000.0,Asistida,Delantera,5.0,98.0,9660.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Azul,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,57000.0,Asistida,Delantera,5.0,98.0,6666.67
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,63000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Ltz At 98cv,Córdoba,1.4 Ltz At 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Automática,1.4,Hatchback,224000.0,Hidráulica,Delantera,5.0,98.0,5000.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Bs.As. G.B.A. Oeste,1.0 Turbo Premier Ii At,Naranja,Chevrolet,Onix,2020,Nafta,5.0,Automática,1.0,Hatchback,70000.0,Asistida,Delantera,5.0,116.0,14900.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. Costa Atlántica,1.4 Ltz 98cv,Rojo,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,49000.0,Asistida,Delantera,5.0,98.0,13500.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,67000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.2 Lt,Capital Federal,1.2 Lt,,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.2,Hatchback,100000.0,Asistida,Delantera,5.0,90.0,10800.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,50000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Capital Federal,1.4 Lt Mt 98cv,Azul,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,80000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Norte,1.4 Black Edition 1.4,Blanco,Chevrolet,Onix,2024,Nafta,5.0,Manual,1.4,Hatchback,3600.0,Asistida,Delantera,5.0,98.0,15600.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Blanco,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,1800.0,Asistida,Delantera,5.0,98.0,12333.33
+Chevrolet Onix 1.0 T MT PREMIER,Bs.As. Costa Atlántica,1.0 T MT PREMIER,,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.0,Hatchback,23840.0,Asistida,Delantera,5.0,116.0,18000.0
+Chevrolet Onix 1.4 Joy Plus Black  2023 La Plata 917,Ubicación no encontrada,JOY PLUS BLACK,Blanco,Chevrolet,Onix,2023,Nafta,4.0,Manual,1.4,Sedán,12099.0,Hidráulica,Delantera,5.0,98.0,12748.0
+Chevrolet Onix 1.0 Turbo Premier I Mt,Ubicación no encontrada,1.0 Turbo Premier I Mt,Plateado,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.0,Hatchback,32500.0,Asistida,Delantera,5.0,116.0,13990.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Negro,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,75000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.2 Lt Tech,Capital Federal,1.2 Lt Tech,Azul,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.2,Hatchback,27500.0,Asistida,Delantera,5.0,90.0,15000.0
+Chevrolet Onix 1.0 Turbo Premier I Mt,Bs.As. G.B.A. Oeste,1.0 Turbo Premier I Mt,,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.0,Hatchback,12000.0,Asistida,Delantera,5.0,116.0,20000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,110000.0,Asistida,Delantera,5.0,98.0,10266.67
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Rojo,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,79000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,72400.0,Asistida,Delantera,5.0,98.0,10400.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Azul,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,81997.0,Hidráulica,Delantera,5.0,98.0,7000.0
+Chevrolet Onix 1.4 Activ 98cv,Ubicación no encontrada,1.4 Activ 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,61000.0,Asistida,Delantera,5.0,98.0,12900.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,84500.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Ubicación no encontrada,1.0 Turbo Premier Ii At,,Chevrolet,Onix,2020,Nafta,5.0,Automática,1.0,Hatchback,44000.0,Asistida,Delantera,5.0,116.0,18500.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Gris oscuro,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,60200.0,assisted,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Ltz At 98cv,Santa Fe,1.4 Ltz At 98cv,Plateado,Chevrolet,Onix,2020,Nafta,5.0,Automática,1.4,Hatchback,38000.0,Asistida,Delantera,5.0,98.0,15800.0
+Chevrolet Onix 1.0 Turbo Ltz At,Ubicación no encontrada,1.0 Turbo Ltz At,Gris,Chevrolet,Onix,2022,Nafta,5.0,Automática,1.0,Hatchback,19000.0,Asistida,Delantera,5.0,116.0,18400.0
+Chevrolet Onix 1.4 Effect 98cv,Bs.As. G.B.A. Sur,1.4 Effect 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,52000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Activ 98cv,Bs.As. Costa Atlántica,1.4 Activ 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,125000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Sur,1.4 Black Edition 1.4,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,27000.0,Asistida,Delantera,5.0,98.0,12700.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,189000.0,Asistida,Delantera,5.0,98.0,7933.33
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,57000.0,Hidráulica,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Capital Federal,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,82000.0,Asistida,Delantera,5.0,98.0,11200.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,Blanco,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,103000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,76020.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,46328.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Capital Federal,1.4 Joy Ls 98cv,Rojo,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,125000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.2 Lt,Capital Federal,1.2 Lt,Rojo,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,28000.0,Asistida,Delantera,5.0,90.0,15600.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,68000.0,Asistida,Delantera,5.0,98.0,7666.67
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Azul,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,135000.0,Hidráulica,Delantera,5.0,98.0,9900.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,43200.0,Asistida,Delantera,5.0,98.0,12666.67
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,27500.0,Asistida,Delantera,5.0,98.0,11800.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. Costa Atlántica,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,65000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.4 Lt 98cv,Córdoba,1.4 Lt 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,54000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,1000.0,Asistida,Delantera,5.0,98.0,12666.67
+Chevrolet Onix 1.2,San Luis,1.2,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,40000.0,Asistida,Delantera,5.0,90.0,14000.0
+Chevrolet Onix 1.4 Ltz 98cv,Córdoba,1.4 Ltz 98cv,Plateado,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,47000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,141000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.2,Bs.As. G.B.A. Sur,1.2,Gris,Chevrolet,Onix,2024,Nafta,5.0,Manual,1.2,Hatchback,750.0,Asistida,Delantera,5.0,90.0,19000.0
+Chevrolet Onix 1.2 Lt,Ubicación no encontrada,1.2 Lt,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,46000.0,Asistida,Delantera,5.0,98.0,13933.33
+Chevrolet Onix 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,Verde,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,20000.0,Asistida,Delantera,5.0,98.0,16700.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,105000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix Ltz A/t,Bs.As. G.B.A. Norte,Ltz,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,99000.0,Asistida,Delantera,5.0,98.0,10850.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Sur,1.4 Lt Mt 98cv,Rojo,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,96000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Rojo,Chevrolet,Onix,2018,Nafta/GNC,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Automática,1.4,Hatchback,133000.0,Hidráulica,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,76000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,77000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Ltz At 98cv,Córdoba,1.4 Ltz At 98cv,Negro,Chevrolet,Onix,2015,Nafta,5.0,Automática,1.4,Hatchback,20000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Sur,1.4 Lt Mt 98cv,Gris,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,105136.0,Hidráulica,Delantera,5.0,98.0,7986.67
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Norte,1.4 Lt Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,150000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Ltz 98cv,Entre Ríos,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Joy Ls,Buenos Aires Interior,1.4 Joy Ls,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,45000.0,Asistida,Delantera,5.0,98.0,17500.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,58000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Bs.As. G.B.A. Oeste,1.0 Turbo Premier Ii At,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Automática,1.0,Hatchback,69500.0,Asistida,Delantera,5.0,116.0,16000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Sur,1.4 Lt Mt 98cv,Blanco,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,61000.0,Hidráulica,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Plateado,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,86000.0,Asistida,Delantera,5.0,98.0,8533.33
+Chevrolet Onix 1.0 Turbo RS Mt,Ubicación no encontrada,1.0 Turbo RS Mt,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.0,Hatchback,27000.0,Asistida,Delantera,5.0,116.0,17000.0
+Chevrolet Onix 1.2 Ls,Buenos Aires Interior,1.2 Ls,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,53000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Gris,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix Lt 2018,Buenos Aires Interior,Lt 2018,,Chevrolet,Onix,2018,Nafta/GNC,5.0,Manual,1.4,Hatchback,190000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Formosa,1.4 Black Edition 1.4,Blanco,Chevrolet,Onix,2024,Nafta,5.0,Manual,1.4,Hatchback,999.0,Asistida,Delantera,5.0,98.0,13333.33
+Chevrolet Onix 1.0 Turbo Ltz At,Ubicación no encontrada,1.0 Turbo Ltz At,Gris,Chevrolet,Onix,2022,Nafta,5.0,Automática,1.0,Hatchback,29000.0,Asistida,Delantera,5.0,116.0,16500.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,85000.0,Asistida,Delantera,5.0,98.0,10700.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Ubicación no encontrada,1.0 Turbo Premier Ii At,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Automática,1.0,Hatchback,50202.0,Asistida,Delantera,5.0,116.0,17000.0
+Chevrolet Onix 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,Gris,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Rojo,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,80000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Lt 98cv,Mendoza,1.4 Lt 98cv,Negro,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,135000.0,Asistida,Delantera,5.0,98.0,6133.33
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Sur,1.4 Lt Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,176000.0,Hidráulica,Delantera,5.0,98.0,8100.0
+Chevrolet Onix 1.2,Capital Federal,1.2,Negro,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.2,Hatchback,16000.0,Asistida,Delantera,5.0,90.0,13700.0
+Chevrolet Onix 1.4 Ltz 98cv,Tucumán,1.4 Ltz 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,77000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Bs.As. G.B.A. Oeste,1.4 Joy Ls 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,67100.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Ltz 98cv,Buenos Aires Interior,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,104000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.0 Turbo Ltz Mt,Capital Federal,1.0 Turbo Ltz Mt,Blanco,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.0,Hatchback,26000.0,Asistida,Delantera,5.0,116.0,19000.0
+Chevrolet Onix 1.0 Turbo Premier I Mt,Ubicación no encontrada,1.0 Turbo Premier I Mt,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.0,Hatchback,80000.0,Asistida,Delantera,5.0,116.0,12925.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,210000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Córdoba,1.0 Turbo Premier Ii At,Plateado,Chevrolet,Onix,2020,Nafta,5.0,Automática,1.0,Hatchback,29000.0,Asistida,Delantera,5.0,116.0,18500.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Blanco,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,132000.0,Hidráulica,Delantera,5.0,98.0,7333.33
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,56000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Capital Federal,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,115000.0,Hidráulica,Delantera,5.0,98.0,8400.0
+Chevrolet Onix 1.2 Lt Tech,Ubicación no encontrada,1.2 Lt Tech,Gris,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.2,Hatchback,28000.0,Asistida,Delantera,5.0,90.0,12533.33
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,Rojo,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,54000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Ltz Mt,Ubicación no encontrada,1.4 Ltz Mt,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1,Hatchback,125207.0,Asistida,4x2,5.0,98.0,8106.67
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Norte,1.4 Black Edition 1.4,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,19450.0,Asistida,Delantera,5.0,98.0,15000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,86800.0,Asistida,Delantera,5.0,98.0,9333.33
+Chevrolet Onix 1.0 Turbo Premier I Mt,Bs.As. G.B.A. Norte,1.0 Turbo Premier I Mt,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.0,Hatchback,32000.0,Asistida,Delantera,5.0,116.0,15500.0
+Chevrolet Onix 1.4 Ltz Mt,Ubicación no encontrada,1.4 Ltz Mt,Otro,Chevrolet,Onix,2017,Nafta,5.0,Manual,1,Hatchback,95442.0,Asistida,4x2,5.0,98.0,7826.67
+Chevrolet Onix 1.0 Turbo Ltz At,Ubicación no encontrada,1.0 Turbo Ltz At,,Chevrolet,Onix,2023,Nafta,5.0,Automática,1.0,Hatchback,5000.0,Asistida,Delantera,5.0,116.0,18000.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,63000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,8500.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Asistida,Delantera,5.0,98.0,7866.67
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Celeste,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,48000.0,Asistida,Delantera,5.0,98.0,8332.67
+Chevrolet Onix 1.4 Lt 98cv,Buenos Aires Interior,1.4 Lt 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,450000.0,Asistida,Delantera,5.0,98.0,5333.33
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Negro,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,9660.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Norte,1.4 Lt Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,82000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,155000.0,Asistida,Delantera,5.0,98.0,7333.33
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Negro,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,95000.0,Asistida,Delantera,5.0,98.0,8800.0
+Chevrolet Onix 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Rojo,Chevrolet,Onix,2019,Nafta,5.0,Automática,1.4,Hatchback,30000.0,Asistida,Delantera,5.0,98.0,12600.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,79000.0,Asistida,Delantera,5.0,98.0,8600.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Negro,Chevrolet,Onix,2017,Nafta/GNC,5.0,Manual,1.4,Hatchback,58000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Sur,1.4 Joy Ls,Gris,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,75000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Capital Federal,1.4 Ltz Mt 98cv,Plateado,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,167000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Azul,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,46000.0,Asistida,Delantera,5.0,98.0,11533.33
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Norte,1.4 Ltz At 98cv,Azul,Chevrolet,Onix,2015,Nafta,5.0,Automática,1.4,Hatchback,95000.0,Hidráulica,Delantera,5.0,98.0,8800.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,Azul,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,98.0,5333.33
+Chevrolet Onix 1.4 Joy Ls,Capital Federal,1.4 Joy Ls,Gris,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,68000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Activ 98cv,Tucumán,1.4 Activ 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,77700.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Norte,1.4 Black Edition 1.4,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,56000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Azul,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Asistida,Delantera,5.0,98.0,8866.67
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,50400.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,130000.0,Asistida,Delantera,5.0,98.0,6866.67
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,137000.0,Asistida,Delantera,5.0,98.0,6333.33
+Chevrolet Onix 1.4 Black Edition 1.4,Capital Federal,1.4 Black Edition 1.4,,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Asistida,Delantera,5.0,98.0,8200.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,92000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.2 Lt,Bs.As. G.B.A. Sur,1.2 Lt,,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.2,Hatchback,5800.0,Asistida,Delantera,5.0,90.0,15500.0
+Chevrolet Onix 1.4 Activ 98cv,Capital Federal,1.4 Activ 98cv,Negro,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,50000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Sur,1.4 Joy Ls,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,43400.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt Mt 98cv,,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,130000.0,Hidráulica,Delantera,5.0,98.0,9300.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz Mt 98cv,Negro,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,130000.0,Hidráulica,Delantera,5.0,98.0,8200.0
+Chevrolet Onix 1.4 Ltz At 98cv,Capital Federal,1.4 Ltz At 98cv,Rojo,Chevrolet,Onix,2019,Nafta,5.0,Automática,1.4,Hatchback,109500.0,Asistida,Delantera,5.0,98.0,10333.33
+Chevrolet Onix 1.4 Joy Ls,Misiones,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,47500.0,Asistida,Delantera,5.0,98.0,9333.33
+Chevrolet Onix 1.2,Ubicación no encontrada,1.2,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,57400.0,Asistida,Delantera,5.0,90.0,9866.67
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,80000.0,Asistida,Delantera,5.0,98.0,10300.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,Plateado,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,121000.0,Hidráulica,Delantera,5.0,98.0,9800.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,72000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Joy Ls,Buenos Aires Interior,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,13697.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Mendoza,1.4 Ltz Mt 98cv,Blanco,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Hidráulica,Delantera,5.0,98.0,9450.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Ubicación no encontrada,1.0 Turbo Premier Ii At,Azul,Chevrolet,Onix,2023,Nafta,5.0,Automática,1.0,Hatchback,29000.0,Asistida,Delantera,5.0,116.0,20900.0
+Chevrolet Onix 1.4 Ltz 98cv,Buenos Aires Interior,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,85000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Rojo,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,131102.0,Hidráulica,Delantera,5.0,98.0,7533.33
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,42500.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1 4 LTZ MT5 (98cv),Ubicación no encontrada,,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,95000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Onix 1.4 Lt Mt 98cv,Entre Ríos,1.4 Lt Mt 98cv,Plateado,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Río Negro,1.4 Joy Ls 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,108000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,171000.0,Asistida,Delantera,5.0,98.0,7600.0
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Norte,1.4 Black Edition 1.4,Gris,Chevrolet,Onix,2024,Nafta,5.0,Manual,1.4,Hatchback,3600.0,Asistida,Delantera,5.0,98.0,15300.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Rojo,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,138864.0,Hidráulica,Delantera,5.0,98.0,7700.0
+Chevrolet Onix 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Automática,1.4,Hatchback,124000.0,Hidráulica,Delantera,5.0,98.0,8900.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,35100.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Activ 98cv,Bs.As. G.B.A. Oeste,1.4 Activ 98cv,Gris,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,57800.0,Asistida,Delantera,5.0,98.0,14400.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,95000.0,Asistida,Delantera,5.0,98.0,10800.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.0 Turbo Ltz At,Ubicación no encontrada,1.0 Turbo Ltz At,Azul,Chevrolet,Onix,2023,Nafta,5.0,Automática,1.0,Hatchback,20500.0,Asistida,Delantera,5.0,116.0,20000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Norte,1.4 Lt Mt 98cv,Negro,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,127000.0,Hidráulica,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,61663.0,Asistida,Delantera,5.0,98.0,11200.0
+Chevrolet Onix 1.4 Joy Mt5 97hp 8v 2020 - Anticipo --,Ubicación no encontrada,1.4 Joy Mt5 97hp 8v 2020 - Anticipo --,Plateado,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,64000.0,Hidráulica,Delantera,5.0,98.0,4193.33
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,110000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Río Negro,1.4 Lt Mt 98cv,Rojo,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,76400.0,Hidráulica,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Plateado,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,103000.0,assisted,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,32000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Rojo,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,66000.0,Asistida,Delantera,5.0,98.0,10660.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Onix 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Automática,1.4,Hatchback,136000.0,assisted,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,73000.0,assisted,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz At 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Automática,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. Costa Atlántica,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,41000.0,Asistida,Delantera,5.0,98.0,15000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Capital Federal,,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,80000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,57000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Activ 98cv,Ubicación no encontrada,1.4 Activ 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,52000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,52000.0,Asistida,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,62000.0,Asistida,Delantera,5.0,98.0,10900.0
+Chevrolet Onix 1.4 Ltz,Capital Federal,1.4 Ltz,Negro,Chevrolet,Onix,2015,Diésel,5.0,Manual,1.4,Sedán,120000.0,Hidráulica,Delantera,5.0,98.0,9200.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Negro,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,56620.0,Asistida,Delantera,5.0,98.0,12400.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Negro,Chevrolet,Onix,2017,Nafta/GNC,5.0,Manual,1.4,Hatchback,130000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Sur,1.4 Ltz At 98cv,Blanco,Chevrolet,Onix,2015,Nafta,5.0,Automática,1.4,Hatchback,190000.0,Hidráulica,Delantera,5.0,98.0,7333.33
+Chevrolet Onix 1.2 Plus Ls 2023 La Plata 838,Ubicación no encontrada,PLUS LS,Blanco,Chevrolet,Onix,2023,Nafta,4.0,Manual,1..2,Sedán,14600.0,Hidráulica,Delantera,5.0,98.0,12730.67
+Chevrolet Onix 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Automática,1.4,Hatchback,149000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,82000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,68000.0,Asistida,Delantera,5.0,98.0,7933.33
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,110000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Ltz 98cv,Córdoba,1.4 Ltz 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,80000.0,Asistida,Delantera,5.0,98.0,10533.33
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Norte,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,43000.0,Asistida,Delantera,5.0,98.0,11200.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Capital Federal,1.4 Ltz Mt 98cv,Azul,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,67500.0,Hidráulica,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Lt Mt,Ubicación no encontrada,1.4 Lt Mt,Grey,Chevrolet,Onix,2019,Nafta,5.0,Manual,1,Hatchback,36587.0,Asistida,4x2,5.0,98.0,10573.33
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Gris,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,105000.0,Asistida,Delantera,5.0,98.0,9900.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Gris,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.4,Hatchback,40000.0,Asistida,Delantera,5.0,98.0,11866.67
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Blanco,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,236000.0,Hidráulica,Delantera,5.0,98.0,7666.67
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,68000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.0 Turbo Ltz Mt,Bs.As. G.B.A. Sur,1.0 Turbo Ltz Mt,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.0,Hatchback,63000.0,Asistida,Delantera,5.0,116.0,17200.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Norte,,Plateado,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Asistida,Delantera,5.0,98.0,13500.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,116200.0,Asistida,Delantera,5.0,98.0,11400.0
+Chevrolet Onix 1.4 Ltz 98cv,Santa Fe,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,27000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,65000.0,Hidráulica,Delantera,5.0,98.0,9300.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,126000.0,Hidráulica,Delantera,5.0,98.0,6533.33
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Negro,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,159000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Buenos Aires Interior,1.4 Ltz Mt 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Onix 1.4 Ltz Mt 98cv,Buenos Aires Interior,1.4 Ltz Mt 98cv,Rojo,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,112000.0,Hidráulica,Delantera,5.0,98.0,8700.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Asistida,Delantera,5.0,98.0,7333.33
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,Negro,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Plateado,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,53000.0,Asistida,Delantera,5.0,98.0,9666.67
+Chevrolet Onix 1.0 Turbo Premier Ii At,Ubicación no encontrada,1.0 Turbo Premier Ii At,Gris,Chevrolet,Onix,2020,Nafta,5.0,Automática,1.0,Hatchback,84000.0,Asistida,Delantera,5.0,116.0,14000.0
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Sur,1.4 Ltz At 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Automática,1.4,Hatchback,118000.0,Hidráulica,Delantera,5.0,98.0,9333.33
+Chevrolet Onix PLUS LT TECH,Ubicación no encontrada,PLUS LT TECH,Blanco,Chevrolet,Onix,2020,Nafta,4.0,Manual,1.2,Sedán,72904.0,Hidráulica,Delantera,5.0,90.0,11993.33
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Blanco,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,71000.0,Hidráulica,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Ltz At 98cv,Capital Federal,1.4 Ltz At 98cv,Blanco,Chevrolet,Onix,2015,Nafta,5.0,Automática,1.4,Hatchback,86000.0,Hidráulica,Delantera,5.0,98.0,10200.0
+Chevrolet Onix 1.4 Activ 98cv,Bs.As. Costa Atlántica,1.4 Activ 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,118500.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Sur,1.4 Black Edition 1.4,Plateado,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,1635.0,Asistida,Delantera,5.0,98.0,14000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Rojo,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,92000.0,Hidráulica,Delantera,5.0,98.0,8600.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,10900.0
+Chevrolet Onix 1.4 Activ 98cv,Santa Fe,1.4 Activ 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,56000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,9900.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,63300.0,Hidráulica,Delantera,5.0,98.0,7333.33
+Chevrolet Onix 1.2 Lt,Ubicación no encontrada,1.2 Lt,Naranja,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,55000.0,Asistida,Delantera,5.0,90.0,12600.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,84000.0,Hidráulica,Delantera,5.0,98.0,8800.0
+Chevrolet Onix 1.2 LS MT,Ubicación no encontrada,1.2 LS MT,White,Chevrolet,Onix,2024,Híbrido,5.0,Manual,1,Hatchback,5145.0,Asistida,4x2,5.0,90.0,14286.67
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,75000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Hidráulica,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Sur,1.4 Ltz At 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Automática,1.4,Hatchback,102000.0,Hidráulica,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Plateado,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,67000.0,Asistida,Delantera,5.0,98.0,10700.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Buenos Aires Interior,,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,143000.0,Asistida,Delantera,5.0,98.0,8120.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,102000.0,Asistida,Delantera,5.0,98.0,11900.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,68400.0,Asistida,Delantera,5.0,98.0,5333.33
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,57000.0,Asistida,Delantera,5.0,98.0,11333.33
+Chevrolet Onix 1.2 Lt Tech,Bs.As. G.B.A. Sur,1.2 Lt Tech,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,48000.0,Asistida,Delantera,5.0,90.0,16000.0
+Chevrolet Onix 1.4 Joy Plus Black 2023 Berazategui  951,Ubicación no encontrada,JOY PLUS BLACK,Gris,Chevrolet,Onix,2023,Nafta,4.0,Manual,1.4,Sedán,15031.0,Hidráulica,Delantera,5.0,98.0,12748.0
+Chevrolet Onix 1.4 Activ 98cv,Ubicación no encontrada,1.4 Activ 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,41000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Capital Federal,1.4 Black Edition 1.4,Gris,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.4,Hatchback,8300.0,Asistida,Delantera,5.0,98.0,16000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Norte,1.4 Black Edition 1.4,,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,15000.0,Asistida,Delantera,5.0,98.0,10666.67
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Rojo,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,59000.0,Asistida,Delantera,5.0,98.0,11999.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Plateado,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Buenos Aires Interior,,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Plateado,Chevrolet,Onix,2019,Nafta/GNC,5.0,Manual,1.4,Hatchback,90000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Joy Ls,Capital Federal,1.4 Joy Ls,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,25000.0,Asistida,Delantera,5.0,98.0,12200.0
+Chevrolet Onix,Ubicación no encontrada,,Gris,Chevrolet,Onix,2019,Nafta/GNC,5.0,Manual,1.4,Hatchback,76000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 JOY BLACK L19,Ubicación no encontrada,1.4 JOY BLACK L19,Gris,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,76600.0,Asistida,Delantera,5.0,98.0,11556.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,83000.0,Asistida,Delantera,5.0,98.0,8400.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Capital Federal,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,32000.0,Asistida,Delantera,5.0,98.0,15000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,56000.0,Asistida,Delantera,5.0,98.0,13800.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. Costa Atlántica,1.4 Lt 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,115000.0,Asistida,Delantera,5.0,98.0,10666.67
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Rojo,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,56000.0,Asistida,Delantera,5.0,98.0,13500.0
+Chevrolet Onix 1.2 Lt Tech,Ubicación no encontrada,1.2 Lt Tech,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,69000.0,Asistida,Delantera,5.0,90.0,14300.0
+Chevrolet Onix 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,65000.0,Asistida,Delantera,5.0,98.0,14500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,127000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,106000.0,Asistida,Delantera,5.0,98.0,7333.33
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Sur,1.4 Lt Mt 98cv,,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,130000.0,Hidráulica,Delantera,5.0,98.0,8300.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Negro,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,137000.0,Asistida,Delantera,5.0,98.0,5333.33
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,80000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,67000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.2 LT TECH MT,Ubicación no encontrada,1.2 LT TECH MT,Other,Chevrolet,Onix,2020,Nafta,5.0,Manual,1,Hatchback,13035.0,Asistida,4x2,5.0,90.0,12500.0
+Chevrolet Onix Nafta,Bs.As. G.B.A. Sur,Nafta,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,35000.0,Asistida,Delantera,5.0,98.0,11666.67
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Santa Fe,1.4 Black Edition 1.4,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,37000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Capital Federal,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,42000.0,Asistida,Delantera,5.0,98.0,11300.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Plateado,Chevrolet,Onix,2017,Nafta/GNC,5.0,Manual,1.4,Hatchback,82000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 JOY MT,Ubicación no encontrada,1.4 JOY MT,Blanco,Chevrolet,Onix,2022,Nafta,4.0,Manual,1,Hatchback,3896.0,Asistida,4x2,5.0,98.0,12213.33
+Chevrolet Onix 1.4 JOY LS MT,Ubicación no encontrada,1.4 JOY LS MT,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1,Hatchback,59085.0,Asistida,4x2,5.0,98.0,8046.67
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Rojo,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,99000.0,Asistida,Delantera,5.0,98.0,8600.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Plateado,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,103000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,238000.0,Hidráulica,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Automática,1.4,Hatchback,106000.0,Asistida,Delantera,5.0,98.0,13400.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Corrientes,1.4 Lt Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,137000.0,Hidráulica,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Norte,,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,72000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,5000.0,Asistida,Delantera,5.0,98.0,15900.0
+Chevrolet Onix Rs,Capital Federal,RS,,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,500.0,Asistida,Delantera,5.0,98.0,19500.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,44000.0,Asistida,Delantera,5.0,98.0,10300.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,172000.0,Hidráulica,Delantera,5.0,98.0,7407.41
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Gris,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,36000.0,Asistida,Delantera,5.0,98.0,11666.67
+Chevrolet Onix 1.4 Ltz 98cv,Buenos Aires Interior,1.4 Ltz 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,84000.0,Asistida,Delantera,5.0,98.0,7466.67
+Chevrolet Onix 1.2,Ubicación no encontrada,1.2,Gris,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.2,Hatchback,9000.0,Asistida,Delantera,5.0,90.0,12666.67
+Chevrolet Onix 1.0 Turbo Ltz Mt,Ubicación no encontrada,1.0 Turbo Ltz Mt,Blanco,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.0,Hatchback,9473.0,Asistida,Delantera,5.0,116.0,15000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Córdoba,1.4 Lt Mt 98cv,Blanco,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,168000.0,Hidráulica,Delantera,5.0,98.0,6333.33
+Chevrolet Onix 1.4 Ltz At 98cv,Capital Federal,1.4 Ltz At 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,80000.0,Asistida,Delantera,5.0,98.0,11800.0
+Chevrolet Onix ONIX 1.2 PLUS LS,Ubicación no encontrada,ONIX 1.2 PLUS LS,Blanco,Chevrolet,Onix,2023,Nafta,4.0,Manual,1.2,Sedán,11439.0,Hidráulica,Delantera,5.0,90.0,12795.33
+Chevrolet Onix 1.2 Lt Tech,Bs.As. G.B.A. Oeste,1.2 Lt Tech,Gris,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.2,Hatchback,52000.0,Asistida,Delantera,5.0,90.0,14100.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,58600.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,114000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,45000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,76000.0,Asistida,Delantera,5.0,98.0,9933.33
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,145000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Onix,2018,Nafta/GNC,5.0,Manual,1.4,Hatchback,80000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,125000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Azul,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,63000.0,Hidráulica,Delantera,5.0,98.0,7000.0
+Chevrolet Onix 1.4 Joy Ls,Entre Ríos,1.4 Joy Ls,Gris,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,500.0,Asistida,Delantera,5.0,98.0,12666.67
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,Rojo,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,63907.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Plateado,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,93000.0,Asistida,Delantera,5.0,98.0,8466.67
+Chevrolet Onix 1.2 Lt,Ubicación no encontrada,1.2 Lt,Blanco,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,59000.0,Asistida,Delantera,5.0,98.0,13066.67
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,58000.0,Asistida,Delantera,5.0,98.0,10900.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Río Negro,1.4 Lt Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Hidráulica,Delantera,5.0,98.0,8333.33
+Chevrolet Onix Plus 1.2,Ubicación no encontrada,Plus 1.2,Blanco,Chevrolet,Onix,2021,Nafta,4.0,Manual,1.2,Sedán,63000.0,Hidráulica,4x2,5.0,90.0,12266.67
+Chevrolet Onix 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Córdoba,,Negro,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,110000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Automática,1.4,Hatchback,92820.0,Asistida,Delantera,5.0,98.0,10133.33
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Norte,,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,170000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,22900.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.0 Turbo Ltz At,Ubicación no encontrada,1.0 Turbo Ltz At,Blanco,Chevrolet,Onix,2022,Nafta,4.0,Automática,1.0,Hatchback,18716.0,Asistida,Delantera,5.0,116.0,18100.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Rojo,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,108000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Bs.As. G.B.A. Norte,1.0 Turbo Premier Ii At,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Automática,1.0,Hatchback,24000.0,Asistida,Delantera,5.0,116.0,16800.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,105000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,64000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,83000.0,Asistida,Delantera,5.0,98.0,11990.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,78000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.2 Lt Tech,Ubicación no encontrada,1.2 Lt Tech,,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.2,Hatchback,15500.0,Asistida,Delantera,5.0,90.0,15500.0
+Chevrolet Onix 1.4 JOY LS  PLUS MT,Ubicación no encontrada,1.4 JOY LS  PLUS MT,Other,Chevrolet,Onix,2017,Híbrido,5.0,Manual,1,Hatchback,48782.0,Asistida,4x2,5.0,98.0,8446.67
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Azul,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,57000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.4,Hatchback,67000.0,Asistida,Delantera,5.0,98.0,16900.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Capital Federal,1.4 Ltz Mt 98cv,Rojo,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,150000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Plateado,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,48500.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Buenos Aires Interior,1.0 Turbo Premier Ii At,Naranja,Chevrolet,Onix,2020,Nafta,5.0,Automática,1.0,Hatchback,57000.0,Asistida,Delantera,5.0,116.0,22000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,96000.0,Asistida,Delantera,5.0,98.0,6733.33
+Chevrolet Onix 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,62000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Rojo,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,76000.0,Asistida,Delantera,5.0,98.0,8600.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,54000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,1000.0,Asistida,Delantera,5.0,98.0,12666.67
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Rojo,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,55000.0,Asistida,Delantera,5.0,98.0,4933.33
+Chevrolet Onix 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Joy Ls,Córdoba,1.4 Joy Ls,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,9333.33
+Chevrolet Onix 1.4 Activ 98cv,Bs.As. G.B.A. Oeste,1.4 Activ 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,22000.0,Asistida,Delantera,5.0,98.0,14500.0
+Chevrolet Onix 1.2 Lt Tech,Ubicación no encontrada,1.2 Lt Tech,,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.2,Hatchback,30000.0,Asistida,Delantera,5.0,90.0,14900.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,63000.0,Asistida,Delantera,5.0,98.0,10300.0
+Chevrolet Onix 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,99000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix Lt,Ubicación no encontrada,lt,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,83000.0,Asistida,Delantera,5.0,98.0,10300.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,55000.0,Hidráulica,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,78000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Ltz At,Ubicación no encontrada,1.4 Ltz At,White,Chevrolet,Onix,2018,Nafta,5.0,Automático,1,Hatchback,98062.0,Asistida,4x2,5.0,98.0,8666.67
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,100530.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,95000.0,Hidráulica,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,145000.0,Asistida,Delantera,5.0,98.0,9300.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Asistida,Delantera,5.0,98.0,8700.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Celeste,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,132000.0,Hidráulica,Delantera,5.0,98.0,6866.67
+Chevrolet Onix 1.0 Turbo Premier I Mt,Ubicación no encontrada,1.0 Turbo Premier I Mt,Plateado,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.0,Hatchback,80000.0,Asistida,Delantera,5.0,116.0,13000.0
+Chevrolet Onix 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,30200.0,Asistida,Delantera,5.0,98.0,14000.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Negro,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,82000.0,Asistida,Delantera,5.0,98.0,12200.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,76000.0,Hidráulica,Delantera,5.0,98.0,9700.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Bs.As. G.B.A. Oeste,1.0 Turbo Premier Ii At,Blanco,Chevrolet,Onix,2023,Nafta,5.0,Automática,1.0,Hatchback,5500.0,Asistida,Delantera,5.0,116.0,19500.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Rojo,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.0 Turbo Ltz Mt,Ubicación no encontrada,1.0 Turbo Ltz Mt,Gris,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.0,Hatchback,50000.0,Asistida,Delantera,5.0,116.0,13993.27
+Chevrolet Onix 1.0 Turbo Premier Ii At,Ubicación no encontrada,1.0 Turbo Premier Ii At,Plateado,Chevrolet,Onix,2022,Nafta,5.0,Automática,1.0,Hatchback,20000.0,Asistida,Delantera,5.0,116.0,20000.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,88000.0,Asistida,Delantera,5.0,98.0,8533.33
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,21000.0,Asistida,Delantera,5.0,98.0,10333.33
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Plateado,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,38000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Ltz 98cv,Corrientes,1.4 Ltz 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,54338.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,38000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 JOY MT,Ubicación no encontrada,1.4 JOY MT,Plateado,Chevrolet,Onix,2022,Nafta,4.0,Manual,1,Hatchback,27057.0,Asistida,4x2,5.0,98.0,11560.0
+Chevrolet Onix 1.0 Turbo Ltz Mt,Buenos Aires Interior,1.0 Turbo Ltz Mt,Blanco,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.0,Hatchback,8500.0,Asistida,Delantera,5.0,116.0,14000.0
+Chevrolet Onix 1.2 Lt,Bs.As. G.B.A. Sur,1.2 Lt,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,82000.0,Asistida,Delantera,5.0,90.0,8333.33
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,78000.0,Asistida,Delantera,5.0,98.0,9900.0
+Chevrolet Onix 1.4 Ltz 98cv,Santa Fe,1.4 Ltz 98cv,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,23000.0,Asistida,Delantera,5.0,98.0,12600.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,98000.0,Hidráulica,Delantera,5.0,98.0,8900.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,98.0,7300.0
+Chevrolet Onix 1.4 Activ 98cv,Buenos Aires Interior,1.4 Activ 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,64000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Capital Federal,1.0 Turbo Premier Ii At,Plateado,Chevrolet,Onix,2020,Nafta,5.0,Automática,1.0,Hatchback,53000.0,Asistida,Delantera,5.0,116.0,16500.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Asistida,Delantera,5.0,98.0,5333.33
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,125000.0,Asistida,Delantera,5.0,98.0,8800.0
+Chevrolet Onix 1.4 Ltz 98cv,Corrientes,1.4 Ltz 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,54000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,98000.0,Hidráulica,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Capital Federal,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,41000.0,Hidráulica,Delantera,5.0,98.0,9600.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Norte,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,165000.0,Hidráulica,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Ubicación no encontrada,1.0 Turbo Premier Ii At,,Chevrolet,Onix,2022,Nafta,5.0,Automática,1.0,Hatchback,25000.0,Asistida,Delantera,5.0,116.0,13266.67
+Chevrolet Onix 1.0 Turbo Premier Ii At,Bs.As. G.B.A. Norte,1.0 Turbo Premier Ii At,Plateado,Chevrolet,Onix,2020,Nafta,5.0,Automática,1.0,Hatchback,59700.0,Asistida,Delantera,5.0,116.0,16000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Blanco,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,98.0,7533.33
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Rojo,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,98.0,11300.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Buenos Aires Interior,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,119000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,75000.0,Asistida,Delantera,5.0,98.0,11990.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Rojo,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,76000.0,Hidráulica,Delantera,5.0,98.0,10800.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Azul,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,63300.0,Hidráulica,Delantera,5.0,98.0,7333.33
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Blanco,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,112000.0,Hidráulica,Delantera,5.0,98.0,8900.0
+Chevrolet Onix 1.0 PREMIER PLUS 2 AT,Ubicación no encontrada,1.0 PREMIER PLUS 2 AT,Blanco,Chevrolet,Onix,2022,Nafta,4.0,Automática,1.0,Sedán,96749.0,Asistida,Delantera,5.0,98.0,14980.0
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Sur,1.4 Black Edition 1.4,Azul,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.4,Hatchback,11000.0,Asistida,Delantera,5.0,98.0,13100.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Ubicación no encontrada,1.0 Turbo Premier Ii At,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Automática,1.0,Hatchback,50200.0,Asistida,Delantera,5.0,116.0,17000.0
+Chevrolet Onix 1.2 Lt,Capital Federal,1.2 Lt,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,49000.0,Asistida,Delantera,5.0,90.0,14000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Plateado,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,39000.0,Asistida,Delantera,5.0,98.0,9266.67
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,37500.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,81000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Activ 98cv,Buenos Aires Interior,1.4 Activ 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,68000.0,Asistida,Delantera,5.0,98.0,11333.33
+Chevrolet Onix 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Automática,1.4,Hatchback,57000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,93000.0,Asistida,Delantera,5.0,98.0,8660.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,30000.0,Asistida,Delantera,5.0,98.0,12333.33
+Chevrolet Onix 1.4 ACTIV MT,Ubicación no encontrada,1.4 ACTIV MT,Black,Chevrolet,Onix,2017,Nafta,5.0,Manual,1,Hatchback,81568.0,Asistida,4x2,5.0,98.0,9266.67
+Chevrolet Onix 1.2,Ubicación no encontrada,1.2,,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.2,Hatchback,24000.0,Asistida,Delantera,5.0,90.0,11933.33
+Chevrolet Onix 1.4 Joy Ls + 98cv,Capital Federal,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,145000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Plateado,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,106000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,Rojo,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,49900.0,Asistida,Delantera,5.0,98.0,12100.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Plateado,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.4,Hatchback,13300.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,12200.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Bs.As. G.B.A. Norte,1.4 Joy Ls 98cv,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,77000.0,Asistida,Delantera,5.0,98.0,9200.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,44856.0,Asistida,Delantera,5.0,98.0,10300.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.4,Hatchback,13500.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix Lt 1.4,Río Negro,Lt 1.4,,Chevrolet,Onix,2015,Nafta,4.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,98.0,7333.33
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.0 Turbo Premier I Mt,Ubicación no encontrada,1.0 Turbo Premier I Mt,,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.0,Hatchback,45000.0,Asistida,Delantera,5.0,116.0,14000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Negro,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,11800.0,Asistida,Delantera,5.0,98.0,14000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,139000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,147000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,99000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,Blanco,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.4,Hatchback,25000.0,Asistida,Delantera,5.0,98.0,13400.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,133691.0,Hidráulica,Delantera,5.0,98.0,9700.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,43000.0,Asistida,Delantera,5.0,98.0,13500.0
+Chevrolet Onix 1.4 Joy Mt5 97hp 8v 2020 - Anticipo -,Ubicación no encontrada,1.4 Joy Mt5 97hp 8v 2020 - Anticipo --,Plateado,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,64000.0,Hidráulica,Delantera,5.0,98.0,4193.33
+Chevrolet Onix 1.0 Turbo Ltz Mt,Ubicación no encontrada,1.0 Turbo Ltz Mt,Gris,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.0,Hatchback,49000.0,Asistida,Delantera,5.0,116.0,13966.6
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Negro,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,63000.0,Asistida,Delantera,5.0,98.0,9666.0
+Chevrolet Onix 1.0 Premier II AT,Capital Federal,1.0 Premier II AT,Plateado,Chevrolet,Onix,2020,Nafta,4.0,Automática,1.4,Sedán,38000.0,Eléctrica,Delantera,5.0,116.0,13866.67
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Rojo,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,55000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz At 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,180000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,63000.0,Asistida,Delantera,5.0,98.0,7200.0
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Sur,1.4 Black Edition 1.4,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,46000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Blanco,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,122000.0,Hidráulica,Delantera,5.0,98.0,9800.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,83000.0,Asistida,Delantera,5.0,98.0,9800.0
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Sur,1.4 Black Edition 1.4,,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,44000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix Joy,Bs.As. G.B.A. Oeste,,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Sedán,86150.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Negro,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,73500.0,Hidráulica,Delantera,5.0,98.0,11666.67
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,98.0,8333.33
+Chevrolet Onix 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,Azul,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,29000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,79000.0,Hidráulica,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,Rojo,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,125000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,62000.0,Asistida,Delantera,5.0,98.0,8800.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Bs.As. G.B.A. Norte,1.0 Turbo Premier Ii At,,Chevrolet,Onix,2021,Nafta,5.0,Automática,1.0,Hatchback,37000.0,Asistida,Delantera,5.0,116.0,15000.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,76000.0,Asistida,Delantera,5.0,98.0,9575.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,80000.0,Hidráulica,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Chaco,,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,165000.0,Asistida,Delantera,5.0,98.0,4333.33
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Verde,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,105000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.2,Ubicación no encontrada,1.2,Plateado,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.2,Hatchback,21000.0,Asistida,Delantera,5.0,90.0,15900.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,150000.0,Asistida,Delantera,5.0,98.0,9400.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,11266.67
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,63000.0,Asistida,Delantera,5.0,98.0,9333.33
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Oeste,1.4 Joy Ls,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,89000.0,Asistida,Delantera,5.0,98.0,10600.0
+Chevrolet Onix 1.4 Ltz At 98cv,Santa Fe,1.4 Ltz At 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Automática,1.4,Hatchback,160000.0,Hidráulica,Delantera,5.0,98.0,6666.67
+Chevrolet Onix Joy LS Pack 1.4,Ubicación no encontrada,Joy LS Pack 1.4,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,147712.0,Asistida,Delantera,5.0,98.0,7700.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,50000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Activ 98cv,Bs.As. G.B.A. Sur,1.4 Activ 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,85000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,24700.0,Asistida,Delantera,5.0,98.0,13800.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,78000.0,Asistida,Delantera,5.0,98.0,9900.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,53600.0,Asistida,Delantera,5.0,98.0,9666.67
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Plateado,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,145000.0,Asistida,Delantera,5.0,98.0,10666.67
+Chevrolet Onix 1.0 Turbo Premier Ii At,Capital Federal,1.0 Turbo Premier Ii At,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Automática,1.0,Hatchback,80000.0,Asistida,Delantera,5.0,116.0,11933.33
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Azul,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,57000.0,Asistida,Delantera,5.0,98.0,7266.67
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,126000.0,Asistida,Delantera,5.0,98.0,11400.0
+Chevrolet Onix 1.4 Joy Black Edition,Ubicación no encontrada,1.4 Joy Black Edition,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,78845.0,Asistida,Delantera,5.0,98.0,11733.33
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,Negro,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,52000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,85000.0,Asistida,Delantera,5.0,98.0,10990.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,Blanco,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,67000.0,Hidráulica,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Bs.As. G.B.A. Norte,1.4 Joy Ls 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,77000.0,Asistida,Delantera,5.0,98.0,8866.67
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,81000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.2,Ubicación no encontrada,1.2,Blanco,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.2,Hatchback,8500.0,Asistida,Delantera,5.0,90.0,16000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,85000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,127000.0,Asistida,Delantera,5.0,98.0,8600.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,89000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Buenos Aires Interior,1.4 Joy Ls 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,72000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.2,Bs.As. G.B.A. Norte,1.2,,Chevrolet,Onix,2024,Nafta,5.0,Manual,1.2,Hatchback,1000.0,Asistida,Delantera,5.0,90.0,6066.67
+Chevrolet Onix 1.2 Lt Tech,Ubicación no encontrada,1.2 Lt Tech,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,35000.0,Asistida,Delantera,5.0,90.0,13000.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Salta,1.0 Turbo Premier Ii At,Blanco,Chevrolet,Onix,2024,Nafta,5.0,Automática,1.0,Hatchback,9999999.0,Asistida,Delantera,5.0,116.0,7711.53
+Chevrolet Onix 1.4 Ltz 98cv,Buenos Aires Interior,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,139000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Ltz 98cv,Buenos Aires Interior,1.4 Ltz 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,57000.0,Asistida,Delantera,5.0,98.0,11200.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Sur,1.4 Lt Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,131000.0,Asistida,Delantera,5.0,98.0,6666.67
+Chevrolet Onix 1.4 Ltz At 98cv,Capital Federal,1.4 Ltz At 98cv,Plateado,Chevrolet,Onix,2014,Nafta,5.0,Automática,1.4,Hatchback,160000.0,Hidráulica,Delantera,5.0,98.0,8666.67
+Chevrolet Onix 1.4 Lt Mt 98cv,Capital Federal,1.4 Lt Mt 98cv,Blanco,Chevrolet,Onix,2015,Nafta/GNC,5.0,Manual,1.4,Hatchback,160000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,45000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 JOY BLACK L19,Ubicación no encontrada,1.4 JOY BLACK L19,Gris,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,86000.0,Asistida,Delantera,5.0,98.0,11484.67
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,65500.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Capital Federal,1.4 Black Edition 1.4,,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.4,Hatchback,42900.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,115000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Norte,1.4 Ltz At 98cv,Gris,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,190000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Black Edition 1.4,Ubicación no encontrada,1.4 Black Edition 1.4,Gris,Chevrolet,Onix,2021,Nafta,4.0,Manual,1.4,Hatchback,30000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.0 Turbo Ltz Mt,Ubicación no encontrada,1.0 Turbo Ltz Mt,Gris,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.0,Hatchback,67000.0,Asistida,Delantera,5.0,116.0,12333.33
+Chevrolet Onix 1.2 Lt Mt,Ubicación no encontrada,1.2 Lt Mt,White,Chevrolet,Onix,2020,Nafta,5.0,Manual,1,Hatchback,28681.0,Asistida,4x2,5.0,90.0,12040.0
+Chevrolet Onix 1.4 Ltz Mt,Ubicación no encontrada,1.4 Ltz Mt,Plateado,Chevrolet,Onix,2016,Híbrido,5.0,Manual,1,Hatchback,83388.0,Asistida,4x2,5.0,98.0,8020.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,85000.0,Hidráulica,Delantera,5.0,98.0,9266.67
+Chevrolet Onix 1.0 Turbo Ltz At,Ubicación no encontrada,1.0 Turbo Ltz At,Plateado,Chevrolet,Onix,2022,Nafta,5.0,Automática,1.0,Hatchback,55000.0,Asistida,Delantera,5.0,116.0,17300.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,85000.0,Asistida,Delantera,5.0,98.0,9666.67
+Chevrolet Onix 1.4 Black Edition 1.4,Santa Fe,1.4 Black Edition 1.4,Gris,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,40000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,67000.0,Asistida,Delantera,5.0,98.0,6393.33
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz Mt 98cv,Azul,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,65300.0,Hidráulica,Delantera,5.0,98.0,9900.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Córdoba,1.0 Turbo Premier Ii At,,Chevrolet,Onix,2022,Nafta,5.0,Automática,1.0,Hatchback,28000.0,Asistida,Delantera,5.0,116.0,21000.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Bs.As. G.B.A. Sur,1.4 Joy Ls 98cv,Rojo,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,132000.0,Asistida,Delantera,5.0,98.0,7333.33
+Chevrolet Onix 1.4 Joy Ls 98cv,Córdoba,1.4 Joy Ls 98cv,Negro,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,172000.0,Asistida,Delantera,5.0,98.0,6000.0
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz At 98cv,Negro,Chevrolet,Onix,2018,Nafta,5.0,Automática,1.4,Hatchback,66000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,40600.0,assisted,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,86600.0,Asistida,Delantera,5.0,98.0,8500.0
+Chevrolet Onix 1.4 JOY MT,Ubicación no encontrada,1.4 JOY MT,Black,Chevrolet,Onix,2023,Nafta,4.0,Manual,1,Hatchback,24000.0,Asistida,4x2,5.0,98.0,12373.33
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,75000.0,Asistida,Delantera,5.0,98.0,11300.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Capital Federal,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,88000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,64200.0,Asistida,Delantera,5.0,98.0,11258.67
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,150000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.2 Lt,Ubicación no encontrada,1.2 Lt,,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.2,Hatchback,59300.0,Asistida,Delantera,5.0,90.0,13200.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,68000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.2,Bs.As. G.B.A. Oeste,1.2,,Chevrolet,Onix,2024,Nafta,5.0,Manual,1.2,Hatchback,500.0,Asistida,Delantera,5.0,90.0,12666.67
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,98.0,11500.0
+Onix Ltz 1.4 5p 2017 (financio/ Permuto) LG,Ubicación no encontrada,LTZ 5P,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,137200.0,Asistida,Delantera,5.0,98.0,6333.33
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Negro,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,235000.0,Asistida,Delantera,5.0,98.0,6666.67
+Chevrolet Onix 1.4 Joy Ls,Capital Federal,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Sur,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,20000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.2 Lt Tech Onstar,Capital Federal,1.2 Lt Tech Onstar,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,30000.0,Asistida,Delantera,5.0,90.0,15500.0
+Chevrolet Onix 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Automática,1.4,Hatchback,62000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Norte,1.4 Black Edition 1.4,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,36300.0,Asistida,Delantera,5.0,98.0,12400.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,165000.0,Asistida,Delantera,5.0,98.0,9400.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,75000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Plateado,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,115000.0,Hidráulica,Delantera,5.0,98.0,3840.0
+Chevrolet Onix 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Plateado,Chevrolet,Onix,2018,Nafta,5.0,Automática,1.4,Hatchback,102000.0,Asistida,Delantera,5.0,98.0,11900.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,75662.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Onix ONIX PLUS 1.4 MT JOY,Bs.As. G.B.A. Norte,ONIX PLUS 1.4 MT JOY,Plateado,Chevrolet,Onix,2020,Nafta,4.0,Manual,1.4,Sedán,106000.0,Hidráulica,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Plateado,Chevrolet,Onix,2013,Nafta/GNC,5.0,Manual,1.4,Hatchback,83000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Black Edition 1.4,Bs.As. G.B.A. Norte,1.4 Black Edition 1.4,,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,92000.0,Asistida,Delantera,5.0,98.0,9066.67
+Chevrolet Onix Onix 1.0 turbo RS,Bs.As. G.B.A. Sur,Onix 1.0 turbo RS,,Chevrolet,Onix,2021,Nafta,5.0,Automática,1.0,Hatchback,67000.0,Asistida,Delantera,5.0,116.0,13333.33
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,48000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Norte,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,110000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Hidráulica,Delantera,5.0,98.0,7000.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,142000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.2 Lt Tech,Bs.As. G.B.A. Oeste,1.2 Lt Tech,Plateado,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.2,Hatchback,70000.0,Asistida,Delantera,5.0,90.0,10666.67
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Sur,1.4 Lt Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,142000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Gris,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Hidráulica,Delantera,5.0,98.0,7000.0
+Chevrolet Onix 1.2 Lt Tech,Ubicación no encontrada,1.2 Lt Tech,Plateado,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,55300.0,Asistida,Delantera,5.0,90.0,13500.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,30000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,56000.0,Asistida,Delantera,5.0,98.0,14000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,78800.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,133000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.2,Ubicación no encontrada,1.2,Plateado,Chevrolet,Onix,2020,Nafta,4.0,Manual,1.2,Hatchback,52300.0,Asistida,Delantera,5.0,90.0,12500.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,47000.0,Asistida,Delantera,5.0,98.0,12900.0
+Chevrolet Onix 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,160000.0,Asistida,Delantera,5.0,98.0,13500.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Onix,2022,Nafta,5.0,Manual,1.4,Hatchback,49000.0,Asistida,Delantera,5.0,98.0,13993.27
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,42000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.2 Lt Tech Onstar,Ubicación no encontrada,1.2 Lt Tech Onstar,Blanco,Chevrolet,Onix,2021,Nafta,5.0,Manual,1.2,Hatchback,40000.0,Asistida,Delantera,5.0,90.0,15300.0
+Chevrolet Onix 1.2,Capital Federal,1.2,Blanco,Chevrolet,Onix,2023,Nafta,5.0,Manual,1.2,Hatchback,18500.0,Asistida,Delantera,5.0,90.0,11000.0
+Chevrolet Onix 1.0 Turbo Premier I Mt,Bs.As. G.B.A. Norte,1.0 Turbo Premier I Mt,Blanco,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.0,Hatchback,32000.0,Asistida,Delantera,5.0,116.0,17800.0
+Chevrolet Onix 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,83000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.2 Lt Tech,Ubicación no encontrada,1.2 Lt Tech,Rojo,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.2,Hatchback,52000.0,Asistida,Delantera,5.0,90.0,11000.0
+Chevrolet Onix 1.0 Turbo Premier Ii At,Bs.As. G.B.A. Oeste,1.0 Turbo Premier Ii At,Gris,Chevrolet,Onix,2021,Nafta,5.0,Automática,1.0,Hatchback,50000.0,Asistida,Delantera,5.0,116.0,17000.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Negro,Chevrolet,Onix,2018,Nafta/GNC,5.0,Manual,1.4,Hatchback,85000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Sur,1.4 Lt Mt 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,80000.0,Asistida,Delantera,5.0,98.0,10300.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,95000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Bs.As. G.B.A. Sur,1.4 Ltz Mt 98cv,,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,130000.0,Hidráulica,Delantera,5.0,98.0,9200.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Plateado,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,63000.0,Asistida,Delantera,5.0,98.0,12300.0
+Chevrolet Onix 1.4 Ltz 98cv,Córdoba,1.4 Ltz 98cv,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,98.0,14000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Sur,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,73700.0,Asistida,Delantera,5.0,98.0,8900.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Azul,Chevrolet,Onix,2014,Nafta,5.0,Manual,1.4,Hatchback,97000.0,Hidráulica,Delantera,5.0,98.0,7266.67
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Norte,1.4 Ltz At 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Automática,1.4,Hatchback,120000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Onix 1.4 Ltz At 98cv,Bs.As. G.B.A. Norte,1.4 Ltz At 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Automática,1.4,Hatchback,96000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Onix 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,,Chevrolet,Onix,2016,Nafta,5.0,Automática,1.4,Hatchback,95000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Onix 1.4 Activ 98cv,Ubicación no encontrada,1.4 Activ 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,93300.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Plateado,Chevrolet,Onix,2020,Nafta,5.0,Manual,1.4,Hatchback,28000.0,Asistida,Delantera,5.0,98.0,14900.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Negro,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,60000.0,Asistida,Delantera,5.0,98.0,10800.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Bs.As. G.B.A. Sur,1.4 Lt Mt 98cv,Celeste,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Onix 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,Blanco,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,49000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Lt Mt 98cv,Ubicación no encontrada,1.4 Lt Mt 98cv,Azul,Chevrolet,Onix,2016,Nafta,5.0,Manual,1.4,Hatchback,57000.0,Asistida,Delantera,5.0,98.0,7000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Ubicación no encontrada,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2013,Nafta,5.0,Manual,1.4,Hatchback,118000.0,Hidráulica,Delantera,5.0,98.0,7666.67
+Chevrolet Onix 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,,Chevrolet,Onix,2019,Nafta,5.0,Manual,1.4,Hatchback,85000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Onix 1.4 Lt 98cv,Misiones,1.4 Lt 98cv,,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,118000.0,Asistida,Delantera,5.0,98.0,7000.0
+Chevrolet Onix 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,55000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,68000.0,Asistida,Delantera,5.0,98.0,4040.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Bs.As. Costa Atlántica,,,Chevrolet,Onix,2018,Nafta,5.0,Manual,1.4,Hatchback,65500.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Onix 1.4 Ltz Mt 98cv,Misiones,1.4 Ltz Mt 98cv,Gris,Chevrolet,Onix,2015,Nafta,5.0,Manual,1.4,Hatchback,82000.0,Hidráulica,Delantera,5.0,98.0,6600.0
+Chevrolet Onix 1.4 Joy Ls + 98cv,Capital Federal,,Gris,Chevrolet,Onix,2017,Nafta,5.0,Manual,1.4,Hatchback,94500.0,Asistida,Delantera,5.0,98.0,9000.0

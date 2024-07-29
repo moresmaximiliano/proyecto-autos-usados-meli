@@ -1,0 +1,848 @@
+Título,Ubicación,Versión,Color,Marca,Modelo,Año,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Kilómetros,Dirección,Control de tracción,Capacidad de personas,Potencia,Precio
+Ford Ka 1.5 Freestyle Se,Ubicación no encontrada,1.5 Freestyle Se,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,90000.0,Eléctrica,Delantera,5.0,123.0,7933.33
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Sur,1.6 Fly Viral 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,134000.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.5 Se 5 p,Bs.As. Costa Atlántica,1.5 Se 5 p,Rojo,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,73000.0,Eléctrica,Delantera,5.0,123.0,13500.0
+Ford Ka 1.0 Fly 63cv,Ubicación no encontrada,1.0 Fly 63cv,Blanco,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,98000.0,Hidráulica,Delantera,5.0,63.0,5600.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Oeste,1.5 Se 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,104000.0,Eléctrica,Delantera,5.0,105.0,8666.67
+Ford Ka 1.5 Sel 4 p,Santa Fe,1.5 Sel 4 p,Blanco,Ford,Ka,2020,Nafta,4.0,Manual,1.5,Sedán,97000.0,Eléctrica,Delantera,5.0,123.0,10500.0
+Ford Ka 1.5 S,Capital Federal,1.5 S,Gris,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,113900.0,Eléctrica,Delantera,5.0,123.0,8000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,92000.0,Hidráulica,Delantera,5.0,63.0,6200.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,107000.0,Hidráulica,Delantera,5.0,95.0,5533.33
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,80000.0,Hidráulica,Delantera,5.0,63.0,5600.0
+Ford Ka 1.5 Freestyle,Ubicación no encontrada,1.5 Freestyle,Negro,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,61900.0,Eléctrica,Delantera,5.0,123.0,12500.0
+Ford Ka 1.0 Fly Plus,Ubicación no encontrada,1.0 Fly Plus,,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,195000.0,Hidráulica,Delantera,4.0,63.0,4526.67
+Ford Ka 1.6 Action,Bs.As. G.B.A. Oeste,1.6 Action,Rojo,Ford,Ka,2003,Nafta,3.0,Manual,1.6,Hatchback,146298.0,Hidráulica,Delantera,4.0,95.0,2800.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,Blanco,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,69000.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Sur,1.5 Se 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,116000.0,Eléctrica,Delantera,5.0,123.0,9000.0
+Ford Ka Pulse 1.6,Santa Fe,Pulse,Celeste,Ford,Ka,2008,Nafta/GNC,3.0,Manual,1.6,Hatchback,176000.0,Hidráulica,Delantera,4.0,65.0,5250.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,92000.0,Hidráulica,Delantera,5.0,63.0,5700.0
+Ford Ka 1.5 Sel 5 p,Bs.As. G.B.A. Sur,1.5 Sel 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,80000.0,Eléctrica,Delantera,5.0,105.0,10000.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Sur,1.6 Fly Viral 95cv,Negro,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,77314.0,Hidráulica,Delantera,5.0,95.0,7600.0
+Ford Ka 1.5 S MT,Ubicación no encontrada,1.5 S MT,Plateado,Ford,Ka,2018,Nafta,5.0,Manual,1.0,Hatchback,43414.0,Asistida,4x2,5.0,123.0,9026.67
+Ford Ka 1.0 Fly Viral 63cv,Capital Federal,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,180780.0,Hidráulica,Delantera,5.0,63.0,5000.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Norte,1.6 Fly Viral 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,108000.0,Hidráulica,Delantera,5.0,95.0,7000.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Norte,1.5 S 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,32000.0,EléctricaSeguridadFrenos ABSSíDefensa delanteraSíAirbag conductorSíFaros con regulación automáticaNoSensor de estacionamientoNoAirbag para conductor y pasajeroSíFaros antinieblas traserosSíDesempañador traseroSíControl de estabilidadSíTercera luz de freno ledSíCierre centralizado de puertasSíBlindadoNoTracción ASRSíInteriorTapizado de cueroNoSeguridadCon cámara de retrocesoNoCondiciones de compraCon garantía de fábricaNoCon garantía mecánicaSíÚnico dueñoSíCon precio negociableSíAcepta permutaNoConfort y convenienciaPiloto automáticoNoAire acondicionadoSí,Delantera,5.0,123.0,12000.0
+Ford Ka 1.5 Sel 5 p,Ubicación no encontrada,1.5 Sel 5 p,Blanco,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,100000.0,Eléctrica,Delantera,5.0,123.0,10333.33
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Plateado,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,37000.0,Eléctrica,Delantera,5.0,123.0,13500.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,132000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,133590.0,Eléctrica,Delantera,5.0,105.0,8600.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,142000.0,Hidráulica,Delantera,5.0,95.0,5333.33
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Negro,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,140000.0,Hidráulica,Delantera,5.0,63.0,4999.93
+Ford Ka 1.5 Freestyle Se,Bs.As. G.B.A. Norte,1.5 Freestyle Se,,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,56000.0,Eléctrica,Delantera,5.0,123.0,15000.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Sur,1.6 Fly Viral 95cv,Plateado,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,96000.0,Hidráulica,Delantera,5.0,95.0,6800.0
+Ford Ka 1.5 Sel 5 p,Bs.As. G.B.A. Norte,1.5 Sel 5 p,Gris,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,110000.0,Eléctrica,Delantera,5.0,105.0,9000.0
+Ford Ka 1.5 S 5 p,Bs.As. Costa Atlántica,1.5 S 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,9400.0,Eléctrica,Delantera,5.0,123.0,13000.0
+Ford Ka 1.5 Sel At 4p,Ubicación no encontrada,1.5 Sel At 4p,Gris,Ford,Ka,2020,Nafta,4.0,Manual,1.5,Sedán,69619.0,Eléctrica,Delantera,5.0,123.0,15000.0
+Ford Ka 1.5 Sel 4 p,Buenos Aires Interior,1.5 Sel 4 p,Gris,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,136500.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.6 Plus Tattoo,Bs.As. G.B.A. Sur,1.6 Plus Tattoo,,Ford,Ka,2004,Nafta,3.0,Manual,1.6,Hatchback,162000.0,Hidráulica,Delantera,4.0,95.0,4000.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Oeste,1.6 Fly Viral 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,86000.0,Hidráulica,Delantera,5.0,95.0,7000.0
+Ford Ka 1.5 Se 5 p,Buenos Aires Interior,1.5 Se 5 p,Plateado,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,57500.0,Eléctrica,Delantera,5.0,123.0,9666.67
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Rojo,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,105000.0,Hidráulica,Delantera,5.0,63.0,6300.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,93106.0,Hidráulica,Delantera,5.0,63.0,5333.33
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Ubicación no encontrada,,Plateado,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,145000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.5 S,Bs.As. Costa Atlántica,1.5 S,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,80000.0,Eléctrica,Delantera,5.0,123.0,3333.33
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Bs.As. G.B.A. Oeste,,Plateado,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,87000.0,Hidráulica,Delantera,4.0,63.0,6000.0
+Ford Ka 1.0 Fly 63cv,Ubicación no encontrada,1.0 Fly 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,120000.0,Hidráulica,Delantera,5.0,63.0,6170.0
+Ford Ka 1.5 S 4 p,Bs.As. G.B.A. Norte,1.5 S 4 p,Gris,Ford,Ka,2021,Nafta,4.0,Manual,1.5,Sedán,55000.0,Eléctrica,Delantera,5.0,123.0,11000.0
+Ford Ka 1.5 Sel 5 p,Ubicación no encontrada,1.5 Sel 5 p,Plateado,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,59090.0,Eléctrica,Delantera,5.0,105.0,9500.0
+Ford Ka 1.5 Sel 5 p,Capital Federal,1.5 Sel 5 p,Plateado,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,36000.0,Eléctrica,Delantera,5.0,123.0,14500.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Rojo,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,57000.0,Eléctrica,Delantera,5.0,123.0,10333.33
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,Negro,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,60000.0,Eléctrica,Delantera,5.0,123.0,8666.67
+Ford Ka 1.3,Bs.As. G.B.A. Sur,1.3,Celeste,Ford,Ka,1999,Nafta,3.0,Automática,1.3,Coupé,50000.0,Hidráulica,Delantera,4.0,67.0,1333.33
+Ford Ka 1.5 Freestyle Se,Ubicación no encontrada,1.5 Freestyle Se,Blanco,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,48000.0,Eléctrica,Delantera,5.0,123.0,10100.0
+Ford Ka 1.6 Pulse,Capital Federal,1.6 Pulse,,Ford,Ka,2009,Nafta,3.0,Manual,1.6,Hatchback,168000.0,Hidráulica,Delantera,4.0,95.0,4700.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,76611.0,Eléctrica,Delantera,5.0,123.0,9800.0
+Ford Ka 1.6 Pulse,Bs.As. G.B.A. Oeste,1.6 Pulse,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,159000.0,Hidráulica,Delantera,4.0,95.0,6000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,98000.0,Hidráulica,Delantera,5.0,63.0,6300.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,Azul,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,112000.0,Hidráulica,Delantera,5.0,63.0,6400.0
+Ford Ka 1.6 Pulse,Bs.As. G.B.A. Oeste,1.6 Pulse,Plateado,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,125000.0,Hidráulica,Delantera,4.0,95.0,6100.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Plateado,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,37500.0,Eléctrica,Delantera,5.0,123.0,9366.67
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Dorado,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,65000.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,72500.0,Hidráulica,Delantera,5.0,95.0,5900.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,74000.0,Hidráulica,Delantera,5.0,63.0,6300.0
+Ford Ka 1.6 Action,Ubicación no encontrada,1.6 Action,,Ford,Ka,2008,Nafta,3.0,Manual,1.6,Hatchback,148000.0,Hidráulica,Delantera,4.0,95.0,5500.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,95000.0,Hidráulica,Delantera,5.0,63.0,6300.0
+Ford Ka 1.5 Sel 5 p,Capital Federal,1.5 Sel 5 p,Verde,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,60000.0,Eléctrica,Delantera,5.0,123.0,13500.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. Costa Atlántica,1.6 Fly Viral 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,92000.0,Hidráulica,Delantera,5.0,95.0,7300.0
+Ford Ka 1.5 S 4 p,Bs.As. G.B.A. Oeste,1.5 S 4 p,,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,48000.0,Eléctrica,Delantera,5.0,105.0,10500.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Negro,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,155000.0,Eléctrica,Delantera,5.0,123.0,9000.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Norte,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,99000.0,Eléctrica,Delantera,5.0,105.0,10500.0
+Ford Ka 1.0 Viral,Bs.As. G.B.A. Sur,1.0 Viral,,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,52000.0,Hidráulica,Delantera,4.0,65.0,6000.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Sur,1.5 S 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,78000.0,Eléctrica,Delantera,5.0,105.0,10500.0
+Ford Ka 1.6 PULSE TOP MT,Ubicación no encontrada,1.6 PULSE TOP MT,Rojo,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,44237.0,Asistida,4x2,4.0,95.0,5586.67
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,90100.0,Hidráulica,Delantera,5.0,63.0,6700.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Sur,1.6 Fly Viral 95cv,Negro,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,103045.0,Hidráulica,Delantera,5.0,95.0,6600.0
+Ford Ka 1.0 Fly Plus,Bs.As. G.B.A. Sur,1.0 Fly Plus,,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,124000.0,Hidráulica,Delantera,4.0,63.0,5300.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,50000.0,Eléctrica,Delantera,5.0,123.0,9500.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. Costa Atlántica,1.0 Fly Viral 63cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,80000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.5 S,Capital Federal,1.5 S,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,98500.0,Eléctrica,Delantera,5.0,120.0,9500.0
+Ford Ka 1.5 Sel 5 p,Bs.As. G.B.A. Oeste,1.5 Sel 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,142000.0,Eléctrica,Delantera,5.0,123.0,8300.0
+Ford Ka Se 4 Puertas Con Gnc,Bs.As. G.B.A. Oeste,se 4 puertas con Gnc,,Ford,Ka,2018,GNC,4.0,Manual,1.5,Hatchback,79000.0,Eléctrica,Delantera,5.0,123.0,9866.67
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Negro,Ford,Ka,2020,Nafta,4.0,Manual,1.5,Sedán,70000.0,Eléctrica,Delantera,5.0,123.0,9900.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,93000.0,Eléctrica,Delantera,5.0,123.0,8666.67
+Ford Ka 1.0 Ambiente,Mendoza,1.0 Ambiente,,Ford,Ka,2003,Nafta,3.0,Manual,1.0,Hatchback,224000.0,Hidráulica,Delantera,4.0,65.0,2666.67
+Ford Ka 1.5 S,Capital Federal,1.5 S,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,67500.0,Eléctrica,Delantera,5.0,120.0,9500.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Negro,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,193000.0,Eléctrica,Delantera,5.0,120.0,6900.0
+Ford Ka 1.5 sel + 2018 4 pts,Bs.As. G.B.A. Sur,,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,90000.0,Eléctrica,Delantera,5.0,123.0,11000.0
+Ford Ka 1.5 Se,Córdoba,1.5 Se,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,74000.0,Eléctrica,Delantera,5.0,120.0,10000.0
+Ford Ka 1.5 Sel At 5p,Bs.As. Costa Atlántica,1.5 Sel At 5p,Blanco,Ford,Ka,2019,Nafta,5.0,Automática,1.5,Hatchback,61000.0,Eléctrica,Delantera,5.0,123.0,13000.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Gris,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,79000.0,Eléctrica,Delantera,5.0,105.0,9500.0
+Ford Ka 1.0 Fly Viral 63cv,Buenos Aires Interior,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,78000.0,Hidráulica,Delantera,5.0,63.0,5000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,94000.0,Hidráulica,Delantera,5.0,63.0,6600.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,141000.0,Hidráulica,Delantera,5.0,63.0,5133.33
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Rojo,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,87000.0,Eléctrica,Delantera,5.0,120.0,9500.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,21000.0,Eléctrica,Delantera,5.0,123.0,13500.0
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,61000.0,Eléctrica,Delantera,5.0,105.0,10000.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,120000.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,47300.0,Eléctrica,Delantera,5.0,123.0,12800.0
+Ford Ka 1.5 Freestyle Sel Mt,Bs.As. G.B.A. Sur,1.5 Freestyle Sel Mt,Blanco,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,47500.0,Eléctrica,Delantera,5.0,123.0,14800.0
+Ford Ka 1.6,Bs.As. G.B.A. Oeste,1.6,,Ford,Ka,2002,Nafta,3.0,Manual,1.6,Hatchback,97000.0,Asistida,Delantera,4.0,95.0,4700.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Gris,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,114000.0,Eléctrica,Delantera,5.0,123.0,10500.0
+Ford Ka 1.5 Se 5 p,Capital Federal,1.5 Se 5 p,Negro,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,38000.0,Eléctrica,Delantera,5.0,105.0,12500.0
+Ford Ka 1.0 Fly 63cv,Córdoba,1.0 Fly 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,123700.0,Hidráulica,Delantera,5.0,63.0,5700.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,120000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.0 Fly Viral 63cv,Capital Federal,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,87000.0,Hidráulica,Delantera,5.0,63.0,5000.0
+Ford Ka 1.5 S 5 p,Capital Federal,1.5 S 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,57000.0,Eléctrica,Delantera,5.0,105.0,11500.0
+Ford Ka 1.5 Se,Capital Federal,1.5 Se,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,75000.0,Eléctrica,Delantera,5.0,120.0,7800.0
+Ford Ka 1.6 Tatoo Plus,Bs.As. G.B.A. Norte,1.6 Tatoo Plus,Negro,Ford,Ka,2008,Nafta,3.0,Manual,1.6,Hatchback,115000.0,Hidráulica,Delantera,4.0,95.0,4900.0
+Ford Ka 1.0 Fly Viral,Bs.As. G.B.A. Sur,1.0 Fly Viral,,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,191000.0,Hidráulica,Delantera,4.0,63.0,5500.0
+Ford Ka 1.0 Viral,Bs.As. G.B.A. Oeste,1.0 Viral,Negro,Ford,Ka,2011,Nafta,2.0,Manual,1.0,Hatchback,75000.0,Hidráulica,Delantera,5.0,63.0,5100.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Negro,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,64000.0,Eléctrica,Delantera,5.0,123.0,12500.0
+Ford Ka 1.6 Pulse Top 95cv,Capital Federal,1.6 Pulse Top 95cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,132000.0,Hidráulica,Delantera,5.0,95.0,5600.0
+Ford Ka 1.5 S 4 p,Capital Federal,1.5 S 4 p,Rojo,Ford,Ka,2021,Nafta,4.0,Manual,1.5,Sedán,50000.0,Eléctrica,Delantera,5.0,123.0,11000.0
+Ford Ka 1.6 Fly Viral,Ubicación no encontrada,1.6 Fly Viral,,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,119000.0,Hidráulica,Delantera,4.0,95.0,6500.0
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,80000.0,Eléctrica,Delantera,5.0,105.0,10700.0
+Ford Ka 1.5 Sel 5 p,San Luis,1.5 Sel 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,130000.0,Eléctrica,Delantera,5.0,105.0,8666.67
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,113000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.0 Fly Plus,Buenos Aires Interior,1.0 Fly Plus,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,175000.0,Hidráulica,Delantera,5.0,63.0,5500.0
+Ford Ka 1.5 Freestyle Sel At,Ubicación no encontrada,1.5 Freestyle Sel At,,Ford,Ka,2020,Nafta,5.0,Automática,1.5,Hatchback,85000.0,Eléctrica,Delantera,5.0,123.0,9000.0
+Ford Ka 1.6 Pulse Top 95cv,Buenos Aires Interior,1.6 Pulse Top 95cv,Gris,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,131000.0,Hidráulica,Delantera,5.0,95.0,6700.0
+Ford Ka 1.5 S,Bs.As. G.B.A. Norte,1.5 S,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,115000.0,Eléctrica,Delantera,5.0,123.0,6400.0
+Ford Ka 1.5 S MT,Ubicación no encontrada,1.5 S MT,White,Ford,Ka,2019,Nafta,5.0,Manual,1.0,Hatchback,47244.0,Asistida,4x2,5.0,123.0,9213.33
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Gris,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,114000.0,Eléctrica,Delantera,5.0,123.0,10500.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,146000.0,Hidráulica,Delantera,5.0,63.0,5533.33
+Ford Ka 1.6 Pulse Top 95cv,Ubicación no encontrada,1.6 Pulse Top 95cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,81000.0,Hidráulica,Delantera,5.0,95.0,5533.33
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Sur,1.5 S 5 p,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,95000.0,Eléctrica,Delantera,5.0,123.0,10400.0
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Norte,1.0 Fly 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,87000.0,Hidráulica,Delantera,5.0,63.0,5900.0
+Ford Ka 1.0 Fly Viral,Bs.As. G.B.A. Sur,1.0 Fly Viral,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,180000.0,Hidráulica,Delantera,4.0,63.0,5133.33
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Blanco,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,108200.0,Eléctrica,Delantera,5.0,120.0,8325.33
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Capital Federal,,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,108000.0,Hidráulica,Delantera,5.0,63.0,6900.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Gris,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,80000.0,Eléctrica,Delantera,5.0,120.0,10500.0
+Ford Ka 1.5 Se 4 p,Córdoba,1.5 Se 4 p,,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,88000.0,Eléctrica,Delantera,5.0,105.0,8600.0
+Ford Ka 1.5 S,Bs.As. G.B.A. Norte,1.5 S,Gris,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,72000.0,Eléctrica,Delantera,5.0,105.0,12000.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,89000.0,Hidráulica,Delantera,5.0,63.0,5900.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Norte,1.5 S 5 p,Negro,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,84000.0,Eléctrica,Delantera,5.0,123.0,9300.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,82000.0,Hidráulica,Delantera,5.0,63.0,6800.0
+Ford Ka 1.6 Fly Viral Usb/bluetooth,Córdoba,,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,80000.0,Hidráulica,Delantera,4.0,95.0,6000.0
+Ford Ka 1.5 Sel At 5p,Bs.As. G.B.A. Sur,1.5 Sel At 5p,Blanco,Ford,Ka,2019,Nafta,5.0,Automática,1.5,Hatchback,80000.0,Eléctrica,Delantera,5.0,123.0,13500.0
+Ford Ka 1.5 Sel 5 p,Bs.As. G.B.A. Sur,1.5 Sel 5 p,Blanco,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,14400.0,Eléctrica,Delantera,5.0,123.0,15000.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,154000.0,Eléctrica,Delantera,5.0,105.0,7933.33
+Ford Ka 1.0 Viral,Buenos Aires Interior,1.0 Viral,,Ford,Ka,2007,Nafta,3.0,Manual,1.0,Hatchback,150000.0,Hidráulica,Delantera,4.0,65.0,3666.67
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Ubicación no encontrada,,Azul,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,104000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Norte,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,66000.0,Eléctrica,Delantera,5.0,105.0,10500.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Negro,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,192200.0,Eléctrica,Delantera,5.0,120.0,6900.0
+Ford Ka 1.6 Action,Bs.As. G.B.A. Norte,1.6 Action,Negro,Ford,Ka,2007,Nafta,3.0,Manual,1.6,Hatchback,214000.0,Hidráulica,Delantera,4.0,95.0,4800.0
+Ford Ka 1.0 Fly Plus,Córdoba,1.0 Fly Plus,Negro,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,134500.0,Hidráulica,Delantera,4.0,63.0,4800.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,160000.0,Hidráulica,Delantera,5.0,63.0,4900.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,67000.0,Hidráulica,Delantera,5.0,95.0,6000.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,87000.0,Eléctrica,Delantera,5.0,105.0,9500.0
+Ford Ka 1.5 Sel At 5p,Bs.As. G.B.A. Norte,1.5 Sel At 5p,Blanco,Ford,Ka,2019,Nafta,5.0,Automática,1.5,Hatchback,90000.0,Eléctrica,Delantera,5.0,123.0,13500.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,175000.0,Hidráulica,Delantera,5.0,63.0,4533.33
+Ford Ka 1.3 Plus Aa,Bs.As. G.B.A. Oeste,1.3 Plus Aa,,Ford,Ka,1999,Nafta,3.0,Manual,1.3,Hatchback,95000.0,Hidráulica,Delantera,4.0,67.0,2533.33
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. G.B.A. Oeste,1.6 Pulse Top 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,108000.0,Hidráulica,Delantera,5.0,95.0,6700.0
+Ford Ka 1.0 Tattoo,Bs.As. G.B.A. Oeste,1.0 Tattoo,Gris,Ford,Ka,2007,Nafta,3.0,Manual,1.0,Hatchback,200000.0,Mecánica,Delantera,4.0,65.0,3000.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,83000.0,Hidráulica,Delantera,5.0,95.0,5666.67
+Ford Ka 1.6 Pulse,Bs.As. G.B.A. Sur,1.6 Pulse,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,119000.0,Hidráulica,Delantera,4.0,95.0,6000.0
+Ford Ka 1.0 Fly Viral 63cv,Buenos Aires Interior,1.0 Fly Viral 63cv,Blanco,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,160000.0,Hidráulica,Delantera,5.0,63.0,4200.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Blanco,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,68000.0,Eléctrica,Delantera,5.0,123.0,9200.0
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Sur,1.5 Sel,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,70000.0,Eléctrica,Delantera,5.0,105.0,11500.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Rojo,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,90000.0,Eléctrica,Delantera,5.0,120.0,8900.0
+Ford Ka sel,Ubicación no encontrada,sel,Rojo,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Hatchback,90000.0,Eléctrica,Delantera,5.0,105.0,8066.67
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Norte,1.5 Sel,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,53800.0,Eléctrica,Delantera,5.0,123.0,14800.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,72300.0,Eléctrica,Delantera,5.0,105.0,8600.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,Rojo,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,100000.0,Eléctrica,Delantera,5.0,105.0,10000.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Negro,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,129000.0,Eléctrica,Delantera,5.0,123.0,8266.67
+Ford Ka 1.0 Tattoo,Córdoba,1.0 Tattoo,,Ford,Ka,2007,Nafta,3.0,Manual,1.0,Hatchback,190000.0,Hidráulica,Delantera,4.0,65.0,3000.0
+Ford Ka 1.0 Fly Viral 63cv,La Rioja,1.0 Fly Viral 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,100000.0,Hidráulica,Delantera,5.0,63.0,4666.67
+Ford Ka 1.0 Viral,Bs.As. G.B.A. Norte,1.0 Viral,,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,83000.0,Hidráulica,Delantera,4.0,65.0,5600.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,64000.0,Eléctrica,Delantera,5.0,105.0,9500.0
+Ford Ka 1.5 Sel 5 p,Ubicación no encontrada,1.5 Sel 5 p,Negro,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,78000.0,Eléctrica,Delantera,5.0,123.0,10593.33
+Ford Ka 1.5 Se 5 p,Córdoba,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,50000.0,Eléctrica,Delantera,5.0,105.0,9000.0
+Ford Ka 1.6 Fly Viral 95cv,Mendoza,1.6 Fly Viral 95cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,58000.0,Hidráulica,Delantera,5.0,95.0,7000.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Sur,1.6 Fly Viral 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,45500.0,Hidráulica,Delantera,5.0,95.0,6900.0
+Ford Ka 1.5 Se At,Ubicación no encontrada,1.5 Se At,White,Ford,Ka,2019,Nafta,5.0,Automático,1.0,Hatchback,59761.0,Asistida,4x2,5.0,123.0,10493.33
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,Blanco,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,45000.0,Eléctrica,Delantera,5.0,123.0,8000.0
+Ford Ka 1.6 Fly Viral,Ubicación no encontrada,1.6 Fly Viral,Negro,Ford,Ka,2009,Nafta,3.0,Manual,1.6,Hatchback,135000.0,Hidráulica,Delantera,4.0,95.0,4600.0
+Ford Ka 1.0 Viral,Mendoza,1.0 Viral,,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,122000.0,Hidráulica,Delantera,4.0,65.0,4200.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,64934.0,Eléctrica,Delantera,5.0,123.0,7643.33
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Negro,Ford,Ka,2019,Nafta/GNC,5.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,123.0,9900.0
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Sur,1.0 Fly 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,135000.0,Hidráulica,Delantera,5.0,63.0,3666.67
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,Azul,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,104700.0,Hidráulica,Delantera,5.0,63.0,6200.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,69000.0,Hidráulica,Delantera,5.0,63.0,7100.0
+Ford Ka 1.0 Fly Viral 63cv,Buenos Aires Interior,1.0 Fly Viral 63cv,Negro,Ford,Ka,2011,Nafta/GNC,3.0,Manual,1.0,Hatchback,140000.0,Hidráulica,Delantera,5.0,63.0,6200.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Norte,1.5 S 5 p,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,79000.0,Eléctrica,Delantera,5.0,123.0,10800.0
+Ford Ka 1.6 Pulse Top 95cv,Buenos Aires Interior,1.6 Pulse Top 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,120000.0,Hidráulica,Delantera,5.0,95.0,5333.33
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Norte,1.6 Fly Viral 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,80000.0,Hidráulica,Delantera,5.0,95.0,7500.0
+Ford Ka 1.6 Fly Viral Usb/bluetooth,Bs.As. G.B.A. Oeste,,Negro,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,112000.0,Hidráulica,Delantera,5.0,95.0,4900.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,105000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,123.0,9260.0
+Ford Ka 1.5 Sel 5 p,Ubicación no encontrada,1.5 Sel 5 p,Negro,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,123.0,10400.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Blanco,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,104000.0,Eléctrica,Delantera,5.0,105.0,8333.33
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,130000.0,Hidráulica,Delantera,5.0,95.0,7500.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,45000.0,Eléctrica,Delantera,5.0,105.0,11500.0
+Ford Ka 1.5 Se 5 p,Capital Federal,1.5 Se 5 p,,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,39200.0,Eléctrica,Delantera,5.0,123.0,12900.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Plateado,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,92000.0,Hidráulica,Delantera,5.0,95.0,6900.0
+Ford Ka 1.5 Sel 5 p,Buenos Aires Interior,1.5 Sel 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,148000.0,Eléctrica,Delantera,5.0,105.0,9400.0
+Ford Ka 1.5 S MT,Ubicación no encontrada,1.5 S MT,Grey,Ford,Ka,2020,Nafta,4.0,Manual,1.0,Hatchback,60000.0,Asistida,4x2,5.0,123.0,9393.33
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Norte,1.5 S 5 p,Plateado,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,80000.0,Eléctrica,Delantera,5.0,105.0,9650.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Sur,1.5 S 5 p,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,45000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.5 Se,Córdoba,1.5 Se,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,70000.0,Eléctrica,Delantera,5.0,120.0,10900.0
+Ford Ka 1.5 S 4 p,Bs.As. Costa Atlántica,1.5 S 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,103000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. G.B.A. Sur,1.6 Pulse Top 95cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,89000.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.0 Viral,Bs.As. G.B.A. Sur,1.0 Viral,,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,96000.0,Hidráulica,Delantera,4.0,65.0,5200.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,160000.0,Hidráulica,Delantera,5.0,63.0,4000.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Sur,1.5 S 5 p,Gris,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,83000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.5 Sel 5 p,Ubicación no encontrada,1.5 Sel 5 p,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,76000.0,Eléctrica,Delantera,5.0,105.0,11300.0
+Ford Ka 1.0 Fly Viral 63cv,Capital Federal,1.0 Fly Viral 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,107000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.0 Fly Viral 63cv,Capital Federal,1.0 Fly Viral 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,140000.0,Hidráulica,Delantera,5.0,63.0,5200.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Blanco,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,123000.0,Hidráulica,Delantera,5.0,63.0,5333.33
+Ford Ka 1.0 Fly 63cv,Misiones,1.0 Fly 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,91000.0,Hidráulica,Delantera,5.0,63.0,5500.0
+Ford Ka 1.0 Fly Viral 63cv,Capital Federal,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,110000.0,Hidráulica,Delantera,5.0,63.0,6600.0
+Ford Ka 1.0 Fly 63cv,Santa Fe,1.0 Fly 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,135000.0,Hidráulica,Delantera,5.0,63.0,4000.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,154150.0,Eléctrica,Delantera,5.0,105.0,7933.33
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Blanco,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,71000.0,Eléctrica,Delantera,5.0,120.0,9900.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Plateado,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,121000.0,Eléctrica,Delantera,5.0,105.0,8900.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,105000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.6 Pulse,Bs.As. G.B.A. Oeste,1.6 Pulse,,Ford,Ka,2009,Nafta,3.0,Manual,1.6,Hatchback,170000.0,Hidráulica,Delantera,4.0,95.0,4800.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,260000.0,Eléctrica,Delantera,5.0,123.0,5666.67
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Norte,1.5 Sel,Negro,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,86000.0,Eléctrica,Delantera,5.0,120.0,9650.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,93700.0,Eléctrica,Delantera,5.0,105.0,9000.0
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Norte,1.0 Fly 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,120000.0,Hidráulica,Delantera,5.0,63.0,5000.0
+Ford Ka 1.0 Fly Viral 63cv,Santa Fe,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,100000.0,Hidráulica,Delantera,5.0,63.0,5500.0
+Ford Ka 1.0 Fly 63cv,Ubicación no encontrada,1.0 Fly 63cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,60000.0,Hidráulica,Delantera,5.0,63.0,5066.67
+Ford Ka 1.5 Se 5 p,Capital Federal,1.5 Se 5 p,Rojo,Ford,Ka,2021,Nafta,5.0,Manual,1.5,Hatchback,17400.0,Eléctrica,Delantera,5.0,123.0,14500.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Negro,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,193000.0,Eléctrica,Delantera,5.0,120.0,6900.0
+Ford Ka 1.0 Tattoo,Bs.As. G.B.A. Sur,1.0 Tattoo,,Ford,Ka,2004,Nafta,3.0,Manual,1.0,Hatchback,214000.0,Hidráulica,Delantera,4.0,65.0,3333.33
+Ford Ka 1.5 S,Capital Federal,1.5 S,Negro,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,110000.0,Eléctrica,Delantera,5.0,120.0,8000.0
+Ford Ka 1.5 Se At 5 p,Capital Federal,1.5 Se At 5 p,Gris,Ford,Ka,2019,Nafta,5.0,Automática,1.5,Hatchback,65500.0,Eléctrica,Delantera,5.0,123.0,11900.0
+Ford Ka 1.0 Tattoo,Bs.As. G.B.A. Norte,1.0 Tattoo,,Ford,Ka,2005,Nafta,3.0,Manual,1.0,Hatchback,172000.0,Hidráulica,Delantera,4.0,65.0,2480.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Bs.As. G.B.A. Sur,,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,120200.0,Hidráulica,Delantera,4.0,63.0,4700.0
+Ford Ka 1.5 Sel 4 p,Bs.As. G.B.A. Norte,1.5 Sel 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,145000.0,Eléctrica,Delantera,5.0,123.0,8000.0
+Ford Ka 1.5 Se,Capital Federal,1.5 Se,Plateado,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,93000.0,Eléctrica,Delantera,5.0,120.0,9500.0
+Ford Ka 1.5 S MT,Ubicación no encontrada,1.5 S MT,Plateado,Ford,Ka,2018,Nafta,5.0,Manual,1.0,Hatchback,92552.0,Asistida,4x2,5.0,123.0,7686.67
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Norte,1.5 Se 5 p,Plateado,Ford,Ka,2018,Nafta/GNC,5.0,Manual,1.5,Hatchback,125000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.0 Fly 63cv,Buenos Aires Interior,1.0 Fly 63cv,Blanco,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,205000.0,Hidráulica,Delantera,5.0,63.0,5200.0
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. G.B.A. Norte,1.6 Pulse Top 95cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,89000.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.5 Se,Bs.As. G.B.A. Norte,1.5 Se,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,73000.0,Eléctrica,Delantera,5.0,105.0,9900.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Norte,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,76000.0,Eléctrica,Delantera,5.0,105.0,8800.0
+Ford Ka 1.5 Freestyle Sel Mt,Ubicación no encontrada,1.5 Freestyle Sel Mt,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,60000.0,Eléctrica,Delantera,5.0,123.0,12900.0
+Ford Ka 1.6 Pulse 95cv,Bs.As. G.B.A. Oeste,1.6 Pulse 95cv,Blanco,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,130000.0,Hidráulica,Delantera,5.0,95.0,6200.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Sur,1.5 Se 5 p,Rojo,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,85000.0,Eléctrica,Delantera,5.0,123.0,10200.0
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Norte,1.0 Fly 63cv,Blanco,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,89000.0,Asistida,Delantera,5.0,63.0,6700.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Norte,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,53000.0,Hidráulica,Delantera,5.0,63.0,6800.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,96000.0,Eléctrica,Delantera,5.0,105.0,9000.0
+Ford Ka 1.0 Fly Viral 63cv,Entre Ríos,1.0 Fly Viral 63cv,,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,59000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,80000.0,Hidráulica,Delantera,5.0,63.0,5666.67
+Ford Ka 1.5 S 5 p,Capital Federal,1.5 S 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,91700.0,Eléctrica,Delantera,5.0,105.0,9800.0
+Ford Ka 1.5 Se 4 p,Capital Federal,1.5 Se 4 p,,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,105000.0,Eléctrica,Delantera,5.0,105.0,9800.0
+Ford Ka 1.6 Pulse Top 95cv,Ubicación no encontrada,1.6 Pulse Top 95cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,140000.0,Hidráulica,Delantera,5.0,95.0,7500.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,38000.0,Hidráulica,Delantera,5.0,63.0,8000.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,87000.0,Hidráulica,Delantera,5.0,95.0,7000.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Norte,1.6 Fly Viral 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,63000.0,Hidráulica,Delantera,5.0,95.0,6499.0
+Ford Ka 1.5 S 5 p,Capital Federal,1.5 S 5 p,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,76000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Norte,1.5 Sel,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,69000.0,Eléctrica,Delantera,5.0,120.0,10900.0
+Ford Ka 1.5 Se At 4 p,Bs.As. G.B.A. Norte,1.5 Se At 4 p,,Ford,Ka,2019,Nafta,4.0,Automática,1.5,Sedán,28000.0,Eléctrica,Delantera,5.0,123.0,11000.0
+Ford Ka 1.5 S 5 p,Córdoba,1.5 S 5 p,Negro,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,50000.0,Eléctrica,Delantera,5.0,123.0,9333.33
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,120000.0,Hidráulica,Delantera,5.0,63.0,7000.0
+Ford Ka 1.5 Sel 5 p,Buenos Aires Interior,1.5 Sel 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,105.0,12000.0
+Ford Ka 1.5 Sel 5 p,Ubicación no encontrada,1.5 Sel 5 p,,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,42000.0,Eléctrica,Delantera,5.0,123.0,13200.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Sur,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,97000.0,Eléctrica,Delantera,5.0,105.0,11000.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Negro,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,102060.0,Eléctrica,Delantera,5.0,123.0,8637.33
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Negro,Ford,Ka,2020,Nafta,4.0,Manual,1.5,Sedán,48000.0,Eléctrica,Delantera,5.0,123.0,9900.0
+Ford Ka 1.5 SE MT,Ubicación no encontrada,1.5 SE MT,Black,Ford,Ka,2018,Nafta,4.0,Manual,1.0,Hatchback,70451.0,Asistida,4x2,5.0,123.0,7973.33
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Capital Federal,,Negro,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,100000.0,Hidráulica,Delantera,5.0,63.0,5100.0
+Ford Ka 1.6 Plus Tattoo,Bs.As. G.B.A. Sur,1.6 Plus Tattoo,,Ford,Ka,2007,Nafta,3.0,Manual,1.6,Hatchback,155000.0,Hidráulica,Delantera,4.0,95.0,3466.67
+Ford Ka 1.6 Fly Viral 95cv,Capital Federal,1.6 Fly Viral 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,68600.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.5 Sel 5 p,Bs.As. G.B.A. Norte,1.5 Sel 5 p,Plateado,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,33000.0,Eléctrica,Delantera,5.0,123.0,11900.0
+Ford Ka 1.6 Fly Viral,Ubicación no encontrada,1.6 Fly Viral,Negro,Ford,Ka,2009,Nafta,3.0,Manual,1.6,Hatchback,170000.0,Hidráulica,Delantera,4.0,95.0,4600.0
+Ford Ka 1.0 Plus Aa Tattoo,Buenos Aires Interior,1.0 Plus Aa Tattoo,,Ford,Ka,2007,Nafta,3.0,Manual,1.0,Hatchback,140000.0,Hidráulica,Delantera,4.0,65.0,5500.0
+Ford Ka 1.5 Sel,Ubicación no encontrada,1.5 Sel,Negro,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,66000.0,Eléctrica,Delantera,5.0,105.0,11500.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Negro,Ford,Ka,2021,Nafta,5.0,Manual,1.5,Hatchback,30000.0,Eléctrica,Delantera,5.0,123.0,10333.33
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Rojo,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,59000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.0 Fly Viral,Buenos Aires Interior,1.0 Fly Viral,Gris,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,110000.0,Hidráulica,Delantera,4.0,63.0,7500.0
+Ford Ka 1.5 S 5 p,Bs.As. Costa Atlántica,1.5 S 5 p,Blanco,Ford,Ka,2018,Diésel,4.0,Manual,1.5,Hatchback,100000.0,Eléctrica,Delantera,5.0,123.0,21000.0
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Norte,1.5 Sel,Blanco,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,89300.0,Eléctrica,Delantera,5.0,120.0,9800.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Plateado,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,79000.0,Eléctrica,Delantera,5.0,123.0,8600.0
+Ford Ka 1.0 Fly,Bs.As. G.B.A. Sur,1.0 Fly,Rojo,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,209890.0,Hidráulica,Delantera,4.0,63.0,5500.0
+Ford Ka 1.5 Se,Bs.As. G.B.A. Sur,1.5 Se,Rojo,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,31500.0,Eléctrica,Delantera,5.0,123.0,13900.0
+Ford Ka top pulse,Córdoba,top pulse,Plateado,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Coupé,182000.0,Hidráulica,Delantera,4.0,95.0,6500.0
+Ford Ka 1.5 Freestyle Sel Mt,Capital Federal,1.5 Freestyle Sel Mt,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,77777.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.5 Sel 4 p,Corrientes,1.5 Sel 4 p,Rojo,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,107000.0,Eléctrica,Delantera,5.0,105.0,6600.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Oeste,1.6 Fly Viral 95cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,130000.0,Hidráulica,Delantera,5.0,95.0,5666.67
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Sur,1.5 Se 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,221000.0,Eléctrica,Delantera,5.0,123.0,6000.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Norte,1.5 S 5 p,,Ford,Ka,2021,Nafta,5.0,Manual,1.5,Hatchback,30000.0,Eléctrica,Delantera,5.0,123.0,11700.0
+Ford Ka 1.5 Se At,Ubicación no encontrada,1.5 Se At,Blanco,Ford,Ka,2019,Nafta,5.0,Automático,1.0,Hatchback,24000.0,Asistida,4x2,5.0,123.0,10213.33
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,60000.0,Eléctrica,Delantera,5.0,123.0,10376.67
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. G.B.A. Sur,1.6 Pulse Top 95cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,105000.0,Hidráulica,Delantera,5.0,95.0,6200.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,70000.0,Eléctrica,Delantera,5.0,123.0,6390.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Sur,1.6 Fly Viral 95cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,125000.0,Hidráulica,Delantera,5.0,95.0,5200.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Sur,1.5 Se 5 p,Blanco,Ford,Ka,2017,Nafta/GNC,5.0,Manual,1.5,Hatchback,90000.0,Hidráulica,Delantera,5.0,105.0,10000.0
+Ford Ka 1.5 Sel 5 p,Corrientes,1.5 Sel 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,108714.0,Eléctrica,Delantera,5.0,105.0,9000.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,111111.0,Hidráulica,Delantera,5.0,63.0,5000.0
+Ford Ka 1.5 Freestyle Sel At,Ubicación no encontrada,1.5 Freestyle Sel At,,Ford,Ka,2019,Nafta,5.0,Automática,1.5,Hatchback,88000.0,Eléctrica,Delantera,5.0,123.0,11000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,130000.0,Hidráulica,Delantera,5.0,63.0,4666.67
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Norte,1.0 Fly Viral 63cv,,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,135000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,109800.0,Hidráulica,Delantera,5.0,63.0,5036.67
+Ford Ka S 1.5l Sedan 5 Puertas Modelo 2019 0km,Ubicación no encontrada,1.5 Se 5 p,Blanco,Ford,Ka,2451,Nafta,60252.0,Manual,1.5,Hatchback,100000.0,Eléctrica,Delantera,5.0,123.0,14800.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,78000.0,Eléctrica,Delantera,5.0,105.0,10000.0
+Ford Ka 1.5 S 4 p,Bs.As. G.B.A. Oeste,1.5 S 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,95000.0,Eléctrica,Delantera,5.0,123.0,7500.0
+Ford Ka 1.6 Pulse 95cv,Bs.As. G.B.A. Norte,1.6 Pulse 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,21500.0,Hidráulica,Delantera,5.0,95.0,8900.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,117000.0,Hidráulica,Delantera,5.0,63.0,5766.67
+Ford Ka 1.0 Tattoo,Bs.As. G.B.A. Oeste,1.0 Tattoo,Gris,Ford,Ka,2002,Nafta,3.0,Manual,1.0,Hatchback,290000.0,Mecánica,Delantera,4.0,65.0,2666.67
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Plateado,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,113000.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.6 Pulse,Bs.As. G.B.A. Norte,1.6 Pulse,,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,150000.0,Hidráulica,Delantera,4.0,95.0,6000.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Ubicación no encontrada,,Negro,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,138000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 S 5 p,Córdoba,1.5 S 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,96750.0,Eléctrica,Delantera,5.0,105.0,9900.0
+Ford Ka 1.0 Fly Viral,Ubicación no encontrada,1.0 Fly Viral,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,121700.0,Hidráulica,Delantera,4.0,63.0,5800.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Norte,1.5 S 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,83000.0,Eléctrica,Delantera,5.0,123.0,8666.67
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Plateado,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,88630.0,Eléctrica,Delantera,5.0,123.0,10900.0
+"Ford Ka 1.6 2007, U$s 4300",Bs.As. G.B.A. Sur,1.6 zetec rocam viral,Plateado,Ford,Ka,2007,Nafta,3.0,Manual,1.6,Sedán,125000.0,Mecánica,Delantera,4.0,65.0,4300.0
+Ford Ka 1.5 Sel 5 p,Capital Federal,1.5 Sel 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,99000.0,Eléctrica,Delantera,5.0,123.0,9500.0
+Ford Ka 1.5 Sel 4 p,Córdoba,1.5 Sel 4 p,Naranja,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,99000.0,Eléctrica,Delantera,5.0,123.0,8333.33
+Ford Ka 1.5 S MT,Ubicación no encontrada,1.5 S MT,Blanco,Ford,Ka,2019,Nafta,4.0,Manual,1.0,Hatchback,24522.0,Asistida,4x2,5.0,123.0,9780.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. Costa Atlántica,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,133000.0,Hidráulica,Delantera,5.0,63.0,6600.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Norte,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,127000.0,Hidráulica,Delantera,5.0,63.0,5800.0
+Ford Ka 1.5 S,Tucumán,1.5 S,Negro,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,99000.0,Eléctrica,Delantera,5.0,120.0,7000.0
+Ford Ka 1.5 Sel 5 p,Ubicación no encontrada,1.5 Sel 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,62000.0,Eléctrica,Delantera,5.0,105.0,11200.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,79781.0,Eléctrica,Delantera,5.0,123.0,8400.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Plateado,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,50000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. G.B.A. Sur,1.6 Pulse Top 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,50000.0,Hidráulica,Delantera,5.0,95.0,7000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,119000.0,Hidráulica,Delantera,5.0,63.0,5800.0
+Ford Ka 1.0 Fly Viral 63cv,Capital Federal,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,147000.0,Hidráulica,Delantera,5.0,63.0,5400.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Blanco,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,124000.0,Eléctrica,Delantera,5.0,120.0,8350.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,89000.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Azul,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,130000.0,Hidráulica,Delantera,5.0,63.0,4833.33
+Ford Ka 1.0 Fly 63cv,Córdoba,1.0 Fly 63cv,Negro,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,140000.0,Hidráulica,Delantera,5.0,63.0,4733.33
+Ford Ka 1.5 Se,Bs.As. G.B.A. Sur,1.5 Se,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,70000.0,Eléctrica,Delantera,5.0,105.0,8990.0
+Ford Ka 1.0 Fly Viral,Bs.As. G.B.A. Sur,1.0 Fly Viral,Azul,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,127000.0,Hidráulica,Delantera,4.0,63.0,5700.0
+Ford Ka 1.5 Se 5 p,Capital Federal,1.5 Se 5 p,Rojo,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,100000.0,Eléctrica,Delantera,5.0,123.0,9800.0
+Ford Ka 1.5 S 5 p,Buenos Aires Interior,1.5 S 5 p,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,77000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka Pulse Top 1.6,Bs.As. G.B.A. Norte,Pulse Top 1.6,,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,170000.0,Hidráulica,Delantera,4.0,65.0,3933.33
+Ford Ka 1.0 Fly,Córdoba,1.0 Fly,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,180000.0,Hidráulica,Delantera,4.0,63.0,3333.33
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Blanco,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,55000.0,Eléctrica,Delantera,5.0,123.0,9060.0
+Ford Ka 1.0 Fly 63cv,La Rioja,1.0 Fly 63cv,Blanco,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,180000.0,Hidráulica,Delantera,5.0,63.0,4333.33
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Buenos Aires Interior,,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,80000.0,Hidráulica,Delantera,4.0,63.0,5800.0
+Ford Ka 1.5 Se,Bs.As. G.B.A. Norte,1.5 Se,Blanco,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Hatchback,120000.0,Eléctrica,Delantera,5.0,105.0,8700.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Gris,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,59000.0,Eléctrica,Delantera,5.0,105.0,10800.0
+Ford Ka 1.5 Sel,Córdoba,1.5 Sel,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,122800.0,Eléctrica,Delantera,5.0,123.0,9000.0
+Ford Ka 1.0 Energy,Bs.As. G.B.A. Oeste,1.0 Energy,,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,136000.0,Hidráulica,Delantera,4.0,65.0,4733.33
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Sur,1.5 Sel,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,77000.0,Eléctrica,Delantera,5.0,120.0,8866.67
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Blanco,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,120.0,10000.0
+Ford Ka 1.0 Fly Viral 63cv,Capital Federal,1.0 Fly Viral 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,88000.0,Hidráulica,Delantera,5.0,63.0,5800.0
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Plateado,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,71000.0,Eléctrica,Delantera,5.0,123.0,11000.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,Plateado,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,135000.0,Eléctrica,Delantera,5.0,123.0,9900.0
+Ford Ka 1.5 Se 4 p,Bs.As. G.B.A. Norte,1.5 Se 4 p,,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,81800.0,Eléctrica,Delantera,5.0,105.0,11700.0
+Ford Ka 1.5 S,Bs.As. G.B.A. Sur,1.5 S,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,55000.0,Eléctrica,Delantera,5.0,105.0,10000.0
+Ford Ka 1.0 Tattoo,Entre Ríos,1.0 Tattoo,,Ford,Ka,2005,Nafta,3.0,Manual,1.0,Hatchback,170000.0,Hidráulica,Delantera,4.0,65.0,4500.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Negro,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,108000.0,electronic,Delantera,5.0,105.0,12000.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Gris,Ford,Ka,2021,Nafta,5.0,Manual,1.5,Hatchback,23000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,94000.0,Eléctrica,Delantera,5.0,105.0,10000.0
+Ford Ka 1.6 Action,Ubicación no encontrada,1.6 Action,Celeste,Ford,Ka,2008,Nafta,3.0,Manual,1.6,Hatchback,128000.0,Hidráulica,Delantera,4.0,95.0,5700.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Rojo,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,200000.0,Eléctrica,Delantera,5.0,123.0,7000.0
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Norte,1.0 Fly 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,111000.0,Hidráulica,Delantera,5.0,63.0,6100.0
+Ford Ka 1.5 Se 4 p,Bs.As. G.B.A. Norte,1.5 Se 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,44900.0,Eléctrica,Delantera,5.0,123.0,11800.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,120.0,10000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,145000.0,Hidráulica,Delantera,5.0,63.0,7000.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Norte,1.6 Fly Viral 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,129000.0,Hidráulica,Delantera,5.0,95.0,5733.33
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Sur,1.5 Se 5 p,Blanco,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,62263.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Blanco,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,112000.0,Eléctrica,Delantera,5.0,123.0,8000.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,154150.0,Eléctrica,Delantera,5.0,105.0,7933.33
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Negro,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,70000.0,Eléctrica,Delantera,5.0,120.0,7500.0
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Norte,1.5 Sel,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,104000.0,Eléctrica,Delantera,5.0,120.0,9000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,52300.0,Hidráulica,Delantera,5.0,63.0,6700.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. Costa Atlántica,1.6 Fly Viral 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,110000.0,Hidráulica,Delantera,5.0,95.0,6200.0
+Ford Ka 1.0 Fly Viral,Ubicación no encontrada,1.0 Fly Viral,Gris,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,111111.0,Hidráulica,Delantera,4.0,63.0,6500.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,118000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 S 5 p,Capital Federal,1.5 S 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,87000.0,Eléctrica,Delantera,5.0,105.0,9000.0
+Ford Ka 1.5 S 4 p,Bs.As. G.B.A. Norte,1.5 S 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,105000.0,Eléctrica,Delantera,5.0,123.0,9000.0
+Ford Ka 1.0 Viral,Ubicación no encontrada,1.0 Viral,,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,130000.0,Hidráulica,Delantera,4.0,65.0,6500.0
+Ford Ka 1.5 S,Córdoba,1.5 S,Rojo,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,90000.0,Eléctrica,Delantera,5.0,120.0,8500.0
+Ford Ka 1.6 Fly Viral Usb/bluetooth,Ubicación no encontrada,,,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,195000.0,Hidráulica,Delantera,5.0,95.0,5133.33
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,108000.0,Hidráulica,Delantera,5.0,63.0,5500.0
+Ford Ka 1.6 Pulse,Bs.As. G.B.A. Oeste,1.6 Pulse,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,257000.0,Hidráulica,Delantera,4.0,95.0,4800.0
+Ford Ka 1.0 Fly 63cv,Ubicación no encontrada,1.0 Fly 63cv,Gris,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,150000.0,Hidráulica,Delantera,5.0,63.0,6300.0
+Ford Ka 1.6 Pulse,Capital Federal,1.6 Pulse,,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,48600.0,Hidráulica,Delantera,4.0,95.0,7000.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Sur,1.6 Fly Viral 95cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,74000.0,Hidráulica,Delantera,5.0,95.0,5800.0
+Ford Ka 1.0 Fly Viral 63cv,Capital Federal,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,117000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,132000.0,Hidráulica,Delantera,5.0,63.0,4990.0
+Ford Ka 1.3 I,Bs.As. G.B.A. Oeste,1.3 I,,Ford,Ka,1999,Nafta,3.0,Manual,1.3,Hatchback,11111.0,Hidráulica,Delantera,4.0,67.0,2666.67
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,Negro,Ford,Ka,2013,Nafta,2.0,Manual,1.0,Coupé,82000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.5 Se,Bs.As. G.B.A. Oeste,1.5 Se,Blanco,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,79500.0,Eléctrica,Delantera,5.0,120.0,9500.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Sur,1.5 S 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,100000.0,Eléctrica,Delantera,5.0,123.0,9400.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,50000.0,Eléctrica,Delantera,5.0,123.0,11200.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,123.0,9260.0
+Ford Ka 1.5 Se,Buenos Aires Interior,1.5 Se,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,70000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Bs.As. G.B.A. Norte,,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,190000.0,Hidráulica,Delantera,5.0,63.0,5500.0
+Ford Ka 1.5 S 4 p,Capital Federal,1.5 S 4 p,Negro,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,72500.0,Eléctrica,Delantera,5.0,123.0,9900.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Blanco,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,78978.0,electronic,Delantera,5.0,105.0,9000.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,95000.0,Eléctrica,Delantera,5.0,105.0,9000.0
+Ford Ka 1.5 Se 5 p,Capital Federal,1.5 Se 5 p,Plateado,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,57515.0,Eléctrica,Delantera,5.0,123.0,12500.0
+Ford Ka 1.5 Se 4 p,Bs.As. G.B.A. Norte,1.5 Se 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,107000.0,Eléctrica,Delantera,5.0,123.0,9500.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,132000.0,Hidráulica,Delantera,5.0,63.0,6700.0
+Ford Ka 1.5 Sel,Ubicación no encontrada,1.5 Sel,Blanco,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,104000.0,Eléctrica,Delantera,5.0,120.0,11000.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Plateado,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,56000.0,Eléctrica,Delantera,5.0,123.0,9000.0
+Ford Ka 1.6 Fly Viral,Bs.As. G.B.A. Norte,1.6 Fly Viral,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,136000.0,Hidráulica,Delantera,4.0,95.0,6500.0
+Ford Ka 1.0 Fly 63cv,Ubicación no encontrada,1.0 Fly 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,120000.0,Hidráulica,Delantera,5.0,63.0,7000.0
+Ford Ka 1.5 Se At 4 p,Capital Federal,1.5 Se At 4 p,,Ford,Ka,2019,Nafta,4.0,Automática,1.5,Sedán,12800.0,Eléctrica,Delantera,5.0,123.0,12900.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,123.0,9260.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,145000.0,Eléctrica,Delantera,5.0,123.0,7666.67
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,49000.0,Eléctrica,Delantera,5.0,123.0,12900.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Negro,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,145000.0,Hidráulica,Delantera,5.0,63.0,5066.67
+Ford Ka 1.5 Sel,Córdoba,1.5 Sel,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,80000.0,Eléctrica,Delantera,5.0,105.0,10500.0
+Ford Ka 1.6 Pulse Top 95cv,Buenos Aires Interior,1.6 Pulse Top 95cv,Gris,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,145000.0,Hidráulica,Delantera,5.0,95.0,6200.0
+Ford Ka 1.5 SE MT,Ubicación no encontrada,1.5 SE MT,White,Ford,Ka,2019,Nafta,5.0,Manual,1.0,Hatchback,41026.0,Asistida,4x2,5.0,123.0,9700.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,93000.0,Eléctrica,Delantera,5.0,123.0,13000.0
+Ford Ka 1.5 S 5 p,Capital Federal,1.5 S 5 p,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,42000.0,Eléctrica,Delantera,5.0,123.0,14000.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Negro,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,33000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.5 S,Bs.As. G.B.A. Oeste,1.5 S,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,105000.0,Eléctrica,Delantera,5.0,123.0,8000.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Norte,1.6 Fly Viral 95cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,135000.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Blanco,Ford,Ka,2020,Nafta,4.0,Manual,1.5,Sedán,66200.0,Eléctrica,Delantera,5.0,123.0,9675.99
+Ford Ka 1.0 Tattoo,Buenos Aires Interior,1.0 Tattoo,Gris,Ford,Ka,2002,Nafta,3.0,Manual,1.0,Hatchback,189000.0,Asistida,Delantera,4.0,65.0,3333.33
+Ford Ka 1.0 Fly Plus,Bs.As. G.B.A. Sur,1.0 Fly Plus,Blanco,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,150000.0,Hidráulica,Delantera,4.0,63.0,5100.0
+Ford Ka 1.3 Confort,Bs.As. G.B.A. Oeste,1.3 Confort,,Ford,Ka,1997,Nafta,3.0,Manual,1.3,Hatchback,111111.0,,Delantera,4.0,67.0,1800.0
+Ford Ka 1.5 SEL Automático,Córdoba,1.5 SEL Automático,,Ford,Ka,2019,Nafta,4.0,Automática,1.5,Hatchback,78000.0,Eléctrica,Delantera,5.0,123.0,10533.33
+Ford Ka 1.6 Plus Tattoo,Capital Federal,1.6 Plus Tattoo,,Ford,Ka,2007,Nafta,3.0,Manual,1.6,Hatchback,57000.0,Hidráulica,Delantera,4.0,95.0,6000.0
+Ford Ka 1.5 S,Bs.As. G.B.A. Sur,1.5 S,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,1111.0,Eléctrica,Delantera,5.0,105.0,9700.0
+Ford Ka 1.5 Se,Bs.As. G.B.A. Oeste,1.5 Se,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,94000.0,Eléctrica,Delantera,5.0,105.0,8333.33
+Ford Ka 1.5 S 4 p,Buenos Aires Interior,1.5 S 4 p,Gris,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,52000.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Gris,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,46000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. G.B.A. Norte,1.6 Pulse Top 95cv,Blanco,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,141000.0,Hidráulica,Delantera,5.0,95.0,6200.0
+Ford Ka 1.5 S,Bs.As. G.B.A. Sur,1.5 S,Blanco,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,310000.0,Eléctrica,Delantera,5.0,123.0,7900.0
+Ford Ka 1.5 Se At 4 p,Ubicación no encontrada,1.5 Se At 4 p,,Ford,Ka,2019,Nafta,4.0,Automática,1.5,Sedán,74000.0,Eléctrica,Delantera,5.0,123.0,12400.0
+Ford Ka 1.0 Fly Viral,Bs.As. G.B.A. Sur,1.0 Fly Viral,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,113000.0,Hidráulica,Delantera,4.0,63.0,5500.0
+Ford Ka 1.5 Freestyle Sel Mt,Capital Federal,1.5 Freestyle Sel Mt,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,50670.0,Eléctrica,Delantera,5.0,123.0,14750.0
+Ford Ka 1.6 Pulse 95cv,Ubicación no encontrada,1.6 Pulse 95cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,94000.0,Hidráulica,Delantera,5.0,95.0,5400.0
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Norte,1.5 Sel,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,63000.0,Eléctrica,Delantera,5.0,105.0,10800.0
+Ford Ka 1.5 Sel 5 p,Córdoba,1.5 Sel 5 p,Plateado,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,84000.0,Eléctrica,Delantera,5.0,105.0,9333.33
+Ford Ka 1.0 Plus Aa Tattoo,Bs.As. G.B.A. Sur,1.0 Plus Aa Tattoo,,Ford,Ka,2006,Nafta,3.0,Manual,1.0,Hatchback,115000.0,Hidráulica,Delantera,4.0,65.0,3600.0
+Ford Ka 1.6 Pulse 95cv,Bs.As. G.B.A. Sur,1.6 Pulse 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,72000.0,Hidráulica,Delantera,5.0,95.0,7500.0
+Ford Ka Fly Viral 1.0L,Bs.As. G.B.A. Norte,Fly Viral 1.0L,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Sedán,95000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Gris,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,95000.0,Eléctrica,Delantera,5.0,123.0,11000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Norte,1.0 Fly Viral 63cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,66000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 SE MT,Ubicación no encontrada,1.5 SE MT,Silver,Ford,Ka,2018,Nafta,5.0,Manual,1.0,Hatchback,42104.0,Asistida,4x2,5.0,123.0,9473.33
+Ford Ka 1.0 Fly Plus,Bs.As. G.B.A. Sur,1.0 Fly Plus,Azul,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,156000.0,Hidráulica,Delantera,4.0,63.0,6300.0
+Ford Ka 1.5 Se,Córdoba,1.5 Se,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,71000.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.6 Fly Viral,Ubicación no encontrada,1.6 Fly Viral,Gris,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,31000.0,Hidráulica,Delantera,4.0,95.0,8000.0
+Ford Ka 1.5 S,Bs.As. G.B.A. Sur,1.5 S,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,58000.0,Eléctrica,Delantera,5.0,120.0,9200.0
+Ford Ka 1.5 Se 4 p,Capital Federal,1.5 Se 4 p,,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,67000.0,Eléctrica,Delantera,5.0,105.0,10500.0
+Ford Ka 1.6 Tatoo Plus,Bs.As. G.B.A. Norte,1.6 Tatoo Plus,Negro,Ford,Ka,2008,Nafta,3.0,Manual,1.6,Hatchback,148000.0,Hidráulica,Delantera,4.0,95.0,4300.0
+Ford Ka 1.0 Viral,Bs.As. G.B.A. Sur,1.0 Viral,,Ford,Ka,2007,Nafta,3.0,Manual,1.0,Hatchback,137000.0,Hidráulica,Delantera,4.0,65.0,4500.0
+Ford Ka 1.6 Fly Viral,Ubicación no encontrada,1.6 Fly Viral,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,72000.0,Hidráulica,Delantera,4.0,95.0,5320.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,76000.0,Eléctrica,Delantera,5.0,123.0,8666.67
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,142000.0,Hidráulica,Delantera,5.0,63.0,6200.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Negro,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,132000.0,Hidráulica,Delantera,5.0,95.0,5266.67
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Gris,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,64500.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Blanco,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,160000.0,Hidráulica,Delantera,5.0,63.0,4566.67
+Ford Ka 1.0 Fly Viral 63cv,Capital Federal,1.0 Fly Viral 63cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,115000.0,Hidráulica,Delantera,5.0,63.0,6300.0
+Ford Ka 1.5 S 4 p,Bs.As. G.B.A. Sur,1.5 S 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,64000.0,Eléctrica,Delantera,5.0,123.0,10500.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,Gris,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,95000.0,Eléctrica,Delantera,5.0,105.0,7533.33
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Oeste,1.0 Fly 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,145000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Blanco,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,224000.0,Hidráulica,Delantera,5.0,63.0,5900.0
+Ford Ka 1.3 Confort,Bs.As. G.B.A. Sur,1.3 Confort,Gris,Ford,Ka,1999,Nafta,3.0,Manual,1.3,Hatchback,61000.0,Hidráulica,Delantera,4.0,67.0,866.67
+Ford Ka 1.5 Freestyle,Ubicación no encontrada,1.5 Freestyle,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,1111.0,Eléctrica,Delantera,5.0,123.0,7500.0
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Gris,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,68000.0,Eléctrica,Delantera,5.0,105.0,10500.0
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Rojo,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,11111.0,Eléctrica,Delantera,5.0,120.0,9333.33
+Ford Ka 1.5 S,Bs.As. G.B.A. Norte,1.5 S,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,105.0,11500.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,63000.0,Eléctrica,Delantera,5.0,123.0,9000.0
+Ford Ka 1.6 Action,Ubicación no encontrada,1.6 Action,Gris,Ford,Ka,2008,Nafta,3.0,Manual,1.6,Hatchback,165900.0,Hidráulica,Delantera,4.0,95.0,5500.0
+Ford Ka 1.0 Fly Plus,Ubicación no encontrada,1.0 Fly Plus,Azul,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,108000.0,Hidráulica,Delantera,4.0,63.0,6300.0
+Ford Ka 1.0 Tattoo,Bs.As. G.B.A. Oeste,1.0 Tattoo,,Ford,Ka,2000,Nafta,3.0,Manual,1.0,Hatchback,85670.0,Hidráulica,Delantera,4.0,65.0,1800.0
+Ford Ka 1.6 Pulse,Ubicación no encontrada,1.6 Pulse,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,105000.0,Hidráulica,Delantera,4.0,95.0,5666.67
+Ford Ka 1.5 S 4 p,Bs.As. G.B.A. Norte,1.5 S 4 p,,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,53000.0,Eléctrica,Delantera,5.0,123.0,9000.0
+Ford Ka 1.6 Fly Viral,Ubicación no encontrada,1.6 Fly Viral,Plateado,Ford,Ka,2009,Nafta,3.0,Manual,1.6,Hatchback,73000.0,Hidráulica,Delantera,4.0,95.0,6000.0
+Ford Ka 1.5 S,Bs.As. G.B.A. Norte,1.5 S,Blanco,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,84500.0,Eléctrica,Delantera,5.0,120.0,9700.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,154000.0,Eléctrica,Delantera,5.0,105.0,7933.33
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Sur,1.6 Fly Viral 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,123000.0,Hidráulica,Delantera,5.0,95.0,6200.0
+Ford Ka FLY PLUS 1.0,Bs.As. G.B.A. Sur,FLY PLUS 1.0,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,50000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.5 S,Neuquén,1.5 S,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,78455.0,Eléctrica,Delantera,5.0,105.0,8533.33
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Bs.As. G.B.A. Oeste,,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,165000.0,Hidráulica,Delantera,4.0,63.0,4500.0
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,77000.0,Eléctrica,Delantera,5.0,120.0,8800.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Negro,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,125000.0,Eléctrica,Delantera,5.0,120.0,9500.0
+Ford Ka 1.0 Tatoo,Entre Ríos,1.0 Tatoo,,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,136000.0,Hidráulica,Delantera,4.0,65.0,3266.67
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. Costa Atlántica,1.0 Fly Viral 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,133000.0,Hidráulica,Delantera,5.0,63.0,6600.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,Negro,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,60000.0,Eléctrica,Delantera,5.0,105.0,11000.0
+Ford Ka 1.5 Sel 5 p,Buenos Aires Interior,1.5 Sel 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,150000.0,Eléctrica,Delantera,5.0,105.0,9500.0
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Sur,1.0 Fly 63cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,83000.0,Hidráulica,Delantera,5.0,63.0,5500.0
+Ford Ka 1.0 Fly Plus,Buenos Aires Interior,1.0 Fly Plus,Gris,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,136000.0,Hidráulica,Delantera,4.0,63.0,5800.0
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Norte,1.5 Sel,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,72000.0,Eléctrica,Delantera,5.0,105.0,10000.0
+Ford Ka 1.5 Se,Bs.As. G.B.A. Sur,1.5 Se,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,120000.0,Eléctrica,Delantera,5.0,105.0,9800.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,50000.0,Hidráulica,Delantera,5.0,63.0,5666.67
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,Blanco,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,117000.0,electronic,Delantera,5.0,123.0,10333.33
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Norte,1.5 S 5 p,Plateado,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,45000.0,Eléctrica,Delantera,5.0,123.0,12500.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,115000.0,Eléctrica,Delantera,5.0,105.0,10000.0
+Ford Ka 1.5 Se,Corrientes,1.5 Se,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,40000.0,Eléctrica,Delantera,5.0,123.0,9333.33
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,73000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,82500.0,Eléctrica,Delantera,5.0,105.0,11500.0
+Ford Ka 1.0 Fly Viral,Córdoba,1.0 Fly Viral,Gris,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,103000.0,Hidráulica,Delantera,4.0,63.0,5800.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,122000.0,Eléctrica,Delantera,5.0,123.0,8666.67
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,85000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 Se 4 p,Bs.As. G.B.A. Norte,1.5 Se 4 p,Negro,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,57000.0,Eléctrica,Delantera,5.0,105.0,10000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,150000.0,Hidráulica,Delantera,5.0,63.0,5600.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,140000.0,Hidráulica,Delantera,5.0,95.0,6200.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Sur,1.5 S 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,55000.0,Eléctrica,Delantera,5.0,105.0,10000.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Bs.As. G.B.A. Norte,,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,138000.0,Hidráulica,Delantera,4.0,63.0,5700.0
+Ford Ka 1.5 Freestyle Se,Bs.As. G.B.A. Norte,1.5 Freestyle Se,Gris,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,50000.0,Eléctrica,Delantera,5.0,123.0,14500.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,Blanco,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,66300.0,Eléctrica,Delantera,5.0,123.0,9733.33
+Ford Ka 1.0 Fly 63cv,Ubicación no encontrada,1.0 Fly 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,79000.0,Hidráulica,Delantera,5.0,63.0,7100.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,101000.0,Hidráulica,Delantera,5.0,63.0,4066.67
+Ford Ka 1.0,Ubicación no encontrada,1.0,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Coupé,92000.0,Hidráulica,Delantera,5.0,63.0,5900.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,120000.0,Hidráulica,Delantera,5.0,63.0,5500.0
+Ford Ka 1.5 Sel 5 p,Bs.As. G.B.A. Norte,1.5 Sel 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,119000.0,Eléctrica,Delantera,5.0,105.0,10500.0
+Ford Ka Mp3,Bs.As. G.B.A. Norte,MP3,,Ford,Ka,2006,Nafta,3.0,Manual,1.0,Hatchback,214000.0,Hidráulica,Delantera,4.0,65.0,4666.67
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,145000.0,Hidráulica,Delantera,5.0,63.0,7500.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,84000.0,Eléctrica,Delantera,5.0,123.0,9900.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Capital Federal,,Gris,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,100000.0,Hidráulica,Delantera,5.0,63.0,4800.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,100000.0,Hidráulica,Delantera,5.0,63.0,5326.67
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Blanco,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,84000.0,Eléctrica,Delantera,5.0,123.0,11000.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Córdoba,,Azul,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,180000.0,Hidráulica,Delantera,5.0,63.0,5000.0
+Ford Ka 1.5 S,Bs.As. Costa Atlántica,1.5 S,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,182000.0,Eléctrica,Delantera,5.0,105.0,8000.0
+Ford Ka 1.5 Se 5 p,Córdoba,1.5 Se 5 p,Plateado,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,145000.0,Eléctrica,Delantera,5.0,105.0,8000.0
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. Costa Atlántica,1.6 Pulse Top 95cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,108000.0,Hidráulica,Delantera,5.0,95.0,6800.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Blanco,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,95000.0,Eléctrica,Delantera,5.0,123.0,8333.33
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,Plateado,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,130000.0,Eléctrica,Delantera,5.0,105.0,9800.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,100000.0,Hidráulica,Delantera,5.0,63.0,5233.33
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Blanco,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,32000.0,Hidráulica,Delantera,5.0,63.0,7500.0
+Ford Ka 1.6 Pulse Top 95cv,Ubicación no encontrada,1.6 Pulse Top 95cv,,Ford,Ka,2014,Nafta,3.0,Manual,1.6,Hatchback,75000.0,Hidráulica,Delantera,5.0,95.0,5933.33
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Blanco,Ford,Ka,2020,Nafta,4.0,Manual,1.5,Sedán,23400.0,Eléctrica,Delantera,5.0,123.0,15300.0
+Ford Ka S,Ubicación no encontrada,S,Negro,Ford,Ka,2012,Nafta,5.0,Manual,1.0,Hatchback,90000.0,Hidráulica,Delantera,5.0,63.0,7000.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Bs.As. G.B.A. Norte,,Azul,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,210000.0,Hidráulica,Delantera,5.0,63.0,5100.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,158000.0,Hidráulica,Delantera,5.0,95.0,5600.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Bs.As. G.B.A. Sur,,Plateado,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,180000.0,Hidráulica,Delantera,5.0,63.0,5900.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Sur,1.6 Fly Viral 95cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,120000.0,Hidráulica,Delantera,5.0,95.0,6700.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Negro,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,73000.0,Eléctrica,Delantera,5.0,123.0,10333.33
+Ford Ka Tatoo,Ubicación no encontrada,Tatoo,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Coupé,91000.0,Hidráulica,Delantera,5.0,63.0,5900.0
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. G.B.A. Norte,1.6 Pulse Top 95cv,Negro,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,93000.0,Hidráulica,Delantera,5.0,95.0,5700.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Negro,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,65000.0,Eléctrica,Delantera,5.0,105.0,9200.0
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,83000.0,Eléctrica,Delantera,5.0,105.0,10500.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Bs.As. G.B.A. Oeste,,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,165000.0,Hidráulica,Delantera,4.0,63.0,4900.0
+Ford Ka 1.6 Fly Viral 95cv,Córdoba,1.6 Fly Viral 95cv,Blanco,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,68600.0,Hidráulica,Delantera,5.0,95.0,6000.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,90000.0,Eléctrica,Delantera,5.0,123.0,9333.33
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Gris,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,60000.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.0 Fly 63cv,Ubicación no encontrada,1.0 Fly 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,75000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,77000.0,Eléctrica,Delantera,5.0,105.0,11000.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Gris,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,54000.0,Hidráulica,Delantera,5.0,63.0,7500.0
+Ford Ka 1.6 Pulse 95cv,Bs.As. G.B.A. Oeste,1.6 Pulse 95cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,230000.0,Hidráulica,Delantera,5.0,95.0,4666.67
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Norte,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,34000.0,Eléctrica,Delantera,5.0,105.0,10333.33
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,Negro,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,75000.0,Eléctrica,Delantera,5.0,123.0,10500.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Norte,1.5 S 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,95000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Norte,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,105.0,11500.0
+Ford Ka 1.5 Sel 5 p,Bs.As. G.B.A. Oeste,1.5 Sel 5 p,Blanco,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,32284.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.5 S 5 p,Corrientes,1.5 S 5 p,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,34000.0,Eléctrica,Delantera,5.0,123.0,8666.67
+Ford Ka 1.0 Fly Viral 63cv,Capital Federal,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,110000.0,Hidráulica,Delantera,5.0,63.0,6100.0
+Ford Ka 1.0 Fly 63cv,Ubicación no encontrada,1.0 Fly 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,79000.0,Hidráulica,Delantera,5.0,63.0,6890.0
+Ford Ka 1.0 Fly Viral,Ubicación no encontrada,1.0 Fly Viral,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,127000.0,Hidráulica,Delantera,4.0,63.0,6499.0
+Ford Ka 1.0 Fly 63cv,Capital Federal,1.0 Fly 63cv,Rojo,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,95000.0,Hidráulica,Delantera,5.0,63.0,5700.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Capital Federal,,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,100000.0,Hidráulica,Delantera,5.0,63.0,5500.0
+Ford Ka 1.0 Fly Plus,Bs.As. G.B.A. Norte,1.0 Fly Plus,Azul,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,204000.0,Hidráulica,Delantera,4.0,63.0,4800.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,98000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.6 Pulse 95cv,Bs.As. G.B.A. Norte,1.6 Pulse 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,76000.0,Hidráulica,Delantera,5.0,95.0,6000.0
+Ford Ka 1.6 Pulse,Capital Federal,1.6 Pulse,,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,48600.0,Hidráulica,Delantera,4.0,95.0,7000.0
+Ford Ka 1.5 Se,Buenos Aires Interior,1.5 Se,Blanco,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,55000.0,Eléctrica,Delantera,5.0,120.0,9333.33
+Ford Ka 1.5 Sel 5 p,Ubicación no encontrada,1.5 Sel 5 p,Gris,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,60000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,50000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,85000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.5 Se,Santa Fe,1.5 Se,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,85000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,103000.0,Eléctrica,Delantera,5.0,123.0,7266.67
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. G.B.A. Norte,1.6 Pulse Top 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,95000.0,Hidráulica,Delantera,5.0,95.0,6200.0
+Ford Ka 1.5 Freestyle Sel At,Bs.As. G.B.A. Norte,1.5 Freestyle Sel At,,Ford,Ka,2019,Nafta,5.0,Automática,1.5,Hatchback,40000.0,Eléctrica,Delantera,5.0,123.0,13500.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Rojo,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,39500.0,Eléctrica,Delantera,5.0,123.0,9266.67
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,137000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.5 S 5 p,Córdoba,1.5 S 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,89000.0,Eléctrica,Delantera,5.0,105.0,11000.0
+Ford Ka 1.6 Fly Viral,Santa Fe,1.6 Fly Viral,,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,92000.0,Hidráulica,Delantera,4.0,95.0,6000.0
+Ford Ka 1.3 I,Buenos Aires Interior,1.3 I,Negro,Ford,Ka,1999,Nafta,3.0,Manual,1.3,Hatchback,240000.0,Mecánica,Delantera,4.0,67.0,2600.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Oeste,1.5 Se 5 p,Negro,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,70000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,25000.0,Hidráulica,Delantera,5.0,95.0,7900.0
+Ford Ka 1.5 Se At 5 p,Capital Federal,1.5 Se At 5 p,,Ford,Ka,2021,Nafta,5.0,Automática,1.5,Hatchback,27000.0,Eléctrica,Delantera,5.0,123.0,14600.0
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Norte,1.0 Fly 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,170000.0,Hidráulica,Delantera,5.0,63.0,4900.0
+Ford Ka 1.5 S 4 p,Capital Federal,1.5 S 4 p,,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,99999.0,Eléctrica,Delantera,5.0,105.0,7933.33
+Ford Ka 1.0 Fly Plus,Bs.As. G.B.A. Oeste,1.0 Fly Plus,,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,164000.0,Hidráulica,Delantera,4.0,63.0,5700.0
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. G.B.A. Sur,1.6 Pulse Top 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,73000.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.0 Viral,Bs.As. G.B.A. Oeste,1.0 Viral,Gris,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,68000.0,Mecánica,Delantera,4.0,65.0,4466.67
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,Blanco,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,66730.0,Eléctrica,Delantera,5.0,123.0,9966.67
+Ford Ka 1.0 Fly Viral,Córdoba,1.0 Fly Viral,,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,98000.0,Hidráulica,Delantera,4.0,63.0,4466.67
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,132260.0,Hidráulica,Delantera,5.0,63.0,6800.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Negro,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,113000.0,Eléctrica,Delantera,5.0,120.0,9500.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,116000.0,Hidráulica,Delantera,5.0,63.0,5666.67
+Ford Ka 1.5 Freestyle Se,Bs.As. G.B.A. Sur,1.5 Freestyle Se,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,54000.0,Eléctrica,Delantera,5.0,123.0,12500.0
+Ford Ka 1.5 Sel At 5p,Bs.As. G.B.A. Sur,1.5 Sel At 5p,Gris,Ford,Ka,2019,Nafta,5.0,Automática,1.5,Hatchback,76000.0,Eléctrica,Delantera,5.0,123.0,12500.0
+Ford Ka 1.5 S 4 p,Chubut,1.5 S 4 p,,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,31600.0,Eléctrica,Delantera,5.0,105.0,9500.0
+Ford Ka 1.5 Se,Bs.As. G.B.A. Sur,1.5 Se,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,86990.0,Eléctrica,Delantera,5.0,105.0,10800.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Blanco,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,91000.0,Eléctrica,Delantera,5.0,123.0,9200.0
+Ford Ka 1.6 Pulse Top 95cv,Ubicación no encontrada,1.6 Pulse Top 95cv,Rojo,Ford,Ka,2014,Nafta,3.0,Manual,1.6,Hatchback,90000.0,Hidráulica,Delantera,5.0,95.0,6533.33
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Rojo,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,105000.0,Eléctrica,Delantera,5.0,120.0,7466.67
+Ford Ka 1.5 S,Bs.As. G.B.A. Sur,1.5 S,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,105.0,11200.0
+Ford Ka 1.0 Fly Viral,Córdoba,1.0 Fly Viral,,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,146000.0,Hidráulica,Delantera,4.0,63.0,5500.0
+Ford Ka 1.0 Fly Viral 63cv,Entre Ríos,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,142000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 Se 4 p,Capital Federal,1.5 Se 4 p,Blanco,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,91000.0,Eléctrica,Delantera,5.0,105.0,10100.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Norte,1.5 S 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,110000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Azul,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,160000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,159000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Gris,Ford,Ka,2020,Nafta,4.0,Manual,1.5,Sedán,66000.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Sur,1.5 Sel,Plateado,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,41000.0,Eléctrica,Delantera,5.0,120.0,10500.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Norte,1.5 Se 5 p,Rojo,Ford,Ka,2018,Nafta/GNC,5.0,Manual,1.5,Hatchback,123000.0,Eléctrica,Delantera,5.0,123.0,10800.0
+Ford Ka 1.6 Fly Viral Usb/bluetooth,Córdoba,,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,113000.0,Hidráulica,Delantera,4.0,95.0,6500.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Gris,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,89000.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.0 Viral,Bs.As. G.B.A. Sur,1.0 Viral,,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,160000.0,Hidráulica,Delantera,4.0,65.0,5500.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,Gris,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,51000.0,Eléctrica,Delantera,5.0,123.0,12900.0
+Ford Ka 1.0 Fly Plus,Bs.As. G.B.A. Norte,1.0 Fly Plus,,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,61900.0,Hidráulica,Delantera,4.0,63.0,8000.0
+Ford Ka 1.0 Fly Plus,Córdoba,1.0 Fly Plus,Gris,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,170000.0,Hidráulica,Delantera,4.0,63.0,4133.33
+Ford Ka 1.5 Se 5 p,Capital Federal,1.5 Se 5 p,Blanco,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,66000.0,Eléctrica,Delantera,5.0,123.0,10326.67
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,28700.0,Eléctrica,Delantera,5.0,123.0,9200.0
+Ford Ka 1.5 Freestyle,Ubicación no encontrada,1.5 Freestyle,Negro,Ford,Ka,2018,Nafta/GNC,5.0,Manual,1.5,Hatchback,62000.0,Eléctrica,Delantera,5.0,123.0,12500.0
+Ford Ka 1.0 Viral,Ubicación no encontrada,1.0 Viral,Negro,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,175000.0,Hidráulica,Delantera,4.0,65.0,3986.67
+Ford Ka 1.0 Tattoo,Bs.As. G.B.A. Sur,1.0 Tattoo,Gris,Ford,Ka,2005,Nafta,3.0,Manual,1.0,Hatchback,139000.0,Hidráulica,Delantera,4.0,65.0,4900.0
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Gris,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,62000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Norte,1.5 Sel,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,107000.0,Eléctrica,Delantera,5.0,105.0,11600.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,141000.0,Hidráulica,Delantera,5.0,63.0,5666.0
+Ford Ka 1.5 S 5 p,Capital Federal,1.5 S 5 p,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,88000.0,Eléctrica,Delantera,5.0,105.0,8000.0
+Ford Ka 1.0 Fly Viral,Bs.As. G.B.A. Sur,1.0 Fly Viral,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,73000.0,Hidráulica,Delantera,4.0,63.0,5000.0
+Ford Ka 1.0 Fly Viral 63cv,Córdoba,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,114000.0,Hidráulica,Delantera,5.0,63.0,6800.0
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. G.B.A. Norte,1.6 Pulse Top 95cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,169000.0,Hidráulica,Delantera,5.0,95.0,6100.0
+Ford Ka 1.5 S 4 p,Tucumán,1.5 S 4 p,Gris,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,36500.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Oeste,1.5 Sel,Blanco,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,147500.0,Eléctrica,Delantera,5.0,120.0,9500.0
+Ford Ka 1.5 Sel 4 p,Chubut,1.5 Sel 4 p,Negro,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,32000.0,Eléctrica,Delantera,5.0,105.0,12600.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Norte,1.6 Fly Viral 95cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,64000.0,Hidráulica,Delantera,5.0,95.0,12500.0
+Ford Ka 1.5 Sel 5 p,Capital Federal,1.5 Sel 5 p,Gris,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,111000.0,Eléctrica,Delantera,5.0,123.0,9900.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Negro,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,73000.0,Eléctrica,Delantera,5.0,123.0,5333.33
+Ford Ka 1.5 Se At 4 p,Ubicación no encontrada,1.5 Se At 4 p,,Ford,Ka,2019,Nafta,4.0,Automática,1.5,Sedán,76000.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,19800.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Norte,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,92000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.5 SEL L18,Ubicación no encontrada,1.5 SEL L18,Blanco,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,45100.0,Asistida,Delantera,5.0,123.0,10486.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Dorado,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,27000.0,Eléctrica,Delantera,5.0,123.0,9266.67
+Ford Ka 1.0 FLY PLUS L11,Ubicación no encontrada,1.0 FLY PLUS L11,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,61700.0,Asistida,Delantera,5.0,63.0,8200.0
+Ford Ka 1.5 Se 4 p,Bs.As. G.B.A. Sur,1.5 Se 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,82000.0,Eléctrica,Delantera,5.0,123.0,12500.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,122000.0,Hidráulica,Delantera,5.0,63.0,6400.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,154000.0,Eléctrica,Delantera,5.0,105.0,7933.33
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Rojo,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,190000.0,Eléctrica,Delantera,5.0,123.0,7266.67
+Ford Ka 1.5 Se At 5 p,Bs.As. G.B.A. Oeste,1.5 Se At 5 p,,Ford,Ka,2020,Nafta,5.0,Automática,1.5,Hatchback,70000.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.5 SEL AT,Ubicación no encontrada,1.5 SEL AT,Blanco,Ford,Ka,2019,Nafta,4.0,Automático,1.0,Hatchback,83066.0,Asistida,4x2,5.0,123.0,9446.67
+Ford Ka 1.6 Fly Viral Usb/bluetooth,Bs.As. G.B.A. Sur,,Gris,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,119000.0,Hidráulica,Delantera,5.0,95.0,5500.0
+Ford Ka 1.0 Viral,Bs.As. G.B.A. Sur,1.0 Viral,Negro,Ford,Ka,2007,Nafta,3.0,Manual,1.0,Hatchback,133000.0,Mecánica,Delantera,4.0,65.0,2660.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Blanco,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,126000.0,Eléctrica,Delantera,5.0,120.0,9200.0
+Ford Ka 1.5 S,Córdoba,1.5 S,Plateado,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,98000.0,Eléctrica,Delantera,5.0,120.0,7200.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Blanco,Ford,Ka,2014,Nafta,3.0,Manual,1.0,Hatchback,96500.0,Hidráulica,Delantera,5.0,63.0,6900.0
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,53000.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.0 Fly Plus,Bs.As. G.B.A. Norte,1.0 Fly Plus,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,160000.0,Hidráulica,Delantera,4.0,63.0,5000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Norte,1.0 Fly Viral 63cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,168000.0,Hidráulica,Delantera,5.0,63.0,5000.0
+Ford Ka 1.5 Sel 5 p,Ubicación no encontrada,1.5 Sel 5 p,Rojo,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,63800.0,Eléctrica,Delantera,5.0,123.0,11000.0
+Ford Ka 1.5 Se,Capital Federal,1.5 Se,Negro,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,76000.0,Eléctrica,Delantera,5.0,120.0,7733.33
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,154150.0,Eléctrica,Delantera,5.0,105.0,7933.33
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Plateado,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,127000.0,Eléctrica,Delantera,5.0,120.0,8133.33
+Ford Ka 1.5 Se,Bs.As. G.B.A. Norte,1.5 Se,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,116000.0,Eléctrica,Delantera,5.0,120.0,6666.67
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,74000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Rojo,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,169925.0,Eléctrica,Delantera,5.0,123.0,7278.47
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,76000.0,Hidráulica,Delantera,5.0,63.0,5800.0
+Ford Ka 1.5 Se,Bs.As. Costa Atlántica,1.5 Se,Rojo,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,100000.0,Eléctrica,Delantera,5.0,120.0,10000.0
+Ford Ka 1.5 S,Bs.As. G.B.A. Sur,1.5 S,Blanco,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,90000.0,Eléctrica,Delantera,5.0,120.0,9500.0
+Ford Ka 1.0 Fly 63cv,Capital Federal,1.0 Fly 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,93000.0,Hidráulica,Delantera,5.0,63.0,5200.0
+(blois) Ford - Ka Se Mt 5p 1.6 N 2019,Ubicación no encontrada,SE MT 5P,Negro,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,80000.0,Eléctrica,Delantera,5.0,123.0,8600.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,30900.0,Eléctrica,Delantera,5.0,123.0,14000.0
+Ford Ka 1.6 Fly Viral 95cv,San Luis,1.6 Fly Viral 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,133000.0,Hidráulica,Delantera,5.0,95.0,4400.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,105.0,9133.33
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Bs.As. G.B.A. Sur,,Azul,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,164000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 Se 4 p,Buenos Aires Interior,1.5 Se 4 p,,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,70000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Rojo,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,87000.0,Eléctrica,Delantera,5.0,105.0,9266.67
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Negro,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,192800.0,Eléctrica,Delantera,5.0,120.0,6900.0
+Ford Ka 1.6 Action,Capital Federal,1.6 Action,Gris,Ford,Ka,2004,Nafta,3.0,Manual,1.6,Hatchback,168000.0,Hidráulica,Delantera,4.0,95.0,4400.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Azul,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,147000.0,Hidráulica,Delantera,5.0,95.0,5066.67
+Ford Ka 1.0 Fly Plus,Bs.As. Costa Atlántica,1.0 Fly Plus,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,111700.0,Hidráulica,Delantera,4.0,63.0,5500.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Negro,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,193000.0,Eléctrica,Delantera,5.0,120.0,6900.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,147000.0,Hidráulica,Delantera,5.0,63.0,4666.67
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Gris,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,115000.0,Hidráulica,Delantera,5.0,63.0,7000.0
+Ford Ka 1.5 S,Bs.As. G.B.A. Norte,1.5 S,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,74000.0,Eléctrica,Delantera,5.0,105.0,9600.0
+Ford Ka 1.5 S 4 p,Capital Federal,1.5 S 4 p,Blanco,Ford,Ka,2019,Nafta/GNC,4.0,Manual,1.5,Sedán,92000.0,Eléctrica,Delantera,5.0,123.0,10900.0
+Ford Ka 1.5 Freestyle Sel At,Ubicación no encontrada,1.5 Freestyle Sel At,,Ford,Ka,2019,Nafta,5.0,Automática,1.5,Hatchback,78000.0,Eléctrica,Delantera,5.0,123.0,12500.0
+Ford Ka S 1 5 L,Ubicación no encontrada,S 1 5 L,Negro,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,90000.0,Hidráulica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.5 S,Bs.As. Costa Atlántica,1.5 S,Blanco,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,80000.0,Eléctrica,Delantera,5.0,120.0,9800.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,51000.0,Eléctrica,Delantera,5.0,105.0,11000.0
+Ford Ka 1.5 Se,Capital Federal,1.5 Se,Rojo,Ford,Ka,2019,Nafta/GNC,4.0,Manual,1.5,Sedán,135000.0,Eléctrica,Delantera,5.0,123.0,8333.33
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,171000.0,Hidráulica,Delantera,5.0,63.0,5900.0
+Ford Ka 1.5 Se 5 p,Córdoba,1.5 Se 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,44000.0,Eléctrica,Delantera,5.0,123.0,12000.0
+Ford Ka 1.5 Sel 5 p,Capital Federal,1.5 Sel 5 p,Rojo,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,47000.0,Eléctrica,Delantera,5.0,123.0,12500.0
+Ford Ka 1.0 Fly Viral,Bs.As. G.B.A. Sur,1.0 Fly Viral,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,85000.0,Hidráulica,Delantera,4.0,63.0,5600.0
+Ford Ka 1.5 Se At 5 p,Capital Federal,1.5 Se At 5 p,Plateado,Ford,Ka,2020,Nafta,5.0,Automática,1.5,Hatchback,41000.0,Eléctrica,Delantera,5.0,123.0,13500.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,170000.0,Hidráulica,Delantera,5.0,95.0,6700.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,73280.0,Eléctrica,Delantera,5.0,105.0,10000.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Negro,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,104000.0,Hidráulica,Delantera,5.0,95.0,5200.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Gris,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Hatchback,85600.0,Eléctrica,Delantera,5.0,123.0,11900.0
+Ford Ka 1.6 Pulse 95cv,Ubicación no encontrada,1.6 Pulse 95cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,132000.0,Hidráulica,Delantera,5.0,95.0,5800.0
+Ford Ka 1.0 Fly 63cv,Ubicación no encontrada,1.0 Fly 63cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,77000.0,Hidráulica,Delantera,5.0,63.0,5300.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,116000.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.0 Fly Viral,Ubicación no encontrada,1.0 Fly Viral,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,162000.0,Hidráulica,Delantera,4.0,63.0,5600.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Capital Federal,,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,93000.0,Hidráulica,Delantera,5.0,63.0,5250.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,Gris,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Hatchback,68400.0,electronic,Delantera,5.0,105.0,8333.33
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Oeste,1.5 Sel,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,67000.0,Eléctrica,Delantera,5.0,105.0,11900.0
+Ford Ka 1.6 Pulse Top 95cv,Ubicación no encontrada,1.6 Pulse Top 95cv,Celeste,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,103500.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.5 Sel 4 p,Capital Federal,1.5 Sel 4 p,Gris,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,21000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,45500.0,Hidráulica,Delantera,5.0,63.0,7100.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,131000.0,Hidráulica,Delantera,5.0,63.0,5800.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Rojo,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,105000.0,Eléctrica,Delantera,5.0,120.0,8064.0
+Ford Ka 1.0 Fly Viral,Capital Federal,1.0 Fly Viral,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,56000.0,Hidráulica,Delantera,4.0,63.0,6600.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Sur,1.5 S 5 p,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,57000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.0 Fly Plus,Bs.As. G.B.A. Sur,1.0 Fly Plus,Celeste,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Coupé,149000.0,Mecánica,Delantera,4.0,65.0,5500.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,109000.0,Hidráulica,Delantera,5.0,63.0,5500.0
+Ford Ka 1.6 Fly Viral 95cv,Capital Federal,1.6 Fly Viral 95cv,Azul,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,120500.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.0 Viral,Ubicación no encontrada,1.0 Viral,,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,170000.0,Hidráulica,Delantera,4.0,65.0,4000.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,Negro,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,147000.0,Eléctrica,Delantera,5.0,123.0,9933.33
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Norte,1.0 Fly Viral 63cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,130000.0,Hidráulica,Delantera,5.0,63.0,5900.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Gris,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,122000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,135000.0,Hidráulica,Delantera,5.0,63.0,5800.0
+Ford Ka 1.0 Plus Aa Tattoo,Bs.As. G.B.A. Norte,1.0 Plus Aa Tattoo,,Ford,Ka,2005,Nafta,3.0,Manual,1.0,Hatchback,140000.0,Hidráulica,Delantera,4.0,65.0,4700.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Gris,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,64000.0,Eléctrica,Delantera,5.0,123.0,7000.0
+Ford Ka 1.5 Sel At 4p,Ubicación no encontrada,1.5 Sel At 4p,Gris,Ford,Ka,2020,Nafta,4.0,Manual,1.5,Sedán,30000.0,Eléctrica,Delantera,5.0,123.0,15000.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Sur,1.5 Se 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,78200.0,Eléctrica,Delantera,5.0,123.0,9000.0
+Ford Ka 1.6 Fly Viral 95cv,Capital Federal,1.6 Fly Viral 95cv,Azul,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,104000.0,Hidráulica,Delantera,5.0,95.0,6000.0
+Ford Ka 1.0 Fly Viral,Ubicación no encontrada,1.0 Fly Viral,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,135000.0,Hidráulica,Delantera,4.0,63.0,4600.0
+Ford Ka 1.0 Tatoo,Bs.As. G.B.A. Oeste,1.0 Tatoo,,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,198000.0,Hidráulica,Delantera,4.0,65.0,3200.0
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Rojo,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,85000.0,Eléctrica,Delantera,5.0,120.0,9500.0
+Ford Ka 1.5 Sel 5 p,Ubicación no encontrada,1.5 Sel 5 p,Negro,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,100000.0,Eléctrica,Delantera,5.0,123.0,10333.33
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Blanco,Ford,Ka,2021,Nafta,5.0,Manual,1.5,Hatchback,35000.0,Hidráulica,Delantera,5.0,123.0,14200.0
+Ford Ka 1.0 Fly Plus,Ubicación no encontrada,1.0 Fly Plus,,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,114000.0,Hidráulica,Delantera,4.0,63.0,4666.67
+Ford Ka 1.6 Plus Tattoo,Bs.As. G.B.A. Sur,1.6 Plus Tattoo,,Ford,Ka,2005,Nafta,3.0,Manual,1.6,Hatchback,178000.0,Hidráulica,Delantera,4.0,95.0,3000.0
+Ford Ka D,Bs.As. Costa Atlántica,D,,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,90000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.5 S 5 p,Capital Federal,1.5 S 5 p,Gris,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,70105.0,Eléctrica,Delantera,5.0,105.0,9500.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Rojo,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,88000.0,Eléctrica,Delantera,5.0,105.0,11500.0
+Ford Ka 1.5 SE L16,Ubicación no encontrada,1.5 SE L16,Negro,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,180150.0,Asistida,Delantera,5.0,123.0,7220.0
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. G.B.A. Sur,1.6 Pulse Top 95cv,Rojo,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,50000.0,Hidráulica,Delantera,5.0,95.0,6800.0
+Ford Ka S,Bs.As. G.B.A. Norte,S,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,103000.0,Eléctrica,Delantera,5.0,123.0,13000.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Bs.As. G.B.A. Oeste,,Plateado,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,130000.0,Hidráulica,Delantera,5.0,63.0,4800.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,100000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.6 Pulse 95cv,Ubicación no encontrada,1.6 Pulse 95cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,98000.0,Hidráulica,Delantera,5.0,95.0,6700.0
+Ford Ka 1.5 Sel,Ubicación no encontrada,1.5 Sel,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,78500.0,Eléctrica,Delantera,5.0,105.0,12900.0
+Ford Ka 1.6 Fly Viral,Bs.As. G.B.A. Norte,1.6 Fly Viral,,Ford,Ka,2008,Nafta,2.0,Manual,1.0,Hatchback,120000.0,Hidráulica,Delantera,4.0,65.0,5500.0
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. Costa Atlántica,1.6 Fly Viral 95cv,Plateado,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,96000.0,Hidráulica,Delantera,5.0,95.0,7000.0
+Ford Ka 1.5 Se At 4 p,Ubicación no encontrada,1.5 Se At 4 p,Gris,Ford,Ka,2018,Nafta,4.0,Automática,1.5,Sedán,64000.0,Eléctrica,Delantera,5.0,123.0,9333.34
+Ford Ka 1.0 Fly Plus,Bs.As. G.B.A. Sur,1.0 Fly Plus,Negro,Ford,Ka,2009,Nafta,3.0,Manual,1.0,Hatchback,149000.0,Hidráulica,Delantera,4.0,63.0,5900.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,150900.0,Eléctrica,Delantera,5.0,105.0,7466.67
+Ford Ka 1.5 S,Córdoba,1.5 S,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,87000.0,Eléctrica,Delantera,5.0,123.0,8333.33
+Ford Ka 1.5 Se,Capital Federal,1.5 Se,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,53900.0,Eléctrica,Delantera,5.0,123.0,13500.0
+Ford Ka 1.0,Ubicación no encontrada,1.0,Blanco,Ford,Ka,2008,Nafta,4.0,Manual,1.0,Hatchback,170000.0,Hidráulica,Delantera,4.0,65.0,4950.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,95000.0,Hidráulica,Delantera,5.0,63.0,4933.33
+Ford Ka 1.6 Plus Tattoo,Bs.As. G.B.A. Norte,1.6 Plus Tattoo,Negro,Ford,Ka,2006,Nafta,3.0,Manual,1.6,Hatchback,100000.0,Hidráulica,Delantera,4.0,95.0,5000.0
+Ford Ka 1.0 Plus Aa Tattoo,Bs.As. G.B.A. Sur,1.0 Plus Aa Tattoo,,Ford,Ka,2000,Nafta,3.0,Manual,1.0,Hatchback,260000.0,Hidráulica,Delantera,4.0,65.0,2666.67
+Ford Ka 1.5 Sel 5 p,Ubicación no encontrada,1.5 Sel 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,52000.0,Eléctrica,Delantera,5.0,105.0,9000.0
+Ford Ka 1.6 Pulse Top 95cv,Ubicación no encontrada,1.6 Pulse Top 95cv,Gris oscuro,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,123000.0,assisted,Delantera,5.0,95.0,6500.0
+Ford Ka 1.0 Fly Viral 63cv,Capital Federal,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,90500.0,Hidráulica,Delantera,5.0,63.0,6299.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,76000.0,Eléctrica,Delantera,5.0,105.0,9900.0
+Ford Ka 1.5 Sel 5 p,Capital Federal,1.5 Sel 5 p,Blanco,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,5200.0,Eléctrica,Delantera,5.0,123.0,16000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Plateado,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,158000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.0 Fly Viral 63cv,Santa Fe,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,80000.0,Hidráulica,Delantera,5.0,63.0,6800.0
+Ford Ka 1.0 Fly Plus,Ubicación no encontrada,1.0 Fly Plus,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Monovolumen,181000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,98000.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.6 Pulse 95cv,Córdoba,1.6 Pulse 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,150000.0,Hidráulica,Delantera,5.0,95.0,6000.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,Azul,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,118500.0,Hidráulica,Delantera,5.0,63.0,6600.0
+Ford Ka 1.5 Se At 4 p,Capital Federal,1.5 Se At 4 p,Negro,Ford,Ka,2019,Nafta,5.0,Automática,1.5,Sedán,68000.0,Eléctrica,Delantera,5.0,123.0,11200.0
+Ford Ka 1.5 Se,Bs.As. G.B.A. Sur,1.5 Se,Negro,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,24000.0,Eléctrica,Delantera,5.0,123.0,12800.0
+Ford Ka 1.5 Sel 4 p,Bs.As. G.B.A. Norte,1.5 Sel 4 p,Blanco,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,40000.0,Eléctrica,Delantera,5.0,105.0,13000.0
+Ford Ka 1.5 S 4 p,Bs.As. G.B.A. Norte,1.5 S 4 p,Plateado,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,77000.0,Eléctrica,Delantera,5.0,123.0,10400.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,87000.0,Eléctrica,Delantera,5.0,105.0,5600.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,72500.0,Hidráulica,Delantera,5.0,63.0,6300.0
+Ford Ka 1.0 Plus Aa Tattoo,Bs.As. G.B.A. Sur,1.0 Plus Aa Tattoo,Dorado,Ford,Ka,2007,Nafta,3.0,Manual,1.0,Hatchback,105068.0,Hidráulica,Delantera,4.0,65.0,5000.0
+Ford Ka 1.5 S 5 p,Capital Federal,1.5 S 5 p,Blanco,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,16000.0,Eléctrica,Delantera,5.0,123.0,12800.0
+Ford Ka 1.5 Sel 5 p,Ubicación no encontrada,1.5 Sel 5 p,Blanco,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,70000.0,Eléctrica,Delantera,5.0,123.0,10900.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,105000.0,Hidráulica,Delantera,5.0,63.0,6100.0
+Ford Ka 1.5 S MT,Ubicación no encontrada,1.5 S MT,Silver,Ford,Ka,2018,Nafta,5.0,Manual,1.0,Hatchback,65316.0,Asistida,4x2,5.0,123.0,8253.33
+Ford Ka 1.6 Pulse Top 95cv,Ubicación no encontrada,1.6 Pulse Top 95cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,105000.0,Hidráulica,Delantera,5.0,95.0,6700.0
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,107700.0,Eléctrica,Delantera,5.0,123.0,10500.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,90000.0,Eléctrica,Delantera,5.0,123.0,9933.33
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,,Ford,Ka,2019,Nafta,5.0,Manual,1.5,Hatchback,83500.0,Eléctrica,Delantera,5.0,123.0,11900.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,88000.0,Eléctrica,Delantera,5.0,105.0,11000.0
+Ford Ka 1.5 S 5 p,Bs.As. G.B.A. Norte,1.5 S 5 p,Gris,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,47000.0,Eléctrica,Delantera,5.0,123.0,13500.0
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,Negro,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,100000.0,Eléctrica,Delantera,5.0,120.0,10100.0
+Ford Ka 1.6 Action,Bs.As. G.B.A. Sur,1.6 Action,,Ford,Ka,2008,Nafta,3.0,Manual,1.6,Hatchback,158000.0,Hidráulica,Delantera,4.0,95.0,5200.0
+Ford Ka 1.6 Fly Viral,Bs.As. Costa Atlántica,1.6 Fly Viral,Negro,Ford,Ka,2009,Nafta,3.0,Manual,1.6,Hatchback,82000.0,Hidráulica,Delantera,4.0,95.0,6000.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,Gris,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,127000.0,Hidráulica,Delantera,5.0,63.0,6700.0
+Ford Ka 1.5 Se At 4 p,Ubicación no encontrada,1.5 Se At 4 p,Gris,Ford,Ka,2018,Nafta,4.0,Automática,1.5,Sedán,64000.0,Eléctrica,Delantera,5.0,123.0,8666.67
+Ford Ka 1.5 Se 5 p,Ubicación no encontrada,1.5 Se 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,67000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.5 S 4 p,Bs.As. G.B.A. Sur,1.5 S 4 p,Gris,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,93000.0,Eléctrica,Delantera,5.0,123.0,9800.0
+Ford Ka 1.6 Plus Tattoo,Ubicación no encontrada,1.6 Plus Tattoo,,Ford,Ka,2005,Nafta,3.0,Manual,1.6,Hatchback,150000.0,Hidráulica,Delantera,4.0,95.0,3466.67
+Ford Ka 1.0 Viral,Santa Fe,1.0 Viral,,Ford,Ka,2008,Nafta,3.0,Manual,1.0,Hatchback,200000.0,Hidráulica,Delantera,4.0,65.0,5000.0
+Ford Ka 1.0 Viral,Capital Federal,1.0 Viral,,Ford,Ka,2007,Nafta,3.0,Manual,1.0,Hatchback,110000.0,Hidráulica,Delantera,4.0,65.0,4133.33
+Ford Ka 1.0 Fly Viral 63cv,Córdoba,1.0 Fly Viral 63cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,77000.0,Hidráulica,Delantera,5.0,63.0,5333.33
+Ford Ka 1.0 Plus Aa Tattoo,Bs.As. G.B.A. Sur,1.0 Plus Aa Tattoo,,Ford,Ka,2005,Nafta,3.0,Manual,1.0,Hatchback,160000.0,Hidráulica,Delantera,4.0,65.0,2600.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Gris,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,79300.0,Eléctrica,Delantera,5.0,123.0,12500.0
+Ford Ka 1.5 Sel 4 p,Capital Federal,1.5 Sel 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,73000.0,Eléctrica,Delantera,5.0,123.0,10999.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Azul,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,100000.0,Hidráulica,Delantera,5.0,95.0,5266.67
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Norte,1.6 Fly Viral 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,152000.0,Hidráulica,Delantera,5.0,95.0,5700.0
+Ford Ka S,Ubicación no encontrada,S,Negro,Ford,Ka,2019,Nafta/GNC,5.0,Manual,1.5,Hatchback,72000.0,Eléctrica,Delantera,5.0,123.0,5333.33
+Ford Ka 1.6 Pulse 95cv,Ubicación no encontrada,1.6 Pulse 95cv,Plateado,Ford,Ka,2012,Nafta/GNC,3.0,Manual,1.6,Hatchback,155000.0,Hidráulica,Delantera,5.0,95.0,6000.0
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Gris,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,60000.0,Eléctrica,Delantera,5.0,123.0,6266.67
+Ford Ka 1.5 S 4 p,Ubicación no encontrada,1.5 S 4 p,Negro,Ford,Ka,2020,Nafta,4.0,Manual,1.5,Sedán,70000.0,Eléctrica,Delantera,5.0,123.0,9900.0
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Sur,1.0 Fly 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,27400.0,Hidráulica,Delantera,5.0,63.0,7000.0
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Sur,1.0 Fly 63cv,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,146000.0,Hidráulica,Delantera,5.0,63.0,4400.0
+Ford Ka 1.5 Sel 5 p,Bs.As. G.B.A. Sur,1.5 Sel 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,65000.0,Eléctrica,Delantera,5.0,105.0,5000.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Norte,1.5 Se 5 p,Blanco,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,66500.0,Eléctrica,Delantera,5.0,105.0,11000.0
+Ford Ka 1.6 Plus Tattoo,Bs.As. G.B.A. Oeste,1.6 Plus Tattoo,,Ford,Ka,2007,Nafta,3.0,Manual,1.6,Hatchback,111500.0,Hidráulica,Delantera,4.0,95.0,6000.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,Negro,Ford,Ka,2021,Nafta,5.0,Manual,1.5,Hatchback,87000.0,Eléctrica,Delantera,5.0,123.0,9866.67
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,104000.0,Eléctrica,Delantera,5.0,120.0,8400.0
+Ford Ka 1.5 S,Ubicación no encontrada,1.5 S,Gris,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,88000.0,Eléctrica,Delantera,5.0,123.0,9800.0
+Ford Ka 1.6 Pulse 95cv,Buenos Aires Interior,1.6 Pulse 95cv,Gris,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,145000.0,Hidráulica,Delantera,5.0,95.0,6800.0
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Oeste,1.0 Fly 63cv,Azul,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,90000.0,Hidráulica,Delantera,5.0,63.0,6200.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Córdoba,,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,80000.0,Hidráulica,Delantera,5.0,63.0,6100.0
+Ford Ka 1.0L Fly Plus,Ubicación no encontrada,1.0L Fly Plus,Negro,Ford,Ka,2013,Nafta/GNC,3.0,Manual,1.0,Hatchback,160000.0,Hidráulica,Delantera,5.0,63.0,4866.67
+Ford Ka 1.0 Fly 63cv,Ubicación no encontrada,1.0 Fly 63cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,112500.0,Hidráulica,Delantera,5.0,63.0,6200.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,Rojo,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,73000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.6 Street Ka,Ubicación no encontrada,1.6 Street Ka,Gris,Ford,Ka,2003,Nafta,2.0,Manual,1.6,Cabriolet,3700.0,Hidráulica,Delantera,4.0,65.0,21900.0
+Ford Ka 1.5 Se At 5 p,Ubicación no encontrada,1.5 Se At 5 p,,Ford,Ka,2019,Nafta,5.0,Automática,1.5,Hatchback,83000.0,Eléctrica,Delantera,5.0,123.0,14800.0
+Ford Ka 1.0 Fly 63cv,Ubicación no encontrada,1.0 Fly 63cv,Gris,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,144729.0,Hidráulica,Delantera,5.0,63.0,6300.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Norte,1.5 Se 5 p,Blanco,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,80000.0,Eléctrica,Delantera,5.0,123.0,9500.0
+Ford Ka Pulse 1.6 2008,Bs.As. G.B.A. Norte,Pulse 1.6,Negro,Ford,Ka,2008,Nafta,3.0,Manual,1.6,Hatchback,117000.0,Hidráulica,Delantera,4.0,65.0,5700.0
+Ford Ka 1.5 Se 4 p,Bs.As. G.B.A. Norte,1.5 Se 4 p,,Ford,Ka,2020,Nafta,4.0,Manual,1.5,Sedán,45000.0,Eléctrica,Delantera,5.0,123.0,12400.0
+Ford Ka 1.0 Fly 63cv,Ubicación no encontrada,1.0 Fly 63cv,Rojo,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,98000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.5 Se 5 p,Mendoza,1.5 Se 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,56000.0,Eléctrica,Delantera,5.0,105.0,8000.0
+Ford Ka 1.5 S,Capital Federal,1.5 S,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,60000.0,Eléctrica,Delantera,5.0,123.0,9500.0
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Oeste,1.0 Fly 63cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,123456.0,Asistida,Delantera,5.0,63.0,5200.0
+Ford Ka 1.0 Fly 63cv,Buenos Aires Interior,1.0 Fly 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,105000.0,Hidráulica,Delantera,5.0,63.0,7000.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Sur,1.5 Se 5 p,Rojo,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,70000.0,Eléctrica,Delantera,5.0,105.0,10500.0
+Ford Ka 1.5 Se,Ubicación no encontrada,1.5 Se,,Ford,Ka,2016,Nafta,3.0,Manual,1.5,Hatchback,88000.0,Eléctrica,Delantera,5.0,120.0,10000.0
+Ford Ka 1.6 Fly Viral 95cv,Capital Federal,1.6 Fly Viral 95cv,Negro,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,180000.0,Hidráulica,Delantera,5.0,95.0,4200.0
+Ford Ka 1.6 Fly Viral Usb/bluetooth,Córdoba,,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.6,Hatchback,127000.0,Hidráulica,Delantera,4.0,95.0,4600.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,Blanco,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,50000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.5 S 5 p,Ubicación no encontrada,1.5 S 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,93700.0,Eléctrica,Delantera,5.0,105.0,8160.0
+Ford Ka 1.6 Tatoo Plus,Bs.As. G.B.A. Norte,1.6 Tatoo Plus,Gris,Ford,Ka,2008,Nafta,3.0,Manual,1.6,Hatchback,126490.0,Hidráulica,Delantera,4.0,95.0,4300.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,,Ford,Ka,2019,Nafta,4.0,Manual,1.5,Sedán,13000.0,Eléctrica,Delantera,5.0,123.0,12500.0
+Ford Ka 1.5 Sel 5 p,Capital Federal,1.5 Sel 5 p,Blanco,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,70000.0,Eléctrica,Delantera,5.0,123.0,11000.0
+Ford Ka 1.5 Se At 5 p,Bs.As. G.B.A. Oeste,1.5 Se At 5 p,Blanco,Ford,Ka,2019,Nafta,5.0,Automática,1.5,Hatchback,130000.0,Eléctrica,Delantera,5.0,123.0,11400.0
+Ford Ka 1.5 Freestyle Sel Mt,Capital Federal,1.5 Freestyle Sel Mt,Blanco,Ford,Ka,2020,Nafta,5.0,Manual,1.5,Hatchback,21430.0,Eléctrica,Delantera,5.0,123.0,16500.0
+Ford Ka 1.0 Fly Viral 63cv,Capital Federal,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,74000.0,Hidráulica,Delantera,5.0,63.0,6200.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Norte,1.5 Se 5 p,Rojo,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,67000.0,Eléctrica,Delantera,5.0,123.0,9666.67
+Ford Ka 1.0 Fly 63cv,Bs.As. G.B.A. Oeste,1.0 Fly 63cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,68000.0,Hidráulica,Delantera,5.0,63.0,6700.0
+Ford Ka 1.5 Sel,Ubicación no encontrada,1.5 Sel,Plateado,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,90000.0,Eléctrica,Delantera,5.0,120.0,11000.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Mendoza,,,Ford,Ka,2011,Nafta,3.0,Manual,1.0,Hatchback,84200.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 Se 4 p,Ubicación no encontrada,1.5 Se 4 p,Blanco,Ford,Ka,2020,Nafta/GNC,4.0,Manual,1.5,Sedán,27000.0,Eléctrica,Delantera,5.0,123.0,9666.67
+Ford Ka 1.6 Pulse Top 95cv,Bs.As. G.B.A. Oeste,1.6 Pulse Top 95cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.6,Hatchback,120000.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Sur,1.0 Fly Viral 63cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,94000.0,Hidráulica,Delantera,5.0,63.0,6100.0
+Ford Ka 1.0 Plus Aa Tattoo,Bs.As. G.B.A. Sur,1.0 Plus Aa Tattoo,,Ford,Ka,2006,Nafta,3.0,Manual,1.0,Hatchback,178000.0,Hidráulica,Delantera,4.0,65.0,1666.67
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,Azul,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,131000.0,Hidráulica,Delantera,5.0,63.0,5666.67
+Ford Ka 1.0 Energy,Bs.As. G.B.A. Oeste,1.0 Energy,Plateado,Ford,Ka,2003,Nafta,3.0,Manual,1.0,Hatchback,86700.0,Mecánica,Delantera,4.0,65.0,4500.0
+Ford Ka 1.5 Sel 5 p,Bs.As. G.B.A. Sur,1.5 Sel 5 p,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,92700.0,Eléctrica,Delantera,5.0,105.0,11000.0
+Ford Ka 1.0 Fly Viral 63cv,Ubicación no encontrada,1.0 Fly Viral 63cv,,Ford,Ka,2012,Nafta,3.0,Manual,1.0,Hatchback,108000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,Blanco,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,53000.0,Eléctrica,Delantera,5.0,123.0,10000.0
+Ford Ka 1.6 Pulse Top 95cv,Buenos Aires Interior,1.6 Pulse Top 95cv,,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,132000.0,Hidráulica,Delantera,5.0,95.0,5000.0
+Ford Ka 1.5 Se 5 p,Bs.As. G.B.A. Sur,1.5 Se 5 p,,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,5400.0,Eléctrica,Delantera,5.0,123.0,15000.0
+Ford Ka 1.5 Ls,Ubicación no encontrada,1.5 Ls,Gris,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,28000.0,Eléctrica,Delantera,5.0,105.0,11800.0
+Ford Ka 1.0 Fly Viral,Córdoba,1.0 Fly Viral,,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,75000.0,Hidráulica,Delantera,4.0,63.0,6200.0
+Ford Ka 1.0 Fly Viral Usb/bluetooth,Capital Federal,,Negro,Ford,Ka,2010,Nafta,3.0,Manual,1.0,Hatchback,150000.0,Hidráulica,Delantera,4.0,63.0,4300.0
+Ford Ka 1.6 Fly Viral 95cv,Ubicación no encontrada,1.6 Fly Viral 95cv,Blanco,Ford,Ka,2013,Nafta,3.0,Manual,1.6,Hatchback,137000.0,Hidráulica,Delantera,5.0,95.0,6200.0
+Ford Ka 1.5 Se 4 p,Bs.As. G.B.A. Norte,1.5 Se 4 p,,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,105000.0,Eléctrica,Delantera,5.0,123.0,9000.0
+Ford Ka 1.5 Freestyle,Ubicación no encontrada,1.5 Freestyle,Gris,Ford,Ka,2018,Nafta,5.0,Manual,1.5,Hatchback,219000.0,Eléctrica,Delantera,5.0,123.0,9573.33
+Ford Ka 1.5 Se 4 p,Bs.As. Costa Atlántica,1.5 Se 4 p,Rojo,Ford,Ka,2017,Nafta,4.0,Manual,1.5,Sedán,2600.0,Eléctrica,Delantera,5.0,105.0,15900.0
+Ford Ka 1.5 Sel 4 p,Ubicación no encontrada,1.5 Sel 4 p,Rojo,Ford,Ka,2018,Nafta,4.0,Manual,1.5,Sedán,45000.0,Eléctrica,Delantera,5.0,123.0,10466.67
+Ford Ka 1.6 Fly Viral 95cv,Bs.As. G.B.A. Sur,1.6 Fly Viral 95cv,Plateado,Ford,Ka,2011,Nafta,3.0,Manual,1.6,Hatchback,80000.0,Hidráulica,Delantera,5.0,63.0,5800.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Oeste,1.0 Fly Viral 63cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,122000.0,Hidráulica,Delantera,5.0,63.0,6000.0
+Ford Ka 1.5 Se,Córdoba,1.5 Se,,Ford,Ka,2017,Nafta,5.0,Manual,1.5,Hatchback,87000.0,Eléctrica,Delantera,5.0,105.0,8333.33
+Ford Ka 1.5 Se At 5 p,Misiones,1.5 Se At 5 p,Blanco,Ford,Ka,2020,Nafta,5.0,Automática,1.5,Hatchback,55000.0,Eléctrica,Delantera,5.0,123.0,11500.0
+Ford Ka 1.5 Se,Capital Federal,1.5 Se,Negro,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,68000.0,Eléctrica,Delantera,5.0,120.0,9500.0
+Ford Ka 1.0 Fly Viral 63cv,Buenos Aires Interior,1.0 Fly Viral 63cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,150000.0,Hidráulica,Delantera,5.0,63.0,5200.0
+Ford Ka 1.0 Fly Viral 63cv,Bs.As. G.B.A. Norte,1.0 Fly Viral 63cv,Negro,Ford,Ka,2013,Nafta,3.0,Manual,1.0,Hatchback,72000.0,Hidráulica,Delantera,5.0,63.0,6500.0
+Ford Ka 1.5 Sel,Bs.As. G.B.A. Sur,1.5 Sel,Negro,Ford,Ka,2016,Nafta,5.0,Manual,1.5,Hatchback,80000.0,Eléctrica,Delantera,5.0,120.0,10500.0

@@ -1,0 +1,820 @@
+Título,Ubicación,Versión,Color,Marca,Modelo,Año,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Kilómetros,Dirección,Control de tracción,Capacidad de personas,Potencia,Precio
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Gris,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.8,Sedán,50000.0,Hidráulica,Delantera,5.0,141.0,17333.33
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Gris,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,34000.0,Eléctrica,Delantera,5.0,153.0,21500.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Capital Federal,1.8 Lt Mt 5 p,,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,84000.0,Hidráulica,Delantera,5.0,141.0,13000.0
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Blanco,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.8,Sedán,108996.0,Asistida,Delantera,5.0,141.0,16500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,22000.0,Eléctrica,Delantera,5.0,153.0,18000.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,Plateado,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,212000.0,Hidráulica,Delantera,5.0,141.0,7940.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Capital Federal,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,84200.0,Eléctrica,Delantera,5.0,153.0,20000.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,117000.0,Hidráulica,Delantera,5.0,141.0,9500.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Bs.As. G.B.A. Oeste,1.8 Ltz Mt 141cv,Plateado,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.8,Sedán,53000.0,Hidráulica,Delantera,5.0,141.0,16500.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,76000.0,Asistida,Delantera,5.0,141.0,10333.33
+Chevrolet Cruze LT AT 2022,Ubicación no encontrada,LT AT 2022,Blanco,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Hatchback,90757.0,Hidráulica,Delantera,5.0,153.0,17466.67
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.8,Sedán,33000.0,Asistida,Delantera,5.0,141.0,18990.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Negro,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,29800.0,Eléctrica,Delantera,5.0,153.0,14333.33
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,115000.0,Hidráulica,Delantera,5.0,141.0,8000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Córdoba,1.8 Lt Mt 5 p,Gris,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,110000.0,Hidráulica,Delantera,5.0,141.0,7000.0
+Chevrolet Cruze Ii Cruze Premiere At,Ubicación no encontrada,cruze premiere at,,Chevrolet,Cruze,2020,Nafta,5.0,Automática,1.4,Hatchback,38000.0,Eléctrica,Delantera,5.0,141.0,19700.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Bs.As. G.B.A. Sur,1.8 Ltz Mt 4 p,,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,136025.0,Hidráulica,Delantera,5.0,141.0,8900.0
+Chevrolet Cruze 1.4 Turbo MT Sedan,Santa Fe,1.4 Turbo MT Sedan,Negro,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.4,Sedán,130000.0,Eléctrica,Delantera,5.0,153.0,20000.0
+Chevrolet Cruze 1.8 Lt Mt,Buenos Aires Interior,1.8 Lt Mt,,Chevrolet,Cruze,2019,Nafta,4.0,Manual,1.8,Sedán,61000.0,Asistida,Delantera,5.0,141.0,14666.67
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Rojo,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.8,Sedán,67000.0,Hidráulica,Delantera,5.0,141.0,15666.67
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,100000.0,Eléctrica,Delantera,5.0,153.0,15800.0
+Chevrolet Cruze 5P 1.8T LT MT,Ubicación no encontrada,5P 1.8T LT MT,Gris,Chevrolet,Cruze,2016,Nafta/GNC,5.0,Manual,1.8,Sedán,102614.0,Asistida,Delantera,5.0,141.0,10600.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Capital Federal,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,57000.0,Eléctrica,Delantera,5.0,153.0,18000.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Bs.As. G.B.A. Norte,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2015,Nafta,4.0,Manual,1.8,Sedán,133000.0,Hidráulica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,La Pampa,2.0 Vcdi Sedan Lt At 163cv,,Chevrolet,Cruze,2016,Diésel,4.0,Automática,2.0,Sedán,140000.0,Hidráulica,Delantera,5.0,163.0,10000.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Plateado,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,118400.0,Hidráulica,Delantera,5.0,163.0,9500.0
+Chevrolet Cruze 1.4 T,Bs.As. Costa Atlántica,1.4 T,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,86000.0,Hidráulica,Delantera,5.0,141.0,13500.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Blanco,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,100000.0,Asistida,Delantera,5.0,141.0,10900.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Bs.As. G.B.A. Norte,2.0 Vcdi Sedan Ltz At 163cv,,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,157000.0,Hidráulica,Delantera,5.0,163.0,12500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Córdoba,1.4 Ltz At Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,125000.0,Eléctrica,Delantera,5.0,153.0,12600.0
+Chevrolet Cruze Ltz At Full 2018,Bs.As. G.B.A. Sur,LTZ AT 5puertas,Negro,Chevrolet,Cruze,2018,Nafta,5.0,Automática,1.4,Hatchback,49000.0,Hidráulica,Delantera,5.0,153.0,18500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,80000.0,Eléctrica,Delantera,5.0,153.0,12666.67
+Chevrolet Cruze 1.4 Ltz At,Bs.As. G.B.A. Sur,1.4 Ltz At,Gris,Chevrolet,Cruze,2016,Nafta,4.0,Automática,1.8,Monovolumen,79400.0,Asistida,Delantera,5.0,141.0,13500.0
+Chevrolet 2017 Cruze 1.4 4p Ltz,Ubicación no encontrada,1.4 Ltz 153cv,Blanco,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.4,Sedán,97874.0,assisted,Delantera,5.0,141.0,12333.33
+Chevrolet Cruze 1.8 Lt Mt 4 p,Capital Federal,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,141.0,9800.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. Costa Atlántica,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,48000.0,Eléctrica,Delantera,5.0,153.0,15333.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Sur,1.4 Ltz At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,46000.0,Eléctrica,Delantera,5.0,153.0,22000.0
+Chevrolet Cruze 1.4 5 Ptas Ltz Alt,Buenos Aires Interior,1.4 5 Ptas Ltz Alt,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,72000.0,Eléctrica,Delantera,5.0,141.0,15500.0
+Chevrolet Cruze 1.8 Lt Mt,Bs.As. G.B.A. Norte,1.8 Lt Mt,Gris,Chevrolet,Cruze,2021,Nafta,5.0,Manual,1.8,Sedán,8000.0,Asistida,Delantera,5.0,141.0,19250.0
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,Plateado,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,73000.0,Hidráulica,Delantera,5.0,141.0,15500.0
+Chevrolet Cruze Ltz,Ubicación no encontrada,,Gris,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Sedán,81000.0,Asistida,Delantera,5.0,141.0,15500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Rojo,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,36000.0,Eléctrica,Delantera,5.0,153.0,13900.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Gris,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Hatchback,92000.0,Hidráulica,Delantera,5.0,141.0,9800.0
+Chevrolet Cruze 1.8 Lt Mt,Córdoba,1.8 Lt Mt,Negro,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,142000.0,Hidráulica,Delantera,5.0,141.0,9000.0
+Chevrolet Cruze 1.8 Ltz Mt,Capital Federal,1.8 Ltz Mt,Rojo,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Hatchback,95000.0,Hidráulica,Delantera,5.0,141.0,15500.0
+Chevrolet Cruze 5p 1.4 Turbo Lt Mt 2017,Ubicación no encontrada,1.4 TURBO LT MT 5P,Verde,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.4,Hatchback,87825.0,Hidráulica,Delantera,5.0,141.0,12133.33
+Chevrolet Cruze 1.4 Ltz,Ubicación no encontrada,1.4 Ltz,,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,54000.0,Eléctrica,Delantera,5.0,153.0,19000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,53327.0,Eléctrica,Delantera,5.0,153.0,15666.67
+Chevrolet Cruze 1.4 Midnight At Sedan,Bs.As. G.B.A. Norte,1.4 Midnight At Sedan,Azul,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,180000.0,Eléctrica,Delantera,5.0,153.0,11933.33
+Chevrolet Cruze 1.4t Ltz 5ptas,Bs.As. Costa Atlántica,1.4T LTZ 5puertas,Negro,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,98000.0,Asistida,Delantera,5.0,141.0,15200.0
+Chevrolet Cruze 1.8 Ltz At,Bs.As. G.B.A. Norte,1.8 Ltz At,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,118000.0,Hidráulica,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,72000.0,Eléctrica,Delantera,5.0,153.0,14000.0
+Chevrolet Cruze 1.8 Ltz Mt,Bs.As. G.B.A. Oeste,1.8 Ltz Mt,,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Hatchback,119000.0,Hidráulica,Delantera,5.0,141.0,9333.33
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,Celeste,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,150000.0,Hidráulica,Delantera,5.0,141.0,9066.67
+Chevrolet Cruze 1.4  Ltz At 2016,Ubicación no encontrada,LTZ AT 1.4 4 P,Blanco,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,138000.0,Hidráulica,Delantera,5.0,141.0,12100.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Negro,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,109400.0,Hidráulica,Delantera,5.0,163.0,11500.0
+"Chevrolet Cruze 1.4t Lt Sedan Nuevo , Excelente , Anticipo $",Ubicación no encontrada,,Azul,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,40000.0,Eléctrica,Delantera,5.0,141.0,13333.33
+Chevrolet Cruze 1.8 Lt Mt 5 p,Bs.As. G.B.A. Oeste,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,152000.0,Hidráulica,Delantera,5.0,141.0,5600.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Buenos Aires Interior,1.8 Ltz Mt 5 p,Negro,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,110000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Violeta,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,56000.0,Eléctrica,Delantera,5.0,153.0,13000.0
+Chevrolet Cruze Lt 1.4t Mt 2017,Ubicación no encontrada,1.4 5P LT,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,60000.0,Hidráulica,Delantera,5.0,141.0,15800.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Ubicación no encontrada,1.8 Ltz Mt 141cv,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,56000.0,Hidráulica,Delantera,5.0,141.0,16500.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Córdoba,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,148000.0,Hidráulica,Delantera,5.0,141.0,9500.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Tucumán,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,39000.0,Eléctrica,Delantera,5.0,153.0,20000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Sur,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,69000.0,Eléctrica,Delantera,5.0,153.0,16500.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Mendoza,1.8 Ltz Mt 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,126000.0,Hidráulica,Delantera,5.0,141.0,7666.67
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Bs.As. G.B.A. Norte,1.8 Ltz Mt 5 p,Gris,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,98600.0,Hidráulica,Delantera,5.0,141.0,10500.0
+Chevrolet Cruze,Ubicación no encontrada,1.4 TURBO LTZ AT,Blanco,Chevrolet,Cruze,2016,Nafta,4.0,Automática,1.4,Sedán,85000.0,Eléctrica,Delantera,5.0,141.0,14300.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Gris,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,111111.0,Hidráulica,Delantera,5.0,141.0,14800.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,40000.0,Eléctrica,Delantera,5.0,153.0,15266.67
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,Gris,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Hatchback,117000.0,Hidráulica,Delantera,5.0,141.0,13500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Sur,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,13000.0,Eléctrica,Delantera,5.0,153.0,20500.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,130000.0,Hidráulica,Delantera,5.0,141.0,9900.0
+Chevrolet Cruze 1.4 Lt At Sedan,Capital Federal,1.4 Lt At Sedan,Plateado,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,9000.0,Eléctrica,Delantera,5.0,153.0,20000.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,64988.0,Eléctrica,Delantera,5.0,153.0,13266.67
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Plateado,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,44000.0,Eléctrica,Delantera,5.0,153.0,16146.77
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Norte,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,99000.0,Eléctrica,Delantera,5.0,153.0,15000.0
+Chevrolet Cruze LTZ 1.4 AT,La Pampa,LTZ 1.4 AT,Verde,Chevrolet,Cruze,2018,Nafta,5.0,Automática,1.4,Sedán,75000.0,Asistida,Delantera,5.0,153.0,17900.0
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Plateado,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.8,Sedán,70000.0,Asistida,Delantera,5.0,141.0,14000.0
+Chevrolet Cruze Ltz- Liv Motors,Ubicación no encontrada,1.4 Ltz,Gris,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,85000.0,Hidráulica,Delantera,5.0,141.0,13666.67
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Plateado,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,70000.0,Eléctrica,Delantera,5.0,153.0,14600.0
+Chevrolet Cruze 1.8 Lt At,Córdoba,1.8 Lt At,Negro,Chevrolet,Cruze,2012,Nafta,5.0,Automática,1.8,Hatchback,162000.0,Hidráulica,Delantera,5.0,141.0,7333.33
+Chevrolet Cruze 1.4 LT 4P L20,Ubicación no encontrada,1.4 LT 4P L20,Negro,Chevrolet,Cruze,2021,Nafta,4.0,Manual,1.4,Sedán,75166.0,Asistida,Delantera,5.0,141.0,16192.67
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,Negro,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Hatchback,95000.0,Hidráulica,Delantera,5.0,141.0,14900.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Bs.As. G.B.A. Sur,2.0 Vcdi Sedan Lt At 163cv,,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,100300.0,Hidráulica,Delantera,5.0,163.0,9866.67
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Blanco,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,19000.0,Eléctrica,Delantera,5.0,153.0,16326.67
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,150000.0,Hidráulica,Delantera,5.0,141.0,9300.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Bs.As. G.B.A. Sur,1.8 Ltz Mt 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,134000.0,Hidráulica,Delantera,5.0,141.0,7200.0
+Chevrolet Cruze 1.4 Ltz At,Ubicación no encontrada,1.4 Ltz At,Gris,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.4,Sedán,97000.0,Hidráulica,Delantera,5.0,141.0,12333.33
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Capital Federal,1.8 Ltz Mt 5 p,Plateado,Chevrolet,Cruze,2011,Nafta,5.0,Manual,1.8,Hatchback,98000.0,Hidráulica,Delantera,5.0,141.0,9800.0
+Chevrolet Cruze 1.8 Ltz At,Córdoba,1.8 Ltz At,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,59000.0,Hidráulica,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Gris,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.8,Sedán,10000.0,Hidráulica,Delantera,5.0,141.0,42000.0
+Chevrolet Cruze Rs,Bs.As. G.B.A. Oeste,RS,Blanco,Chevrolet,Cruze,2023,Nafta,5.0,Automática secuencial,1.4,Hatchback,22000.0,Eléctrica,4x2,5.0,153.0,21990.0
+Chevrolet Cruze 1.4 Turbo,Capital Federal,1.4 Turbo,,Chevrolet,Cruze,2020,Nafta,5.0,Automática,1.4,Sedán,17000.0,Asistida,Delantera,5.0,141.0,16666.67
+Chevrolet Cruze 1.4 LT Manual,Tucumán,1.4 LT Manual,,Chevrolet,Cruze,2021,Nafta,4.0,Manual,1.8,Sedán,19000.0,Asistida,Delantera,5.0,141.0,13000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Gris,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,160000.0,Hidráulica,Delantera,5.0,141.0,9500.0
+Chevrolet Cruze 4p 1.4 Turbo Premier At,Ubicación no encontrada,1.4 Turbo Premier AT,Gris,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,60000.0,Eléctrica,Delantera,5.0,141.0,19500.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Rojo,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,114000.0,Hidráulica,Delantera,5.0,141.0,7630.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Bs.As. G.B.A. Sur,1.8 Ltz Mt 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,52000.0,Hidráulica,Delantera,5.0,141.0,14000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,90000.0,Eléctrica,Delantera,5.0,153.0,14700.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,129000.0,Eléctrica,Delantera,5.0,153.0,13666.67
+Chevroleet Cruze,Bs.As. G.B.A. Oeste,1.4 Turbo,Plateado,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.4,Monovolumen,120000.0,Hidráulica,Delantera,5.0,141.0,12333.33
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,90000.0,Hidráulica,Delantera,5.0,141.0,10700.0
+Chevrolet Cruze Midnight At Full 1.4,Ubicación no encontrada,1.4 Midnight At Sedan,Azul,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,83659.0,Eléctrica,Delantera,5.0,153.0,14350.0
+Chevrolet Cruze Cruze Rs,Bs.As. G.B.A. Oeste,Cruze RS,,Chevrolet,Cruze,2023,Nafta,5.0,Automática,1.4,Sedán,600.0,Eléctrica,Delantera,5.0,153.0,24900.0
+Chevrolet Cruze 1.4 Premier Sedan,Capital Federal,1.4 Premier Sedan,,Chevrolet,Cruze,2023,Nafta,4.0,Manual,1.4,Sedán,22000.0,Eléctrica,Delantera,5.0,153.0,29000.0
+Chevrolet Cruze 1.8 Lt At,Ubicación no encontrada,1.8 Lt At,Blanco,Chevrolet,Cruze,2015,Nafta,5.0,Automática,1.8,Hatchback,103000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Blanco,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,8000.0,Eléctrica,Delantera,5.0,153.0,19280.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Bs.As. G.B.A. Oeste,2.0 Vcdi Sedan Lt At 163cv,Gris,Chevrolet,Cruze,2016,Diésel,4.0,Automática,2.0,Sedán,119000.0,Hidráulica,Delantera,5.0,163.0,9500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Norte,1.4 Ltz At Sedan,Negro,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,50000.0,Eléctrica,Delantera,5.0,153.0,20000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Capital Federal,1.4 Ltz At Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,73000.0,Eléctrica,Delantera,5.0,153.0,16500.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,Blanco,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,112000.0,Hidráulica,Delantera,5.0,141.0,8900.0
+Chevrolet Cruze 1.4 LT 5P L16,Ubicación no encontrada,1.4 LT 5P L16,Gris,Chevrolet,Cruze,2022,Nafta,5.0,Manual,1.4,Hatchback,40965.0,Asistida,Delantera,5.0,153.0,16834.67
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,32000.0,Eléctrica,Delantera,5.0,153.0,13000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Bs.As. G.B.A. Norte,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,112000.0,Hidráulica,Delantera,5.0,141.0,9666.67
+Chevrolet Cruze 1.8 Ltz At 141cv,Bs.As. G.B.A. Norte,1.8 Ltz At 141cv,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,139000.0,Hidráulica,Delantera,5.0,141.0,13900.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,98000.0,Eléctrica,Delantera,5.0,153.0,12000.0
+Chevrolet Cruze  1.4 Turbo Premier At,Ubicación no encontrada,1.4 Turbo Premier AT,,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,28700.0,Eléctrica,Delantera,5.0,141.0,20550.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Bs.As. G.B.A. Sur,1.8 Lt Mt 4 p,Gris,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,95000.0,Asistida,Delantera,5.0,141.0,11500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Chubut,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,21000.0,Eléctrica,Delantera,5.0,153.0,17666.67
+Chevrolet Cruze 1.8 Lt Mt 5 p,Bs.As. G.B.A. Sur,1.8 Lt Mt 5 p,Negro,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,104000.0,Hidráulica,Delantera,5.0,141.0,9000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Norte,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.4,Sedán,64000.0,Eléctrica,Delantera,5.0,153.0,21300.0
+Chevrolet Cruze Ltz,Santiago del Estero,Ltz,,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,100000.0,Hidráulica,Delantera,5.0,141.0,12666.67
+Chevrolet Cruze 1.4 LT MT 4P,Santa Fe,1.4 LT MT 4P,,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.8,Sedán,88400.0,Asistida,Delantera,5.0,141.0,13333.33
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Chaco,1.8 Ltz Mt 141cv,Plateado,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.8,Hatchback,100000.0,Hidráulica,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze Lt 1.4t,Santa Fe,Lt 1.4T,,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,111000.0,Hidráulica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 1.8 Ltz At 5 p,Bs.As. G.B.A. Oeste,1.8 Ltz At 5 p,,Chevrolet,Cruze,2013,Nafta,5.0,Automática,1.8,Hatchback,97000.0,Hidráulica,Delantera,5.0,141.0,9666.67
+Chevrolet  Cruze,Córdoba,LTZ plus,Blanco,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.4,Sedán,110000.0,Eléctrica,Delantera,5.0,141.0,15000.0
+"Chevrolet Cruze Premier 2021, Impecable.! Automotores Martin",Ubicación no encontrada,premier,Plateado,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,29000.0,Eléctrica,Delantera,5.0,141.0,19200.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,,Chevrolet,Cruze,2011,Nafta,5.0,Manual,1.8,Hatchback,155000.0,Hidráulica,Delantera,5.0,141.0,6466.67
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.8,Sedán,53000.0,Asistida,Delantera,5.0,141.0,17000.0
+Chevrolet Cruze Ltz 2012,Ubicación no encontrada,Ltz,Blanco,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,133000.0,Hidráulica,Delantera,5.0,141.0,10500.0
+Chevrolet Cruze 1.4,Buenos Aires Interior,1.4,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,39000.0,Hidráulica,Delantera,5.0,141.0,18000.0
+Chevrolet Cruze 1.8 Ltz At,Capital Federal,1.8 Ltz At,Plateado,Chevrolet,Cruze,2014,Nafta,5.0,Automática,1.8,Hatchback,131000.0,Hidráulica,Delantera,5.0,141.0,13000.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,Plateado,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,102000.0,Hidráulica,Delantera,5.0,141.0,9666.67
+Chevrolet Cruze 1.4T LT AT 5P,Ubicación no encontrada,1.4T LT AT 5P,Blanco,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Hatchback,89609.0,Asistida,Delantera,5.0,153.0,16478.0
+Chevrolet Cruze CRUZE 1.4T LT MT 4p,Capital Federal,CRUZE 1.4T LT MT 4p,,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,134000.0,Asistida,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 1.8 Lt At,Ubicación no encontrada,1.8 Lt At,Gris,Chevrolet,Cruze,2014,Nafta/GNC,4.0,Manual,1.8,Sedán,147000.0,hydraulic,Delantera,5.0,141.0,9266.67
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Buenos Aires Interior,2.0 Vcdi Sedan Ltz At 163cv,,Chevrolet,Cruze,2023,Diésel,4.0,Automática,2.0,Sedán,21000.0,Hidráulica,Delantera,5.0,163.0,18666.67
+"Chevrolet Cruze 1,4 LTZ AT",Santa Fe,,,Chevrolet,Cruze,2019,Nafta,5.0,Automática,1.4,Sedán,20500.0,Eléctrica,Delantera,5.0,153.0,16666.67
+Chevrolet Cruze 1.4 Ltz 5p L16,Ubicación no encontrada,1.4 LTZ 5P L16,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Hatchback,98754.0,Asistida,Delantera,5.0,141.0,12000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,80000.0,Hidráulica,Delantera,5.0,141.0,8666.67
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,Dorado,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,130000.0,Hidráulica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze Sedan 4 Puertas,Ubicación no encontrada,Sedan 4 puertas,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,79000.0,Hidráulica,Delantera,5.0,141.0,13600.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,49464.0,Eléctrica,Delantera,5.0,153.0,16866.67
+Chevrolet Cruze 1.4t Lt. Recibo Vehículos.,Ubicación no encontrada,1.4 Sedan Lt,Blanco,Chevrolet,Cruze,2019,Nafta,5.0,Manual,1.4,Sedán,79000.0,Eléctrica,Delantera,5.0,141.0,16990.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Plateado,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.8,Sedán,78000.0,Asistida,Delantera,5.0,141.0,14850.0
+Chevrolet Cruze RS 1.4T AUTOMÁTICO,Córdoba,RS 1.4T AUTOMÁTICO,,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,25000.0,Eléctrica,Delantera,5.0,153.0,21000.0
+Chevrolet Cruze 1.4 T,Córdoba,1.4 T,,Chevrolet,Cruze,2020,Nafta,5.0,Automática,1.4,Sedán,45000.0,Asistida,Delantera,5.0,141.0,13000.0
+Chevrolet Cruze 1.4 Ltz Sedan,Ubicación no encontrada,1.4 Ltz Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,70758.0,Eléctrica,Delantera,5.0,153.0,13066.67
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Hatchback,79000.0,hydraulic,Delantera,5.0,153.0,18900.0
+Chevrolet Cruze 1.8 Ltz At 4 p,Ubicación no encontrada,1.8 Ltz At 4 p,Negro,Chevrolet,Cruze,2011,Nafta,4.0,Automática,1.8,Sedán,168000.0,Hidráulica,Delantera,5.0,141.0,6666.67
+Chevrolet Cruze 1.8 Lt Mt 4 p,Bs.As. G.B.A. Oeste,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2015,Nafta,4.0,Manual,1.8,Sedán,88500.0,Hidráulica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 1.4t Ltz + At 4p,Ubicación no encontrada,,Blanco,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.4,Sedán,59000.0,Hidráulica,Delantera,5.0,141.0,15500.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Bs.As. G.B.A. Sur,1.4 Lt Mt Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,22000.0,Eléctrica,Delantera,5.0,153.0,19700.0
+Chevrolet Cruze 1.4 Lt At Sedan,Bs.As. G.B.A. Oeste,1.4 Lt At Sedan,,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,13000.0,Eléctrica,Delantera,5.0,153.0,21500.0
+Chevrolet Cruze 1.4 Ltz At,Ubicación no encontrada,1.4 Ltz At,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Hatchback,128000.0,Hidráulica,Delantera,5.0,141.0,12600.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,86000.0,Eléctrica,Delantera,5.0,153.0,13666.67
+Chevrolet Cruze Ltz,Bs.As. G.B.A. Sur,1.4 Ltz MT 5p,Rojo,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.4,Hatchback,130000.0,Eléctrica,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 1.8 Lt Mt,Capital Federal,1.8 Lt Mt,Negro,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,100000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.4 Lt,Capital Federal,1.4 Lt,Gris,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.4,Sedán,22000.0,Asistida,Delantera,5.0,141.0,18200.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,81900.0,Eléctrica,Delantera,5.0,153.0,15590.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Ltz At 163cv,,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,90000.0,Hidráulica,Delantera,5.0,163.0,15000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Norte,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,71000.0,Eléctrica,Delantera,5.0,153.0,13333.33
+Chevrolet Cruze 1.8 Ltz At 4 p,Ubicación no encontrada,1.8 Ltz At 4 p,,Chevrolet,Cruze,2011,Nafta,4.0,Automática,1.8,Sedán,165000.0,Hidráulica,Delantera,5.0,141.0,8500.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,72000.0,Eléctrica,Delantera,5.0,153.0,16000.0
+Chevrolet Cruze 1.4 Turbo Ltz,Ubicación no encontrada,1.4 Turbo Ltz,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,95000.0,Hidráulica,Delantera,5.0,141.0,13800.0
+Chevrolet Cruze 1.8 Lt At,Ubicación no encontrada,1.8 Lt At,Negro,Chevrolet,Cruze,2011,Nafta,4.0,Automática,1.8,Hatchback,134000.0,assisted,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Córdoba,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,192000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Bs.As. G.B.A. Oeste,2.0 Vcdi Sedan Lt At 163cv,Gris,Chevrolet,Cruze,2016,Diésel,4.0,Automática,2.0,Sedán,104000.0,Hidráulica,Delantera,5.0,163.0,11500.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,Plateado,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,122500.0,Hidráulica,Delantera,5.0,141.0,8600.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,,Chevrolet,Cruze,2016,Nafta,4.0,Automática,1.8,Sedán,93000.0,Hidráulica,Delantera,5.0,141.0,12990.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,30000.0,Eléctrica,Delantera,5.0,153.0,16000.0
+Chevrolet Cruze 1.4 Ltz 5p Mt,Capital Federal,1.4 Ltz 5p Mt,Gris,Chevrolet,Cruze,2018,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,153.0,18000.0
+Chevrolet Cruze 1.8 Ltz Mt,Capital Federal,1.8 Ltz Mt,,Chevrolet,Cruze,2015,Nafta,5.0,Manual,1.8,Hatchback,180000.0,Hidráulica,Delantera,5.0,141.0,9000.0
+Chevrolet Cruze Lt 1.4 T 2017,Ubicación no encontrada,Lt,Gris,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.4,Sedán,1234569.0,Hidráulica,Delantera,5.0,141.0,13400.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 150 Cv,Bs.As. Costa Atlántica,2.0 Vcdi Sedan Ltz At 150 Cv,,Chevrolet,Cruze,2011,Diésel,4.0,Automática,2.0,Sedán,110000.0,Hidráulica,Delantera,5.0,150.0,9000.0
+Chevrolet Cruze 4p 1.4 Turbo Ltz At 2017 - Car Cash,Ubicación no encontrada,4P 1.4 TURBO LTZ AT,Blanco,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,44762.0,Eléctrica,Delantera,5.0,141.0,18500.0
+Chevrolet Cruze 1.4t LTZ Mt,Ubicación no encontrada,1.4t LTZ Mt,Negro,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Asistida,Delantera,5.0,141.0,13266.67
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Gris,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.8,Sedán,46000.0,Hidráulica,Delantera,5.0,141.0,20500.0
+Chevrolet Cruze 1.4T LTZ AT 4P,Ubicación no encontrada,1.4T LTZ AT 4P,Gris,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,40234.0,Asistida,Delantera,5.0,153.0,18166.67
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Gris,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,88000.0,Asistida,Delantera,5.0,141.0,9993.33
+Chevrolet Cruze  1.4 Ltz At Sedan,Bs.As. G.B.A. Sur,Ltz,Negro,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,90000.0,Asistida,Delantera,5.0,141.0,19900.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,81000.0,Hidráulica,Delantera,5.0,141.0,8666.6
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,Plateado,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,187112.0,Hidráulica,Delantera,5.0,141.0,8200.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,9200.0,Eléctrica,Delantera,5.0,153.0,22500.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Plateado,Chevrolet,Cruze,2015,Nafta,5.0,Manual,1.8,Hatchback,85000.0,Hidráulica,Delantera,5.0,141.0,9866.67
+Chevrolet Cruze 1.4 Lt At Sedan,Capital Federal,1.4 Lt At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,7100.0,Eléctrica,Delantera,5.0,153.0,22800.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Buenos Aires Interior,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,125000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze Premier At,Ubicación no encontrada,Premier At,,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,20500.0,Eléctrica,Delantera,5.0,141.0,21000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Buenos Aires Interior,1.4 Ltz At Sedan,Plateado,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,141000.0,Eléctrica,Delantera,5.0,153.0,13500.0
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,Plateado,Chevrolet,Cruze,2015,Nafta,5.0,Manual,1.8,Hatchback,108480.0,Hidráulica,Delantera,5.0,141.0,9000.0
+Chevrolet Cruze 1.4 Ltz At,Santa Fe,1.4 Ltz At,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,105000.0,Hidráulica,Delantera,5.0,141.0,16000.0
+Chevrolet Cruze 1.8 Ltz At,Buenos Aires Interior,1.8 Ltz At,Plateado,Chevrolet,Cruze,2016,Nafta,5.0,Automática,1.8,Hatchback,89500.0,Hidráulica,Delantera,5.0,141.0,13500.0
+Chevrolet Cruze 1.4 4p Ltz Turbo At,Bs.As. G.B.A. Norte,1.4 4P LTZ Turbo AT,,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,200000.0,Hidráulica,Delantera,5.0,141.0,10500.0
+Chevrolet Cruze,Ubicación no encontrada,1.4 turbo LTZ at,Blanco,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,120000.0,Asistida,Delantera,5.0,141.0,12500.0
+Chevrolet Cruze 1.4 Lt,Ubicación no encontrada,1.4 Lt,Gris,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Sedán,36000.0,Eléctrica,Delantera,5.0,141.0,19500.0
+Chevrolet Cruze 1.8 Ltz At 4 p,Ubicación no encontrada,1.8 Ltz At 4 p,Gris,Chevrolet,Cruze,2013,Nafta,4.0,Automática,1.8,Sedán,152000.0,Hidráulica,Delantera,5.0,141.0,7333.33
+Chevrolet Cruze Ltz 1.4 Turbo Mt 153,Bs.As. G.B.A. Norte,LTZ 1.4 turbo MT 153,,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,42000.0,Eléctrica,Delantera,5.0,141.0,18700.0
+Chevrolet Cruze 1.4t Premier At 4p,Ubicación no encontrada,1.4T PREMIER AT 4P,Blanco,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,66776.0,Asistida,Delantera,5.0,141.0,17904.67
+Chevrolet Cruze 1.4 Lt Mt Sedan,Bs.As. G.B.A. Norte,1.4 Lt Mt Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,54900.0,Eléctrica,Delantera,5.0,153.0,16500.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Bs.As. G.B.A. Sur,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,85000.0,Hidráulica,Delantera,5.0,141.0,7333.33
+Chevrolet Cruze 1.8 Ltz At 5 p,Ubicación no encontrada,1.8 Ltz At 5 p,Negro,Chevrolet,Cruze,2013,Nafta,5.0,Automática,1.8,Hatchback,114000.0,Hidráulica,Delantera,5.0,141.0,12500.0
+Chevrolet Cruze 1.4T LT MT 4P,Ubicación no encontrada,1.4T LT MT 4P,Plateado,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.4,Sedán,126787.0,Asistida,Delantera,5.0,141.0,12866.67
+Chevrolet Cruze 1.4 Lt Mt Sedan,Capital Federal,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,21500.0,Eléctrica,Delantera,5.0,153.0,18700.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Bs.As. G.B.A. Sur,1.8 Ltz Mt 5 p,Negro,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,86000.0,Hidráulica,Delantera,5.0,141.0,11750.0
+Chevrolet Cruze 1.4 Premier 5p,Bs.As. G.B.A. Oeste,1.4 Premier 5p,,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,8100.0,Eléctrica,Delantera,5.0,153.0,25500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.4,Sedán,65000.0,Eléctrica,Delantera,5.0,153.0,18000.0
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,150000.0,Hidráulica,Delantera,5.0,141.0,14000.0
+Chevrolet Cruze Ltz At,Ubicación no encontrada,LTZ 5 PTAS,Negro,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,118000.0,Hidráulica,Delantera,5.0,141.0,15900.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,142000.0,Hidráulica,Delantera,5.0,141.0,9800.0
+Chevrolet Cruze 1.4t Premier At 4p,Ubicación no encontrada,1.4T PREMIER AT 4P,Blanco,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,173247.0,Asistida,Delantera,5.0,141.0,17976.0
+Chevrolet Cruze 1.8 Ltz At,Córdoba,1.8 Ltz At,,Chevrolet,Cruze,2013,Nafta,5.0,Automática,1.8,Hatchback,147000.0,Hidráulica,Delantera,5.0,141.0,8500.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Capital Federal,1.8 Ltz Mt 4 p,Rojo,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,43000.0,Hidráulica,Delantera,5.0,141.0,10800.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Ubicación no encontrada,1.8 Ltz Mt 141cv,Rojo,Chevrolet,Cruze,2019,Nafta,4.0,Manual,1.8,Sedán,51000.0,Hidráulica,Delantera,5.0,141.0,16666.67
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,81000.0,Hidráulica,Delantera,5.0,141.0,8666.67
+Chevrolet Cruze 1.8 Lt Mt,Bs.As. G.B.A. Norte,1.8 Lt Mt,Gris,Chevrolet,Cruze,2021,Nafta,5.0,Manual,1.8,Sedán,46000.0,Asistida,Delantera,5.0,141.0,22500.0
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Plateado,Chevrolet,Cruze,2021,Nafta,4.0,Manual,1.8,Sedán,37058.0,Asistida,Delantera,5.0,141.0,16666.67
+Chevrolet Cruze 1.4T LT MT,Bs.As. G.B.A. Oeste,1.4T LT MT,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.4,Sedán,103000.0,Asistida,Delantera,5.0,141.0,10500.0
+Lt,Bs.As. G.B.A. Norte,1.4,Blanco,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,190000.0,Hidráulica,Delantera,5.0,141.0,10500.0
+Chevrolet Cruze 1.4T LT AT,Ubicación no encontrada,1.4T LT AT,Gris,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Hatchback,52700.0,Eléctrica,Delantera,5.0,153.0,21900.0
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Blanco,Chevrolet,Cruze,2019,Nafta,4.0,Manual,1.8,Sedán,81000.0,Asistida,Delantera,5.0,141.0,15500.0
+Chevrolet Cruze 1.8 Lt At,Ubicación no encontrada,1.8 Lt At,Gris,Chevrolet,Cruze,2014,Nafta,5.0,Automática,1.8,Hatchback,135000.0,Hidráulica,Delantera,5.0,141.0,10999.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Capital Federal,1.8 Lt Mt 4 p,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,103000.0,Asistida,Delantera,5.0,141.0,11550.0
+Chevrolet Cruze 1.4T LT MT,Capital Federal,1.4T LT MT,Gris,Chevrolet,Cruze,2020,Nafta,5.0,Manual,1.4,Hatchback,55000.0,Asistida,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Ubicación no encontrada,1.8 Ltz Mt 141cv,Blanco,Chevrolet,Cruze,2014,Nafta,4.0,Manual,1.8,Sedán,146000.0,Hidráulica,Delantera,5.0,141.0,9986.67
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Ltz At 163cv,Blanco,Chevrolet,Cruze,2014,Diésel,4.0,Automática,2.0,Sedán,142000.0,Hidráulica,Delantera,5.0,163.0,10900.0
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,Blanco,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,91000.0,Hidráulica,Delantera,5.0,141.0,7325.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,34000.0,Eléctrica,Delantera,5.0,153.0,21900.0
+Chevrolet Cruze 1.8 Lt At,Ubicación no encontrada,1.8 Lt At,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,97000.0,electronic,Delantera,5.0,141.0,9900.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Bs.As. G.B.A. Sur,2.0 Vcdi Sedan Ltz At 163cv,Negro,Chevrolet,Cruze,2014,Diésel,5.0,Automática,2.0,Sedán,142500.0,Hidráulica,Delantera,5.0,163.0,10999.0
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,100000.0,Hidráulica,Delantera,5.0,141.0,13333.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,85000.0,Eléctrica,Delantera,5.0,153.0,16000.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Capital Federal,2.0 Vcdi Sedan Ltz At 163cv,Blanco,Chevrolet,Cruze,2016,Diésel,4.0,Automática,2.0,Sedán,113700.0,Hidráulica,Delantera,5.0,163.0,12500.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Capital Federal,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,109000.0,Asistida,Delantera,5.0,141.0,9666.67
+Chevrolet Cruze 1.8 Ltz At 4 p,Buenos Aires Interior,1.8 Ltz At 4 p,,Chevrolet,Cruze,2011,Nafta,4.0,Automática,1.8,Sedán,125000.0,Hidráulica,Delantera,5.0,141.0,7666.67
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 150 Cv,Ubicación no encontrada,2.0 Vcdi Sedan Ltz At 150 Cv,Blanco,Chevrolet,Cruze,2012,Diésel,4.0,Automática,2.0,Sedán,145000.0,Hidráulica,Delantera,5.0,150.0,9500.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Rojo,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Hatchback,80000.0,Hidráulica,Delantera,5.0,141.0,14000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Bs.As. G.B.A. Oeste,1.4 Lt At Sedan,Azul,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,36000.0,Eléctrica,Delantera,5.0,153.0,16500.0
+Chevrolet Cruze 1.8 Ltz At 5 p,Bs.As. G.B.A. Norte,1.8 Ltz At 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Automática,1.8,Hatchback,114000.0,Hidráulica,Delantera,5.0,141.0,9500.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Plateado,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,117000.0,Eléctrica,Delantera,5.0,153.0,11866.67
+Chevrolet Cruze 1.4 Premier Sedan,Bs.As. G.B.A. Norte,1.4 Premier Sedan,,Chevrolet,Cruze,2023,Nafta,4.0,Manual,1.4,Sedán,19000.0,Eléctrica,Delantera,5.0,153.0,22500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Gris,Chevrolet,Cruze,2013,Diésel,4.0,Automática,2.0,Sedán,98000.0,Hidráulica,Delantera,5.0,163.0,8666.67
+Chevrolet Cruze 1.4 Ltz Mt,Ubicación no encontrada,1.4 Ltz Mt,Gris,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,100000.0,Hidráulica,Delantera,5.0,141.0,12400.0
+Chevrolet Cruze 1.4 Lt At 5p,Capital Federal,1.4 Lt At 5p,Plateado,Chevrolet,Cruze,2020,Nafta,5.0,Automática,1.4,Hatchback,30000.0,Asistida,Delantera,5.0,141.0,18000.0
+Chevrolet Cruze 1.4 Premier Sedan,Ubicación no encontrada,1.4 Premier Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,76000.0,Eléctrica,Delantera,5.0,153.0,22000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Capital Federal,1.4 Lt At Sedan,,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,6000.0,Eléctrica,Delantera,5.0,153.0,22000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Norte,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,120000.0,Eléctrica,Delantera,5.0,153.0,16000.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Buenos Aires Interior,1.8 Ltz Mt 141cv,,Chevrolet,Cruze,2015,Nafta,4.0,Manual,1.8,Sedán,109000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Bs.As. G.B.A. Sur,1.4 Lt At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,52000.0,Eléctrica,Delantera,5.0,153.0,15333.33
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Plateado,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,40000.0,Eléctrica,Delantera,5.0,153.0,14000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,45000.0,Eléctrica,Delantera,5.0,153.0,19332.67
+Chevrolet Cruze 4p 1.4 Turbo Ltz Mt,Ubicación no encontrada,4P 1.4 TURBO LTZ MT,Gris,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,99830.0,Hidráulica,Delantera,5.0,141.0,12533.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Negro,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,95000.0,Eléctrica,Delantera,5.0,153.0,16500.0
+Chevrolet Cruze 1.8 Ltz Mt,Capital Federal,1.8 Ltz Mt,,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Hatchback,93000.0,Hidráulica,Delantera,5.0,141.0,11900.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,73000.0,Eléctrica,Delantera,5.0,153.0,16900.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,111111.0,Eléctrica,Delantera,5.0,153.0,22000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Santa Fe,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,72500.0,Eléctrica,Delantera,5.0,153.0,17000.0
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,102000.0,Hidráulica,Delantera,5.0,141.0,14000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,86000.0,Eléctrica,Delantera,5.0,153.0,15333.33
+Chevrolet Cruze LT MT,Ubicación no encontrada,LT MT,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Sedán,81874.0,Hidráulica,Delantera,5.0,141.0,13666.67
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Plateado,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,110000.0,Hidráulica,Delantera,5.0,141.0,8500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,,Chevrolet,Cruze,2013,Diésel,4.0,Automática,2.0,Sedán,98000.0,Hidráulica,Delantera,5.0,163.0,9800.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Bs.As. G.B.A. Oeste,1.8 Ltz At 141cv,,Chevrolet,Cruze,2015,Nafta,4.0,Automática,1.8,Sedán,97000.0,Hidráulica,Delantera,5.0,141.0,12500.0
+Chevrolet Cruze Lt,Entre Ríos,LT,,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.4,Sedán,32500.0,Asistida,Delantera,5.0,141.0,18000.0
+Chevrolet Cruze 1.8 Ltz At 5 p,Capital Federal,1.8 Ltz At 5 p,Gris,Chevrolet,Cruze,2013,Nafta,5.0,Automática,1.8,Hatchback,114000.0,Hidráulica,Delantera,5.0,141.0,13500.0
+Impecable Chevrolet Cruze 2.0d Ltz At Año 2013 Con 106.000km,Bs.As. G.B.A. Oeste,2.0 vcdi 5 puertas,Gris,Chevrolet,Cruze,2013,Diésel,5.0,Automática,1.8,Hatchback,106000.0,Hidráulica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Capital Federal,1.4 Ltz At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,34000.0,Eléctrica,Delantera,5.0,153.0,21500.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Bs.As. G.B.A. Sur,1.8 Ltz Mt 141cv,,Chevrolet,Cruze,2014,Nafta,4.0,Manual,1.8,Sedán,149000.0,Hidráulica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Bs.As. G.B.A. Oeste,1.8 Lt Mt 5 p,Gris,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,120000.0,Hidráulica,Delantera,5.0,141.0,8800.0
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,Blanco,Chevrolet,Cruze,2014,Nafta,5.0,Automática,1.8,Hatchback,125085.0,Hidráulica,Delantera,5.0,141.0,8933.33
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Capital Federal,1.8 Ltz Mt 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,108500.0,Hidráulica,Delantera,5.0,141.0,8900.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Bs.As. G.B.A. Norte,1.8 Ltz Mt 4 p,,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,200000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Capital Federal,1.8 Ltz Mt 4 p,Gris,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,117000.0,Hidráulica,Delantera,5.0,141.0,10200.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,53327.0,Eléctrica,Delantera,5.0,153.0,16333.33
+Chevrolet Cruze 1.8 Lt Mt 4 p,Bs.As. G.B.A. Sur,1.8 Lt Mt 4 p,Azul,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,110000.0,Asistida,Delantera,5.0,141.0,11200.0
+Chevrolet 2017 Cruze 1.4 5p Ltz,Ubicación no encontrada,1.4 Ltz At 153cv,Gris,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.4,Hatchback,147500.0,assisted,Delantera,5.0,141.0,15500.0
+Chevrolet Cruze 1.4t Premier Ii At,Ubicación no encontrada,1.4T PREMIER II AT,,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,39000.0,Eléctrica,Delantera,5.0,141.0,19500.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Gris,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,45000.0,Eléctrica,Delantera,5.0,153.0,19500.0
+Chevrolet Cruze 4p 1.4 Turbo Lt Mt,Ubicación no encontrada,1.4 TURBO LT MT,Blanco,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,125000.0,Eléctrica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Negro,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.8,Sedán,10200.0,Asistida,Delantera,5.0,141.0,13466.67
+Chevrolet Cruze 1.4 5 Ptas Ltz,Santa Fe,1.4 5 PTAS LTZ,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,81000.0,Hidráulica,Delantera,5.0,141.0,12000.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,85000.0,Hidráulica,Delantera,5.0,141.0,8600.0
+Chevrolet Cruze 1.8 Ltz Mt,Bs.As. G.B.A. Norte,1.8 Ltz Mt,,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,157000.0,Hidráulica,Delantera,5.0,141.0,10500.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Bs.As. G.B.A. Sur,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,158000.0,Hidráulica,Delantera,5.0,141.0,24500.0
+Chevrolet Cruze 1.4 Turbo Ltz,Bs.As. G.B.A. Norte,1.4 turbo ltz,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,50000.0,Hidráulica,Delantera,5.0,141.0,16000.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Santa Fe,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,110000.0,Hidráulica,Delantera,5.0,141.0,6666.67
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Hatchback,128000.0,Hidráulica,Delantera,5.0,141.0,11500.0
+Chevrolet Cruze 1.8 Lt Mt,Santa Fe,1.8 Lt Mt,,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.8,Sedán,68000.0,Asistida,Delantera,5.0,141.0,13333.33
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,,Chevrolet,Cruze,2016,Nafta,4.0,Automática,1.8,Sedán,149000.0,Hidráulica,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze Lt sedan,Bs.As. G.B.A. Sur,Lt sedan,Negro,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.4,Sedán,140000.0,Hidráulica,Delantera,5.0,163.0,11333.33
+Chevrolet Cruze 1.8 Ltz Mt,Entre Ríos,1.8 Ltz Mt,Blanco,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Hatchback,126000.0,Hidráulica,Delantera,5.0,141.0,11500.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Santa Fe,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,160000.0,Hidráulica,Delantera,5.0,141.0,7800.0
+Chevrolet Cruze 1.8 Ltz At,Capital Federal,1.8 Ltz At,,Chevrolet,Cruze,2013,Nafta,5.0,Automática,1.8,Hatchback,159000.0,Hidráulica,Delantera,5.0,141.0,9800.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Ltz At 163cv,Celeste,Chevrolet,Cruze,2012,Diésel,4.0,Automática,2.0,Sedán,164179.0,Hidráulica,Delantera,5.0,163.0,7933.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Sur,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,45000.0,Eléctrica,Delantera,5.0,153.0,18500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,110000.0,Eléctrica,Delantera,5.0,153.0,17900.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,71000.0,Hidráulica,Delantera,5.0,141.0,17000.0
+Chevrolet Cruze 1.8 Ltz Mt,Salta,1.8 Ltz Mt,Azul,Chevrolet,Cruze,2015,Nafta,5.0,Manual,1.8,Hatchback,78000.0,Hidráulica,Delantera,5.0,141.0,8333.33
+Chevrolet Cruze 1.4 Turbo,Capital Federal,lt,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,67000.0,Hidráulica,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Plateado,Chevrolet,Cruze,2019,Nafta,4.0,Manual,1.8,Sedán,46293.0,Asistida,Delantera,5.0,141.0,15693.33
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Azul,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,68000.0,Eléctrica,Delantera,5.0,153.0,15333.33
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Rojo,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,65000.0,Eléctrica,Delantera,5.0,153.0,13333.33
+Chevrolet Cruze Ltz,Bs.As. G.B.A. Sur,LTZ 1.4 TURBO MT,Negro,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.8,Sedán,108000.0,Eléctrica,Delantera,5.0,141.0,11333.33
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,56000.0,Hidráulica,Delantera,5.0,141.0,18000.0
+Chevrolet Cruze 1.4T LT AT 5puertas,Capital Federal,1.4T LT AT 5puertas,,Chevrolet,Cruze,2023,Nafta,5.0,Automática,1.4,Sedán,12000.0,Eléctrica,Delantera,5.0,153.0,21000.0
+Chevrolet Cruze 1.4 Premier Sedan,Santa Fe,1.4 Premier Sedan,Blanco,Chevrolet,Cruze,2023,Nafta,4.0,Manual,1.4,Sedán,90000.0,Eléctrica,Delantera,5.0,153.0,15200.0
+Chevrolet Cruze 1.4 Ltz At,Capital Federal,1.4 Ltz At,Gris,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,144500.0,Hidráulica,Delantera,5.0,141.0,15500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Bs.As. G.B.A. Oeste,2.0 Vcdi Sedan Lt At 163cv,,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,120000.0,Hidráulica,Delantera,5.0,163.0,11500.0
+Chevrolet Cruze Cruze 1.4 LT MT 4p,Capital Federal,Cruze 1.4 LT MT 4p,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,103000.0,Asistida,Delantera,5.0,141.0,11166.67
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Negro,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,20000.0,Eléctrica,Delantera,5.0,153.0,16333.33
+Chevrolet Cruze 1.4 AT Sedan Premier,Córdoba,1.4 AT Sedan Premier,Blanco,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.4,Sedán,81000.0,Eléctrica,Delantera,5.0,153.0,19500.0
+Chevrolet Cruze 4p 1.4 Turbo Lt Mt Mod 2019 Excelente!!!,Ubicación no encontrada,1.4 TURBO LT MT,Gris,Chevrolet,Cruze,2019,Nafta,4.0,Manual,1.4,Sedán,71000.0,Hidráulica,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Plateado,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,124000.0,Hidráulica,Delantera,5.0,163.0,9933.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,71000.0,Eléctrica,Delantera,5.0,153.0,13966.67
+Vendo Chevrolet Cruze 2   2016 1.4 T Ltz Linea Nueva Impec,Bs.As. G.B.A. Oeste,1.4 t 153hp  ltz,Blanco,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.4,Hatchback,175000.0,Hidráulica,Delantera,5.0,141.0,10533.33
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Rojo,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,55000.0,Eléctrica,Delantera,5.0,153.0,17500.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Buenos Aires Interior,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,155000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.4 Lt Mt,Capital Federal,1.4 Lt Mt,Gris,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Sedán,85000.0,Asistida,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,Blanco,Chevrolet,Cruze,2014,Nafta,5.0,Automática,1.8,Hatchback,125085.0,Hidráulica,Delantera,5.0,141.0,9200.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,135000.0,Hidráulica,Delantera,5.0,141.0,8500.0
+Chevrolet Cruze 4,Ubicación no encontrada,4,Gris,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.4,Sedán,131368.0,Eléctrica,Delantera,5.0,141.0,12660.0
+Chevrolet Cruze,Santa Fe,1.4 Rs,Rojo,Chevrolet,Cruze,2023,Nafta,5.0,Automática,1.4,Hatchback,7000.0,Eléctrica,Delantera,5.0,153.0,20000.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Bs.As. G.B.A. Norte,2.0 Vcdi Sedan Lt At 163cv,Plateado,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,125000.0,Hidráulica,Delantera,5.0,163.0,10133.33
+Chevrolet Cruze 1.4 LTZ Plus,Ubicación no encontrada,1.4 LTZ Plus,,Chevrolet,Cruze,2018,Nafta,5.0,Automática,1.4,Sedán,117000.0,Eléctrica,Delantera,5.0,153.0,13000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Córdoba,1.4 Lt At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,23000.0,Eléctrica,Delantera,5.0,153.0,16333.33
+Chevrolet Cruze 1.4 Midnight At Sedan,Ubicación no encontrada,1.4 Midnight At Sedan,,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,37000.0,Eléctrica,Delantera,5.0,153.0,16600.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,42000.0,Eléctrica,Delantera,5.0,153.0,18800.0
+Chevrolet Cruze Ltz 5 Ptas Man,Ubicación no encontrada,Ltz 5 Ptas Man,Azul,Chevrolet,Cruze,2014,Nafta,5.0,Automática,1.8,Hatchback,109000.0,Hidráulica,Delantera,5.0,141.0,9266.67
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Oeste,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,83000.0,Eléctrica,Delantera,5.0,153.0,18000.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Bs.As. G.B.A. Sur,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,108000.0,Hidráulica,Delantera,5.0,141.0,12500.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,Plateado,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,122400.0,Hidráulica,Delantera,5.0,141.0,8600.0
+Chevrolet Cruze Ltz,Capital Federal,Ltz,,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,125000.0,Hidráulica,Delantera,5.0,141.0,9500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Córdoba,2.0 Vcdi Sedan Ltz At 163cv,Negro,Chevrolet,Cruze,2012,Diésel,4.0,Automática,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,163.0,6633.33
+Chevrolet Cruze 1.8 Lt Mt 5 p,Bs.As. G.B.A. Oeste,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,145000.0,Hidráulica,Delantera,5.0,141.0,9000.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Capital Federal,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,28500.0,Eléctrica,Delantera,5.0,153.0,17000.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.8,Sedán,115000.0,Asistida,Delantera,5.0,141.0,11333.33
+Chevrolet Cruze 1.4T LTZ 4PTAS AUT,Ubicación no encontrada,1.4T LTZ 4PTAS AUT,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.4,Sedán,62000.0,Hidráulica,Delantera,5.0,141.0,14733.33
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Ltz At 163cv,Blanco,Chevrolet,Cruze,2014,Diésel,5.0,Automática,2.0,Sedán,111000.0,Hidráulica,Delantera,5.0,163.0,11500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Gris,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,71000.0,Hidráulica,Delantera,5.0,163.0,22000.0
+Cruze Premier 4p 1.4 Aut,Ubicación no encontrada,Premier 4p 1.4 Aut,Gris,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,45000.0,Eléctrica,Delantera,5.0,141.0,21700.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,46550.0,Eléctrica,Delantera,5.0,153.0,14593.33
+Chevrolet Cruze Li 1.4 Lt 153cv,Bs.As. G.B.A. Norte,li 1.4 Lt 153 cv,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Hatchback,87000.0,Eléctrica,4x2,5.0,141.0,14000.0
+Chevrolet Cruze 1.4 Ltz At,Ubicación no encontrada,1.4 Ltz At,Rojo,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.4,Hatchback,85000.0,Asistida,Delantera,5.0,141.0,13266.67
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Capital Federal,2.0 Vcdi Sedan Ltz At 163cv,,Chevrolet,Cruze,2017,Diésel,4.0,Automática,2.0,Sedán,125000.0,Hidráulica,Delantera,5.0,163.0,14500.0
+Chevrolet Cruze 1.8 Lt At,Córdoba,1.8 Lt At,Blanco,Chevrolet,Cruze,2014,Nafta,5.0,Automática,1.8,Hatchback,118000.0,Hidráulica,Delantera,5.0,141.0,8000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Capital Federal,1.4 Ltz At Sedan,Azul,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,9400.0,Eléctrica,Delantera,5.0,153.0,17850.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Negro,Chevrolet,Cruze,2024,Nafta,4.0,Automática,1.4,Sedán,2397.0,Eléctrica,Delantera,5.0,153.0,21500.0
+Chevrolet Cruze 1.4 Ltz plus At Sedan,Bs.As. G.B.A. Sur,1.4 Ltz plus At Sedan,Plateado,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,64600.0,Eléctrica,Delantera,5.0,153.0,17300.0
+Chevrolet Cruze 1.4 Premier Sedan,La Pampa,1.4 Premier Sedan,Plateado,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,18500.0,Eléctrica,Delantera,5.0,153.0,20500.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,147000.0,Hidráulica,Delantera,5.0,141.0,7666.67
+Chevrolet Cruze 1.4 Lt At Sedan,Capital Federal,1.4 Lt At Sedan,Blanco,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,6400.0,Eléctrica,Delantera,5.0,153.0,18666.67
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.8,Sedán,71000.0,Hidráulica,Delantera,5.0,141.0,15333.33
+Chevrolet Cruze Ltz + 1.4 At 2017,Ubicación no encontrada,,Blanco,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.4,Sedán,84000.0,Asistida,Delantera,5.0,141.0,13266.67
+Chevrolet Cruze Ltz,Ubicación no encontrada,Ltz,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,78000.0,Eléctrica,Delantera,5.0,153.0,12000.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Blanco,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,118200.0,Hidráulica,Delantera,5.0,141.0,9300.0
+Chevrolet Cruze 1.8 Ltz At,San Luis,1.8 Ltz At,,Chevrolet,Cruze,2015,Nafta,5.0,Automática,1.8,Hatchback,126000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.4 Premier Sedan,Bs.As. G.B.A. Norte,1.4 Premier Sedan,Gris,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,34000.0,Eléctrica,Delantera,5.0,153.0,22000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Capital Federal,1.4 Ltz At Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,71000.0,Eléctrica,Delantera,5.0,153.0,18000.0
+Chevrolet Cruze 1.4 Premier Sedan,Bs.As. G.B.A. Norte,1.4 Premier Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,3250.0,Eléctrica,Delantera,5.0,153.0,25500.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,108000.0,Eléctrica,Delantera,5.0,153.0,13666.67
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,150000.0,Eléctrica,Delantera,5.0,153.0,10666.67
+Chevrolet Cruze Ltz At 5 Puertas,Bs.As. G.B.A. Norte,LTZ AT 5 puertas,,Chevrolet,Cruze,2019,Nafta,5.0,Automática,1.4,Sedán,87000.0,Eléctrica,Delantera,5.0,141.0,16199.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Blanco,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,159000.0,Hidráulica,Delantera,5.0,141.0,7000.0
+Chevrolet Cruze 4p 1.4 Lt Mt,Ubicación no encontrada,1.4 Mt,Gris,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.4,Sedán,85000.0,Hidráulica,Delantera,5.0,141.0,11333.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Neuquén,1.4 Ltz At Sedan,,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,37000.0,Eléctrica,Delantera,5.0,153.0,19500.0
+Chevrolet Cruze Ltz 1.4 2017  - Bellocchioautoslp,Ubicación no encontrada,LTZ 1.4,Rojo,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,73000.0,Hidráulica,Delantera,5.0,141.0,14800.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Córdoba,1.4 Ltz At Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,90000.0,Eléctrica,Delantera,5.0,153.0,15900.0
+Chevrolet Cruze 1.4 Lt At Sedan,Bs.As. G.B.A. Norte,1.4 Lt At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,59000.0,Eléctrica,Delantera,5.0,153.0,16000.0
+Chevrolet Cruze 1.4 TURBO LTZ + AT,Ubicación no encontrada,,Rojo,Chevrolet,Cruze,2018,Nafta,5.0,Automática,1.4,Sedán,105440.0,Eléctrica,Delantera,5.0,153.0,15800.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Bs.As. G.B.A. Sur,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,98900.0,Hidráulica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 1.4 Lt manual 5p,Córdoba,1.4 Lt manual 5p,Rojo,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.4,Hatchback,86000.0,Eléctrica,Delantera,5.0,141.0,13000.0
+Chevrolet Cruze 1.4 Lt At,Córdoba,1.4 Lt At,Negro,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,13000.0,Eléctrica,Delantera,5.0,153.0,16000.0
+Chevrolet Cruze 1.4 Turbo,Córdoba,1.4 Turbo,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,58000.0,Hidráulica,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 1.4 Ltz At,Ubicación no encontrada,1.4 Ltz At,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,110000.0,Eléctrica,Delantera,5.0,153.0,18000.0
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Hatchback,140000.0,Hidráulica,Delantera,5.0,141.0,12600.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,Celeste,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,86000.0,Hidráulica,Delantera,5.0,141.0,8666.67
+Chevrolet Cruze Ltz + Aut 5 Ptas,Ubicación no encontrada,,Gris,Chevrolet,Cruze,2019,Nafta,5.0,Automática,1.4,Sedán,85000.0,Eléctrica,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Ubicación no encontrada,1.8 Ltz Mt 141cv,Gris,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Sedán,80000.0,Hidráulica,DelanteraAutonomia de la batería3 km,5.0,141.0,13990.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,120000.0,Hidráulica,Delantera,5.0,141.0,9500.0
+Chevrolet Cruze 1.8 Lt Mt,Buenos Aires Interior,1.8 Lt Mt,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,186000.0,Hidráulica,Delantera,5.0,141.0,7000.0
+Chevrolet Cruze 4p 1.4 Turbo Lt Mt,Capital Federal,1.4 Turbo LM MT,Gris,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,95000.0,Asistida,Delantera,5.0,141.0,13500.0
+Chevrolet Cruze 1.4T LTZ AT 4P,Ubicación no encontrada,1.4T LTZ AT 4P,Gris,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,30000.0,Asistida,Delantera,5.0,153.0,18466.67
+Chevrolet Cruze 1.4 Lt Mt Sedan,Río Negro,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,15760.0,Eléctrica,Delantera,5.0,153.0,13333.33
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2011,Nafta,5.0,Manual,1.8,Hatchback,127500.0,Hidráulica,Delantera,5.0,141.0,7266.67
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Blanco,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.8,Sedán,75000.0,Asistida,Delantera,5.0,141.0,14000.0
+Chevrolet Cruze Lt Manual,Córdoba,1.4 Lt,Blanco,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.4,Sedán,122222.0,Eléctrica,Delantera,5.0,141.0,12900.0
+Chevrolet Cruze 1.4 Turbo Premier,Río Negro,1.4 turbo premier,,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,83000.0,Eléctrica,Delantera,5.0,141.0,15333.33
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Buenos Aires Interior,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,124000.0,Hidráulica,Delantera,5.0,141.0,7666.67
+Chevrolet Cruze 1.4 Turbo Premier,Ubicación no encontrada,1.4 TURBO PREMIER,,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Sedán,49000.0,Eléctrica,Delantera,5.0,141.0,21000.0
+"Chevrolet Cruze Lt A/t 5 Ptas C/ Cuero, Igual A Okm",Ubicación no encontrada,,Azul,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Sedán,18600.0,Asistida,Delantera,5.0,141.0,18000.0
+Chevrolet Cruze 1.8 Ltz At 4 p,Capital Federal,1.8 Ltz At 4 p,Plateado,Chevrolet,Cruze,2012,Nafta,4.0,Automática,1.8,Sedán,110000.0,Hidráulica,Delantera,5.0,141.0,8656.67
+Chevrolet Cruze 1.8 Lt Mt 4 p,Bs.As. G.B.A. Sur,1.8 Lt Mt 4 p,Gris,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,140500.0,Asistida,Delantera,5.0,141.0,8366.67
+Chevrolet Cruze 1.4 Lt Mt Sedan,Bs.As. G.B.A. Norte,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,145000.0,Eléctrica,Delantera,5.0,153.0,11000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,131993.0,hydraulic,Delantera,5.0,153.0,18900.0
+Chevrolet Cruze 1.4 Midnight At Sedan,Ubicación no encontrada,1.4 Midnight At Sedan,Negro,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,45923.0,Eléctrica,Delantera,5.0,153.0,15266.67
+Chevrolet Cruze Lt 2017,Buenos Aires Interior,LT 1.4 Turbo,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Hatchback,100000.0,Hidráulica,Delantera,5.0,141.0,14500.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,71500.0,Eléctrica,Delantera,5.0,153.0,11866.67
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Plateado,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.4,Sedán,87500.0,Eléctrica,Delantera,5.0,153.0,17500.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Plateado,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.8,Sedán,50500.0,Hidráulica,Delantera,5.0,141.0,20500.0
+Chevrolet Cruze 1.4 LTZ PLUS AT 4P L16,Ubicación no encontrada,1.4 LTZ PLUS AT 4P L16,gris plata,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,126670.0,Asistida,Delantera,5.0,153.0,12772.0
+Chevrolet Cruze 5p 1.4 Turbo Lt Mt 2017,Ubicación no encontrada,1.4 Turbo LT MT,Negro,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,141.0,11916.67
+Chevrolet Cruze 1.4 Turbo  Lt /2017  Sedan 4 P,Ubicación no encontrada,1.4 Turbo LT,Gris,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,55725.0,Hidráulica,Delantera,5.0,141.0,12660.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Negro,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,125000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Bs.As. G.B.A. Norte,1.8 Ltz Mt 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,97000.0,Hidráulica,Delantera,5.0,141.0,9000.0
+Chevrolet Cruze 1.4 turbo Ltz MT,Bs.As. G.B.A. Oeste,1.4 turbo Ltz MT,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,37800.0,Eléctrica,Delantera,5.0,153.0,17500.0
+Chevrolet Cruze Ltz 1.4 At 2017,Ubicación no encontrada,1.4 Ltz,Violeta,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,70000.0,Asistida,Delantera,5.0,141.0,14866.67
+Chevrolet Cruze 1.8 Ltz At 141cv,Bs.As. Costa Atlántica,1.8 Ltz At 141cv,,Chevrolet,Cruze,2014,Nafta,4.0,Automática,1.8,Sedán,109000.0,Hidráulica,Delantera,5.0,141.0,10500.0
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Gris,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Hatchback,112000.0,Hidráulica,Delantera,5.0,141.0,10200.0
+Chevrolet Cruze Vendo Diésel Automa,Ubicación no encontrada,vendo diésel automa,,Chevrolet,Cruze,2014,Diésel,5.0,Automática,1.8,Hatchback,200000.0,Hidráulica,Delantera,5.0,141.0,7666.67
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 150 Cv,Ubicación no encontrada,2.0 Vcdi Sedan Ltz At 150 Cv,Negro,Chevrolet,Cruze,2013,Diésel,4.0,Automática,2.0,Sedán,112000.0,Hidráulica,Delantera,5.0,150.0,9000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Gris,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,106000.0,Hidráulica,Delantera,5.0,141.0,8799.99
+Chevrolet Cruze 1.4 Ltz At Sedan,Capital Federal,1.4 Ltz At Sedan,Azul,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,45000.0,Eléctrica,Delantera,5.0,153.0,22500.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,168000.0,Hidráulica,Delantera,5.0,141.0,8666.67
+Chevrolet Cruze 1.4t 2017 Lt,Córdoba,LT 1.4T,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,141.0,10333.33
+Chevrolet Cruze 1.8 Lt Mt 4 p,Capital Federal,1.8 Lt Mt 4 p,Negro,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,101000.0,Hidráulica,Delantera,5.0,141.0,9900.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,Plateado,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,122400.0,Hidráulica,Delantera,5.0,141.0,8600.0
+Chevrolet Cruze 1.4 Premier Sedan,Ubicación no encontrada,1.4 Premier Sedan,,Chevrolet,Cruze,2023,Nafta,4.0,Manual,1.4,Sedán,9500.0,Eléctrica,Delantera,5.0,153.0,24800.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Blanco,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.8,Sedán,110564.0,Hidráulica,Delantera,5.0,141.0,16000.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Bs.As. G.B.A. Norte,1.4 Lt Mt Sedan,Negro,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,145000.0,Eléctrica,Delantera,5.0,153.0,12500.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Gris,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.8,Sedán,99000.0,Hidráulica,Delantera,5.0,141.0,19000.0
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Gris,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.8,Sedán,79000.0,Asistida,Delantera,5.0,141.0,13930.0
+Chevrolet Cruze 1.4 TURBO LTZ MT SEDAN 5 PUERTAS,Bs.As. G.B.A. Oeste,1.4 TURBO LTZ MT SEDAN 5 PUERTAS,Gris,Chevrolet,Cruze,2019,Nafta,5.0,Manual,1.4,Sedán,72000.0,Eléctrica,4x2,5.0,153.0,16500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Azul,Chevrolet,Cruze,2014,Diésel,4.0,Automática,2.0,Sedán,115000.0,Hidráulica,Delantera,5.0,163.0,4666.67
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Negro,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,72500.0,electronic,Delantera,5.0,141.0,9200.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Bs.As. G.B.A. Sur,1.8 Ltz Mt 141cv,,Chevrolet,Cruze,2014,Nafta/GNC,4.0,Manual,1.8,Sedán,150000.0,Hidráulica,Delantera,5.0,141.0,9500.0
+Chevrolet Cruze 1.8 Ltz Mt,Capital Federal,1.8 Ltz Mt,Gris,Chevrolet,Cruze,2015,Nafta,5.0,Manual,1.8,Hatchback,103000.0,Hidráulica,Delantera,5.0,141.0,10900.0
+Chevrolet Cruze 1.4 T  LT,Ubicación no encontrada,1.4 T  LT,Plateado,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.4,Sedán,61000.0,Asistida,4x2,5.0,153.0,13333.27
+Chevrolet Cruze 1.4 LT 4P L16,Ubicación no encontrada,1.4 LT 4P L16,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,70800.0,Asistida,Delantera,5.0,153.0,14600.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Oeste,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,44000.0,Eléctrica,Delantera,5.0,153.0,18500.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,64000.0,Eléctrica,Delantera,5.0,153.0,17800.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Rojo,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Hatchback,109000.0,Hidráulica,Delantera,5.0,141.0,9300.0
+Chevrolet Cruze 1.4 Turbo Ltz Mt,Ubicación no encontrada,1.4 Turbo Ltz Mt,Negro,Chevrolet,Cruze,2018,Nafta,5.0,Manual,1.4,Sedán,86000.0,Asistida,Delantera,5.0,153.0,11666.67
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,Black,Chevrolet,Cruze,2015,Nafta,5.0,Manual,1.0,Hatchback,98000.0,Asistida,4x2,5.0,141.0,8613.33
+Chevrolet Cruze Sedan LTZ AT PLUS,Córdoba,Sedan LTZ AT PLUS,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.4,Sedán,101000.0,Hidráulica,Delantera,5.0,163.0,14500.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Bs.As. G.B.A. Oeste,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,42000.0,Eléctrica,Delantera,5.0,153.0,14500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,75000.0,Eléctrica,Delantera,5.0,153.0,14333.33
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Capital Federal,2.0 Vcdi Sedan Ltz At 163cv,Blanco,Chevrolet,Cruze,2013,Diésel,4.0,Automática,2.0,Sedán,116000.0,Hidráulica,Delantera,5.0,163.0,10490.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,80000.0,Eléctrica,Delantera,5.0,153.0,16990.0
+Chevrolet Cruze 1.8 Ltz At 4 p,Capital Federal,1.8 Ltz At 4 p,Gris,Chevrolet,Cruze,2012,Nafta,4.0,Automática,1.8,Sedán,71300.0,Hidráulica,Delantera,5.0,141.0,11400.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Capital Federal,1.8 Ltz At 141cv,Gris,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.8,Sedán,53000.0,Hidráulica,Delantera,5.0,141.0,17000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,128700.0,Eléctrica,Delantera,5.0,153.0,17000.0
+Chevrolet Cruze 1.4 LTZ 5P L16,Ubicación no encontrada,1.4 LTZ 5P L16,Blanco,Chevrolet,Cruze,2018,Nafta,5.0,Manual,1.4,Hatchback,92000.0,Asistida,Delantera,5.0,153.0,12466.67
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Bs.As. G.B.A. Sur,1.8 Ltz Mt 4 p,Gris,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,129000.0,Hidráulica,Delantera,5.0,141.0,8800.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.8,Sedán,54000.0,Hidráulica,Delantera,5.0,141.0,16666.67
+Chevrolet Cruze 1.4 Premier Sedan,Ubicación no encontrada,1.4 Premier Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,15000.0,Eléctrica,Delantera,5.0,153.0,27000.0
+Chevrolet Cruze 1.4 LT T,Bs.As. G.B.A. Norte,1.4 LT T,Gris,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,41000.0,Hidráulica,Delantera,5.0,153.0,16000.0
+Chevrolet Cruze 1.4 Ltz Sedan,Córdoba,1.4 Ltz Sedan,Violeta,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,97000.0,Eléctrica,Delantera,5.0,153.0,13266.67
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Celeste,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,120000.0,Hidráulica,Delantera,5.0,163.0,11500.0
+Chevrolet Cruze 1.8 Ltz At 4 p,Córdoba,1.8 Ltz At 4 p,Rojo,Chevrolet,Cruze,2011,Nafta,4.0,Automática,1.8,Sedán,270000.0,Hidráulica,Delantera,5.0,141.0,6666.67
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Rojo,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,111111.0,Hidráulica,Delantera,5.0,141.0,8266.67
+Chevrolet Cruze 1.4 Midnight At Sedan,Ubicación no encontrada,1.4 Midnight At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,31000.0,Eléctrica,Delantera,5.0,153.0,20000.0
+Chevrolet Cruze 1.8 Lt Mt,Capital Federal,1.8 Lt Mt,Gris,Chevrolet,Cruze,2019,Nafta,4.0,Manual,1.8,Sedán,77000.0,Asistida,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,Negro,Chevrolet,Cruze,2015,Nafta,5.0,Manual,1.8,Hatchback,130000.0,Hidráulica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze Premier A/t 2021,Ubicación no encontrada,PREMIER,Gris,Chevrolet,Cruze,2021,Nafta,4.0,Automática secuencial,1.4,Sedán,44000.0,Asistida,Delantera,5.0,141.0,18666.67
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Buenos Aires Interior,2.0 Vcdi Sedan Lt At 163cv,,Chevrolet,Cruze,2013,Diésel,4.0,Automática,2.0,Sedán,118000.0,Hidráulica,Delantera,5.0,163.0,10000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Plateado,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.4,Sedán,38000.0,Eléctrica,Delantera,5.0,153.0,15000.0
+Chevrolet Cruze Lt 1.4 Turbo,Bs.As. G.B.A. Sur,Lt 1.4 Turbo,,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,75000.0,Eléctrica,Delantera,5.0,141.0,12000.0
+Chevrolet Cruze 1.4T LTZ,Ubicación no encontrada,1.4T LTZ,Gris,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,100000.0,Eléctrica,Delantera,5.0,141.0,14900.0
+Chevrolet Cruze 1.4 Turbo,Capital Federal,1.4 Turbo,Blanco,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,40000.0,Eléctrica,Delantera,5.0,141.0,19200.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Santa Fe,2.0 Vcdi Sedan Lt At 163cv,,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,120000.0,Hidráulica,Delantera,5.0,163.0,12000.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Bs.As. G.B.A. Oeste,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,43000.0,Asistida,Delantera,5.0,141.0,10133.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Córdoba,1.4 Ltz At Sedan,Plateado,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,52000.0,Eléctrica,Delantera,5.0,153.0,13266.67
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Ubicación no encontrada,1.8 Ltz Mt 141cv,Negro,Chevrolet,Cruze,2015,Nafta,4.0,Manual,1.8,Sedán,130000.0,Hidráulica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Bs.As. G.B.A. Sur,1.4 Lt At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,13800.0,Eléctrica,Delantera,5.0,153.0,19800.0
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Negro,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,131396.0,Hidráulica,Delantera,5.0,141.0,7600.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Negro,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,90000.0,Hidráulica,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 1.4 Ltz Mt,Ubicación no encontrada,1.4 Ltz Mt,Blanco,Chevrolet,Cruze,2018,Nafta,5.0,Manual,1.4,Sedán,83000.0,Eléctrica,Delantera,5.0,153.0,13066.67
+Chevrolet Cruze 1.4 Lt Mt Sedan,Buenos Aires Interior,1.4 Lt Mt Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,125000.0,Eléctrica,Delantera,5.0,153.0,11000.0
+"Chevrolet Cruze 1.4T LTZ + AUTOMATICO SEDAN , ANTICIPO $",Ubicación no encontrada,,Gris,Chevrolet,Cruze,2016,Nafta,4.0,Automática,2.0,Sedán,14000.0,Hidráulica,Delantera,5.0,163.0,9333.33
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Bs.As. G.B.A. Sur,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,98000.0,Hidráulica,Delantera,5.0,141.0,8500.0
+Chevrolet Cruze 1.8 Ltz At 5 p,Bs.As. G.B.A. Oeste,1.8 Ltz At 5 p,Celeste,Chevrolet,Cruze,2013,Nafta,5.0,Automática,1.8,Hatchback,140000.0,Hidráulica,Delantera,5.0,141.0,9500.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Bs.As. G.B.A. Oeste,1.8 Ltz At 141cv,Blanco,Chevrolet,Cruze,2014,Nafta,4.0,Automática,1.8,Sedán,134000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.8 Ltz Mt,Bs.As. G.B.A. Sur,1.8 Ltz Mt,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Hatchback,100000.0,Hidráulica,Delantera,5.0,141.0,16000.0
+Chevrolet Cruze Rs,Chaco,RS,,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,9600.0,Eléctrica,Delantera,5.0,153.0,23000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Sur,1.4 Ltz At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,28000.0,Eléctrica,Delantera,5.0,153.0,17500.0
+Chevrolet Cruze 1.4 Lt At Sedan,Bs.As. G.B.A. Norte,1.4 Lt At Sedan,Gris,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,24000.0,Eléctrica,Delantera,5.0,153.0,18500.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,Rojo,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,89000.0,Hidráulica,Delantera,5.0,141.0,8900.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Santa Fe,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,62000.0,Eléctrica,Delantera,5.0,153.0,14000.0
+Chevrolet Cruze 1.4 Turbo Lt Mt,Capital Federal,1.4 Turbo LT MT,,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Sedán,15500.0,Eléctrica,Delantera,5.0,141.0,19000.0
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,,Chevrolet,Cruze,2019,Nafta,4.0,Manual,1.8,Sedán,66000.0,Asistida,Delantera,5.0,141.0,17000.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,14100.0,Eléctrica,Delantera,5.0,153.0,23500.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,,Chevrolet,Cruze,2024,Nafta,4.0,Automática,1.4,Sedán,1111.0,Eléctrica,Delantera,5.0,153.0,19000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Blanco,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,19000.0,Eléctrica,Delantera,5.0,153.0,15333.33
+Chevrolet Cruze 1.4 Ltz At,Capital Federal,1.4 Ltz At,Rojo,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.4,Hatchback,130000.0,Hidráulica,Delantera,5.0,141.0,14900.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Rojo,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.8,Sedán,70000.0,Hidráulica,Delantera,5.0,141.0,15666.67
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,38600.0,Eléctrica,Delantera,5.0,153.0,18848.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,88000.0,Eléctrica,Delantera,5.0,153.0,15000.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Ltz At 163cv,Gris,Chevrolet,Cruze,2013,Diésel,4.0,Automática,2.0,Sedán,145000.0,Hidráulica,Delantera,5.0,163.0,10500.0
+Chevrolet Cruze 1.8 Ltz At 5 p,Córdoba,1.8 Ltz At 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Automática,1.8,Hatchback,134000.0,Hidráulica,Delantera,5.0,141.0,8500.0
+Chevrolet Cruze 1.8 Lt At,Ubicación no encontrada,1.8 Lt At,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,97000.0,electronic,Delantera,5.0,141.0,9900.0
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,Gris,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,118000.0,Hidráulica,Delantera,5.0,141.0,11500.0
+Chevrolet Cruze 2017 1.4 Turbo Ltz Plus 1era Mno Dña Liq Urg,Ubicación no encontrada,1.4 turbo LTZ plus,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,50000.0,Hidráulica,Delantera,5.0,141.0,12600.0
+Chevrolet Cruze 1.4 Lt,Ubicación no encontrada,LT,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.4,Hatchback,65000.0,Hidráulica,Delantera,5.0,141.0,12333.33
+Chevrolet Cruze 1.8 Ltz At,Santa Fe,1.8 Ltz At,Blanco,Chevrolet,Cruze,2016,Nafta,4.0,Automática,1.8,Hatchback,98000.0,Hidráulica,Delantera,5.0,141.0,14500.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Blanco,Chevrolet,Cruze,2018,Nafta,5.0,Automática,1.8,Sedán,66000.0,Hidráulica,Delantera,5.0,141.0,17900.0
+Chevrolet Cruze Premier ltz at 1.4 t,Capital Federal,Premier ltz at 1.4 t,Blanco,Chevrolet,Cruze,2020,Nafta,5.0,Automática,1.4,Sedán,52000.0,Eléctrica,Delantera,5.0,153.0,20800.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Gris,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,22000.0,assisted,Delantera,5.0,153.0,21900.0
+Chevrolet Cruze 1.4T LT AT 5P,Ubicación no encontrada,1.4T LT AT 5P,Blanco,Chevrolet,Cruze,2023,Nafta,5.0,Automática,1.4,Hatchback,11560.0,Asistida,Delantera,5.0,153.0,18133.33
+Chevrolet 2017 Cruze 1.4 4p Ltz,Ubicación no encontrada,1.4 Ltz 153cv,Gris,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.4,Sedán,64000.0,assisted,Delantera,5.0,141.0,13266.67
+Chevrolet Cruze 1.4 Premier Sedan,Ubicación no encontrada,1.4 Premier Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,25000.0,Eléctrica,Delantera,5.0,153.0,23300.0
+Chevrolet Cruze Lt Manual Motor 1.4,Ubicación no encontrada,LT Manual Motor 1.4,,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Sedán,31000.0,Eléctrica,Delantera,5.0,141.0,21900.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Mendoza,1.4 Lt Mt Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,33000.0,Eléctrica,Delantera,5.0,153.0,12333.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,14000.0,Eléctrica,Delantera,5.0,153.0,15666.67
+Chevrolet Cruze Ltz,Buenos Aires Interior,1.4 turbo ltz,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,86000.0,Hidráulica,Delantera,5.0,141.0,13500.0
+Chevrolet Cruze 1.8 Lt Mt,Bs.As. G.B.A. Oeste,1.8 Lt Mt,Negro,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.8,Sedán,146000.0,Asistida,Delantera,5.0,141.0,13000.0
+Chevrolet Cruze 5p 1.4 Premier At,Ubicación no encontrada,5P 1.4 PREMIER AT,Gris,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Sedán,82812.0,Eléctrica,Delantera,5.0,141.0,18333.33
+Chevrolet Cruze Ii 1.4 Ltz At,Buenos Aires Interior,LTZ 1.4 AT,Blanco,Chevrolet,Cruze,2016,Nafta,4.0,Automática,1.8,Sedán,171000.0,Hidráulica,Delantera,5.0,141.0,12500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Azul,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,115000.0,Hidráulica,Delantera,5.0,163.0,10333.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,64000.0,Eléctrica,Delantera,5.0,153.0,13000.0
+Chevrolet Cruze 1.4 Turbo Ltz + At,Bs.As. G.B.A. Norte,,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,141.0,15998.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,130000.0,Asistida,Delantera,5.0,141.0,9266.67
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,128000.0,Eléctrica,Delantera,5.0,153.0,14000.0
+Chevrolet Cruze 1.8 Ltz Mt,Capital Federal,1.8 Ltz Mt,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Hatchback,168000.0,Hidráulica,Delantera,5.0,141.0,8000.0
+Chevrolet Cruze 1.4 Premier Sedan,Chubut,1.4 Premier Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,31000.0,Eléctrica,Delantera,5.0,153.0,21000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,53327.0,Eléctrica,Delantera,5.0,153.0,16333.33
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,Gris,Chevrolet,Cruze,2014,Nafta,5.0,Automática,1.8,Hatchback,120000.0,Hidráulica,Delantera,5.0,141.0,10900.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Sur,1.4 Ltz At Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,140000.0,Eléctrica,Delantera,5.0,153.0,13900.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Córdoba,2.0 Vcdi Sedan Lt At 163cv,,Chevrolet,Cruze,2013,Diésel,4.0,Automática,2.0,Sedán,200000.0,Hidráulica,Delantera,5.0,163.0,10000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Bs.As. G.B.A. Sur,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,70000.0,Hidráulica,Delantera,5.0,141.0,6333.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Plateado,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,54277.0,Eléctrica,Delantera,5.0,153.0,17500.0
+Chevrolet Cruze Lt 1.4 Turbo Premier At 5p 2020,Ubicación no encontrada,LT TURBO PREMIER AT 1.4,Azul,Chevrolet,Cruze,2020,Nafta,5.0,Automática,1.4,Hatchback,53000.0,Hidráulica,Delantera,5.0,141.0,16600.0
+Chevrolet Cruze 1.4 Premier Sedan,La Pampa,1.4 Premier Sedan,,Chevrolet,Cruze,2023,Nafta,4.0,Manual,1.4,Sedán,13000.0,Eléctrica,Delantera,5.0,153.0,21500.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Bs.As. G.B.A. Sur,1.8 Ltz Mt 141cv,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.8,Sedán,137400.0,Hidráulica,Delantera,5.0,141.0,11666.67
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,114800.0,Hidráulica,Delantera,5.0,141.0,7630.0
+Chevrolet Cruze 1.8 Ltz At 4 p,Bs.As. G.B.A. Norte,1.8 Ltz At 4 p,,Chevrolet,Cruze,2013,Nafta,4.0,Automática,1.8,Sedán,80000.0,Hidráulica,Delantera,5.0,141.0,10333.33
+Chevrolet Cruze 1.4 Lt At Sedan,Córdoba,1.4 Lt At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,19500.0,Eléctrica,Delantera,5.0,153.0,20000.0
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,129000.0,Hidráulica,Delantera,5.0,141.0,16000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Santa Fe,1.4 Lt At Sedan,Blanco,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,3000.0,Eléctrica,Delantera,5.0,153.0,22000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Buenos Aires Interior,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,225000.0,Eléctrica,Delantera,5.0,153.0,15700.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Negro,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,68755.0,Hidráulica,Delantera,5.0,141.0,16000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Plateado,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,98323.0,Eléctrica,Delantera,5.0,153.0,14800.0
+Chevrolet Cruze 1.8 Ltz Mt,Bs.As. G.B.A. Sur,1.8 Ltz Mt,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Hatchback,130000.0,Hidráulica,Delantera,5.0,141.0,11333.33
+Chevrolet Cruze 1.4 Midnight At Sedan,Santa Fe,1.4 Midnight At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,45000.0,Eléctrica,Delantera,5.0,153.0,20000.0
+Vendo Chevrolet Cruze,Bs.As. G.B.A. Oeste,1.4 turbo 4 puertas,,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,65000.0,Asistida,Delantera,5.0,141.0,13500.0
+Chevrolet Cruze 1.4 Ltz Mt,Ubicación no encontrada,1.4 Ltz Mt,Gris,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,47000.0,Eléctrica,Delantera,5.0,141.0,14593.33
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Negro,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,12602.0,Eléctrica,Delantera,5.0,153.0,19700.0
+Chevrolet 2017 Cruze 1.4 4p Lt,Ubicación no encontrada,1.4 Lt 153cv,Blanco,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.4,Sedán,132000.0,Asistida,Delantera,5.0,141.0,11733.33
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Gris,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.8,Sedán,40000.0,Asistida,Delantera,5.0,141.0,18000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Azul,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,102614.0,Hidráulica,Delantera,5.0,141.0,10600.0
+Chevrolet Cruze 1.4 Lt At Sedan,Bs.As. G.B.A. Oeste,1.4 Lt At Sedan,Negro,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,9000.0,Eléctrica,Delantera,5.0,153.0,24000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Gris,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Hatchback,105000.0,Hidráulica,Delantera,5.0,141.0,8000.0
+Chevrolet Cruze 1.8 Ltz At 4 p,Ubicación no encontrada,1.8 Ltz At 4 p,Negro,Chevrolet,Cruze,2013,Nafta,4.0,Automática,1.8,Sedán,132000.0,Hidráulica,Delantera,5.0,141.0,10500.0
+Chevrolet Cruze 1.4 LTZ plus automát,Misiones,1.4 LTZ plus automát,,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,127000.0,Eléctrica,Delantera,5.0,153.0,12666.67
+Chevrolet Cruze 1.8 Ltz At,Bs.As. G.B.A. Norte,1.8 Ltz At,,Chevrolet,Cruze,2013,Nafta,5.0,Automática,1.8,Hatchback,114000.0,Hidráulica,Delantera,5.0,141.0,9750.0
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Gris,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.8,Sedán,36800.0,Asistida,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.8,Sedán,65000.0,Hidráulica,Delantera,5.0,141.0,18500.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,Plateado,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,122400.0,Hidráulica,Delantera,5.0,141.0,8600.0
+Chevrolet Cruze 1.4 Turbo Lt 2016,Ubicación no encontrada,1.4 Turbo,Gris,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,135000.0,Hidráulica,Delantera,5.0,141.0,11266.67
+Chevrolet Cruze 1.8 Ltz At 141cv,Bs.As. G.B.A. Oeste,1.8 Ltz At 141cv,,Chevrolet,Cruze,2014,Nafta,4.0,Automática,1.8,Sedán,124500.0,Hidráulica,Delantera,5.0,141.0,11500.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Buenos Aires Interior,1.8 Ltz Mt 141cv,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,165000.0,Hidráulica,Delantera,5.0,141.0,12000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Bs.As. G.B.A. Sur,1.8 Lt Mt 5 p,Celeste,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,96000.0,Hidráulica,Delantera,5.0,141.0,9900.0
+Chevrolet Cruze 1.4 Automático+ Plus,Bs.As. G.B.A. Norte,,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,75000.0,Hidráulica,Delantera,5.0,141.0,14000.0
+Chevrolet Cruze 1.4 LT 4P L16,Ubicación no encontrada,1.4 LT 4P L16,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,70800.0,Asistida,Delantera,5.0,153.0,14600.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,86000.0,Eléctrica,Delantera,5.0,153.0,15333.33
+Chevrolet Cruze,Bs.As. G.B.A. Norte,Premier,Azul,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Hatchback,84000.0,Eléctrica,Delantera,5.0,141.0,20500.0
+Chevrolet Cruze Rs,Ubicación no encontrada,RS,Blanco,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Monovolumen,28000.0,Eléctrica,Delantera,5.0,153.0,18000.0
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Hatchback,87000.0,Hidráulica,Delantera,5.0,141.0,15500.0
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,Blanco,Chevrolet,Cruze,2013,Nafta,5.0,Automática,1.8,Hatchback,110000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Bs.As. G.B.A. Norte,1.8 Ltz Mt 4 p,Negro,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,117000.0,Hidráulica,Delantera,5.0,141.0,9800.0
+Chevrolet Cruze 1.4 Turbo Premier,Santa Fe,1.4 turbo premier,,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Sedán,47000.0,Eléctrica,Delantera,5.0,141.0,16666.67
+Chevrolet Cruze 1.8 Lt Mt,Capital Federal,1.8 Lt Mt,,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.8,Sedán,26000.0,Asistida,Delantera,5.0,141.0,17000.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Buenos Aires Interior,1.8 Ltz Mt 141cv,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.8,Sedán,87000.0,Hidráulica,Delantera,5.0,141.0,16600.0
+Chevrolet Cruze 1.8 Ltz At 5 p,Ubicación no encontrada,1.8 Ltz At 5 p,Blanco,Chevrolet,Cruze,2014,Nafta,5.0,Automática,1.8,Hatchback,103000.0,assisted,Delantera,5.0,141.0,11132.67
+Chevrolet Cruze 1.4 Turbo Ltz + At,Bs.As. G.B.A. Sur,,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,120000.0,Hidráulica,Delantera,5.0,141.0,18500.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Bs.As. G.B.A. Oeste,1.8 Ltz Mt 141cv,,Chevrolet,Cruze,2015,Nafta,4.0,Manual,1.8,Sedán,110000.0,Hidráulica,Delantera,5.0,141.0,12000.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,Gris,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,141000.0,Hidráulica,Delantera,5.0,141.0,7200.0
+Chevrolet Cruze Ltz Plus  1.4  At 5 Ptas.   2017,Ubicación no encontrada,CRUZE LTZ PLUS  1.4  AT 5 PTAS.,Gris claro,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,141.0,11600.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,,Chevrolet,Cruze,2016,Diésel,4.0,Automática,2.0,Sedán,172000.0,Hidráulica,Delantera,5.0,163.0,8500.0
+Chevrolet Cruze Ltz 1.4t Plus 2017,Ubicación no encontrada,1.4 Turbo,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,100000.0,Asistida,Delantera,5.0,141.0,16500.0
+Chevrolet Cruze 1.8 Ltz At 4 p,Ubicación no encontrada,1.8 Ltz At 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Automática,1.8,Sedán,120000.0,Hidráulica,Delantera,5.0,141.0,9500.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Ubicación no encontrada,1.8 Ltz Mt 141cv,Gris,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.8,Sedán,114000.0,Hidráulica,Delantera,5.0,141.0,11866.67
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Azul,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,6700.0,Eléctrica,Delantera,5.0,153.0,21500.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,105000.0,Hidráulica,Delantera,5.0,141.0,8500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Norte,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,15434.0,Eléctrica,Delantera,5.0,153.0,17500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz Mt,Córdoba,2.0 Vcdi Sedan Ltz Mt,Dorado,Chevrolet,Cruze,2011,Diésel,4.0,Manual,2.0,Sedán,156000.0,Hidráulica,Delantera,5.0,150.0,9800.0
+Chevrolet Cruze Premier At,Córdoba,Premier At,,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,9100.0,Eléctrica,Delantera,5.0,153.0,24000.0
+Chevrolet Cruze 1.4 Premier At 4p,Ubicación no encontrada,1.4 Premier 4p At,Gris,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.4,Sedán,75000.0,Asistida,Delantera,5.0,141.0,17900.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,Plateado,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,141.0,9000.0
+Chevrolet Cruze,Bs.As. G.B.A. Norte,Premier,,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Hatchback,54000.0,Eléctrica,Delantera,5.0,141.0,22500.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Capital Federal,1.8 Ltz At 141cv,Gris,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.8,Sedán,20100.0,Hidráulica,Delantera,5.0,141.0,23000.0
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,Plateado,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,129000.0,Hidráulica,Delantera,5.0,141.0,11800.0
+Chevrolet Cruze Li 1.4 Ltz At 153cv,Bs.As. G.B.A. Sur,Chevrolet cruze li 1.4 ltz at 153cv,Rojo,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,49000.0,Hidráulica,Delantera,5.0,141.0,17200.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Oeste,1.4 Ltz At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,25000.0,Eléctrica,Delantera,5.0,153.0,21000.0
+Chevrolet Cruze 1.4 Turbo LTZ + Plus AT,Bs.As. G.B.A. Sur,,Blanco,Chevrolet,Cruze,2018,Nafta,5.0,Automática,1.4,Sedán,75203.0,Hidráulica,Delantera,5.0,153.0,17500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Córdoba,1.4 Ltz At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,34000.0,Eléctrica,Delantera,5.0,153.0,16666.67
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,20000.0,Eléctrica,Delantera,5.0,153.0,15666.67
+Chevrolet Cruze 1.8 Ltz At 141cv,Tucumán,1.8 Ltz At 141cv,,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.8,Sedán,50000.0,Hidráulica,Delantera,5.0,141.0,17500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Capital Federal,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,1111111.0,Eléctrica,Delantera,5.0,153.0,16800.0
+Chevrolet Cruze 1.4  Lt Turbo 4p,Ubicación no encontrada,1.4  LT Turbo 4P,,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.4,Sedán,73000.0,Asistida,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 1.4 Premier Sedan,Bs.As. G.B.A. Norte,1.4 Premier Sedan,,Chevrolet,Cruze,2023,Nafta,4.0,Manual,1.4,Sedán,899.0,Eléctrica,Delantera,5.0,153.0,27999.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Negro,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,69000.0,Eléctrica,Delantera,5.0,153.0,13266.67
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Rojo,Chevrolet,Cruze,2011,Nafta,5.0,Manual,1.8,Hatchback,114000.0,Hidráulica,Delantera,5.0,141.0,8266.67
+Chevrolet Cruze 1.4 Ltz Sedan,Ubicación no encontrada,1.4 Ltz Sedan,Negro,Chevrolet,Cruze,2018,Nafta,5.0,Manual,1.4,Sedán,135000.0,Eléctrica,Delantera,5.0,153.0,14900.0
+Chevrolet Cruze Premier,Santa Fe,Premier,,Chevrolet,Cruze,2022,Nafta,5.0,Manual,1.4,Sedán,28100.0,Eléctrica,Delantera,5.0,153.0,18666.67
+Chevrolet Cruze Ltz 2016 1.4 Turbo,Bs.As. G.B.A. Sur,1.4,Blanco,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.4,Sedán,65000.0,Hidráulica,Delantera,5.0,141.0,17000.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,San Luis,1.8 Ltz Mt 4 p,Celeste,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,175000.0,Hidráulica,Delantera,5.0,141.0,9500.0
+Chevrolet Cruze Lt 1.4 Turbo,Bs.As. Costa Atlántica,Lt 1.4 turbo,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,59000.0,Hidráulica,Delantera,5.0,141.0,16500.0
+Chevrolet Cruze Lt 1.4 Turbo 4 Puertas,Santa Fe,1.4 turbo LT manual 4 puertas,Gris,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.8,Sedán,116500.0,Eléctrica,Delantera,5.0,141.0,12500.0
+Chevrolet Cruze 4p 1.4 Turbo Ltz Mt 2017,Ubicación no encontrada,1.4 LTZ MT SEDAN,Plateado,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.4,Sedán,99830.0,Hidráulica,Delantera,5.0,141.0,12533.33
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Azul,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,115000.0,Hidráulica,Delantera,5.0,163.0,5466.67
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Bs.As. G.B.A. Sur,1.8 Ltz Mt 141cv,,Chevrolet,Cruze,2015,Nafta,4.0,Manual,1.8,Sedán,81000.0,Hidráulica,Delantera,5.0,141.0,12000.0
+Chevrolet Cruze 1.8 Lt Mt,Bs.As. G.B.A. Norte,1.8 Lt Mt,,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,203000.0,Hidráulica,Delantera,5.0,141.0,8500.0
+Chevrolet Cruze 1.4t lt mt,Ubicación no encontrada,1.4t lt mt,Gris,Chevrolet,Cruze,2019,Nafta,4.0,Manual,1.4,Sedán,96000.0,Asistida,Delantera,5.0,141.0,15750.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Bs.As. G.B.A. Norte,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,150000.0,Hidráulica,Delantera,5.0,141.0,7666.67
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Buenos Aires Interior,2.0 Vcdi Sedan Lt At 163cv,,Chevrolet,Cruze,2016,Diésel,4.0,Automática,2.0,Sedán,135000.0,Hidráulica,Delantera,5.0,163.0,12000.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Gris,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.8,Sedán,21000.0,Hidráulica,Delantera,5.0,141.0,18800.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Bs.As. G.B.A. Oeste,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,120900.0,Eléctrica,Delantera,5.0,153.0,14200.0
+Chevrolet Cruze 5 Lt. 5pts.,Capital Federal,LT,,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,130000.0,Hidráulica,Delantera,5.0,141.0,8950.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Bs.As. G.B.A. Oeste,1.8 Ltz Mt 5 p,Negro,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,100000.0,Hidráulica,Delantera,5.0,141.0,7933.33
+Chevrolet Cruze 1.8 Ltz At 141cv,Capital Federal,1.8 Ltz At 141cv,Blanco,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,48500.0,Hidráulica,Delantera,5.0,141.0,18000.0
+Chevrolet Cruze 1.4lt,Bs.As. G.B.A. Sur,1.4 Lt,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,88000.0,Hidráulica,Delantera,5.0,141.0,12333.33
+Chevrolet Cruze 1.4 LT 4P L20,Ubicación no encontrada,1.4 LT 4P L20,Negro,Chevrolet,Cruze,2021,Nafta,4.0,Manual,1.4,Sedán,52968.0,Asistida,Delantera,5.0,141.0,16549.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Córdoba,1.4 Ltz At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,34000.0,Eléctrica,Delantera,5.0,153.0,23650.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,82000.0,Eléctrica,Delantera,5.0,153.0,15590.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Azul,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,25000.0,Eléctrica,Delantera,5.0,153.0,7333.33
+Chevrolet Cruze Ii 1.4t Rs 5p,Bs.As. G.B.A. Oeste,1.4T RS 5P AT,,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,9000.0,Eléctrica,Delantera,5.0,153.0,24000.0
+Chevrolet Cruze 1.8 Lt Mt,Ubicación no encontrada,1.8 Lt Mt,Gris,Chevrolet,Cruze,2021,Nafta,5.0,Manual,1.8,Sedán,55000.0,Asistida,Delantera,5.0,141.0,15733.33
+Cruze 4p Premier Ii At,Ubicación no encontrada,4P Premier II AT,Blanco,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,49610.0,Eléctrica,Delantera,5.0,141.0,15666.67
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,41000.0,Eléctrica,Delantera,5.0,153.0,17466.67
+Chevrolet Cruze 1.4 Rs At,Ubicación no encontrada,1.4 Rs At,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,39000.0,Eléctrica,Delantera,5.0,153.0,24500.0
+Chevrolet Cruze 4p 1.4 Turbo Lt,Capital Federal,1.4 lt turbo,Plateado,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.4,Sedán,79600.0,Hidráulica,Delantera,5.0,141.0,13000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Bs.As. G.B.A. Norte,1.4 Lt At Sedan,,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,28000.0,Eléctrica,Delantera,5.0,153.0,18000.0
+Chevrolet Cruze 1.4 Premier Sedan,Santa Fe,1.4 Premier Sedan,Plateado,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,60000.0,Eléctrica,Delantera,5.0,153.0,16333.33
+Chevrolet Cruze 1.8 Lt At,Buenos Aires Interior,1.8 Lt At,Blanco,Chevrolet,Cruze,2016,Nafta,5.0,Automática,1.8,Hatchback,108000.0,Hidráulica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 1.4T 5P PREMIER AT,Bs.As. G.B.A. Sur,1.4T 5P PREMIER AT,,Chevrolet,Cruze,2022,Nafta,5.0,Manual,1.4,Sedán,8950.0,Eléctrica,Delantera,5.0,153.0,25800.0
+Chevrolet Cruze 4p 1.4 Turbo Ltz + At,Ubicación no encontrada,,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Automática,1.4,Sedán,67000.0,Hidráulica,Delantera,5.0,141.0,14000.0
+Chevrolet Cruze Premier 1.4t 5p At,Capital Federal,Premier 1.4T 5p At,Blanco,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Hatchback,43000.0,Eléctrica,Delantera,5.0,141.0,22500.0
+Chevrolet Cruze 1.4 LT 5P L16,Ubicación no encontrada,1.4 LT 5P L16,Gris,Chevrolet,Cruze,2019,Nafta,5.0,Manual,1.4,Hatchback,109882.0,Asistida,Delantera,5.0,141.0,15764.67
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Gris,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.8,Sedán,83000.0,Hidráulica,Delantera,5.0,141.0,16000.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Bs.As. G.B.A. Sur,1.4 Lt Mt Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,127000.0,Eléctrica,Delantera,5.0,153.0,16500.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Entre Ríos,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,125000.0,Hidráulica,Delantera,5.0,141.0,9000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Azul,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,92500.0,Hidráulica,Delantera,5.0,141.0,9133.33
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Azul,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,92500.0,Hidráulica,Delantera,5.0,141.0,9133.33
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Gris,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,107000.0,Hidráulica,Delantera,5.0,141.0,8800.0
+Chevrolet Cruze Ltz 1.4T 5P 6Mt,Ubicación no encontrada,Ltz 1.4T 5P 6Mt,Blanco,Chevrolet,Cruze,2018,Nafta,5.0,Manual,1.4,Hatchback,80000.0,Eléctrica,Delantera,5.0,141.0,17000.0
+Chevrolet Cruze 1.8 Ltz Mt,Bs.As. G.B.A. Sur,1.8 Ltz Mt,,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Hatchback,81000.0,Hidráulica,Delantera,5.0,141.0,7666.67
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2024,Nafta,4.0,Automática,1.4,Sedán,1000.0,Eléctrica,Delantera,5.0,153.0,19454.6
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,9200.0,Eléctrica,Delantera,5.0,153.0,22500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Plateado,Chevrolet,Cruze,2016,Diésel,4.0,Automática,2.0,Sedán,177000.0,Hidráulica,Delantera,5.0,163.0,10280.0
+Chevrolet Cruze 1.8 Ltz At,Bs.As. G.B.A. Norte,1.8 Ltz At,Rojo,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,120000.0,Hidráulica,Delantera,5.0,141.0,13500.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Capital Federal,1.8 Ltz Mt 141cv,Blanco,Chevrolet,Cruze,2014,Nafta,4.0,Manual,1.8,Sedán,150000.0,Hidráulica,Delantera,5.0,141.0,9000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,51383.0,Eléctrica,Delantera,5.0,153.0,17100.0
+Chevrolet Cruze 1.4 Lt,Ubicación no encontrada,1.4 Lt,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,50000.0,Eléctrica,Delantera,5.0,153.0,12533.33
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Bs.As. G.B.A. Norte,2.0 Vcdi Sedan Ltz At 163cv,Rojo,Chevrolet,Cruze,2014,Diésel,4.0,Automática,2.0,Sedán,103000.0,Hidráulica,Delantera,5.0,163.0,11800.0
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,Gris,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,116000.0,Hidráulica,Delantera,5.0,141.0,12500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Bs.As. G.B.A. Sur,2.0 Vcdi Sedan Ltz At 163cv,,Chevrolet,Cruze,2013,Diésel,4.0,Automática,2.0,Sedán,198000.0,Hidráulica,Delantera,5.0,163.0,9500.0
+Chevrolet Cruze 1.4 Premier Sedan,Capital Federal,1.4 Premier Sedan,Gris,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,62300.0,Eléctrica,Delantera,5.0,153.0,17333.27
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Blanco,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,107000.0,Hidráulica,Delantera,5.0,141.0,10600.0
+"Chevrolet Cruze LTZ, 1.4 TURBO AT",Santa Fe,,Verde,Chevrolet,Cruze,2018,Nafta,5.0,Automática,1.4,Sedán,96000.0,Eléctrica,Delantera,5.0,153.0,13000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Bs.As. G.B.A. Oeste,1.4 Lt At Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,53000.0,Eléctrica,Delantera,5.0,153.0,15333.33
+Chevrolet Cruze 1.4 Premier Sedan,Ubicación no encontrada,1.4 Premier Sedan,Blanco,Chevrolet,Cruze,2023,Nafta,4.0,Manual,1.4,Sedán,6500.0,Eléctrica,Delantera,5.0,153.0,25900.0
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,110000.0,Hidráulica,Delantera,5.0,141.0,12300.0
+Chevrolet Cruze 1.8 Lt Mt,Bs.As. G.B.A. Oeste,1.8 Lt Mt,Gris,Chevrolet,Cruze,2021,Nafta,5.0,Manual,1.8,Sedán,24000.0,Asistida,Delantera,5.0,141.0,16800.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Bs.As. G.B.A. Oeste,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,50000.0,Eléctrica,Delantera,5.0,153.0,12000.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Córdoba,1.8 Ltz Mt 4 p,Gris,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,146000.0,Hidráulica,Delantera,5.0,141.0,7333.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Oeste,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,5.0,Automática,1.4,Sedán,59000.0,Eléctrica,Delantera,5.0,153.0,17000.0
+Chevrolet Cruze Rs,Bs.As. G.B.A. Sur,RS,Negro,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Hatchback,50000.0,Asistida,Delantera,5.0,153.0,23000.0
+Chevrolet Cruze Ltz AT,Jujuy,Ltz AT,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,90000.0,Hidráulica,Delantera,5.0,141.0,15500.0
+Chevrolet Cruze 1.4 Turbo Ltz At,Bs.As. G.B.A. Oeste,,Gris,Chevrolet,Cruze,2016,Nafta,4.0,Automática,1.8,Sedán,60000.0,Hidráulica,Delantera,5.0,141.0,18500.0
+Chevrolet Cruze LTZ 1.4T,Ubicación no encontrada,LTZ 1.4T,,Chevrolet,Cruze,2018,Nafta,5.0,Automática,1.4,Sedán,91000.0,Eléctrica,Delantera,5.0,153.0,13333.33
+Chevrolet Cruze 5puertas Premier. Automático. Estaciona Solo,Capital Federal,1.4 turbo PREMIER Automático 5 puertas,Gris,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Hatchback,48500.0,Eléctrica,Delantera,5.0,141.0,21900.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Capital Federal,1.8 Lt Mt 4 p,Blanco,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,120000.0,Hidráulica,Delantera,5.0,141.0,9000.0
+Chevrolet Cruze Rs,Ubicación no encontrada,RS,Blanco,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,28000.0,Hidráulica,Delantera,5.0,153.0,18000.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Capital Federal,1.4 Lt Mt Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,116000.0,Eléctrica,Delantera,5.0,153.0,13000.0
+Chevrolet Cruze 1.8 Ltz At 5 p,Bs.As. G.B.A. Sur,1.8 Ltz At 5 p,Gris,Chevrolet,Cruze,2013,Nafta,5.0,Automática,1.8,Hatchback,162000.0,Hidráulica,Delantera,5.0,141.0,9800.0
+Chevrolet Cruze 1.4 Turbo Automático,Bs.As. G.B.A. Sur,1.4 turbo Automático,Gris,Chevrolet,Cruze,2016,Nafta,5.0,Automática,1.4,Sedán,59000.0,Hidráulica,Delantera,5.0,141.0,16000.0
+Chevrolet Cruze 1.4 Lt Mt,Bs.As. G.B.A. Norte,1.4 Lt Mt,Plateado,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.4,Hatchback,234000.0,Asistida,Delantera,5.0,141.0,14000.0
+Chevrolet Cruze 1.4 Ltz Sedan,Bs.As. G.B.A. Sur,1.4 Ltz Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,5.0,Manual,1.4,Sedán,43000.0,Eléctrica,Delantera,5.0,153.0,20320.0
+Chevrolet Cruze,San Luis,1.4 Turbo,Gris,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.4,Sedán,85000.0,Asistida,Delantera,5.0,141.0,11333.33
+Chevrolet Cruze 1.4 Lt At Sedan,Capital Federal,1.4 Lt At Sedan,,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,4500.0,Eléctrica,Delantera,5.0,153.0,26000.0
+Chevrolet Cruze 1.4 Turbo,Capital Federal,1.4 Turbo,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,45000.0,Hidráulica,Delantera,5.0,141.0,16000.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,Gris,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,120000.0,hydraulic,Delantera,5.0,141.0,8600.0
+Chevrolet Cruze 1.8 Ltz At 4 p,Ubicación no encontrada,1.8 Ltz At 4 p,Plateado,Chevrolet,Cruze,2012,Nafta,4.0,Automática,1.8,Sedán,72120.0,Hidráulica,Delantera,5.0,141.0,11300.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Bs.As. G.B.A. Oeste,1.8 Lt Mt 5 p,,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Hatchback,156000.0,Hidráulica,Delantera,5.0,141.0,8500.0
+Chevrolet Cruze 1.8 Lt Mt,Bs.As. G.B.A. Sur,1.8 Lt Mt,Blanco,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.8,Sedán,21000.0,Asistida,Delantera,5.0,141.0,20000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Bs.As. G.B.A. Sur,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2016,Nafta,5.0,Manual,1.8,Hatchback,107000.0,Hidráulica,Delantera,5.0,141.0,12500.0
+Chevrolet Cruze 5p LTZ AT 1.4,Bs.As. G.B.A. Sur,5p LTZ AT 1.4,Negro,Chevrolet,Cruze,2018,Nafta,5.0,Automática,1.4,Hatchback,48500.0,Hidráulica,Trasera,5.0,153.0,19000.0
+Chevrolet Cruze Ii Lt 1.4 T 4ptas,Mendoza,II LT 1.4 T 4ptas,,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,86000.0,Eléctrica,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.8,Sedán,103000.0,Hidráulica,Delantera,5.0,141.0,13000.0
+Chevrolet Cruze 5p 1.4t Premier At Ar,Ubicación no encontrada,Premier At,,Chevrolet,Cruze,2020,Nafta,5.0,Automática,1.4,Sedán,39000.0,Eléctrica,Delantera,5.0,141.0,17599.99
+Chevrolet Cruze 1.4 At,Capital Federal,1.4 At,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,65000.0,Hidráulica,Delantera,5.0,141.0,18000.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.8,Sedán,119000.0,Hidráulica,Delantera,5.0,141.0,12666.67
+Chevrolet Cruze 1.8 Lt Mt 4 p,Bs.As. G.B.A. Sur,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.8,Sedán,55000.0,Asistida,Delantera,5.0,141.0,12333.33
+Chevrolet Cruze 4P 1.4T LT MT,Ubicación no encontrada,4P 1.4T LT MT,Gris,Chevrolet,Cruze,2020,Nafta,4.0,Manual,1.8,Sedán,126787.0,Asistida,Delantera,5.0,141.0,12866.67
+Chevrolet Cruze 1.8 Lt Mt,Chaco,1.8 Lt Mt,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.8,Sedán,53000.0,Asistida,Delantera,5.0,141.0,13333.33
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,Plateado,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,122500.0,Hidráulica,Delantera,5.0,141.0,8600.0
+Chevrolet Cruze 1.8 Lt At,Bs.As. G.B.A. Norte,1.8 Lt At,,Chevrolet,Cruze,2015,Nafta,5.0,Automática,1.8,Hatchback,149000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,Gris,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Hatchback,61000.0,Hidráulica,Delantera,5.0,141.0,11500.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,Gris,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,40000.0,Hidráulica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Ubicación no encontrada,1.8 Ltz Mt 141cv,Gris,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Sedán,132000.0,Hidráulica,Delantera,5.0,141.0,9466.67
+Undefined,Capital Federal,,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,90000.0,Hidráulica,Delantera,5.0,141.0,16500.0
+Chevrolet Cruze 1.4 Premier Sedan,Córdoba,1.4 Premier Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,27500.0,Eléctrica,Delantera,5.0,153.0,23000.0
+Chevrolet Cruze Premier,Neuquén,1.4 Turbo Premier 4 puertas,Gris,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,73000.0,Eléctrica,Delantera,5.0,141.0,15000.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Bs.As. Costa Atlántica,2.0 Vcdi Sedan Lt At 163cv,,Chevrolet,Cruze,2016,Diésel,4.0,Automática,2.0,Sedán,62000.0,Hidráulica,Delantera,5.0,163.0,11900.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Azul,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,137000.0,Eléctrica,Delantera,5.0,153.0,16666.67
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Córdoba,2.0 Vcdi Sedan Lt At 163cv,,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,107000.0,Hidráulica,Delantera,5.0,163.0,11500.0
+Chevrolet Cruze Rs,Santa Fe,Cruze rs,Gris,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,20800.0,Hidráulica,Delantera,5.0,153.0,23000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,1900.0,Eléctrica,Delantera,5.0,153.0,17168.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Plateado,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,20000.0,Eléctrica,Delantera,5.0,153.0,16333.33
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,100000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Cruze Lt 5 Ptas / Escucho Ofertas / No Permuto / Unica Mano,Capital Federal,1.4,Gris,Chevrolet,Cruze,2020,Nafta,5.0,Manual,1.4,Hatchback,87000.0,Eléctrica,Delantera,5.0,153.0,14700.0
+Chevrolet Cruze 1.4 Turbo Lt Mt,Santa Fe,1.4 Turbo LT MT,,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,60000.0,Eléctrica,Delantera,5.0,141.0,16000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,47000.0,Eléctrica,Delantera,5.0,153.0,15266.67
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Bs.As. G.B.A. Norte,1.8 Ltz Mt 4 p,Negro,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,145000.0,Hidráulica,Delantera,5.0,141.0,6266.67
+Chevrolet Cruze Ltz,Ubicación no encontrada,Ltz,Violeta,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.4,Sedán,90000.0,Asistida,Delantera,5.0,141.0,11666.67
+Chevrolet Cruze 1.8 Ltz At 4 p,Ubicación no encontrada,1.8 Ltz At 4 p,Negro,Chevrolet,Cruze,2012,Nafta,4.0,Automática,1.8,Sedán,165000.0,Hidráulica,Delantera,5.0,141.0,9850.0
+Chevrolet Cruze Lt 1.4 4 Puertas,Ubicación no encontrada,Lt 1.4 4 puertas,Gris,Chevrolet,Cruze,2021,Nafta,4.0,Manual,1.4,Sedán,50000.0,Eléctrica,Delantera,5.0,141.0,18000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.4,Sedán,79000.0,hydraulic,Delantera,5.0,153.0,15900.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,Plateado,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,108000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Azul,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,115000.0,Hidráulica,Delantera,5.0,163.0,10400.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Bs.As. G.B.A. Norte,1.4 Ltz At Sedan,,Chevrolet,Cruze,2024,Nafta,4.0,Automática,1.4,Sedán,1000.0,Eléctrica,Delantera,5.0,153.0,20600.0
+Chevrolet Cruze 1.8 Ltz At 5 p,Bs.As. G.B.A. Sur,1.8 Ltz At 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Automática,1.8,Hatchback,180000.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Ubicación no encontrada,1.8 Ltz Mt 141cv,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.8,Sedán,94000.0,Hidráulica,Delantera,5.0,141.0,13000.0
+Chevrolet Cruze 1.4turbo Ltz 4puerta,Entre Ríos,1.4turbo ltz 4puerta,,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,120000.0,Hidráulica,Delantera,5.0,141.0,11600.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Plateado,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,12600.0,Eléctrica,Delantera,5.0,153.0,21800.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Capital Federal,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,95000.0,Asistida,Delantera,5.0,141.0,10500.0
+Chevrolet Cruze 1.8 Ltz At 5 p,Ubicación no encontrada,1.8 Ltz At 5 p,Gris,Chevrolet,Cruze,2012,Nafta,5.0,Automática,1.8,Hatchback,99800.0,Hidráulica,Delantera,5.0,141.0,9000.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz Mt,Ubicación no encontrada,2.0 Vcdi Sedan Ltz Mt,Gris,Chevrolet,Cruze,2012,Nafta,4.0,Manual,2.0,Sedán,61000.0,Hidráulica,Delantera,5.0,150.0,14000.0
+Chevrolet Cruze 1.4t Ltz At,Ubicación no encontrada,1.4 T,Gris,Chevrolet,Cruze,2016,Nafta,5.0,Automática,1.8,Sedán,159000.0,Hidráulica,Delantera,5.0,141.0,11200.0
+Chevrolet Cruze 1.8 Lt At 4 p,Buenos Aires Interior,1.8 Lt At 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Automática,1.8,Sedán,180000.0,Hidráulica,Delantera,5.0,141.0,7866.67
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Bs.As. G.B.A. Oeste,1.8 Ltz Mt 4 p,Plateado,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,170000.0,Hidráulica,Delantera,5.0,141.0,6266.67
+Chevrolet Cruze 1.8 Lt At 4 p,Ubicación no encontrada,1.8 Lt At 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Automática,1.8,Sedán,170000.0,Hidráulica,Delantera,5.0,141.0,8900.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,63000.0,Eléctrica,Delantera,5.0,153.0,13200.0
+Chevrolet Cruze 1.4 4p Ltz 2016,Ubicación no encontrada,1.4 4P LTZ,Blanco,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.4,Sedán,148306.0,Asistida,Delantera,5.0,141.0,12100.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Bs.As. G.B.A. Oeste,2.0 Vcdi Sedan Lt At 163cv,Negro,Chevrolet,Cruze,2016,Diésel,4.0,Automática,2.0,Sedán,113000.0,Hidráulica,Delantera,5.0,163.0,11500.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Bs.As. G.B.A. Sur,1.8 Ltz Mt 5 p,Blanco,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,116172.0,Hidráulica,Delantera,5.0,141.0,7640.0
+Chevrolet Cruze 1.4 Ltz Sedan,Córdoba,1.4 Ltz Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,99000.0,Eléctrica,Delantera,5.0,153.0,14500.0
+Chevrolet Cruze 1.4 Ltz Mt 5pta 2018,Bs.As. G.B.A. Norte,Ltz,Azul,Chevrolet,Cruze,2018,Nafta,5.0,Manual,1.4,Hatchback,68800.0,Eléctrica,Delantera,5.0,153.0,16400.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,La Pampa,1.8 Lt Mt 4 p,Negro,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,160000.0,Hidráulica,Delantera,5.0,141.0,10500.0
+Chevrolet Cruze Ltz 1.4 Nafta Automatico  Sedan Blanco,Ubicación no encontrada,4p 1.4 turbo ltz at,Blanco,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.4,Sedán,79000.0,Hidráulica,Delantera,5.0,141.0,16000.0
+Chevrolet Cruze 1.4 Lt At Sedan,Ubicación no encontrada,1.4 Lt At Sedan,Negro,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,39000.0,Eléctrica,Delantera,5.0,153.0,17133.33
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,Plateado,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,122500.0,Hidráulica,Delantera,5.0,141.0,8600.0
+Chevrolet Cruze 1.8 Lt At 4 p,Bs.As. G.B.A. Sur,1.8 Lt At 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Automática,1.8,Sedán,120000.0,Hidráulica,Delantera,5.0,141.0,7333.33
+Chevrolet Cruze 1.8 Ltz At 4 p,Ubicación no encontrada,1.8 Ltz At 4 p,Blanco,Chevrolet,Cruze,2012,Nafta,4.0,Automática,1.8,Sedán,145700.0,Hidráulica,Delantera,5.0,141.0,10300.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Bs.As. G.B.A. Norte,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,73000.0,Eléctrica,Delantera,5.0,153.0,14000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Bs.As. G.B.A. Sur,1.8 Lt Mt 5 p,,Chevrolet,Cruze,2015,Nafta,5.0,Manual,1.8,Hatchback,72500.0,Hidráulica,Delantera,5.0,141.0,11000.0
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,Blanco,Chevrolet,Cruze,2014,Nafta,5.0,Automática,1.8,Hatchback,125085.0,Hidráulica,Delantera,5.0,141.0,9200.0
+Chevrolet Cruze 1.8 Ltz Mt 141cv,Ubicación no encontrada,1.8 Ltz Mt 141cv,Gris,Chevrolet,Cruze,2015,Nafta,4.0,Manual,1.8,Sedán,108400.0,Hidráulica,Delantera,5.0,141.0,8990.0
+Chevrolet Cruze 1.4 Lt At Sedan,Bs.As. G.B.A. Sur,1.4 Lt At Sedan,Negro,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,20000.0,Eléctrica,Delantera,5.0,153.0,18000.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Gris,Chevrolet,Cruze,2017,Nafta,4.0,Manual,1.8,Sedán,97034.0,Asistida,Delantera,5.0,141.0,10393.33
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,125000.0,Hidráulica,Delantera,5.0,141.0,7266.67
+Chevrolet Cruze 1.4 Turbo,Entre Ríos,1.4 Turbo,,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,106000.0,Hidráulica,Delantera,5.0,141.0,13000.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Ubicación no encontrada,1.8 Ltz Mt 4 p,Negro,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,90000.0,Hidráulica,Delantera,5.0,141.0,8333.33
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 150 Cv,Ubicación no encontrada,2.0 Vcdi Sedan Ltz At 150 Cv,Negro,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,196000.0,Hidráulica,Delantera,5.0,150.0,7333.33
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Gris,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.8,Sedán,2930.0,Hidráulica,Delantera,5.0,141.0,21000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Córdoba,1.8 Lt Mt 5 p,Plateado,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Hatchback,88000.0,Hidráulica,Delantera,5.0,141.0,16000.0
+Chevrolet Cruze 1.4 Premier Ii At,Capital Federal,1.4 PREMIER II AT,,Chevrolet,Cruze,2020,Nafta,5.0,Automática,1.4,Sedán,36000.0,Asistida,Delantera,5.0,141.0,21200.0
+Chevrolet Cruze 1.8 Lt At,Ubicación no encontrada,1.8 Lt At,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,97000.0,electronic,Delantera,5.0,141.0,9800.0
+Chevrolet Cruze 1.4 LT 5P L16,Ubicación no encontrada,1.4 LT 5P L16,Blanco,Chevrolet,Cruze,2018,Nafta,5.0,Manual,1.4,Hatchback,85000.0,Asistida,Delantera,5.0,153.0,15622.0
+Chevrolet Cruze 1.8 Ltz At 5 p,Ubicación no encontrada,1.8 Ltz At 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Automática,1.8,Hatchback,164000.0,Hidráulica,Delantera,5.0,141.0,6600.0
+Chevrolet Cruze 1.8 Ltz Mt,Bs.As. G.B.A. Norte,1.8 Ltz Mt,Gris,Chevrolet,Cruze,2015,Nafta,4.0,Manual,1.8,Hatchback,100000.0,Hidráulica,Delantera,5.0,141.0,11500.0
+Chevroletcruze Rs 5p 1.4t At,Ubicación no encontrada,CRUZE RS 5P 1.4T AT,Gris,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,27000.0,Eléctrica,Delantera,5.0,153.0,20800.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Buenos Aires Interior,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,95000.0,Asistida,Delantera,5.0,141.0,8200.0
+Chevrolet Cruze Premier 2021,Bs.As. G.B.A. Oeste,premier,Plateado,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Hatchback,45000.0,Mecánica,Delantera,5.0,141.0,20500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 150 Cv,Ubicación no encontrada,2.0 Vcdi Sedan Ltz At 150 Cv,Negro,Chevrolet,Cruze,2011,Diésel,4.0,Automática,2.0,Sedán,115000.0,Hidráulica,Delantera,5.0,150.0,9900.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Mendoza,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,64500.0,Eléctrica,Delantera,5.0,153.0,12800.0
+Chevrolet Cruze 1.4 Ltz Mt,Ubicación no encontrada,1.4 Ltz Mt,Plateado,Chevrolet,Cruze,2018,Nafta,5.0,Manual,1.4,Hatchback,79000.0,Asistida,Delantera,5.0,153.0,13266.67
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,,Chevrolet,Cruze,2022,Nafta,4.0,Manual,1.4,Sedán,79000.0,Eléctrica,Delantera,5.0,153.0,16000.0
+Chevrolet Cruze 1.8 Lt Mt 4 p,Bs.As. G.B.A. Sur,1.8 Lt Mt 4 p,Negro,Chevrolet,Cruze,2012,Nafta,4.0,Manual,1.8,Sedán,32800.0,Hidráulica,Delantera,5.0,141.0,7333.33
+Chevrolet Cruze 1.4 Turbo Ltz,Buenos Aires Interior,1.4 turbo LTZ,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,100000.0,Hidráulica,Delantera,5.0,141.0,11866.67
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2023,Nafta,4.0,Automática,1.4,Sedán,2100.0,Eléctrica,Delantera,5.0,153.0,16666.67
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,108000.0,Eléctrica,Delantera,5.0,153.0,13666.67
+Chevrolet Cruze 1.4T LTZ,Ubicación no encontrada,1.4T LTZ,Blanco,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,86000.0,Asistida,4x2,5.0,141.0,17000.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Entre Ríos,2.0 Vcdi Sedan Lt At 163cv,,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,99000.0,Hidráulica,Delantera,5.0,163.0,9200.0
+Chevrolet Cruze 1.4 Lt turbo,Bs.As. G.B.A. Norte,1.4 Lt turbo,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,40000.0,Hidráulica,Delantera,5.0,153.0,15500.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,79562.0,Eléctrica,Delantera,5.0,153.0,14000.0
+Chevrolet Cruze 1.4 Ltz Sedan,Bs.As. G.B.A. Sur,1.4 Ltz Sedan,,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,99000.0,Eléctrica,Delantera,5.0,153.0,16000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Capital Federal,1.4 Ltz At Sedan,,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.4,Sedán,60000.0,Eléctrica,Delantera,5.0,153.0,16500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 150 Cv,Bs.As. G.B.A. Norte,2.0 Vcdi Sedan Ltz At 150 Cv,Negro,Chevrolet,Cruze,2013,Diésel,4.0,Automática,2.0,Sedán,165000.0,Hidráulica,Delantera,5.0,150.0,9200.0
+Chevrolet Cruze 1.4 Premier Sedan,Bs.As. G.B.A. Sur,1.4 Premier Sedan,Azul,Chevrolet,Cruze,2023,Nafta,4.0,Manual,1.4,Sedán,60000.0,Eléctrica,Delantera,5.0,153.0,22000.0
+Chevrolet Cruze 5p 1.4 Turbo Lt Mt,Ubicación no encontrada,1.4 TURBO LT MT,Verde,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Sedán,87825.0,Hidráulica,Delantera,5.0,141.0,12133.33
+Chevrolet Cruze Turbo Premier At,Santa Fe,FC-CRUZE 4P 1.4 TURBO PREMIER AT,Gris,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,60000.0,Eléctrica,Delantera,5.0,141.0,27000.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Rojo,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,12600.0,Eléctrica,Delantera,5.0,153.0,18500.0
+Chevrolet Cruze 1.8 Ltz Mt 4 p,Bs.As. G.B.A. Sur,1.8 Ltz Mt 4 p,Blanco,Chevrolet,Cruze,2013,Nafta,4.0,Manual,1.8,Sedán,82900.0,Hidráulica,Delantera,5.0,141.0,10000.0
+Chevrolet Cruze Lt,Buenos Aires Interior,LT,,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Sedán,35000.0,Eléctrica,Delantera,5.0,141.0,18000.0
+Chevrolet Cruze 1.8 Ltz At 4 p,Bs.As. G.B.A. Norte,1.8 Ltz At 4 p,Blanco,Chevrolet,Cruze,2012,Nafta/GNC,4.0,Automática,1.8,Sedán,196000.0,Hidráulica,Delantera,5.0,141.0,8333.33
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Bs.As. G.B.A. Oeste,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,130000.0,Hidráulica,Delantera,5.0,141.0,9000.0
+Chevrolet Cruze 1.4T LT MT 4P,Ubicación no encontrada,1.4T LT MT 4P,Blanco,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.4,Sedán,82389.0,Asistida,Delantera,5.0,141.0,11266.67
+Chevrolet Cruze 1.4 Lt 5p L16,Ubicación no encontrada,1.4 LT 5P L16,Blanco,Chevrolet,Cruze,2019,Nafta,5.0,Manual,1.4,Hatchback,77797.0,Asistida,Delantera,5.0,141.0,16264.0
+Chevrolet Cruze 1.8 Ltz At 5 p,Bs.As. G.B.A. Norte,1.8 Ltz At 5 p,Negro,Chevrolet,Cruze,2012,Nafta,5.0,Automática,1.8,Hatchback,142000.0,Hidráulica,Delantera,5.0,141.0,8000.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Ubicación no encontrada,2.0 Vcdi Sedan Lt At 163cv,Gris,Chevrolet,Cruze,2014,Diésel,4.0,Automática,2.0,Sedán,160000.0,Hidráulica,Delantera,5.0,163.0,11000.0
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,Gris,Chevrolet,Cruze,2014,Nafta,5.0,Automática,1.8,Hatchback,135000.0,Hidráulica,Delantera,5.0,141.0,9999.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,76496.0,Eléctrica,Delantera,5.0,153.0,13053.33
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,Gris,Chevrolet,Cruze,2016,Nafta,5.0,Automática,1.8,Hatchback,159000.0,Hidráulica,Delantera,5.0,141.0,11266.67
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Blanco,Chevrolet,Cruze,2020,Nafta,4.0,Automática,1.8,Sedán,62000.0,Hidráulica,Delantera,5.0,141.0,14666.67
+Chevrolet Cruze Cruze Rs,Ubicación no encontrada,cruze rs,,Chevrolet,Cruze,2022,Nafta,5.0,Automática,1.4,Sedán,29000.0,Eléctrica,Delantera,5.0,153.0,22500.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,111561.0,Eléctrica,Delantera,5.0,153.0,11900.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,29000.0,Eléctrica,Delantera,5.0,153.0,20000.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Ubicación no encontrada,1.8 Ltz At 141cv,Negro,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.8,Sedán,49000.0,Eléctrica,Delantera,5.0,153.0,17666.67
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Gris,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,109000.0,Eléctrica,Delantera,5.0,153.0,14800.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Santa Fe,1.8 Ltz At 141cv,Negro,Chevrolet,Cruze,2016,Nafta,4.0,Automática,1.8,Sedán,150000.0,Hidráulica,Delantera,5.0,141.0,10900.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2017,Nafta,5.0,Manual,1.8,Hatchback,96000.0,Hidráulica,Delantera,5.0,141.0,11933.33
+Chevrolet Cruze 1.4 Ltz At Sedan,Corrientes,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,31000.0,Eléctrica,Delantera,5.0,153.0,18000.0
+Chevrolet Cruze 1.4 Lt Mt Sedan,Ubicación no encontrada,1.4 Lt Mt Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Manual,1.4,Sedán,71000.0,Eléctrica,Delantera,5.0,153.0,18300.0
+Chevrolet Cruze 1.8 Ltz Mt,Bs.As. G.B.A. Norte,1.8 Ltz Mt,,Chevrolet,Cruze,2014,Nafta,5.0,Manual,1.8,Hatchback,48194.0,Hidráulica,Delantera,5.0,141.0,13500.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Blanco,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.4,Sedán,72000.0,Eléctrica,Delantera,5.0,153.0,15666.67
+Chevrolet Cruze 1.8 Lt Mt 4 p,Bs.As. G.B.A. Norte,1.8 Lt Mt 4 p,,Chevrolet,Cruze,2011,Nafta,4.0,Manual,1.8,Sedán,70000.0,Hidráulica,Delantera,5.0,141.0,7000.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Negro,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,89000.0,Hidráulica,Delantera,5.0,141.0,9300.0
+Chevrolet Cruze 1.8 Lt Mt 5 p,Ubicación no encontrada,1.8 Lt Mt 5 p,Blanco,Chevrolet,Cruze,2013,Nafta,5.0,Manual,1.8,Hatchback,81000.0,Hidráulica,Delantera,5.0,141.0,8633.33
+Chevrolet 2017 Cruze 1.4 4p Lt,Ubicación no encontrada,1.4 Lt 153cv,Negro,Chevrolet,Cruze,2017,Nafta,4.0,Automática,1.8,Sedán,35000.0,assisted,Delantera,5.0,141.0,11640.33
+Chevrolet Cruze 1.4 Lt Mt Sedan,Bs.As. G.B.A. Oeste,1.4 Lt Mt Sedan,Blanco,Chevrolet,Cruze,2018,Nafta,5.0,Manual,1.4,Sedán,59000.0,Eléctrica,Delantera,5.0,153.0,17000.0
+Chevrolet Cruze Sedan LTZ,Bs.As. G.B.A. Norte,Sedan LTZ,Gris,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,24000.0,Eléctrica,Delantera,5.0,153.0,23900.0
+Chevrolet Cruze Ltz 1.4 153 CV AT6,Bs.As. G.B.A. Norte,Ltz 1.4 153 CV AT6,,Chevrolet,Cruze,2019,Nafta,5.0,Automática,1.4,Sedán,44519.0,Eléctrica,Delantera,5.0,153.0,19300.0
+Chevrolet Cruze Ii Ltz 4 Ptas 1.4n,Ubicación no encontrada,1.4 Ltz At 153cv,Plateado,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.4,Sedán,125000.0,Eléctrica,Delantera,5.0,153.0,11266.67
+Chevrolet Cruze 1.8 Lt Mt 4 p,Ubicación no encontrada,1.8 Lt Mt 4 p,Plateado,Chevrolet,Cruze,2016,Nafta,4.0,Manual,1.8,Sedán,79778.0,Asistida,Delantera,5.0,141.0,12200.0
+Chevrolet Cruze 2.0 Vcdi Sedan Ltz At 163cv,Bs.As. G.B.A. Oeste,2.0 Vcdi Sedan Ltz At 163cv,,Chevrolet,Cruze,2014,Diésel,4.0,Automática,2.0,Sedán,187000.0,Hidráulica,Delantera,5.0,163.0,10000.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Ubicación no encontrada,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta/GNC,5.0,Manual,1.8,Hatchback,190000.0,Hidráulica,Delantera,5.0,141.0,10800.0
+Chevrolet Cruze 1.4 LT 5P L16,Ubicación no encontrada,1.4 LT 5P L16,Gris,Chevrolet,Cruze,2022,Nafta,5.0,Manual,1.4,Hatchback,47300.0,Asistida,Delantera,5.0,153.0,16977.33
+Chevrolet Cruze 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,,Chevrolet,Cruze,2017,Nafta,5.0,Automática,1.8,Hatchback,96000.0,Hidráulica,Delantera,5.0,141.0,12500.0
+Chevrolet Cruze 2.0 Vcdi Sedan Lt At 163cv,Buenos Aires Interior,2.0 Vcdi Sedan Lt At 163cv,Negro,Chevrolet,Cruze,2015,Diésel,4.0,Automática,2.0,Sedán,15000.0,Hidráulica,Delantera,5.0,163.0,10000.0
+Chevrolet Cruze 1.8 Ltz At 141cv,Bs.As. Costa Atlántica,1.8 Ltz At 141cv,Blanco,Chevrolet,Cruze,2018,Nafta,4.0,Automática,1.8,Sedán,173000.0,Hidráulica,Delantera,5.0,141.0,16800.0
+Chevrolet Cruze 1.8 Ltz Mt 5 p,Bs.As. G.B.A. Sur,1.8 Ltz Mt 5 p,,Chevrolet,Cruze,2012,Nafta,5.0,Manual,1.8,Hatchback,140000.0,Hidráulica,Delantera,5.0,141.0,8900.0
+Chevrolet Cruze 1.4 Lt At,Córdoba,1.4 Lt At,Blanco,Chevrolet,Cruze,2018,Nafta,5.0,Manual,1.4,Sedán,60500.0,Eléctrica,Delantera,5.0,153.0,13400.0
+Chevrolet Cruze Lt 1.4t 153cv Hatch,Capital Federal,Lt 1.4T 153cv hatch,,Chevrolet,Cruze,2021,Nafta,5.0,Automática,1.4,Sedán,25000.0,Eléctrica,Delantera,5.0,141.0,17500.0
+Chevrolet Cruze 1.4 Turbo Ltz Plus,Bs.As. G.B.A. Norte,1.4 turbo ltz plus,,Chevrolet,Cruze,2019,Nafta,4.0,Automática,1.4,Sedán,67000.0,Eléctrica,Delantera,5.0,141.0,18000.0
+Chevrolet Cruze 1.4 Ltz At Sedan,Ubicación no encontrada,1.4 Ltz At Sedan,Gris,Chevrolet,Cruze,2022,Nafta,4.0,Automática,1.4,Sedán,57000.0,Eléctrica,Delantera,5.0,153.0,19800.0
+Chevrolet Cruze Premier 1.4t A/t,Ubicación no encontrada,,,Chevrolet,Cruze,2020,Nafta,5.0,Automática,1.4,Sedán,35000.0,Asistida,Delantera,5.0,141.0,17266.67
+Chevrolet Cruze 1.8 Ltz At 141cv,Capital Federal,1.8 Ltz At 141cv,,Chevrolet,Cruze,2021,Nafta,4.0,Automática,1.8,Sedán,40000.0,Hidráulica,Delantera,5.0,141.0,22000.0

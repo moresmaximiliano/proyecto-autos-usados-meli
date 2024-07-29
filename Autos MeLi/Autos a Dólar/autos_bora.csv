@@ -1,0 +1,645 @@
+Título,Ubicación,Versión,Color,Marca,Modelo,Año,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Kilómetros,Dirección,Control de tracción,Capacidad de personas,Potencia,Precio
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,91000.0,Hidráulica,Delantera,5.0,116.0,11000.0
+Volkswagen Bora 2.0 At. 2007,Capital Federal,Sedan 2.0 AT,Gris,Volkswagen,Bora,2007,Nafta,4.0,Automática,2.0,Sedán,115000.0,Hidráulica,Delantera,5.0,116.0,6000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2012,Diésel,4.0,Manual,1.9,Sedán,58500.0,Hidráulica,Delantera,5.0,100.0,12500.0
+Volkswagen Bora Bora Tdi,Córdoba,Bora TDI,,Volkswagen,Bora,2008,Diésel,5.0,Manual,2.0,Sedán,195000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Blanco,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,230000.0,Hidráulica,Delantera,5.0,116.0,5933.33
+Volkswagen Bora 2.0 Trendline,Capital Federal,2.0 Trendline,Gris,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,223000.0,Hidráulica,Delantera,5.0,116.0,6500.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Córdoba,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2011,Nafta,4.0,Automática,2.0,Sedán,190000.0,Hidráulica,Delantera,5.0,116.0,8900.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,146000.0,Hidráulica,Delantera,5.0,180.0,11100.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,Rojo,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,179000.0,Hidráulica,Delantera,5.0,116.0,5866.67
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,218000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,168000.0,Hidráulica,Delantera,5.0,116.0,5800.0
+Volkswagen Bora 2.0 Comfortline,Bs.As. G.B.A. Oeste,2.0 Comfortline,,Volkswagen,Bora,2005,Nafta,4.0,Manual,2.0,Sedán,133000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Celeste,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,250000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Norte,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,159000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,126000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,140000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2014,Nafta,4.0,Manual,2.0,Sedán,195000.0,Hidráulica,Delantera,5.0,116.0,9200.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,271000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Norte,2.0 Trendline 115cv Tiptronic,Plateado,Volkswagen,Bora,2010,Nafta,4.0,Automática,2.0,Sedán,148000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Sur,1.9 I Trendline,Gris,Volkswagen,Bora,2006,Diésel,4.0,Manual,1.9,Sedán,203000.0,Hidráulica,Delantera,5.0,90.0,4666.67
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Sur,1.9 Trendline I 100cv,,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,129255.0,Hidráulica,Delantera,5.0,100.0,9000.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Sur,1.8 Highline T 180cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,192000.0,Hidráulica,Delantera,5.0,180.0,9000.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Ubicación no encontrada,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2008,Nafta,4.0,Automática,1.8,Sedán,150000.0,Hidráulica,Delantera,5.0,180.0,7900.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Gris,Volkswagen,Bora,2005,Nafta,4.0,Manual,2.0,Sedán,200000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Oeste,1.9 I Trendline,Plateado,Volkswagen,Bora,2006,Diésel,4.0,Manual,1.9,Sedán,182000.0,Hidráulica,Delantera,5.0,90.0,6500.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2008,Nafta,4.0,Automática,2.0,Sedán,129000.0,Hidráulica,Delantera,5.0,116.0,6933.33
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Azul,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,140000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,113000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2009,Nafta,4.0,Automática,2.0,Sedán,160000.0,Hidráulica,Delantera,5.0,116.0,3866.67
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,166000.0,Hidráulica,Delantera,5.0,116.0,5466.67
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Norte,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2009,Diésel,4.0,Manual,1.9,Sedán,210000.0,Hidráulica,Delantera,5.0,100.0,7500.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Bs.As. G.B.A. Sur,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2013,Nafta,4.0,Automática,1.8,Sedán,123000.0,Hidráulica,Delantera,5.0,180.0,10800.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Sur,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,168000.0,Hidráulica,Delantera,5.0,180.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,272000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,143000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora Diésel Tdi,Ubicación no encontrada,diésel tdi,,Volkswagen,Bora,2008,Diésel,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,7800.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,181000.0,Hidráulica,Delantera,5.0,180.0,7466.67
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,124000.0,Hidráulica,Delantera,5.0,116.0,8300.0
+Volkswagen Bora 1.9 I Comfortline,Ubicación no encontrada,1.9 I Comfortline,Gris,Volkswagen,Bora,2005,Diésel,4.0,Manual,1.9,Sedán,129000.0,Hidráulica,Delantera,5.0,90.0,5000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Sur,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,118100.0,Hidráulica,Delantera,5.0,180.0,10800.0
+Volkswagen Bora 1.8 Highline T 180cv,Córdoba,1.8 Highline T 180cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,70000.0,Hidráulica,Delantera,5.0,180.0,12000.0
+Volkswagen Bora 2.0 Trendline 115cv,Entre Ríos,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,112000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Bs.As. G.B.A. Sur,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Automática,1.8,Sedán,86000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 2.0 Higline,Bs.As. G.B.A. Sur,2.0 Higline,,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,142000.0,Hidráulica,Delantera,5.0,116.0,7600.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,266000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Dorado,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,142000.0,Hidráulica,Delantera,5.0,116.0,8900.0
+Volkswagen Bora 1.8 T Highline Tiptr Cu,Ubicación no encontrada,1.8 T Highline Tiptr Cu,Gris,Volkswagen,Bora,2006,Nafta,4.0,Automática,1.8,Sedán,113000.0,Hidráulica,Delantera,5.0,180.0,7500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,177000.0,Hidráulica,Delantera,5.0,100.0,7200.0
+Volkswagen Bora 2.0 Trendline 115cv,Córdoba,2.0 Trendline 115cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,230000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,213000.0,Hidráulica,Delantera,5.0,116.0,11000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Sur,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2013,Nafta,4.0,Automática,2.0,Sedán,143500.0,Hidráulica,Delantera,5.0,116.0,8990.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,140000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,134500.0,Hidráulica,Delantera,5.0,116.0,8200.0
+Volkswagen Bora 2.0 Trendline Mt,Bs.As. G.B.A. Oeste,2.0 Trendline Mt,Negro,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.0,Sedán,104000.0,Asistida,Delantera,5.0,116.0,7666.67
+Volkswagen Bora Sedan,Capital Federal,Sedan,,Volkswagen,Bora,2007,Diésel,4.0,Manual,2.0,Sedán,150000.0,Hidráulica,Delantera,5.0,116.0,6666.67
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Negro,Volkswagen,Bora,2010,Nafta,4.0,Automática,2.0,Sedán,168888.0,Hidráulica,Delantera,5.0,116.0,5875.27
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,,Volkswagen,Bora,2014,Nafta,4.0,Manual,2.0,Sedán,102000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Sur,1.8 Highline T 180cv Cuero,Negro,Volkswagen,Bora,2013,Nafta,4.0,Manual,1.8,Sedán,95000.0,Hidráulica,Delantera,5.0,180.0,12500.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Sur,1.8 Highline T 180cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,88500.0,Hidráulica,Delantera,5.0,180.0,13800.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,150000.0,Hidráulica,Delantera,5.0,180.0,6333.33
+Permuto O Vendo Vw Bora Tdi 2006. Excelente!!!,Ubicación no encontrada,,,Volkswagen,Bora,2006,Diésel,4.0,Manual,2.0,Sedán,130000.0,Hidráulica,Delantera,5.0,116.0,4000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,120000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Sur,1.9 I Trendline,,Volkswagen,Bora,2006,Diésel,4.0,Manual,1.9,Sedán,195000.0,Hidráulica,Delantera,5.0,90.0,9300.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Azul,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,120000.0,Hidráulica,Delantera,5.0,180.0,4333.33
+Volkswagen Bora 1.8 T Highline Cu,Capital Federal,1.8 T Highline Cu,,Volkswagen,Bora,2005,Nafta,4.0,Manual,1.8,Sedán,110000.0,Hidráulica,Delantera,5.0,180.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,177000.0,Hidráulica,Delantera,5.0,116.0,6500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,177300.0,Hidráulica,Delantera,5.0,100.0,7666.67
+Volkswagen Bora 2.0 Trendline,Santa Fe,2.0 Trendline,Plateado,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,160000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 1.8 Highline T 180cv Tiptronic,Ubicación no encontrada,1.8 Highline T 180cv Tiptronic,Gris,Volkswagen,Bora,2013,Nafta,4.0,Automática,1.8,Sedán,156000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,150000.0,Hidráulica,Delantera,5.0,116.0,8600.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+Volkswagen Bora 1.8 T Highline Cu,Bs.As. G.B.A. Norte,1.8 T Highline Cu,,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,160000.0,Hidráulica,Delantera,5.0,180.0,8000.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Norte,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2013,Nafta,4.0,Manual,1.8,Sedán,164000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 1.9 I Trendline,Ubicación no encontrada,1.9 I Trendline,Azul,Volkswagen,Bora,2006,Diésel,4.0,Manual,1.9,Sedán,105000.0,Hidráulica,Delantera,5.0,90.0,5000.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Capital Federal,1.8 Highline T Tiptronic Cuero,Negro,Volkswagen,Bora,2011,Nafta,4.0,Automática,1.8,Sedán,131000.0,Hidráulica,Delantera,5.0,180.0,12300.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Azul,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,178000.0,Hidráulica,Delantera,5.0,180.0,7666.67
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,111000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 2.0 Trendline 115cv,Buenos Aires Interior,2.0 Trendline 115cv,Blanco,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,97000.0,Hidráulica,Delantera,5.0,116.0,11000.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,,Volkswagen,Bora,2014,Nafta,4.0,Manual,1.8,Sedán,115000.0,Hidráulica,Delantera,5.0,180.0,12000.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,175000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,105000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 1.8 T Highline,Bs.As. G.B.A. Sur,1.8 T Highline,Gris,Volkswagen,Bora,2005,Nafta,4.0,Manual,1.8,Sedán,136000.0,Hidráulica,Delantera,5.0,180.0,8000.0
+Volkswagen Bora 1.8 Highline T 180cv,Buenos Aires Interior,1.8 Highline T 180cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,130000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,100800.0,Hidráulica,Delantera,5.0,116.0,8300.0
+Volkswagen Bora 2.0 Trendline 115cv,Córdoba,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,247000.0,Hidráulica,Delantera,5.0,116.0,6333.33
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,191000.0,Hidráulica,Delantera,5.0,116.0,10500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,107000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,120000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 2.0 Trendline,Bs.As. Costa Atlántica,2.0 Trendline,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,237000.0,Hidráulica,Delantera,5.0,116.0,6800.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,137000.0,Hidráulica,Delantera,5.0,116.0,6000.0
+Volkswagen Bora 1.8 T Highline Tiptr Cu,Bs.As. G.B.A. Oeste,1.8 T Highline Tiptr Cu,,Volkswagen,Bora,2004,Nafta,4.0,Automática,1.8,Sedán,175000.0,Hidráulica,Delantera,5.0,180.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv,Entre Ríos,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,6666.67
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Norte,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,134000.0,Hidráulica,Delantera,5.0,180.0,8600.0
+Volkswagen Bora 1.8 Highline T 180cv Tiptronic,Ubicación no encontrada,1.8 Highline T 180cv Tiptronic,Gris,Volkswagen,Bora,2013,Nafta,4.0,Automática,1.8,Sedán,84000.0,Hidráulica,Delantera,5.0,180.0,12000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Dorado,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,160000.0,Hidráulica,Delantera,5.0,100.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,104000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Sur,1.9 I Trendline,Gris,Volkswagen,Bora,2005,Diésel,4.0,Manual,1.9,Sedán,183000.0,Hidráulica,Delantera,5.0,90.0,6500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,226000.0,Hidráulica,Delantera,5.0,116.0,6666.67
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Capital Federal,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,147000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2013,Diésel,4.0,Manual,1.9,Sedán,155000.0,Hidráulica,Delantera,5.0,100.0,6800.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. Costa Atlántica,1.9 Trendline I 100cv,Plateado,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,225000.0,Hidráulica,Delantera,5.0,100.0,6500.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,150000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Gris,Volkswagen,Bora,2013,GNC,4.0,Manual,2.0,Sedán,202000.0,Hidráulica,Delantera,5.0,116.0,9400.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,130000.0,Hidráulica,Delantera,5.0,116.0,8700.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,65000.0,Hidráulica,Delantera,5.0,116.0,6533.33
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. Costa Atlántica,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,123000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Santa Fe,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,126000.0,Hidráulica,Delantera,5.0,116.0,6000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,198000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,119000.0,Hidráulica,Delantera,5.0,116.0,5933.33
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,93000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Norte,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,300281.0,Hidráulica,Delantera,5.0,100.0,6000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2009,Diésel,4.0,Manual,1.9,Sedán,180000.0,Hidráulica,Delantera,5.0,100.0,6200.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Buenos Aires Interior,1.8 Highline T Tiptronic Cuero,Gris,Volkswagen,Bora,2007,Nafta,4.0,Automática,1.8,Sedán,195000.0,Hidráulica,Delantera,5.0,180.0,8000.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Gris,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,179300.0,Hidráulica,Delantera,5.0,116.0,5733.33
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Oeste,1.9 I Trendline,Gris,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,227000.0,Hidráulica,Delantera,5.0,100.0,6333.33
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,130000.0,Hidráulica,Delantera,5.0,116.0,11500.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2009,Nafta,4.0,Automática,2.0,Sedán,160000.0,Hidráulica,Delantera,5.0,116.0,5066.67
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Plateado,Volkswagen,Bora,2014,Nafta,4.0,Automática,2.0,Sedán,140000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora Tdi,Ubicación no encontrada,Tdi,Negro,Volkswagen,Bora,2010,Diésel,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,7300.0
+Volkswagen Bora 2.0 Trendline,Capital Federal,2.0 Trendline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,160000.0,Hidráulica,Delantera,5.0,116.0,5466.67
+Volkswagen Bora 2.0 Trendline,Capital Federal,2.0 Trendline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,130000.0,Hidráulica,Delantera,5.0,116.0,8100.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Santa Fe,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2008,Nafta,4.0,Automática,1.8,Sedán,151600.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Blanco,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,118000.0,Hidráulica,Delantera,5.0,116.0,7800.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,150000.0,Hidráulica,Delantera,5.0,116.0,8900.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2013,Nafta,4.0,Automática,2.0,Sedán,168000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Blanco,Volkswagen,Bora,2014,Nafta/GNC,4.0,Manual,2.0,Sedán,92000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,220000.0,Hidráulica,Delantera,5.0,116.0,7700.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Bs.As. G.B.A. Sur,1.8 Highline T Tiptronic Cuero,Gris,Volkswagen,Bora,2014,Nafta,4.0,Automática,1.8,Sedán,72000.0,Hidráulica,Delantera,5.0,180.0,13500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,60000.0,Hidráulica,Delantera,5.0,116.0,10600.0
+Volkswagen Bora 1.9 I Trendline,Ubicación no encontrada,1.9 I Trendline,Negro,Volkswagen,Bora,2006,Diésel,4.0,Manual,1.9,Sedán,200000.0,Hidráulica,Delantera,5.0,90.0,5066.67
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Norte,1.8 Highline T 180cv,Blanco,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,180000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Capital Federal,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,183000.0,Hidráulica,Delantera,5.0,180.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Plateado,Volkswagen,Bora,2011,Nafta,4.0,Automática,2.0,Sedán,101000.0,Hidráulica,Delantera,5.0,116.0,11300.0
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Sur,1.9 I Trendline,Gris,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,156000.0,Hidráulica,Delantera,5.0,100.0,5200.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv Tiptronic,Negro,Volkswagen,Bora,2012,Nafta,4.0,Automática,2.0,Sedán,190000.0,Hidráulica,Delantera,5.0,116.0,4333.33
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Mendoza,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,220000.0,Hidráulica,Delantera,5.0,180.0,12500.0
+Volkswagen Bora 1.9 I Trendline,Ubicación no encontrada,1.9 I Trendline,Gris,Volkswagen,Bora,2007,Diésel,4.0,Manual,1.9,Sedán,205000.0,Hidráulica,Delantera,5.0,100.0,6800.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Rojo,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,152000.0,Hidráulica,Delantera,5.0,116.0,8900.0
+Volkswagen Bora 1.8 T Highline,Bs.As. G.B.A. Norte,1.8 T Highline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,135000.0,Hidráulica,Delantera,5.0,180.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,108000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,113000.0,Hidráulica,Delantera,5.0,116.0,7666.67
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,198000.0,Hidráulica,Delantera,5.0,180.0,6333.33
+Volkswagen Bora 2.0 Comfortline,Ubicación no encontrada,2.0 Comfortline,,Volkswagen,Bora,2004,Nafta,4.0,Manual,2.0,Sedán,190000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Córdoba,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2013,Nafta,4.0,Automática,2.0,Sedán,205000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv,,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,185000.0,Hidráulica,Delantera,5.0,180.0,8200.0
+Volkswagen Bora 1.8 T,Entre Ríos,1.8 T,,Volkswagen,Bora,2004,Nafta,5.0,Manual,1.8,Sedán,165000.0,Hidráulica,Delantera,5.0,180.0,8000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,Negro,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,105000.0,Hidráulica,Delantera,5.0,180.0,12000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Negro,Volkswagen,Bora,2013,Nafta,4.0,Automática,2.0,Sedán,92000.0,Hidráulica,Delantera,5.0,116.0,10000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2012,Diésel,4.0,Manual,1.9,Sedán,150000.0,Hidráulica,Delantera,5.0,100.0,8800.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,147000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,146000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Buenos Aires Interior,1.8 Highline T Tiptronic Cuero,Gris,Volkswagen,Bora,2012,Nafta,4.0,Automática,1.8,Sedán,136600.0,Hidráulica,Delantera,5.0,180.0,9800.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,170000.0,Hidráulica,Delantera,5.0,116.0,9200.0
+Volkswagen Bora 2.0 Trendline,Bs.As. G.B.A. Sur,2.0 Trendline,,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,183000.0,Hidráulica,Delantera,5.0,116.0,6000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Corrientes,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,113700.0,Hidráulica,Delantera,5.0,180.0,11500.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2011,Nafta,4.0,Automática,2.0,Sedán,125000.0,Hidráulica,Delantera,5.0,116.0,8900.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,140000.0,Hidráulica,Delantera,5.0,100.0,7950.0
+Volkswagen Bora 1.9 Trendline I 100cv,Capital Federal,1.9 Trendline I 100cv,,Volkswagen,Bora,2009,Diésel,4.0,Manual,1.9,Sedán,185000.0,Hidráulica,Delantera,5.0,100.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. Costa Atlántica,2.0 Trendline 115cv,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,160000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,,Volkswagen,Bora,2005,Nafta,4.0,Manual,2.0,Sedán,204000.0,Hidráulica,Delantera,5.0,116.0,5900.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,60000.0,Hidráulica,Delantera,5.0,180.0,13500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Norte,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2014,Nafta,4.0,Manual,1.8,Sedán,51900.0,Hidráulica,Delantera,5.0,180.0,13500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,234000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 1.9 I Trendline,Ubicación no encontrada,1.9 I Trendline,Azul,Volkswagen,Bora,2007,Diésel,4.0,Manual,1.9,Sedán,140000.0,Hidráulica,Delantera,5.0,100.0,7900.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2008,Nafta,4.0,Automática,2.0,Sedán,155000.0,Hidráulica,Delantera,5.0,116.0,5533.33
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Norte,1.8 Highline T 180cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,188000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 1.8 Highline T 180cv,Capital Federal,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,130000.0,Hidráulica,Delantera,5.0,180.0,8500.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Norte,1.8 Highline T 180cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,129000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Río Negro,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2008,Nafta,4.0,Automática,1.8,Sedán,170000.0,Hidráulica,Delantera,5.0,180.0,6200.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Norte,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2013,Nafta,4.0,Manual,1.8,Sedán,99999.0,Hidráulica,Delantera,5.0,180.0,11500.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Ubicación no encontrada,1.8 Highline T Tiptronic Cuero,Blanco,Volkswagen,Bora,2011,Nafta,4.0,Automática,1.8,Sedán,128000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,100577.0,Hidráulica,Delantera,5.0,116.0,6666.67
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Santa Fe,1.8 Highline T 180cv Cuero,Rosa,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,80000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 2.0 Trendline,Capital Federal,2.0 Trendline,,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,78500.0,Hidráulica,Delantera,5.0,116.0,9400.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Norte,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 2.0 Trendline 115cv,Córdoba,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,170000.0,Hidráulica,Delantera,5.0,116.0,8100.0
+Volkswagen Bora 2.0 Trendline,Capital Federal,2.0 Trendline,Rojo,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,11110.0,Hidráulica,Delantera,5.0,116.0,3333.05
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,245000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,111111.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,250000.0,Hidráulica,Delantera,5.0,116.0,6500.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2011,Nafta,5.0,Automática,2.0,Sedán,224000.0,Hidráulica,Delantera,5.0,116.0,7380.0
+Volkswagen Bora 1.9 I Trendline,Capital Federal,1.9 I Trendline,,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,215000.0,Hidráulica,Delantera,5.0,100.0,7500.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,100000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Rojo,Volkswagen,Bora,2009,Nafta/GNC,4.0,Manual,2.0,Sedán,135000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Capital Federal,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,180.0,5266.67
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,133200.0,Hidráulica,Delantera,5.0,180.0,9300.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora 1.9 I Trendline,Ubicación no encontrada,1.9 I Trendline,,Volkswagen,Bora,2007,Diésel,4.0,Manual,1.9,Sedán,156000.0,Hidráulica,Delantera,5.0,100.0,6800.0
+Volkswagen Bora 1.9 I Trendline,Ubicación no encontrada,1.9 I Trendline,,Volkswagen,Bora,2006,Diésel,4.0,Manual,1.9,Sedán,234000.0,Hidráulica,Delantera,5.0,90.0,4533.33
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Buenos Aires Interior,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2014,Nafta,4.0,Manual,1.8,Sedán,41000.0,Hidráulica,Delantera,5.0,180.0,20500.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2007,Nafta,4.0,Automática,2.0,Sedán,160000.0,Hidráulica,Delantera,5.0,116.0,6400.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,190000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Norte,1.8 Highline T 180cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,167000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Sur,1.9 Trendline I 100cv,,Volkswagen,Bora,2012,Diésel,4.0,Manual,1.9,Sedán,245000.0,Hidráulica,Delantera,5.0,100.0,7500.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,150000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,91000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,149000.0,Hidráulica,Delantera,5.0,116.0,6900.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2013,Nafta,4.0,Automática,2.0,Sedán,249000.0,Hidráulica,Delantera,5.0,116.0,6666.67
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,139000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Río Negro,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2012,Nafta,4.0,Automática,1.8,Sedán,160000.0,Hidráulica,Delantera,5.0,180.0,7666.67
+Volkswagen Bora 2.0 Trendline,San Luis,2.0 Trendline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,205000.0,Hidráulica,Delantera,5.0,116.0,5800.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,128000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 18 . Turbo,Bs.As. G.B.A. Norte,18 . turbo,,Volkswagen,Bora,2011,Nafta,5.0,Manual,2.0,Sedán,191000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Oeste,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,177000.0,Hidráulica,Delantera,5.0,100.0,8500.0
+Volkswagen Bora 1.9 I Comfortline,Bs.As. G.B.A. Sur,1.9 I Comfortline,,Volkswagen,Bora,2005,Diésel,4.0,Manual,1.9,Sedán,285000.0,Hidráulica,Delantera,5.0,90.0,6500.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Capital Federal,1.8 Highline T Tiptronic Cuero,Celeste,Volkswagen,Bora,2011,Nafta,4.0,Automática,1.8,Sedán,135000.0,Hidráulica,Delantera,5.0,180.0,11200.0
+Volkswagen Bora 2.0 Trendline 115cv,Buenos Aires Interior,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,111900.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.9 I Trendline,Ubicación no encontrada,1.9 I Trendline,Gris,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,233081.0,Hidráulica,Delantera,5.0,100.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Celeste,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,159772.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Plateado,Volkswagen,Bora,2005,Nafta,4.0,Manual,2.0,Sedán,228000.0,Hidráulica,Delantera,5.0,116.0,3933.33
+Volkswagen Bora 1.9 Trendline I 100cv,Capital Federal,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,234700.0,Hidráulica,Delantera,5.0,100.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Blanco,Volkswagen,Bora,2013,Nafta/GNC,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,7900.0
+Volkswagen Bora 1.9 Trendline I 100cv,Capital Federal,1.9 Trendline I 100cv,Blanco,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,230000.0,Hidráulica,Delantera,5.0,100.0,8900.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Norte,1.8 Highline T 180cv Cuero,Blanco,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,64600.0,Hidráulica,Delantera,5.0,180.0,14800.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,138000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,154000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 1.9 I Trendline,Misiones,1.9 I Trendline,,Volkswagen,Bora,2005,Diésel,4.0,Manual,1.9,Sedán,197000.0,Hidráulica,Delantera,5.0,90.0,4666.67
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Norte,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,210000.0,Hidráulica,Delantera,5.0,100.0,7700.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2013,Nafta,4.0,Automática,2.0,Sedán,139000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 1.8 T Highline Tiptr Cu,Capital Federal,1.8 T Highline Tiptr Cu,,Volkswagen,Bora,2008,Nafta,4.0,Automática,1.8,Sedán,135000.0,Hidráulica,Delantera,5.0,180.0,8200.0
+Volkswagen Bora 1.8 T Highline,Bs.As. G.B.A. Norte,1.8 T Highline,,Volkswagen,Bora,2006,Nafta,4.0,Manual,1.8,Sedán,165000.0,Hidráulica,Delantera,5.0,180.0,7999.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Sur,1.9 Trendline I 100cv,Dorado,Volkswagen,Bora,2009,Diésel,4.0,Manual,1.9,Sedán,207000.0,Hidráulica,Delantera,5.0,100.0,5800.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Norte,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,123000.0,Hidráulica,Delantera,5.0,180.0,11500.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv,Blanco,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,74000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2009,Diésel,4.0,Manual,1.9,Sedán,155000.0,Hidráulica,Delantera,5.0,100.0,8200.0
+Volkswagen Bora 1.9 I Trendline,Capital Federal,1.9 I Trendline,,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,100000.0,Hidráulica,Delantera,5.0,100.0,7800.0
+Volkswagen Bora 1.9 Trendline I 100cv,Córdoba,1.9 Trendline I 100cv,,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,180000.0,Hidráulica,Delantera,5.0,100.0,5933.33
+Volkswagen Bora 2.0 Trendline 115cv,Buenos Aires Interior,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,116560.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Norte,1.8 Highline T 180cv Cuero,Plateado,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,156000.0,Hidráulica,Delantera,5.0,180.0,9300.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,195000.0,Hidráulica,Delantera,5.0,180.0,6733.33
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,153000.0,Hidráulica,Delantera,5.0,116.0,8200.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Ubicación no encontrada,1.8 Highline T Tiptronic Cuero,Gris,Volkswagen,Bora,2011,Nafta,4.0,Automática,1.8,Sedán,149000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Norte,1.9 I Trendline,,Volkswagen,Bora,2006,Diésel,4.0,Manual,1.9,Sedán,260000.0,Hidráulica,Delantera,5.0,90.0,5000.0
+Volkswagen Bora 2.0 Trendline 115cv,Buenos Aires Interior,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,167000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 1.8 T Highline,Bs.As. G.B.A. Norte,1.8 T Highline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,205000.0,Hidráulica,Delantera,5.0,180.0,8300.0
+Volkswagen Bora 1.8 T Highline,Bs.As. G.B.A. Oeste,1.8 T Highline,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,139000.0,Hidráulica,Delantera,5.0,180.0,8800.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Norte,1.8 Highline T 180cv Cuero,Plateado,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,65000.0,Hidráulica,Delantera,5.0,180.0,12000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Capital Federal,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2009,Nafta,4.0,Automática,2.0,Sedán,166000.0,Hidráulica,Delantera,5.0,116.0,6400.0
+Volkswagen Bora 1.8 T Highline Cu,Bs.As. G.B.A. Norte,1.8 T Highline Cu,,Volkswagen,Bora,2006,Nafta,4.0,Manual,1.8,Sedán,212500.0,Hidráulica,Delantera,5.0,180.0,6500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,222000.0,Hidráulica,Delantera,5.0,116.0,6500.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Capital Federal,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2013,Nafta/GNC,4.0,Automática,2.0,Sedán,175000.0,Hidráulica,Delantera,5.0,116.0,8450.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Capital Federal,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,139000.0,Hidráulica,Delantera,5.0,180.0,12000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,1333000.0,Hidráulica,Delantera,5.0,100.0,6500.0
+Volkswagen Bora 2.0 Trendline,Bs.As. G.B.A. Sur,2.0 Trendline,,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,190000.0,Hidráulica,Delantera,5.0,116.0,4400.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,80000.0,Hidráulica,Delantera,5.0,116.0,7266.67
+Volkswagen Bora 2.0 Trendline,Bs.As. G.B.A. Norte,2.0 Trendline,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,111111.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Buenos Aires Interior,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,182500.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 2.0 Trendline,Salta,2.0 Trendline,Dorado,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,178000.0,Hidráulica,Delantera,5.0,116.0,5733.33
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Norte,1.9 Trendline I 100cv,,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,147500.0,Hidráulica,Delantera,5.0,100.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Córdoba,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,245000.0,Hidráulica,Delantera,5.0,116.0,5966.67
+Volkswagen Bora,Ubicación no encontrada,Automatico,Negro,Volkswagen,Bora,2011,Nafta,4.0,Automática,2.0,Sedán,137000.0,Asistida,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,145000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,Dorado,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,168000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Norte,1.8 Highline T 180cv Cuero,Negro,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,167000.0,Hidráulica,Delantera,5.0,180.0,11500.0
+Volkswagen Bora 1.8t Highline 2009 Financio Permuto,Ubicación no encontrada,1.8 T HIGHLINE CUERO,Plateado,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,253700.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Santa Fe,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2010,Nafta,4.0,Automática,2.0,Sedán,69000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,143000.0,Hidráulica,Delantera,5.0,180.0,7366.67
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris oscuro,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,146000.0,hydraulic,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.9 I Trendline,Ubicación no encontrada,1.9 I Trendline,Gris,Volkswagen,Bora,2005,Diésel,4.0,Manual,1.9,Sedán,150000.0,Hidráulica,Delantera,5.0,90.0,6000.0
+Volkswagen Bora Tdi 2008,Ubicación no encontrada,Tdi,Gris,Volkswagen,Bora,2008,Diésel,4.0,Manual,2.0,Sedán,114400.0,Eléctrica,Delantera,5.0,116.0,5925.33
+Volkswagen Bora 1.8 T Highline,Ubicación no encontrada,1.8 T Highline,,Volkswagen,Bora,2006,Nafta,4.0,Manual,1.8,Sedán,172000.0,Hidráulica,Delantera,5.0,180.0,7000.0
+Volkswagen Bora 2.0 Trendline,Bs.As. G.B.A. Sur,2.0 Trendline,Negro,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,145000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,176500.0,Hidráulica,Delantera,5.0,116.0,7900.0
+Volkswagen Bora 2.0 Trendline,Bs.As. G.B.A. Oeste,2.0 Trendline,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,120000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2013,Nafta,4.0,Automática,2.0,Sedán,187161.0,Hidráulica,Delantera,5.0,116.0,6333.33
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,172000.0,Hidráulica,Delantera,5.0,116.0,6700.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Gris,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,170000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Norte,1.8 Highline T 180cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,144000.0,Hidráulica,Delantera,5.0,180.0,10200.0
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Oeste,1.9 I Trendline,,Volkswagen,Bora,2005,Diésel,4.0,Manual,1.9,Sedán,178000.0,Hidráulica,Delantera,5.0,90.0,6800.0
+Volkswagen Bora 2.0 Trendline 115cv,Buenos Aires Interior,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,100500.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,115000.0,Hidráulica,Delantera,5.0,116.0,7800.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,186000.0,Hidráulica,Delantera,5.0,116.0,5866.67
+Volkswagen Bora Tdi 2008,Ubicación no encontrada,Tdi,Rojo,Volkswagen,Bora,2008,Diésel,4.0,Manual,2.0,Sedán,240000.0,Hidráulica,Delantera,5.0,116.0,9800.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Buenos Aires Interior,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,150000.0,Hidráulica,Delantera,5.0,180.0,15000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,167000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,145000.0,Hidráulica,Delantera,5.0,100.0,8600.0
+Volkswagen Bora 2.0 Tdi Trendline,Bs.As. G.B.A. Oeste,2.0 Tdi Trendline,,Volkswagen,Bora,2013,Diésel,4.0,Manual,2.0,Sedán,155000.0,Hidráulica,Delantera,5.0,115.0,12500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Norte,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2009,Diésel,4.0,Manual,1.9,Sedán,227000.0,Hidráulica,Delantera,5.0,100.0,6800.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Norte,1.8 Highline T 180cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,115000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,144000.0,Hidráulica,Delantera,5.0,180.0,11500.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,117000.0,Hidráulica,Delantera,5.0,116.0,7900.0
+Volkswagen Bora 1.8 Highline T 180cv,Mendoza,1.8 Highline T 180cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,110000.0,Hidráulica,Delantera,5.0,180.0,13000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Sur,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2012,Diésel,4.0,Manual,1.9,Sedán,162000.0,Hidráulica,Delantera,5.0,100.0,8300.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,124000.0,Hidráulica,Delantera,5.0,180.0,10480.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Capital Federal,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2015,Nafta,4.0,Automática,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,7266.67
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,Azul,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,135000.0,Hidráulica,Delantera,5.0,116.0,7333.33
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Capital Federal,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,168000.0,Hidráulica,Delantera,5.0,180.0,9200.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Celeste,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,142000.0,Hidráulica,Delantera,5.0,116.0,8200.0
+Volkswagen Bora 1.8 Highline T 180cv,Buenos Aires Interior,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,147000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Capital Federal,1.8 Highline T Tiptronic Cuero,Negro,Volkswagen,Bora,2008,Nafta,4.0,Automática,1.8,Sedán,137000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Corrientes,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2010,Nafta,4.0,Automática,2.0,Sedán,238000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,142000.0,Hidráulica,Delantera,5.0,180.0,8800.0
+Volkswagen Bora 2.0 Trendline,Buenos Aires Interior,2.0 Trendline,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,267000.0,Hidráulica,Delantera,5.0,116.0,6666.67
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,112000.0,Hidráulica,Delantera,5.0,116.0,8700.0
+Volkswagen Bora 1.8 T Highline,Capital Federal,1.8 T Highline,,Volkswagen,Bora,2006,Nafta,4.0,Manual,1.8,Sedán,133000.0,Hidráulica,Delantera,5.0,180.0,7500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,119000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,107000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 1.8 Highline T 180cv,Capital Federal,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,169000.0,Hidráulica,Delantera,5.0,180.0,12500.0
+Volkswagen Bora 1.8 T Highline,Bs.As. G.B.A. Sur,1.8 T Highline,,Volkswagen,Bora,2006,Nafta,4.0,Manual,1.8,Sedán,115000.0,Hidráulica,Delantera,5.0,180.0,9200.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,Plateado,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,145000.0,Hidráulica,Delantera,5.0,180.0,11300.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,7800.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,125000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,198000.0,Hidráulica,Delantera,5.0,116.0,6800.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Ubicación no encontrada,1.8 Highline T Tiptronic Cuero,Gris,Volkswagen,Bora,2008,Nafta,4.0,Automática,1.8,Sedán,160000.0,Hidráulica,Delantera,5.0,180.0,6333.33
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,132000.0,Hidráulica,Delantera,5.0,180.0,12000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2013,Híbrido/Diesel,4.0,Manual,1.9,Sedán,135000.0,Hidráulica,Delantera,5.0,100.0,8990.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,93000.0,Hidráulica,Delantera,5.0,116.0,9300.0
+Volkswagen Bora 1.8 Highline T 180cv,Buenos Aires Interior,1.8 Highline T 180cv,Rojo,Volkswagen,Bora,2014,Nafta,4.0,Manual,1.8,Sedán,110000.0,Hidráulica,Delantera,5.0,180.0,14000.0
+Volkswagen Bora 1.8 Highline T 180cv,Tucumán,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,94000.0,Hidráulica,Delantera,5.0,180.0,13000.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,156000.0,Hidráulica,Delantera,5.0,116.0,10500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Córdoba,1.9 Trendline I 100cv,,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,210000.0,Hidráulica,Delantera,5.0,100.0,5333.33
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Celeste,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,130000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 1.8 T Highline,Capital Federal,1.8 T Highline,Gris,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,135000.0,Hidráulica,Delantera,5.0,180.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,190000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,Rojo,Volkswagen,Bora,4366,Nafta/GNC,60241.0,Manual,2.0,Sedán,151500.0,Hidráulica,Delantera,5.0,116.0,7800.0
+Volkswagen Bora 1.8 Highline T 180cv,Buenos Aires Interior,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,136000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,128000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,171250.0,Hidráulica,Delantera,5.0,180.0,7873.33
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Bs.As. G.B.A. Norte,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Automática,1.8,Sedán,175000.0,Hidráulica,Delantera,5.0,180.0,9800.0
+Volkswagen Bora 2.0 Trendline,Bs.As. G.B.A. Oeste,2.0 Trendline,,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,246000.0,Hidráulica,Delantera,5.0,116.0,6500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2014,Nafta,4.0,Manual,2.0,Sedán,155000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Santa Fe,1.9 Trendline I 100cv,,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,250000.0,Hidráulica,Delantera,5.0,100.0,5333.33
+Volkswagen Bora 1.9 Trendline I 100cv,Capital Federal,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2009,Diésel,4.0,Manual,1.9,Sedán,230000.0,Hidráulica,Delantera,5.0,100.0,6500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,156000.0,Hidráulica,Delantera,5.0,116.0,6500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,260000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Norte,1.9 I Trendline,Gris,Volkswagen,Bora,2007,Diésel,4.0,Manual,1.9,Sedán,160000.0,Hidráulica,Delantera,5.0,100.0,5333.33
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,110000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. Costa Atlántica,1.9 Trendline I 100cv,,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,127000.0,Hidráulica,Delantera,5.0,100.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,303800.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Plateado,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,190000.0,Hidráulica,Delantera,5.0,100.0,6990.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Norte,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,147000.0,Hidráulica,Delantera,5.0,180.0,7300.0
+Volkswagen Bora 1.8 Highline T 180cv,Capital Federal,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,112500.0,Hidráulica,Delantera,5.0,180.0,12000.0
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Oeste,1.9 I Trendline,,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,156000.0,Hidráulica,Delantera,5.0,100.0,7500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,142000.0,Hidráulica,Delantera,5.0,116.0,7300.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Azul,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,125500.0,Hidráulica,Delantera,5.0,116.0,7301.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,111111.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2008,Nafta,4.0,Automática,2.0,Sedán,88000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.8 Highline T 180cv Tiptronic,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Tiptronic,,Volkswagen,Bora,2014,Nafta,4.0,Automática,1.8,Sedán,38000.0,Hidráulica,Delantera,5.0,180.0,17000.0
+Volkswagen Bora 1.8 T Highline,Bs.As. G.B.A. Norte,1.8 T Highline,Azul,Volkswagen,Bora,2005,Nafta,4.0,Manual,1.8,Sedán,105000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,160000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 1.9 I Trendline,Ubicación no encontrada,1.9 I Trendline,Gris,Volkswagen,Bora,2007,Eléctrico,4.0,Manual,1.9,Sedán,155000.0,Hidráulica,Delantera,5.0,100.0,3333.33
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,Negro,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,136000.0,Hidráulica,Delantera,5.0,180.0,8200.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,103000.0,Hidráulica,Delantera,5.0,116.0,10300.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Sur,1.8 Highline T 180cv Cuero,Blanco,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,150000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,95000.0,Hidráulica,Delantera,5.0,180.0,9800.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Norte,1.9 Trendline I 100cv,,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,220000.0,Hidráulica,Delantera,5.0,100.0,4933.33
+Volkswagen Bora 1.8 T Highline,San Luis,1.8 T Highline,,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,195000.0,Hidráulica,Delantera,5.0,180.0,6000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Capital Federal,1.9 Trendline I 100cv,,Volkswagen,Bora,2007,Diésel,4.0,Manual,1.9,Sedán,300000.0,Hidráulica,Delantera,5.0,100.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv,Buenos Aires Interior,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,144000.0,Hidráulica,Delantera,5.0,116.0,5900.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Bs.As. G.B.A. Sur,1.8 Highline T Tiptronic Cuero,Blanco,Volkswagen,Bora,2012,Nafta,4.0,Automática,1.8,Sedán,130000.0,Hidráulica,Delantera,5.0,180.0,7866.67
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,181000.0,Hidráulica,Delantera,5.0,116.0,6333.33
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Buenos Aires Interior,1.8 Highline T Tiptronic Cuero,Plateado,Volkswagen,Bora,2009,Nafta,4.0,Automática,1.8,Sedán,155000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Sur,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2013,Nafta,4.0,Manual,1.8,Sedán,42000.0,Hidráulica,Delantera,5.0,180.0,14000.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Plateado,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,95000.0,Hidráulica,Delantera,5.0,116.0,5866.67
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Norte,1.9 I Trendline,Gris,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,131000.0,Hidráulica,Delantera,5.0,100.0,8500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,174000.0,Hidráulica,Delantera,5.0,100.0,6066.67
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Sur,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,185000.0,Hidráulica,Delantera,5.0,100.0,8000.0
+Volkswagen Bora 1.8 Highline T 180cv,Capital Federal,1.8 Highline T 180cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,132000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Capital Federal,1.9 Trendline I 100cv,,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,230000.0,Hidráulica,Delantera,5.0,100.0,5000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2013,Nafta,4.0,Manual,1.8,Sedán,113000.0,Hidráulica,Delantera,5.0,180.0,11800.0
+Volkswagen Bora 1.9 I Comfortline,Capital Federal,1.9 I Comfortline,Naranja,Volkswagen,Bora,2004,Diésel,4.0,Manual,1.9,Sedán,210000.0,Hidráulica,Delantera,5.0,90.0,3666.67
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Rojo,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,8200.0
+Volkswagen Bora 1.8 T Highline Cu,Córdoba,1.8 T Highline Cu,Gris,Volkswagen,Bora,2006,Nafta,4.0,Manual,1.8,Sedán,180000.0,Hidráulica,Delantera,5.0,180.0,7500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Buenos Aires Interior,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2013,Diésel,4.0,Manual,1.9,Sedán,192000.0,Hidráulica,Delantera,5.0,100.0,7533.33
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Azul,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,177000.0,Hidráulica,Delantera,5.0,116.0,3666.67
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,155000.0,Hidráulica,Delantera,5.0,100.0,7300.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,130000.0,Hidráulica,Delantera,5.0,116.0,7266.67
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Sur,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,131000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 1.8 T Highline,Ubicación no encontrada,1.8 T Highline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,125000.0,Hidráulica,Delantera,5.0,180.0,8900.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,81500.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,143000.0,Hidráulica,Delantera,5.0,180.0,7866.67
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Capital Federal,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,137000.0,Hidráulica,Delantera,5.0,180.0,11800.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Sur,2.0 Trendline 115cv Tiptronic,Plateado,Volkswagen,Bora,2013,Nafta,4.0,Automática,2.0,Sedán,100000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 1.8 T Highline,Bs.As. G.B.A. Oeste,1.8 T Highline,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,198000.0,Hidráulica,Delantera,5.0,180.0,6500.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Bs.As. G.B.A. Sur,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Automática,1.8,Sedán,130000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Sur,1.8 Highline T 180cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,141230.0,Hidráulica,Delantera,5.0,180.0,6900.0
+Volkswagen Bora 1.9 Trendline I 100cv,Mendoza,1.9 Trendline I 100cv,,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,77700.0,Hidráulica,Delantera,5.0,100.0,11500.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2011,Nafta,4.0,Automática,2.0,Sedán,200000.0,Hidráulica,Delantera,5.0,116.0,5800.0
+Volkswagen Bora 2.0 Trendline 115cv,Entre Ríos,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,111000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,93000.0,Hidráulica,Delantera,5.0,116.0,7333.33
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Oeste,1.9 I Trendline,,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,175000.0,Hidráulica,Delantera,5.0,100.0,7500.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,115000.0,Hidráulica,Delantera,5.0,116.0,9200.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,135000.0,Hidráulica,Delantera,5.0,116.0,6666.67
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Capital Federal,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2012,Nafta,4.0,Automática,1.8,Sedán,138000.0,Hidráulica,Delantera,5.0,180.0,9000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Sur,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,62000.0,Hidráulica,Delantera,5.0,180.0,12000.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2009,Nafta/GNC,4.0,Manual,2.0,Sedán,200000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,118000.0,Hidráulica,Delantera,5.0,116.0,8600.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,170000.0,Hidráulica,Delantera,5.0,116.0,7333.33
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2013,Nafta,4.0,Automática,2.0,Sedán,140000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 1.8 Highline T 180cv,Capital Federal,1.8 Highline T 180cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,99000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,111000.0,Hidráulica,Delantera,5.0,116.0,5332.67
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,145000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2014,Nafta,4.0,Automática,2.0,Sedán,136000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2009,Nafta,4.0,Automática,2.0,Sedán,160000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 1.9 I Trendline,Buenos Aires Interior,1.9 I Trendline,,Volkswagen,Bora,2006,Diésel,4.0,Manual,1.9,Sedán,170000.0,Hidráulica,Delantera,5.0,90.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,39500.0,Hidráulica,Delantera,5.0,116.0,12900.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Capital Federal,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Automática,1.8,Sedán,96000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Capital Federal,1.9 Trendline I 100cv,,Volkswagen,Bora,2012,Diésel,4.0,Manual,1.9,Sedán,191000.0,Hidráulica,Delantera,5.0,100.0,8500.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Ubicación no encontrada,1.8 Highline T Tiptronic Cuero,Plateado,Volkswagen,Bora,2009,Nafta,4.0,Automática,1.8,Sedán,150000.0,Hidráulica,Delantera,5.0,180.0,6666.67
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Capital Federal,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2014,Nafta,4.0,Automática,2.0,Sedán,100000.0,Hidráulica,Delantera,5.0,116.0,9700.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,120000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.8 T Highline,Bs.As. G.B.A. Sur,1.8 T Highline,Negro,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,198000.0,Hidráulica,Delantera,5.0,180.0,9700.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Sur,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2009,Nafta,4.0,Automática,2.0,Sedán,160000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,196000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,128000.0,Hidráulica,Delantera,5.0,116.0,6566.67
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,107000.0,Hidráulica,Delantera,5.0,116.0,9300.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2009,Nafta/GNC,4.0,Manual,2.0,Sedán,136000.0,Hidráulica,DelanteraCapacidad de la batería12 mAh,5.0,116.0,9800.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Ubicación no encontrada,1.8 Highline T Tiptronic Cuero,Gris,Volkswagen,Bora,2009,Nafta,4.0,Automática,1.8,Sedán,106000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 1.9 I Trendline,Ubicación no encontrada,1.9 I Trendline,Blanco,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,239000.0,Hidráulica,Delantera,5.0,100.0,6700.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,182000.0,Hidráulica,Delantera,5.0,100.0,7200.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Negro,Volkswagen,Bora,2011,Nafta,4.0,Automática,2.0,Sedán,135000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Azul,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,215000.0,Hidráulica,Delantera,5.0,116.0,6200.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2012,Diésel,4.0,Manual,1.9,Sedán,65000.0,Hidráulica,Delantera,5.0,100.0,12500.0
+Volkswagen Bora 1.8 Highline T 180cv,Córdoba,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2014,Nafta,4.0,Manual,1.8,Sedán,98000.0,Hidráulica,Delantera,5.0,180.0,12000.0
+Volkswagen Bora 2.0 Trendline 115cv,Santa Fe,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,170000.0,Hidráulica,Delantera,5.0,116.0,6400.0
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Oeste,1.9 I Trendline,,Volkswagen,Bora,2007,Diésel,4.0,Manual,1.9,Sedán,203000.0,Hidráulica,Delantera,5.0,100.0,6000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2013,Diésel,4.0,Manual,1.9,Sedán,147000.0,Hidráulica,Delantera,5.0,100.0,10000.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Sur,1.8 Highline T 180cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,118000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2014,Nafta,4.0,Manual,1.8,Sedán,150000.0,Hidráulica,Delantera,5.0,180.0,13500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,129000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,120000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 1.8 T Highline Cu,Capital Federal,1.8 T Highline Cu,,Volkswagen,Bora,2006,Nafta,4.0,Manual,1.8,Sedán,180000.0,Hidráulica,Delantera,5.0,180.0,7500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Sur,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2012,Diésel,4.0,Manual,1.9,Sedán,164000.0,Hidráulica,Delantera,5.0,100.0,9250.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,190000.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Capital Federal,1.8 Highline T 180cv Cuero,Azul,Volkswagen,Bora,2013,Nafta,4.0,Manual,1.8,Sedán,127000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2014,Nafta,4.0,Manual,1.8,Sedán,113000.0,Asistida,Delantera,5.0,116.0,11200.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,157000.0,Hidráulica,Delantera,5.0,180.0,9200.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Buenos Aires Interior,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,157000.0,Hidráulica,Delantera,5.0,180.0,8995.0
+Volkswagen Bora 1.9 Trendline I 100cv,Mendoza,1.9 Trendline I 100cv,,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,170000.0,Hidráulica,Delantera,5.0,100.0,9000.0
+Volkswagen Bora 1.9 Tdi,Capital Federal,1.9 Tdi,,Volkswagen,Bora,2007,Diésel,4.0,Manual,2.0,Sedán,300000.0,Hidráulica,Delantera,5.0,116.0,6800.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Norte,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2009,Diésel,4.0,Manual,1.9,Sedán,240000.0,Hidráulica,Delantera,5.0,100.0,6500.0
+Volkswagen Bora 1.9 I Trendline,Ubicación no encontrada,1.9 I Trendline,Negro,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,150000.0,Hidráulica,Delantera,5.0,100.0,7900.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,68000.0,Hidráulica,Delantera,5.0,180.0,15000.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Bs.As. G.B.A. Sur,1.8 Highline T Tiptronic Cuero,Gris,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,154000.0,Hidráulica,Delantera,5.0,180.0,7700.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,180.0,9400.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Sur,1.9 Trendline I 100cv,,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,190000.0,Hidráulica,Delantera,5.0,100.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,114000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Sur,1.8 Highline T 180cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,126500.0,Hidráulica,Delantera,5.0,180.0,8400.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,86000.0,Hidráulica,Delantera,5.0,100.0,12000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Sur,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2013,Nafta,4.0,Automática,2.0,Sedán,110000.0,Hidráulica,Delantera,5.0,116.0,9300.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,130000.0,Hidráulica,Delantera,5.0,180.0,9100.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,158000.0,Hidráulica,Delantera,5.0,180.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,150000.0,Hidráulica,Delantera,5.0,116.0,8300.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,Plateado,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,157700.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. Costa Atlántica,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,135000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Blanco,Volkswagen,Bora,2014,Nafta,4.0,Manual,2.0,Sedán,124000.0,Hidráulica,Delantera,5.0,116.0,9900.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Sur,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2009,Diésel,4.0,Manual,1.9,Sedán,383000.0,Hidráulica,Delantera,5.0,100.0,5833.33
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,121000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,134400.0,Hidráulica,Delantera,5.0,180.0,9750.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,70000.0,Hidráulica,Delantera,5.0,116.0,10000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Norte,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2011,Nafta,4.0,Automática,2.0,Sedán,150000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 1.8 T Highline Cu,Bs.As. G.B.A. Norte,1.8 T Highline Cu,Plateado,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,145000.0,Hidráulica,Delantera,5.0,180.0,9000.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Capital Federal,1.8 Highline T Tiptronic Cuero,Blanco,Volkswagen,Bora,2012,Nafta,4.0,Automática,1.8,Sedán,33000.0,Hidráulica,Delantera,5.0,180.0,14000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2009,Diésel,4.0,Manual,1.9,Sedán,101000.0,Hidráulica,Delantera,5.0,100.0,9800.0
+Volkswagen Bora,Bs.As. G.B.A. Sur,2.0,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,98000.0,Hidráulica,Delantera,5.0,116.0,9300.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Blanco,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,185000.0,Hidráulica,Delantera,5.0,116.0,7200.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Rojo,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,135000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,125000.0,Hidráulica,Delantera,5.0,116.0,7666.67
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Bs.As. G.B.A. Sur,1.8 Highline T Tiptronic Cuero,Negro,Volkswagen,Bora,2013,Nafta,4.0,Automática,1.8,Sedán,139000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,136443.0,Hidráulica,Delantera,5.0,180.0,10900.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2014,Nafta,4.0,Manual,2.0,Sedán,33000.0,Hidráulica,Delantera,5.0,116.0,16000.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Automática,1.8,Sedán,108000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 1.8 T Highline Cu,Bs.As. G.B.A. Norte,1.8 T Highline Cu,,Volkswagen,Bora,2004,Nafta,4.0,Manual,1.8,Sedán,180000.0,Hidráulica,Delantera,5.0,180.0,7700.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Capital Federal,1.8 Highline T Tiptronic Cuero,Plateado,Volkswagen,Bora,2009,Nafta,4.0,Automática,1.8,Sedán,257000.0,Hidráulica,Delantera,5.0,180.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,120000.0,Hidráulica,Delantera,5.0,116.0,7866.67
+Volkswagen Bora 1.9 Trendline I 100cv,Capital Federal,1.9 Trendline I 100cv,Negro,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,220000.0,Hidráulica,Delantera,5.0,100.0,7500.0
+Volkswagen Bora 2.0 Trendline At,Buenos Aires Interior,2.0 Trendline At,,Volkswagen,Bora,2005,Nafta,4.0,Automática,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,4000.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Capital Federal,1.8 Highline T Tiptronic Cuero,Gris,Volkswagen,Bora,2010,Nafta,4.0,Automática,1.8,Sedán,177000.0,Hidráulica,Delantera,5.0,180.0,8500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Norte,1.8 Highline T 180cv Cuero,Negro,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,105000.0,Hidráulica,Delantera,5.0,180.0,10800.0
+Volkswagen Bora 2.0 Trendline,Bs.As. G.B.A. Sur,2.0 Trendline,Gris,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,130000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Santa Fe,1.9 Trendline I 100cv,Blanco,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,142000.0,Hidráulica,Delantera,5.0,100.0,5266.67
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Capital Federal,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2012,Nafta,4.0,Automática,2.0,Sedán,166000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,150000.0,Hidráulica,Delantera,5.0,116.0,6900.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,75000.0,Hidráulica,Delantera,5.0,116.0,8600.0
+Volkswagen Bora 1.8 Highline T 180cv Tiptronic,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Tiptronic,Negro,Volkswagen,Bora,2015,Nafta,4.0,Automática,1.8,Sedán,50000.0,Hidráulica,Delantera,5.0,180.0,10800.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,250000.0,Hidráulica,Delantera,5.0,116.0,6700.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,131000.0,Hidráulica,Delantera,5.0,116.0,5333.33
+Volkswagen Bora 1.8 T Highline,Capital Federal,1.8 T Highline,Gris,Volkswagen,Bora,2006,Nafta,4.0,Manual,1.8,Sedán,190000.0,Hidráulica,Delantera,5.0,180.0,7500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,145000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,145000.0,Hidráulica,Delantera,5.0,116.0,6333.33
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Dorado,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,165000.0,Hidráulica,Delantera,5.0,116.0,7600.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Bs.As. G.B.A. Sur,1.8 Highline T Tiptronic Cuero,Plateado,Volkswagen,Bora,2009,Nafta,4.0,Automática,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,180.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,120000.0,Hidráulica,Delantera,5.0,116.0,6900.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Rojo,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,122000.0,Hidráulica,Delantera,5.0,116.0,8800.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Norte,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,81000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Buenos Aires Interior,1.9 Trendline I 100cv,Plateado,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,192000.0,Hidráulica,Delantera,5.0,100.0,7500.0
+Volkswagen Bora 2.0 Trendline 115cv,Buenos Aires Interior,2.0 Trendline 115cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,297500.0,Hidráulica,Delantera,5.0,116.0,5800.0
+Volkswagen Bora 1.8 T,Bs.As. G.B.A. Norte,1.8 T,Blanco,Volkswagen,Bora,2014,Nafta,5.0,Manual,1.8,Sedán,95000.0,Hidráulica,Delantera,5.0,116.0,13500.0
+Volkswagen Bora 1.8 T Highline,Bs.As. G.B.A. Oeste,1.8 T Highline,,Volkswagen,Bora,2006,Nafta,4.0,Manual,1.8,Sedán,135000.0,Hidráulica,Delantera,5.0,180.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Norte,2.0 Trendline 115cv Tiptronic,Negro,Volkswagen,Bora,2010,Nafta,4.0,Automática,2.0,Sedán,197000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,166000.0,Hidráulica,Delantera,5.0,180.0,10980.0
+Volkswagen Bora 2.0 Trendline 115cv,Santa Fe,2.0 Trendline 115cv,,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,140000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Sur,1.8 Highline T 180cv Cuero,Negro,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,115000.0,Hidráulica,Delantera,5.0,180.0,10900.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Ubicación no encontrada,1.8 Highline T Tiptronic Cuero,Plateado,Volkswagen,Bora,2013,Nafta,4.0,Automática,1.8,Sedán,57000.0,Hidráulica,Delantera,5.0,180.0,12900.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,140000.0,Hidráulica,Delantera,5.0,100.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,124000.0,Hidráulica,Delantera,5.0,116.0,7333.33
+Volkswagen Bora 2.0 Trendline,Bs.As. G.B.A. Sur,2.0 Trendline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,164000.0,Hidráulica,Delantera,5.0,116.0,7600.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Negro,Volkswagen,Bora,2014,Nafta,4.0,Automática,2.0,Sedán,96000.0,Hidráulica,Delantera,5.0,116.0,10500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2007,Diésel,4.0,Manual,1.9,Sedán,178000.0,Hidráulica,Delantera,5.0,100.0,5900.0
+Volkswagen Bora 1.8 T Highline Cu,Bs.As. G.B.A. Norte,1.8 T Highline Cu,Negro,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,162000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,162000.0,Hidráulica,Delantera,5.0,116.0,5000.0
+Bora Tdi Volkswagen,Córdoba,Tdi,Plateado,Volkswagen,Bora,2011,Diésel,4.0,Manual,2.0,Sedán,223000.0,Hidráulica,Delantera,5.0,116.0,5333.33
+Volkswagen Bora 2.0 Trendline,Bs.As. Costa Atlántica,2.0 Trendline,Gris,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,143000.0,Hidráulica,Delantera,5.0,116.0,6500.0
+Volkswagen Bora 1.8 T Highline Tiptr Cu,Bs.As. G.B.A. Norte,1.8 T Highline Tiptr Cu,,Volkswagen,Bora,2005,Nafta,4.0,Automática,1.8,Sedán,142000.0,Hidráulica,Delantera,5.0,180.0,7000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Capital Federal,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,185000.0,Hidráulica,Delantera,5.0,100.0,6100.0
+Volkswagen Bora 2.0 Trendline 115cv,Buenos Aires Interior,2.0 Trendline 115cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,166000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Buenos Aires Interior,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,226000.0,Hidráulica,Delantera,5.0,116.0,6666.67
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,5066.67
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Sur,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,160000.0,Hidráulica,Delantera,5.0,180.0,7800.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,120000.0,Hidráulica,Delantera,5.0,116.0,8000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Norte,1.9 Trendline I 100cv,Plateado,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,165000.0,Hidráulica,Delantera,5.0,100.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2014,Nafta,4.0,Manual,2.0,Sedán,141000.0,hydraulic,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2013,Nafta,4.0,Manual,1.8,Sedán,23700.0,Hidráulica,Delantera,5.0,180.0,16900.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Ubicación no encontrada,1.8 Highline T Tiptronic Cuero,Gris,Volkswagen,Bora,2013,Nafta,4.0,Automática,1.8,Sedán,80000.0,Hidráulica,Delantera,5.0,180.0,12000.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,146000.0,Hidráulica,Delantera,5.0,180.0,7200.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,110000.0,Hidráulica,Delantera,5.0,180.0,9000.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Negro,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,145000.0,Hidráulica,Delantera,5.0,116.0,8800.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,186200.0,Hidráulica,Delantera,5.0,116.0,6333.33
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,122000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora 2.0 Trendline,Córdoba,2.0 Trendline,,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,140000.0,Hidráulica,Delantera,5.0,116.0,6000.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Negro,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,182000.0,Hidráulica,Delantera,5.0,116.0,7900.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,162000.0,Hidráulica,Delantera,5.0,116.0,8900.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,120000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,Plateado,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,170000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,127000.0,Hidráulica,Delantera,5.0,180.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Rojo,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,110000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Santa Fe,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2009,Diésel,4.0,Manual,1.9,Sedán,245000.0,Hidráulica,Delantera,5.0,100.0,4666.67
+Volkswagen Bora 1.8t,Capital Federal,1.8t,,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,180000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 1.8 T Highline Tiptr Cu,Ubicación no encontrada,1.8 T Highline Tiptr Cu,Plateado,Volkswagen,Bora,2005,Nafta,4.0,Automática,1.8,Sedán,161236.0,Hidráulica,Delantera,5.0,180.0,8300.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Norte,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2011,Nafta,4.0,Automática,2.0,Sedán,95000.0,Hidráulica,Delantera,5.0,116.0,6900.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,283000.0,Hidráulica,Delantera,5.0,100.0,7333.33
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,170000.0,Hidráulica,Delantera,5.0,116.0,6500.0
+Volkswagen Bora 1.8 Highline T 180cv,Buenos Aires Interior,1.8 Highline T 180cv,,Volkswagen,Bora,2014,Nafta,4.0,Manual,1.8,Sedán,98400.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,170035.0,Hidráulica,Delantera,5.0,180.0,9800.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,131600.0,Hidráulica,Delantera,5.0,100.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,190000.0,Hidráulica,Delantera,5.0,116.0,7800.0
+Volkswagen Bora 1.8 T Highline Cu,Capital Federal,1.8 T Highline Cu,,Volkswagen,Bora,2007,Nafta,4.0,Manual,1.8,Sedán,135000.0,Hidráulica,Delantera,5.0,180.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2014,Nafta,4.0,Automática,2.0,Sedán,183000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Sur,1.9 Trendline I 100cv,,Volkswagen,Bora,2007,Diésel,4.0,Manual,1.9,Sedán,161900.0,Hidráulica,Delantera,5.0,100.0,6800.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Sur,1.9 Trendline I 100cv,,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,93000.0,Hidráulica,Delantera,5.0,100.0,10500.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,250000.0,Hidráulica,Delantera,5.0,116.0,7200.0
+Volkswagen Bora 2.0 Trendline 115cv,Buenos Aires Interior,2.0 Trendline 115cv,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,158000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,199400.0,Hidráulica,Delantera,5.0,116.0,6600.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Oeste,1.8 Highline T 180cv Cuero,Blanco,Volkswagen,Bora,2012,Nafta,4.0,Manual,1.8,Sedán,148000.0,Hidráulica,Delantera,5.0,180.0,11000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Capital Federal,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,129000.0,Hidráulica,Delantera,5.0,100.0,6900.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,94000.0,Hidráulica,Delantera,5.0,116.0,8900.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Ubicación no encontrada,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2009,Nafta,4.0,Automática,2.0,Sedán,102000.0,Hidráulica,Delantera,5.0,116.0,7950.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Sur,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,81600.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,160000.0,Hidráulica,Delantera,5.0,116.0,8800.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Mendoza,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,130000.0,Hidráulica,Delantera,5.0,180.0,13000.0
+Volkswagen Bora 2.0 trendline L/07,Bs.As. Costa Atlántica,,,Volkswagen,Bora,2011,Nafta/GNC,5.0,Manual,2.0,Sedán,285000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2014,Nafta,4.0,Manual,2.0,Sedán,105000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,120000.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 2.0 Trendline,Entre Ríos,2.0 Trendline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,193000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Gris,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,189000.0,Hidráulica,Delantera,5.0,180.0,9000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Misiones,1.9 Trendline I 100cv,,Volkswagen,Bora,2013,Diésel,4.0,Manual,1.9,Sedán,187000.0,Hidráulica,Delantera,5.0,100.0,7500.0
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Sur,1.9 I Trendline,,Volkswagen,Bora,2007,Diésel,4.0,Manual,1.9,Sedán,236000.0,Hidráulica,Delantera,5.0,100.0,6500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,174000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 2.0 Trendline,Bs.As. G.B.A. Norte,2.0 Trendline,,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,193200.0,Hidráulica,Delantera,5.0,116.0,4466.67
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Capital Federal,2.0 Trendline 115cv Tiptronic,Blanco,Volkswagen,Bora,2010,Nafta,4.0,Automática,2.0,Sedán,170000.0,Hidráulica,Delantera,5.0,116.0,7900.0
+Volkswagen Bora 1.8 T Highline Cu,Catamarca,1.8 T Highline Cu,Gris,Volkswagen,Bora,2004,Nafta,4.0,Manual,1.8,Sedán,203000.0,Hidráulica,Delantera,5.0,180.0,6500.0
+Volkswagen Bora 2.0 Trendline,Capital Federal,2.0 Trendline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,110000.0,Hidráulica,Delantera,5.0,116.0,12000.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,131000.0,Hidráulica,Delantera,5.0,100.0,7000.0
+Volkswagen Bora 2.0 Trendline,Bs.As. G.B.A. Sur,2.0 Trendline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,160000.0,Hidráulica,Delantera,5.0,116.0,5000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta/GNC,4.0,Manual,2.0,Sedán,167082.0,Hidráulica,Delantera,5.0,116.0,8700.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Sur,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,107000.0,Hidráulica,Delantera,5.0,180.0,10400.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,176200.0,Hidráulica,Delantera,5.0,116.0,7250.0
+Volkswagen Bora 1.8 T Highline Cu,Ubicación no encontrada,1.8 T Highline Cu,,Volkswagen,Bora,2004,Nafta,4.0,Manual,1.8,Sedán,208000.0,Hidráulica,Delantera,5.0,180.0,7800.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Azul,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,200000.0,Hidráulica,Delantera,5.0,116.0,4666.67
+Volkswagen Bora 1.8 Highline T 180cv,Capital Federal,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,195000.0,Hidráulica,Delantera,5.0,180.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2011,Nafta,4.0,Manual,2.0,Sedán,227000.0,Hidráulica,Delantera,5.0,116.0,7300.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Azul,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,95000.0,Hidráulica,Delantera,5.0,116.0,10500.0
+Volkswagen Bora 1.8 Highline T 180cv,Jujuy,1.8 Highline T 180cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,1.8,Sedán,64000.0,Hidráulica,Delantera,5.0,180.0,14500.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Ubicación no encontrada,1.8 Highline T Tiptronic Cuero,Negro,Volkswagen,Bora,2009,Nafta,4.0,Automática,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,176000.0,Hidráulica,Delantera,5.0,100.0,8600.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Sur,1.8 Highline T 180cv Cuero,Gris,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,124000.0,Hidráulica,Delantera,5.0,180.0,12600.0
+Volkswagen Bora 2.0 Comfortline,Bs.As. G.B.A. Sur,2.0 Comfortline,Blanco,Volkswagen,Bora,2002,Nafta,4.0,Manual,2.0,Sedán,190000.0,Hidráulica,Delantera,5.0,116.0,10000.0
+Volkswagen Bora 1.8 Highline T 180cv,Capital Federal,1.8 Highline T 180cv,,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,61000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,205000.0,Hidráulica,Delantera,5.0,116.0,5666.67
+Volkswagen Bora Bora 1.8t highline,Capital Federal,Bora 1.8t highline,Gris,Volkswagen,Bora,2009,Nafta,5.0,Manual,2.0,Sedán,112000.0,Hidráulica,Delantera,5.0,180.0,9500.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,144000.0,Hidráulica,Delantera,5.0,116.0,8300.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,143000.0,Hidráulica,Delantera,5.0,100.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Norte,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2010,Nafta,4.0,Automática,2.0,Sedán,163100.0,Hidráulica,Delantera,5.0,116.0,10000.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Plateado,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,165000.0,Hidráulica,Delantera,5.0,180.0,8800.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Norte,1.8 Highline T 180cv,Celeste,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,115000.0,Hidráulica,Delantera,5.0,180.0,10800.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Oeste,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,205000.0,Hidráulica,Delantera,5.0,100.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,100000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,Negro,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,130000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Gris,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,130000.0,Hidráulica,Delantera,5.0,116.0,6900.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,155000.0,Hidráulica,Delantera,5.0,100.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv,,Volkswagen,Bora,2010,Nafta,4.0,Manual,2.0,Sedán,178000.0,Hidráulica,Delantera,5.0,116.0,6000.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Norte,1.8 Highline T 180cv,,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,177000.0,Hidráulica,Delantera,5.0,180.0,7900.0
+Volkswagen Bora 1.9 Trendline I 100cv,Córdoba,1.9 Trendline I 100cv,Gris,Volkswagen,Bora,2007,Diésel,4.0,Manual,1.9,Sedán,217890.0,Hidráulica,Delantera,5.0,100.0,5733.33
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,,Volkswagen,Bora,2014,Nafta,4.0,Manual,2.0,Sedán,86000.0,Hidráulica,Delantera,5.0,116.0,8900.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,Negro,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,107800.0,Hidráulica,Delantera,5.0,116.0,9000.0
+Volkswagen Bora 1.8 Highline T 180cv,Ubicación no encontrada,1.8 Highline T 180cv,Negro,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,100000.0,Hidráulica,Delantera,5.0,180.0,8500.0
+Volkswagen Bora 2.0 Trendline,Bs.As. G.B.A. Norte,2.0 Trendline,,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,210000.0,Hidráulica,Delantera,5.0,116.0,3333.33
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Capital Federal,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,97000.0,Hidráulica,Delantera,5.0,180.0,11500.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Capital Federal,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2010,Nafta,4.0,Manual,1.8,Sedán,109000.0,Hidráulica,Delantera,5.0,180.0,9800.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Santa Fe,1.8 Highline T Tiptronic Cuero,Gris,Volkswagen,Bora,2011,Nafta,4.0,Automática,1.8,Sedán,110000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 2.0 Tdi Trendline,Bs.As. G.B.A. Norte,2.0 Tdi Trendline,Gris,Volkswagen,Bora,2013,Nafta,5.0,Manual,2.0,Sedán,84000.0,Hidráulica,Delantera,5.0,115.0,8500.0
+Volkswagen Bora 1.8 T Highline,Ubicación no encontrada,1.8 T Highline,,Volkswagen,Bora,2004,Nafta,4.0,Manual,1.8,Sedán,145000.0,Hidráulica,Delantera,5.0,180.0,8900.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2011,Nafta,4.0,Automática,2.0,Sedán,135000.0,Hidráulica,Delantera,5.0,116.0,5466.67
+Volkswagen Bora 2.0 Trendline,Misiones,2.0 Trendline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,215001.0,Hidráulica,Delantera,5.0,116.0,7000.0
+Volkswagen Bora 1.9 I Trendline,Córdoba,1.9 I Trendline,Plateado,Volkswagen,Bora,2008,Diésel,4.0,Manual,1.9,Sedán,200000.0,Hidráulica,Delantera,5.0,100.0,5666.67
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,Negro,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,140000.0,Hidráulica,Delantera,5.0,180.0,10500.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2012,Nafta,4.0,Manual,2.0,Sedán,87000.0,Hidráulica,Delantera,5.0,116.0,8900.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Bs.As. G.B.A. Sur,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Automática,1.8,Sedán,95000.0,Hidráulica,Delantera,5.0,180.0,10800.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Ubicación no encontrada,1.8 Highline T Tiptronic Cuero,Negro,Volkswagen,Bora,2013,Nafta,4.0,Automática,1.8,Sedán,116000.0,Hidráulica,Delantera,5.0,180.0,13500.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Plateado,Volkswagen,Bora,2009,Nafta,4.0,Manual,2.0,Sedán,150000.0,Hidráulica,Delantera,5.0,116.0,5600.0
+Volkswagen Bora 1.9 Tdi,Bs.As. G.B.A. Norte,1.9 Tdi,,Volkswagen,Bora,2008,Diésel,4.0,Manual,2.0,Sedán,198000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 1.9 Trendline I 100cv,Bs.As. G.B.A. Norte,1.9 Trendline I 100cv,,Volkswagen,Bora,2009,Diésel,4.0,Manual,1.9,Sedán,240000.0,Hidráulica,Delantera,5.0,100.0,6500.0
+Volkswagen Bora 1.9 Trendline I 100cv,San Luis,1.9 Trendline I 100cv,,Volkswagen,Bora,2010,Diésel,4.0,Manual,1.9,Sedán,315000.0,Hidráulica,Delantera,5.0,100.0,7000.0
+Volkswagen Bora 2.0 Trendline 115cv,Ubicación no encontrada,2.0 Trendline 115cv,Azul,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,125000.0,Hidráulica,Delantera,5.0,116.0,7300.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Sur,2.0 Trendline 115cv Tiptronic,Azul,Volkswagen,Bora,2011,Nafta,4.0,Automática,2.0,Sedán,184300.0,Hidráulica,Delantera,5.0,116.0,6700.0
+Volkswagen Bora 1.8 T Highline Cu,Ubicación no encontrada,1.8 T Highline Cu,,Volkswagen,Bora,2004,Nafta,4.0,Manual,1.8,Sedán,200000.0,Hidráulica,Delantera,5.0,180.0,8000.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv Tiptronic,Gris,Volkswagen,Bora,2011,Nafta,4.0,Automática,2.0,Sedán,210000.0,Hidráulica,Delantera,5.0,116.0,6200.0
+Volkswagen Bora 2.0 Trendline,Ubicación no encontrada,2.0 Trendline,Gris,Volkswagen,Bora,2006,Nafta,4.0,Manual,2.0,Sedán,166000.0,Hidráulica,Delantera,5.0,116.0,6000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,96000.0,Hidráulica,Delantera,5.0,180.0,9900.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,,Volkswagen,Bora,2012,Diésel,4.0,Manual,1.9,Sedán,114000.0,Hidráulica,Delantera,5.0,100.0,8700.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. G.B.A. Norte,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2009,Nafta,4.0,Manual,1.8,Sedán,136000.0,Hidráulica,Delantera,5.0,180.0,8000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Bs.As. Costa Atlántica,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2013,Nafta,4.0,Manual,1.8,Sedán,126000.0,Hidráulica,Delantera,5.0,180.0,10000.0
+Volkswagen Bora 2.0 triptonic,Capital Federal,2.0 triptonic,,Volkswagen,Bora,2011,Nafta/GNC,5.0,Automática,2.0,Sedán,83000.0,Hidráulica,Delantera,5.0,116.0,7500.0
+Volkswagen Bora 1.9 I Trendline,Bs.As. G.B.A. Sur,1.9 I Trendline,,Volkswagen,Bora,2006,Diésel,4.0,Manual,1.9,Sedán,269000.0,Hidráulica,Delantera,5.0,90.0,4800.0
+Volkswagen Bora 1.8 T Highline Tiptr Cu,Bs.As. G.B.A. Norte,1.8 T Highline Tiptr Cu,Gris,Volkswagen,Bora,2007,Nafta,4.0,Automática,1.8,Sedán,148000.0,Hidráulica,Delantera,5.0,180.0,8500.0
+Volkswagen Bora 1.8 T Highline Cu,Capital Federal,1.8 T Highline Cu,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,1.8,Sedán,156000.0,Hidráulica,Delantera,5.0,180.0,7990.0
+Volkswagen Bora 1.9 Trendline I 100cv,Ubicación no encontrada,1.9 Trendline I 100cv,Plateado,Volkswagen,Bora,2011,Diésel,4.0,Manual,1.9,Sedán,190000.0,Hidráulica,Delantera,5.0,100.0,9000.0
+Volkswagen Bora 2.0 Trendline 115cv,Córdoba,2.0 Trendline 115cv,,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,136119.0,Hidráulica,Delantera,5.0,116.0,9400.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2007,Nafta,4.0,Automática,2.0,Sedán,187000.0,Hidráulica,Delantera,5.0,116.0,4666.67
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Sur,2.0 Trendline 115cv,,Volkswagen,Bora,2007,Nafta,4.0,Manual,2.0,Sedán,216000.0,Hidráulica,Delantera,5.0,116.0,5700.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. Costa Atlántica,2.0 Trendline 115cv,,Volkswagen,Bora,2014,Nafta,4.0,Manual,2.0,Sedán,195000.0,Hidráulica,Delantera,5.0,116.0,9500.0
+Volkswagen Bora 1.8 Highline T Tiptronic Cuero,Ubicación no encontrada,1.8 Highline T Tiptronic Cuero,,Volkswagen,Bora,2011,Nafta,4.0,Automática,1.8,Sedán,180000.0,Hidráulica,Delantera,5.0,180.0,9200.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Norte,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2009,Nafta,4.0,Automática,2.0,Sedán,140000.0,Hidráulica,Delantera,5.0,116.0,5866.67
+Volkswagen Bora 2.0 Tdi Trendline,Bs.As. G.B.A. Oeste,2.0 Tdi Trendline,Blanco,Volkswagen,Bora,2013,Diésel,4.0,Manual,2.0,Sedán,123000.0,Hidráulica,Delantera,5.0,115.0,9000.0
+Volkswagen Bora 1.8 Highline T 180cv Cuero,Ubicación no encontrada,1.8 Highline T 180cv Cuero,,Volkswagen,Bora,2014,Nafta,4.0,Manual,1.8,Sedán,81000.0,Hidráulica,Delantera,5.0,180.0,14500.0
+Volkswagen Bora 1.8 Highline T 180cv,Bs.As. G.B.A. Norte,1.8 Highline T 180cv,,Volkswagen,Bora,2011,Nafta,4.0,Manual,1.8,Sedán,115000.0,Hidráulica,Delantera,5.0,180.0,10600.0
+Volkswagen Bora 2.0 Trendline 115cv,Capital Federal,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,105000.0,Hidráulica,Delantera,5.0,116.0,7999.0
+Volkswagen Bora 2.0 Trendline 115cv Tiptronic,Bs.As. G.B.A. Oeste,2.0 Trendline 115cv Tiptronic,,Volkswagen,Bora,2011,Nafta,4.0,Automática,2.0,Sedán,127000.0,Hidráulica,Delantera,5.0,116.0,8500.0
+Volkswagen Bora 2.0 Trendline 115cv,Bs.As. G.B.A. Norte,2.0 Trendline 115cv,Gris,Volkswagen,Bora,2013,Nafta,4.0,Manual,2.0,Sedán,118000.0,Hidráulica,Delantera,5.0,116.0,7900.0
+Volkswagen Bora 2.0 Trendline,Bs.As. G.B.A. Oeste,2.0 Trendline,,Volkswagen,Bora,2008,Nafta,4.0,Manual,2.0,Sedán,155000.0,Hidráulica,Delantera,5.0,116.0,8000.0

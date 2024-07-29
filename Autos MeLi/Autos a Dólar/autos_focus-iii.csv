@@ -1,0 +1,990 @@
+Título,Ubicación,Versión,Color,Marca,Modelo,Año,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Kilómetros,Dirección,Control de tracción,Capacidad de personas,Potencia,Precio
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Plateado,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,85000.0,Asistida,Delantera,5.0,125.0,10000.0
+Ford Focus III 2.0 Sedan Se Plus At6,Córdoba,2.0 Sedan Se Plus At6,,Ford,Focus III,2018,Nafta,4.0,Automática,2.0,Sedán,74000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,Rojo,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,95000.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,70000.0,Eléctrica,Delantera,5.0,125.0,10333.33
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,130000.0,Eléctrica,Delantera,5.0,125.0,11500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Santa Fe,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,103000.0,Eléctrica,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Sedan Se Plus At6,San Luis,2.0 Sedan Se Plus At6,,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,95000.0,Eléctrica,Delantera,5.0,170.0,9000.0
+Ford Focus III 2.0 Sedan Titanium Mt,Ubicación no encontrada,2.0 Sedan Titanium Mt,Blanco,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,150000.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Norte,2.0 Titanium At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,90000.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,90000.0,Eléctrica,Delantera,5.0,170.0,15200.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,94000.0,Eléctrica,Delantera,5.0,125.0,10900.0
+Ford Focus III 2.0 Sedan Titanium At6,Bs.As. G.B.A. Sur,2.0 Sedan Titanium At6,Blanco,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,105000.0,Eléctrica,Delantera,5.0,170.0,14800.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Azul,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,76000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Gris,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,98000.0,Eléctrica,Delantera,5.0,125.0,11700.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Rojo,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,90000.0,Eléctrica,Delantera,5.0,125.0,9933.33
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,50000.0,Eléctrica,Delantera,5.0,125.0,13000.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Blanco,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,100000.0,Asistida,Delantera,5.0,125.0,10600.0
+Ford Focus III 1.6 S,Buenos Aires Interior,1.6 S,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,125000.0,Eléctrica,Delantera,5.0,125.0,12800.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Plateado,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,90000.0,Eléctrica,Delantera,5.0,125.0,11500.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Norte,1.6 Sedan S,Gris,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,44000.0,Eléctrica,Delantera,5.0,125.0,13800.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,47000.0,Eléctrica,Delantera,5.0,125.0,16500.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Sur,2.0 Se,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,85000.0,Eléctrica,Delantera,5.0,170.0,14800.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,96000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Bs.As. Costa Atlántica,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,68000.0,Eléctrica,Delantera,5.0,125.0,13800.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,140000.0,Asistida,Delantera,5.0,125.0,9000.0
+Ford Focus III 2.0 Titanium At6,Santa Fe,2.0 Titanium At6,Blanco,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,84700.0,Asistida,Delantera,5.0,170.0,13300.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Gris,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,100200.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,58500.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Plateado,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,58076.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III Se plus at 2.0,Córdoba,Se plus at 2.0,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,99000.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Azul,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,74000.0,Eléctrica,Delantera,5.0,125.0,11500.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Oeste,2.0 Titanium At6,Blanco,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,80000.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,140000.0,Eléctrica,Delantera,5.0,125.0,9333.33
+Ford Focus III 1.6 S L14 MT,Ubicación no encontrada,1.6 S L14 MT,Blanco,Ford,Focus III,2015,Híbrido,5.0,Manual,1.0,Hatchback,88472.0,Asistida,4x2,5.0,125.0,9426.67
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Azul,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,125000.0,Asistida,Delantera,5.0,170.0,8600.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,Blanco,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,117000.0,Eléctrica,Delantera,5.0,170.0,12250.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,133000.0,Eléctrica,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Se Plus Mt,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,52000.0,Asistida,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,104000.0,Eléctrica,Delantera,5.0,125.0,13000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,137000.0,Asistida,Delantera,5.0,125.0,9800.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Blanco,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,110000.0,Asistida,Delantera,5.0,170.0,11900.0
+Ford Focus III 2.0 Sedan Se,Bs.As. G.B.A. Norte,2.0 Sedan Se,Gris,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,98580.0,Eléctrica,Delantera,5.0,170.0,11200.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,84000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,Blanco,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,93000.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,,Ford,Focus III,2013,Nafta,4.0,Manual,1.6,Sedán,134000.0,Asistida,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,106500.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,106000.0,Eléctrica,Delantera,5.0,125.0,12700.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Gris,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,56000.0,Eléctrica,Delantera,5.0,170.0,19498.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,85000.0,Asistida,Delantera,5.0,125.0,10500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,136000.0,Eléctrica,Delantera,5.0,125.0,11400.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,80000.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Negro,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,97400.0,Eléctrica,Delantera,5.0,170.0,13900.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2013,Nafta,5.0,Manual,1.6,Hatchback,117000.0,Asistida,Delantera,5.0,125.0,8333.33
+Ford Focus III 2.0 Se Plus At6,Buenos Aires Interior,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,113000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 1.6 S Pro.cre.auto,Bs.As. G.B.A. Sur,1.6 S Pro.cre.auto,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,86000.0,Asistida,Delantera,5.0,125.0,10000.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,Rojo,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,105000.0,Eléctrica,Delantera,5.0,125.0,11500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Blanco,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,87000.0,Asistida,Delantera,5.0,170.0,10300.0
+Ford Focus III 2.0 Titanium At6,Buenos Aires Interior,2.0 Titanium At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,126000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Sedan Titanium At6,Bs.As. G.B.A. Oeste,2.0 Sedan Titanium At6,,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,55000.0,Eléctrica,Delantera,5.0,170.0,16700.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,135000.0,Eléctrica,Delantera,5.0,170.0,14800.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,95000.0,Asistida,Delantera,5.0,170.0,14900.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Norte,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,130000.0,Eléctrica,Delantera,5.0,170.0,15200.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Rojo,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,113000.0,Asistida,Delantera,5.0,125.0,8600.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Norte,2.0 Se,,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,110000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,158000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 Sedan S,Buenos Aires Interior,1.6 Sedan S,,Ford,Focus III,2019,Nafta,4.0,Manual,1.6,Sedán,74000.0,Eléctrica,Delantera,5.0,125.0,15000.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,111000.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Plateado,Ford,Focus III,2019,Nafta,4.0,Automática,2.0,Sedán,50000.0,Eléctrica,Delantera,5.0,170.0,14900.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,120000.0,Asistida,Delantera,5.0,125.0,9500.0
+Ford Focus III 2.0 Sedan Se,Bs.As. G.B.A. Sur,2.0 Sedan Se,,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,130000.0,Eléctrica,Delantera,5.0,170.0,11000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,130000.0,Eléctrica,Delantera,5.0,125.0,10900.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Blanco,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,160000.0,Asistida,Delantera,5.0,170.0,10900.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,150000.0,Eléctrica,Delantera,5.0,170.0,13300.0
+Ford Focus III 2.0 Se,Santa Fe,2.0 Se,Plateado,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,165000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Sedan Titanium At6,Buenos Aires Interior,2.0 Sedan Titanium At6,,Ford,Focus III,2018,Nafta,4.0,Automática,2.0,Sedán,41000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,47000.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 2.0 se plus aut,Ubicación no encontrada,2.0 se plus aut,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,97000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,Blanco,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,105000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,73000.0,Asistida,Delantera,5.0,125.0,11500.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,82000.0,Eléctrica,Delantera,5.0,170.0,15700.0
+Ford Focus III 2.0 Se Plus At,Ubicación no encontrada,2.0 Se Plus At,Plateado,Ford,Focus III,2018,Nafta,4.0,Automático,1.0,Sedán,73000.0,Asistida,4x2,5.0,170.0,12246.67
+Ford Focus III 2.0 Se At6,Bs.As. G.B.A. Norte,2.0 Se At6,Blanco,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,125000.0,Eléctrica,Delantera,5.0,170.0,11900.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,54000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Sedan Titanium At6,Bs.As. G.B.A. Norte,2.0 Sedan Titanium At6,,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,129500.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Sur,1.6 Sedan S,Negro,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,102000.0,Eléctrica,Delantera,5.0,125.0,13500.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Sur,2.0 Titanium At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,53000.0,Eléctrica,Delantera,5.0,170.0,19000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Blanco,Ford,Focus III,2013,Nafta,5.0,Manual,2.0,Hatchback,85000.0,Asistida,Delantera,5.0,170.0,8653.33
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Dorado,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,145123.0,Asistida,Delantera,5.0,125.0,9500.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Capital Federal,2.0 Sedan Se Plus Mt,,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,152000.0,Asistida,Delantera,5.0,170.0,9900.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,101000.0,Asistida,Delantera,5.0,125.0,5199.33
+Ford Focus III 1.6 Sedan S,Capital Federal,1.6 Sedan S,Azul,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,32000.0,Eléctrica,Delantera,5.0,125.0,16500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Córdoba,2.0 Sedan Se Plus At6,Blanco,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,120000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,Blanco,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,85000.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Sedan Se Plus Mt,Blanco,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,84700.0,Eléctrica,Delantera,5.0,170.0,13200.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,157000.0,Asistida,Delantera,5.0,125.0,12100.0
+Ford Focus III 2.0 Se Plus At6,Mendoza,2.0 Se Plus At6,Gris,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,115000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,59000.0,Eléctrica,Delantera,5.0,125.0,13900.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,123000.0,Asistida,Delantera,5.0,170.0,11900.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Plateado,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,70000.0,Eléctrica,Delantera,5.0,170.0,11266.67
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,105000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Plateado,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,65000.0,Eléctrica,Delantera,5.0,125.0,10600.0
+Ford Focus III 2.0 Sedan Se At6,Bs.As. G.B.A. Norte,2.0 Sedan Se At6,,Ford,Focus III,2018,Nafta,4.0,Automática,2.0,Sedán,79000.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Blanco,Ford,Focus III,2017,Nafta,4.0,Automática,2.0,Sedán,97000.0,Eléctrica,Delantera,5.0,170.0,10200.0
+Ford Focus III 2.0 Sedan Titanium At6,Bs.As. G.B.A. Norte,2.0 Sedan Titanium At6,Azul,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,110000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Titanium Mt,Capital Federal,2.0 Titanium Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,117000.0,Asistida,Delantera,5.0,170.0,15000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,145000.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,140000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Plateado,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,130000.0,Asistida,Delantera,5.0,125.0,9490.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,97000.0,Eléctrica,Delantera,5.0,170.0,13800.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,134000.0,Eléctrica,Delantera,5.0,125.0,9333.33
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,166000.0,Eléctrica,Delantera,5.0,170.0,12800.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,Gris,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,72000.0,Asistida,Delantera,5.0,170.0,15500.0
+Ford Focus III SE Plus AT 2.0,Capital Federal,SE Plus AT 2.0,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,82000.0,Eléctrica,Delantera,5.0,170.0,9000.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,85000.0,Eléctrica,Delantera,5.0,170.0,13300.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,100000.0,Eléctrica,Delantera,5.0,125.0,13500.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Se Plus Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,139500.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,119000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,82000.0,Eléctrica,Delantera,5.0,125.0,12500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,Azul,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,147700.0,Eléctrica,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Córdoba,2.0 Sedan Se Plus At6,Plateado,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,92000.0,Eléctrica,Delantera,5.0,170.0,13100.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Plateado,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,100000.0,Asistida,Delantera,5.0,125.0,9500.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,Blanco,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,90000.0,Asistida,Delantera,5.0,170.0,8180.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,Azul,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,130500.0,Eléctrica,Delantera,5.0,125.0,11000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,101000.0,Asistida,Delantera,5.0,125.0,5200.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Blanco,Ford,Focus III,2017,Nafta,4.0,Automática,2.0,Sedán,110000.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Blanco,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,86000.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,74935.0,Eléctrica,Delantera,5.0,125.0,13500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,84073.0,Eléctrica,Delantera,5.0,125.0,12500.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,Blanco,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,114000.0,Asistida,Delantera,5.0,170.0,11999.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,Gris,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,82000.0,Asistida,Delantera,5.0,170.0,11300.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,146000.0,Eléctrica,Delantera,5.0,170.0,9200.0
+Ford Focus III 2.0 Se Plus At6,Buenos Aires Interior,2.0 Se Plus At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,155000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Norte,2.0 Se,Blanco,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,120000.0,Asistida,Delantera,5.0,170.0,9800.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,100000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,Rojo,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,83000.0,Asistida,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,58000.0,Eléctrica,Delantera,5.0,125.0,13000.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Se Plus Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,115000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,95000.0,Asistida,Delantera,5.0,170.0,9700.0
+Ford Focus III 2.0 Titanium Mt,Mendoza,2.0 Titanium Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,130000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,130000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Se Plus Mt,Neuquén,2.0 Se Plus Mt,Gris,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,80000.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 2.0 Sedan Titanium At6,Bs.As. G.B.A. Oeste,2.0 Sedan Titanium At6,,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,125000.0,Asistida,Delantera,5.0,170.0,8000.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Norte,2.0 Se,Blanco,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Hatchback,220000.0,Asistida,Delantera,5.0,170.0,7666.67
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,,Ford,Focus III,2017,Nafta,4.0,Automática,2.0,Sedán,111111.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,97000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 1.6 Sedan S,Capital Federal,1.6 Sedan S,,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,54500.0,Eléctrica,Delantera,5.0,125.0,11990.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Plateado,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,96000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 1.6 Sedan S,Buenos Aires Interior,1.6 Sedan S,,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,115000.0,Asistida,Delantera,5.0,125.0,10600.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Norte,1.6 Sedan S,,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,87000.0,Eléctrica,Delantera,5.0,125.0,13500.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Sedan Se Plus Mt,Blanco,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,140000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Sedan Se Plus Mt,,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,117000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,,Ford,Focus III,2013,Nafta,5.0,Automática,2.0,Hatchback,128000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,39100.0,Eléctrica,Delantera,5.0,125.0,16000.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,118000.0,Eléctrica,Delantera,5.0,170.0,12900.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,103000.0,Eléctrica,Delantera,5.0,170.0,13300.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,47000.0,Eléctrica,Delantera,5.0,125.0,10400.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Gris,Ford,Focus III,2014,Nafta,4.0,Manual,1.6,Sedán,130600.0,Asistida,Delantera,5.0,125.0,8466.67
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,Azul,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,90000.0,Eléctrica,Delantera,5.0,170.0,15100.0
+Ford Focus III 1.6 S,Buenos Aires Interior,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,62000.0,Eléctrica,Delantera,5.0,125.0,14000.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,Negro,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,110000.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Norte,1.6 Sedan S,,Ford,Focus III,2014,Nafta,4.0,Manual,1.6,Sedán,117000.0,Asistida,Delantera,5.0,125.0,10000.0
+Ford Focus III 2.0 Sedan Se,Bs.As. G.B.A. Norte,2.0 Sedan Se,Gris,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,150000.0,Asistida,Delantera,5.0,170.0,10700.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Dorado,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,104000.0,Eléctrica,Delantera,5.0,125.0,13000.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Sur,2.0 Se,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,96000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,63000.0,Eléctrica,Delantera,5.0,125.0,14000.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,Plateado,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,114000.0,Eléctrica,Delantera,5.0,170.0,11066.67
+Ford Focus III 1.6 S,Santa Fe,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,139000.0,Asistida,Delantera,5.0,125.0,8666.67
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Dorado,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,90000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 1.6 Sedan S,Capital Federal,1.6 Sedan S,,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,61500.0,Eléctrica,Delantera,5.0,125.0,13200.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Se Plus Mt,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,135000.0,Asistida,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,95000.0,Eléctrica,Delantera,5.0,125.0,10800.0
+Ford Focus III 2.0 Se,Córdoba,2.0 Se,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,110000.0,Eléctrica,Delantera,5.0,170.0,11333.33
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,49000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Oeste,2.0 Se,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,151000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se,Buenos Aires Interior,2.0 Se,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,79000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,79000.0,Eléctrica,Delantera,5.0,170.0,11997.0
+Ford Focus III 2.0 Titanium Mt,Capital Federal,2.0 Titanium Mt,,Ford,Focus III,2019,Nafta,5.0,Manual,2.0,Hatchback,33000.0,Eléctrica,Delantera,5.0,170.0,19000.0
+Ford Focus III 2.0 Sedan Titanium At6,Córdoba,2.0 Sedan Titanium At6,,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,137000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Rojo,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,98000.0,Eléctrica,Delantera,5.0,170.0,14900.0
+Ford Focus III 2.0 Titanium At,Ubicación no encontrada,2.0 Titanium At,Grey,Ford,Focus III,2017,Nafta,4.0,Automático,1.0,Hatchback,81091.0,Asistida,4x2,5.0,170.0,12040.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Sur,2.0 Titanium At6,Azul,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,98000.0,Asistida,Delantera,5.0,170.0,16200.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Dorado,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,109300.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,129000.0,Asistida,Delantera,5.0,170.0,8333.33
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Plateado,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,72900.0,Eléctrica,Delantera,5.0,170.0,11266.67
+Ford Focus III 2.0 Titanium At6,Buenos Aires Interior,2.0 Titanium At6,Plateado,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,58000.0,Eléctrica,Delantera,5.0,170.0,18000.0
+Ford Focus III 2.0 Se Plus At6,Buenos Aires Interior,2.0 Se Plus At6,Dorado,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,100000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Sur,2.0 Se,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,69000.0,Asistida,Delantera,5.0,170.0,11200.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Azul,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,130000.0,Asistida,Delantera,5.0,125.0,10800.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,83000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,Negro,Ford,Focus III,2015,Nafta/GNC,5.0,Automática,2.0,Hatchback,146500.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,70000.0,Eléctrica,Delantera,5.0,170.0,15900.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,Gris,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,97000.0,Eléctrica,Delantera,5.0,170.0,13900.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,Plateado,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,133000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,Plateado,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,91000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,155000.0,Asistida,Delantera,5.0,170.0,4333.33
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,70000.0,Eléctrica,Delantera,5.0,170.0,17800.0
+Ford Focus III 2.0 Se At6,Ubicación no encontrada,2.0 Se At6,Blanco,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,72000.0,Eléctrica,Delantera,5.0,170.0,11666.67
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,,Ford,Focus III,2013,Nafta,5.0,Manual,2.0,Hatchback,170000.0,Asistida,Delantera,5.0,170.0,9000.0
+Ford Focus III 2.0 Sedan Titanium At6,Buenos Aires Interior,2.0 Sedan Titanium At6,,Ford,Focus III,2017,Nafta,4.0,Automática,2.0,Sedán,148000.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Bs.As. G.B.A. Sur,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,82500.0,Asistida,Delantera,5.0,170.0,16000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,115000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,52370.0,Eléctrica,Delantera,5.0,170.0,7466.67
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,Gris,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,80000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,134174.0,Asistida,Delantera,5.0,125.0,11800.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Se Plus Mt,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,97000.0,Asistida,Delantera,5.0,170.0,13300.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Sedan Se Plus Mt,,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,173000.0,Asistida,Delantera,5.0,170.0,9666.67
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Sur,1.6 Sedan S,Gris,Ford,Focus III,2014,Nafta,4.0,Manual,1.6,Sedán,154790.0,Asistida,Delantera,5.0,125.0,9500.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Blanco,Ford,Focus III,2019,Nafta,5.0,Manual,2.0,Hatchback,85000.0,electronic,Delantera,5.0,170.0,13900.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,73500.0,Asistida,Delantera,5.0,170.0,11133.33
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,Gris,Ford,Focus III,2019,Nafta,5.0,Manual,2.0,Hatchback,195395.0,hydraulic,Delantera,5.0,170.0,13000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,82000.0,Asistida,Delantera,5.0,125.0,9900.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Sedan Se Plus Mt,,Ford,Focus III,2013,Nafta,4.0,Manual,2.0,Sedán,104000.0,Asistida,Delantera,5.0,170.0,9990.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2013,Nafta,5.0,Automática,2.0,Hatchback,128870.0,Asistida,Delantera,5.0,170.0,9700.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Gris oscuro,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,133000.0,assisted,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Se At6,Capital Federal,2.0 Se At6,Negro,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,62500.0,Eléctrica,Delantera,5.0,170.0,18000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Azul,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,121000.0,Asistida,Delantera,5.0,125.0,9466.67
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,63000.0,Eléctrica,Delantera,5.0,170.0,17000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,84000.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III 2.0 Se Plus At6,Buenos Aires Interior,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,107000.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,115000.0,Asistida,Delantera,5.0,170.0,11900.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Norte,1.6 Sedan S,,Ford,Focus III,2014,Nafta,4.0,Manual,1.6,Sedán,200000.0,Asistida,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,83000.0,Eléctrica,Delantera,5.0,170.0,15400.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,78000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Se Plus Mt,Buenos Aires Interior,2.0 Se Plus Mt,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,130000.0,Asistida,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,147000.0,Asistida,Delantera,5.0,170.0,9933.33
+Ford Focus III 2.0 Sedan Titanium At6,Santa Fe,2.0 Sedan Titanium At6,Blanco,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,72500.0,Eléctrica,Delantera,5.0,170.0,15900.0
+Ford Focus III 2.0 Sedan Se Plus At6,Bs.As. G.B.A. Sur,2.0 Sedan Se Plus At6,Blanco,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,110000.0,Asistida,Delantera,5.0,170.0,8533.33
+Ford Focus III 1.6 S,Córdoba,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,41000.0,Eléctrica,Delantera,5.0,125.0,13000.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,Blanco,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,120000.0,Eléctrica,Delantera,5.0,170.0,13950.0
+Ford Focus III 1.6 S,Misiones,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,140000.0,Eléctrica,Delantera,5.0,125.0,9266.67
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,Blanco,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,102500.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Blanco,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,100000.0,hydraulic,Delantera,5.0,170.0,8666.67
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Sedan Se Plus Mt,Gris,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,167000.0,Eléctrica,Delantera,5.0,170.0,11400.0
+Ford Focus III 2.0 Titanium At6,Santa Fe,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,128500.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,81000.0,Asistida,Delantera,5.0,170.0,13400.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Norte,1.6 Sedan S,Blanco,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,70000.0,Eléctrica,Delantera,5.0,125.0,14000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,73000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,95000.0,Eléctrica,Delantera,5.0,170.0,13700.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Negro,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,149000.0,Asistida,Delantera,5.0,125.0,9926.0
+Ford Focus III 2.0 Sedan Titanium Mt,Ubicación no encontrada,2.0 Sedan Titanium Mt,Gris,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,126790.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,84000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,120000.0,Eléctrica,Delantera,5.0,170.0,11200.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,115600.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Blanco,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,83000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 Sedan S,Capital Federal,1.6 Sedan S,,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,108000.0,Eléctrica,Delantera,5.0,125.0,11500.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,69500.0,Eléctrica,Delantera,5.0,170.0,16900.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,97798.0,Asistida,Delantera,5.0,125.0,12200.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,146000.0,Asistida,Delantera,5.0,125.0,10800.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Se Plus Mt,Negro,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,122000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,120000.0,Asistida,Delantera,5.0,125.0,10500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Capital Federal,2.0 Sedan Se Plus At6,Blanco,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,80000.0,Asistida,Delantera,5.0,170.0,13300.0
+Ford Focus III 1.6 S,Córdoba,1.6 S,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,170000.0,Asistida,Delantera,5.0,125.0,10500.0
+Ford Focus III 2.0 Se At6,Buenos Aires Interior,2.0 Se At6,,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,88000.0,Eléctrica,Delantera,5.0,170.0,11333.33
+Ford Focus III 2.0 Se Plus At6,Neuquén,2.0 Se Plus At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,94000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Sur,2.0 Titanium At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,87000.0,Asistida,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Se Plus Mt,Santa Fe,2.0 Se Plus Mt,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,74200.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Se,Capital Federal,2.0 Se,Gris,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,54000.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,119500.0,Eléctrica,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Plateado,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,90000.0,Eléctrica,Delantera,5.0,170.0,13800.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,83000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 1.6 S,Entre Ríos,1.6 S,,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,50000.0,Eléctrica,Delantera,5.0,125.0,10666.67
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,129000.0,Asistida,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Sedan Se,Entre Ríos,2.0 Sedan Se,,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,72000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Se Plus Mt,Azul,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,133000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus Mt,Buenos Aires Interior,2.0 Se Plus Mt,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,120000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Hatchback,93000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Azul,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,68000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,,Ford,Focus III,2013,Nafta,4.0,Automática,2.0,Sedán,130000.0,Asistida,Delantera,5.0,170.0,8660.0
+Ford Focus III SE PLUS MANUAL 2.0,Bs.As. G.B.A. Sur,SE PLUS MANUAL 2.0,Plateado,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Hatchback,114000.0,Hidráulica,Delantera,5.0,170.0,11600.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Norte,2.0 Se,Negro,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,118000.0,Eléctrica,Delantera,5.0,170.0,10999.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,79000.0,Eléctrica,Delantera,5.0,125.0,13700.0
+Ford Focus III 2.0 Se Plus Mt,Córdoba,2.0 Se Plus Mt,Blanco,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,85000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 1.6 Sedan S,Córdoba,1.6 Sedan S,Blanco,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,75000.0,Eléctrica,Delantera,5.0,125.0,9866.67
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Azul,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,116000.0,Asistida,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Titanium Mt,Santiago del Estero,2.0 Titanium Mt,,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,110000.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Titanium At6,Córdoba,2.0 Titanium At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,86000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Sedan Se,Bs.As. G.B.A. Sur,2.0 Sedan Se,,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,158000.0,Eléctrica,Delantera,5.0,170.0,11300.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Blanco,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,89000.0,Asistida,Delantera,5.0,170.0,11900.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Sur,1.6 Sedan S,,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,96000.0,Eléctrica,Delantera,5.0,125.0,13000.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Blanco,Ford,Focus III,2019,Nafta/GNC,4.0,Manual,1.6,Sedán,58000.0,Eléctrica,Delantera,5.0,125.0,16000.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,41000.0,Eléctrica,Delantera,5.0,125.0,14000.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Plateado,Ford,Focus III,2019,Nafta,4.0,Automática,2.0,Sedán,40000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,130000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Sedan Se Plus Mt,Azul,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,169000.0,Asistida,Delantera,5.0,170.0,9500.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Sur,1.6 Sedan S,,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,120000.0,Eléctrica,Delantera,5.0,125.0,10000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,Gris,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,93000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 1.6 Sedan S,Bs.As. Costa Atlántica,1.6 Sedan S,,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,142000.0,Eléctrica,Delantera,5.0,125.0,13000.0
+Ford Focus Iii Nafta,Buenos Aires Interior,Nafta,,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Hatchback,98500.0,Eléctrica,Delantera,5.0,170.0,14600.0
+Ford Focus III 2.0 Se At6,Bs.As. G.B.A. Sur,2.0 Se At6,,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,51000.0,Eléctrica,Delantera,5.0,170.0,17000.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,Azul,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,125000.0,Asistida,Delantera,5.0,170.0,10100.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,142000.0,Asistida,Delantera,5.0,170.0,10900.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,51000.0,Eléctrica,Delantera,5.0,125.0,11793.33
+Ford Focus III 1.6 S,Buenos Aires Interior,1.6 S,,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,61000.0,Eléctrica,Delantera,5.0,125.0,12800.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,,Ford,Focus III,2019,Nafta,5.0,Manual,2.0,Hatchback,140000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Plateado,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,107000.0,Asistida,Delantera,5.0,125.0,9666.67
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Plateado,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,123000.0,Eléctrica,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,97600.0,Asistida,Delantera,5.0,170.0,11300.0
+Ford Focus III 2.0 Titanium Mt,Ubicación no encontrada,2.0 Titanium Mt,Negro,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,118000.0,Asistida,Delantera,5.0,170.0,10133.33
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Negro,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,59000.0,Eléctrica,Delantera,5.0,125.0,10000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Azul,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,78000.0,Eléctrica,Delantera,5.0,125.0,10666.67
+Ford Focus III 2.0 Titanium Mt,Ubicación no encontrada,2.0 Titanium Mt,Blanco,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,85129.0,Eléctrica,Delantera,5.0,170.0,19000.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Negro,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,145000.0,hydraulic,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Se Plus At,Ubicación no encontrada,2.0 Se Plus At,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,92000.0,Eléctrica,Delantera,5.0,170.0,11000.0
+Ford Focus 2  Exe Style 1.6l      Año 2012 Nafta/gnc,Capital Federal,EXE STILE 1.6L,Negro,Ford,Focus III,2012,Nafta/GNC,4.0,,,,200000.0,,,,,7906.67
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,88757.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,127500.0,Asistida,Delantera,5.0,170.0,11900.0
+Ford Focus III 1.6 Sedan S,Capital Federal,1.6 Sedan S,Azul,Ford,Focus III,2014,Nafta,4.0,Manual,1.6,Sedán,160000.0,Asistida,Delantera,5.0,125.0,10500.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,102000.0,hydraulic,Delantera,5.0,170.0,12132.67
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,Rojo,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,26000.0,Eléctrica,Delantera,5.0,170.0,17000.0
+Ford Focus III 1.6 S,Córdoba,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,70000.0,Asistida,Delantera,5.0,125.0,11500.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Plateado,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,107000.0,Eléctrica,Delantera,5.0,170.0,10666.67
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,180000.0,Asistida,Delantera,5.0,170.0,9700.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Blanco,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,100000.0,hydraulic,Delantera,5.0,170.0,8666.67
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,63000.0,Eléctrica,Delantera,5.0,125.0,12500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,158000.0,Eléctrica,Delantera,5.0,125.0,8666.67
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Negro,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,88530.0,Asistida,Delantera,5.0,170.0,9660.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Azul,Ford,Focus III,2013,Nafta,5.0,Automática,2.0,Hatchback,120000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Blanco,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,109000.0,Eléctrica,Delantera,5.0,170.0,15300.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,Blanco,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,97000.0,Asistida,Delantera,5.0,170.0,11800.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,95000.0,Eléctrica,Delantera,5.0,125.0,10900.0
+Ford Focus III 1.6 S,Córdoba,1.6 S,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,100000.0,Eléctrica,Delantera,5.0,125.0,15000.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Gris,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,60000.0,Eléctrica,Delantera,5.0,125.0,11500.0
+Ford Focus III 1.6 Sedan S,Capital Federal,1.6 Sedan S,Gris,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,110000.0,Asistida,Delantera,5.0,125.0,10900.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,45000.0,Eléctrica,Delantera,5.0,125.0,14500.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Sur,2.0 Se,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,147000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 1.6 Sedan S,Buenos Aires Interior,1.6 Sedan S,Blanco,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,91589.0,Asistida,Delantera,5.0,125.0,9450.0
+Ford Focus III 1.6 Sedan S,Buenos Aires Interior,1.6 Sedan S,Blanco,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,76300.0,Eléctrica,Delantera,5.0,125.0,9866.67
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Se Plus Mt,Plateado,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,150000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Sur,2.0 Titanium At6,Gris,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,122000.0,Eléctrica,Delantera,5.0,170.0,18000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,150000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Se Plus Mt,Buenos Aires Interior,2.0 Se Plus Mt,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,169500.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se Plus Mt,Córdoba,2.0 Se Plus Mt,Negro,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,96800.0,Eléctrica,Delantera,5.0,170.0,9833.33
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Sur,1.6 Sedan S,Gris,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,228000.0,Asistida,Delantera,5.0,125.0,7660.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,130000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,99000.0,Asistida,Delantera,5.0,125.0,10300.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Gris,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,108000.0,Eléctrica,Delantera,5.0,125.0,5300.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,132000.0,Eléctrica,Delantera,5.0,125.0,11200.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Negro,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,142000.0,Asistida,Delantera,5.0,125.0,9600.0
+Ford Focus III 2.0 Sedan Titanium At6,Capital Federal,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,61000.0,Asistida,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,49000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 2.0 Sedan Titanium At6,Bs.As. G.B.A. Sur,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2018,Nafta,4.0,Automática,2.0,Sedán,76000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,Plateado,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,92000.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III se plus 2.0,Bs.As. G.B.A. Norte,se plus 2.0,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,89000.0,Hidráulica,Delantera,5.0,170.0,13800.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,137000.0,Asistida,Delantera,5.0,125.0,9900.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Rojo,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,45000.0,Eléctrica,Delantera,5.0,125.0,11333.33
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,98500.0,Eléctrica,Delantera,5.0,125.0,11900.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Rojo,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,119473.0,Asistida,Delantera,5.0,125.0,9866.67
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,72000.0,Eléctrica,Delantera,5.0,125.0,11333.33
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Blanco,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,130000.0,Asistida,Delantera,5.0,170.0,9666.67
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,90000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2018,Nafta,4.0,Automática,2.0,Sedán,100000.0,Eléctrica,Delantera,5.0,170.0,12286.67
+Ford Focus III 2.0 Titanium At6,Santa Fe,2.0 Titanium At6,Plateado,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,132000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus At6,Salta,2.0 Se Plus At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,98500.0,Asistida,Delantera,5.0,170.0,9800.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,Blanco,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,70705.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Azul,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,125000.0,Eléctrica,Delantera,5.0,170.0,14800.0
+Ford Focus III 2.0 Se Plus At6,Santa Fe,2.0 Se Plus At6,,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,17090.0,Eléctrica,Delantera,5.0,170.0,18000.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Negro,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,155000.0,Asistida,Delantera,5.0,170.0,15000.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Plateado,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,141005.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. Costa Atlántica,2.0 Se Plus At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,93000.0,Asistida,Delantera,5.0,170.0,9800.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Buenos Aires Interior,2.0 Sedan Se Plus Mt,,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,169000.0,Asistida,Delantera,5.0,170.0,10333.33
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Negro,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,86000.0,Asistida,Delantera,5.0,125.0,10000.0
+Ford Focus III 2.0 Titanium Mt,Buenos Aires Interior,2.0 Titanium Mt,,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,56000.0,Eléctrica,Delantera,5.0,170.0,17500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Capital Federal,2.0 Sedan Se Plus At6,,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,39000.0,Asistida,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Sedan Titanium Mt,Entre Ríos,2.0 Sedan Titanium Mt,Azul,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,90000.0,Eléctrica,Delantera,5.0,170.0,17000.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,69000.0,Asistida,Delantera,5.0,170.0,9900.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Gris,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,98000.0,Eléctrica,Delantera,5.0,125.0,13000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,Gris,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,95000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,Gris,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,85000.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,Plateado,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,59000.0,Eléctrica,Delantera,5.0,125.0,13000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Plateado,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,90000.0,Asistida,Delantera,5.0,125.0,10500.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,Negro,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,35000.0,Eléctrica,Delantera,5.0,170.0,17500.0
+Ford Focus III 1.6 Sedan S,Tucumán,1.6 Sedan S,Gris,Ford,Focus III,2019,Nafta,4.0,Manual,1.6,Sedán,47000.0,Eléctrica,Delantera,5.0,125.0,11333.33
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Azul,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Hatchback,138000.0,Eléctrica,Delantera,5.0,125.0,11800.0
+Ford Focus III 2.0 Sedan Se Plus At6,Córdoba,2.0 Sedan Se Plus At6,,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,82500.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Blanco,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,79700.0,Asistida,Delantera,5.0,170.0,13400.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. Costa Atlántica,2.0 Se Plus At6,Azul,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,80000.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,111700.0,Eléctrica,Delantera,5.0,125.0,11900.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,105000.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Sedan Titanium At6,Santa Fe,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2017,Nafta,4.0,Automática,2.0,Sedán,100000.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Plateado,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,63600.0,Eléctrica,Delantera,5.0,170.0,15960.0
+Ford Focus III 2.0 Se Mt,Ubicación no encontrada,2.0 Se Mt,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,1.0,Hatchback,83559.0,Asistida,4x2,5.0,170.0,10760.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,Azul,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,23000.0,Eléctrica,Delantera,5.0,170.0,21500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,80000.0,Eléctrica,Delantera,5.0,170.0,14200.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Azul,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,146000.0,Asistida,Delantera,5.0,170.0,8533.33
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,105000.0,Asistida,Delantera,5.0,170.0,16000.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Córdoba,2.0 Sedan Se Plus Mt,,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,124000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Capital Federal,2.0 Sedan Se Plus Mt,,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,96000.0,Asistida,Delantera,5.0,170.0,6666.67
+Ford Focus III 2.0 Se,Río Negro,2.0 Se,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,112000.0,Asistida,Delantera,5.0,170.0,8666.67
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,96353.0,Eléctrica,Delantera,5.0,125.0,10933.33
+Ford Focus III 2.0 Sedan Se,Bs.As. G.B.A. Norte,2.0 Sedan Se,,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,144000.0,Asistida,Delantera,5.0,170.0,9500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,120000.0,Asistida,Delantera,5.0,125.0,10500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Gris,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,44000.0,Eléctrica,Delantera,5.0,125.0,13900.0
+Ford Focus III 1.6 Sedan S,Mendoza,1.6 Sedan S,,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,69000.0,Asistida,Delantera,5.0,125.0,10333.33
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,Gris,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,93000.0,Eléctrica,Delantera,5.0,170.0,10600.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Negro,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,123000.0,Asistida,Delantera,5.0,170.0,10490.0
+Ford Focus III 1.6 S,Córdoba,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,120000.0,Eléctrica,Delantera,5.0,125.0,10300.0
+Ford Focus III 2.0 Titanium At6,Santa Fe,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,67500.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Oeste,2.0 Se,Plateado,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,117000.0,Eléctrica,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,107000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Azul,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,154625.0,Eléctrica,Delantera,5.0,170.0,10220.0
+Ford Focus III Se Plus,Ubicación no encontrada,Se Plus,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,95000.0,Asistida,Delantera,5.0,170.0,10333.33
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,73000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Titanium Mt,Bs.As. G.B.A. Sur,2.0 Titanium Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,97000.0,Eléctrica,Delantera,5.0,170.0,14900.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,33000.0,Asistida,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Azul,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,73700.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,Gris,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,147000.0,Asistida,Delantera,5.0,170.0,9500.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Plateado,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,72000.0,Eléctrica,Delantera,5.0,170.0,11266.67
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,46000.0,Eléctrica,Delantera,5.0,170.0,18500.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Azul,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,71000.0,Eléctrica,Delantera,5.0,125.0,9000.0
+Ford Focus III 1.6 Sedan S,Tucumán,1.6 Sedan S,,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,52200.0,Eléctrica,Delantera,5.0,125.0,10600.0
+Ford Focus III 2.0 Se At6,Ubicación no encontrada,2.0 Se At6,Plateado,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,94000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,85000.0,Eléctrica,Delantera,5.0,125.0,10600.0
+Ford Focus III 2.0 Se,Bs.As. Costa Atlántica,2.0 Se,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,107500.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 1.6 Sedan S,Capital Federal,1.6 Sedan S,,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,85000.0,Eléctrica,Delantera,5.0,125.0,15000.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Se Plus Mt,Blanco,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,60000.0,Eléctrica,Delantera,5.0,170.0,18999.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,150000.0,Eléctrica,Delantera,5.0,170.0,13800.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Norte,2.0 Titanium At6,,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,84000.0,Eléctrica,Delantera,5.0,170.0,19000.0
+Ford Focus III 1.6 S Mt,Ubicación no encontrada,1.6 S Mt,Gris,Ford,Focus III,2018,Nafta,5.0,Manual,1.0,Hatchback,60440.0,Asistida,4x2,5.0,125.0,11313.33
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Azul,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,119000.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III 2.0 Se Plus At6,Catamarca,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,79000.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Sedan Se,Bs.As. G.B.A. Sur,2.0 Sedan Se,Negro,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,91000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Norte,2.0 Titanium At6,Azul,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,83000.0,Eléctrica,Delantera,5.0,170.0,18200.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,110000.0,Asistida,Delantera,5.0,125.0,9333.33
+Ford Focus III 1.6 Sedan S,Capital Federal,1.6 Sedan S,,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,93500.0,Asistida,Delantera,5.0,125.0,11500.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Norte,2.0 Titanium At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,60000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Dorado,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,105000.0,Eléctrica,Delantera,5.0,125.0,12500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Rojo,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,49600.0,Asistida,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Sedan Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Sedan Se Plus At6,Blanco,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,98000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,130000.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Se Plus Mt,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,76000.0,Asistida,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,105000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Negro,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,210000.0,Asistida,Delantera,5.0,125.0,7200.0
+Ford Focus III 1.6 S,San Luis,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,90000.0,Asistida,Delantera,5.0,125.0,10000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,23000.0,Eléctrica,Delantera,5.0,125.0,15500.0
+Ford Focus III 1.6 S,Córdoba,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,180000.0,Asistida,Delantera,5.0,125.0,8600.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,115000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,113000.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,110000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,98000.0,Asistida,Delantera,5.0,170.0,9900.0
+Ford Focus III 2.0 Titanium Mt,Ubicación no encontrada,2.0 Titanium Mt,Negro,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,119000.0,Asistida,Delantera,5.0,170.0,9333.33
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,112000.0,Eléctrica,Delantera,5.0,125.0,10666.67
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Sedan Se Plus Mt,Gris,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,155000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,Gris,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,77000.0,Eléctrica,Delantera,5.0,170.0,12800.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,Blanco,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,170000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 1.6 S,Córdoba,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,70000.0,Asistida,Delantera,5.0,125.0,12000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Naranja,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,119000.0,Eléctrica,Delantera,5.0,125.0,13900.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,69300.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,134000.0,Asistida,Delantera,5.0,170.0,6666.67
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2013,Nafta,5.0,Manual,1.6,Hatchback,117000.0,Asistida,Delantera,5.0,125.0,8333.33
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,70000.0,Eléctrica,Delantera,5.0,125.0,12255.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,131000.0,Asistida,Delantera,5.0,125.0,10500.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,75000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Gris,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,135977.0,Asistida,Delantera,5.0,170.0,9500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Azul,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,111000.0,Asistida,Delantera,5.0,125.0,10400.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,85000.0,Eléctrica,Delantera,5.0,170.0,10080.0
+Ford Focus III 2.0 Se At6,Capital Federal,2.0 Se At6,Plateado,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,44900.0,Eléctrica,Delantera,5.0,170.0,15900.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,105000.0,Asistida,Delantera,5.0,125.0,8200.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,59500.0,Eléctrica,Delantera,5.0,170.0,14900.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Plateado,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,84000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Oeste,2.0 Se,,Ford,Focus III,2019,Nafta,5.0,Manual,2.0,Hatchback,74500.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2013,Nafta,5.0,Manual,1.6,Hatchback,115000.0,Asistida,Delantera,5.0,125.0,7666.67
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Azul,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,160000.0,Asistida,Delantera,5.0,170.0,8333.33
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Sur,1.6 Sedan S,,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,157000.0,Eléctrica,Delantera,5.0,125.0,10500.0
+Ford Focus III 2.0 Sedan Se At6,Ubicación no encontrada,2.0 Sedan Se At6,Negro,Ford,Focus III,2020,Nafta,4.0,Automática,2.0,Sedán,75000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,90000.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 1.6 S MT,Ubicación no encontrada,1.6 S MT,Plateado,Ford,Focus III,2017,Nafta,5.0,Manual,1.0,Hatchback,31436.0,Asistida,4x2,5.0,125.0,11520.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,105000.0,Asistida,Delantera,5.0,125.0,10500.0
+Ford Focus III 1.6 Sedan S,Capital Federal,1.6 Sedan S,Blanco,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,120000.0,Eléctrica,Delantera,5.0,125.0,8333.33
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,62000.0,Eléctrica,Delantera,5.0,125.0,10333.33
+Ford Focus III 2.0 Se Plus At6 160cv N - Anticipo --,Ubicación no encontrada,2.0 Se Plus At6 160cv N - Anticipo --,Negro,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,120000.0,Hidráulica,4x2,5.0,170.0,4993.33
+Ford Focus III 2.0 Titanium Mt,Buenos Aires Interior,2.0 Titanium Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,104000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,Dorado,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,110000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Titanium Mt,Santa Fe,2.0 Titanium Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,170000.0,Asistida,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Sedan Se Plus At6,Bs.As. G.B.A. Norte,2.0 Sedan Se Plus At6,Blanco,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,135000.0,Asistida,Delantera,5.0,170.0,11999.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,Plateado,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,120000.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,80000.0,Eléctrica,Delantera,5.0,170.0,11933.33
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,81000.0,Eléctrica,Delantera,5.0,125.0,12900.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Sur,2.0 Se,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,121000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se Plus Mt,Córdoba,2.0 Se Plus Mt,Blanco,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,172000.0,Asistida,Delantera,5.0,170.0,8200.0
+Ford Focus III 2.0 Titanium At6,Buenos Aires Interior,2.0 Titanium At6,Blanco,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,97600.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,192000.0,Asistida,Delantera,5.0,125.0,7666.67
+Ford Focus III 2.0 TITANIUM L16 AT,Ubicación no encontrada,2.0 TITANIUM L16 AT,Grey,Ford,Focus III,2015,Nafta,4.0,Automático,1.0,Hatchback,73639.0,Asistida,4x2,5.0,170.0,11120.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Azul,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,85000.0,Asistida,Delantera,5.0,170.0,8200.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,Negro,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,60000.0,Eléctrica,Delantera,5.0,170.0,11266.67
+Ford Focus III 2.0 N Mt Se 5p,Ubicación no encontrada,2.0 N Mt Se 5p,Blanco,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,113000.0,assisted,Delantera,5.0,170.0,12990.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,Rojo,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Sedán,118000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Titanium At6,Entre Ríos,2.0 Titanium At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,108000.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 2.0 Se Plus At6,Buenos Aires Interior,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,170000.0,Asistida,Delantera,5.0,170.0,10333.33
+Ford Focus III 1.6 S,Córdoba,1.6 S,Blanco,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,98000.0,Eléctrica,Delantera,5.0,125.0,11800.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,99000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Norte,1.6 Sedan S,Blanco,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,48000.0,Eléctrica,Delantera,5.0,125.0,14500.0
+Ford Focus III 2.0 Se At6,Bs.As. G.B.A. Norte,2.0 Se At6,Azul,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,82000.0,Eléctrica,Delantera,5.0,170.0,14700.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,100000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 2.0 Sedan Se,Capital Federal,2.0 Sedan Se,Gris,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,108000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se At6,Ubicación no encontrada,2.0 Se At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,55000.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 2.0 Se Plus At6,Buenos Aires Interior,2.0 Se Plus At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,155000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se,Córdoba,2.0 Se,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,39000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,58500.0,Eléctrica,Delantera,5.0,125.0,12800.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,130000.0,Eléctrica,Delantera,5.0,170.0,10133.33
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,152824.0,Eléctrica,Delantera,5.0,170.0,12700.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,127000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Sedan Se Plus Mt,Blanco,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,150000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Santa Fe,2.0 Sedan Se Plus Mt,Blanco,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,131500.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,Azul,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,47300.0,Eléctrica,Delantera,5.0,125.0,13900.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,75000.0,Eléctrica,Delantera,5.0,170.0,12590.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,117000.0,Eléctrica,Delantera,5.0,125.0,13500.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Norte,1.6 Sedan S,,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,43000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,Gris,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,97000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,100000.0,Eléctrica,Delantera,5.0,125.0,10000.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Sur,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,40656.0,Eléctrica,Delantera,5.0,170.0,17500.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Se Plus Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,135000.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Titanium At6,Buenos Aires Interior,2.0 Titanium At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,98200.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Titanium Mt,Bs.As. G.B.A. Oeste,2.0 Titanium Mt,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,85000.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 1.6 Sedan S,Buenos Aires Interior,1.6 Sedan S,Gris,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,133000.0,Asistida,Delantera,5.0,125.0,11800.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,Rojo,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,61000.0,Asistida,Delantera,5.0,170.0,12900.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Plateado,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,185000.0,Asistida,Delantera,5.0,170.0,10600.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,73000.0,Eléctrica,Delantera,5.0,170.0,17200.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Gris,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,90000.0,Eléctrica,Delantera,5.0,170.0,15800.0
+Ford Focus III 2.0 Se Plus At6,Córdoba,2.0 Se Plus At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,95000.0,Asistida,Delantera,5.0,170.0,10200.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,130000.0,Asistida,Delantera,5.0,170.0,10633.33
+Ford Focus III 2.0 Sedan Se Plus At6,Bs.As. G.B.A. Sur,2.0 Sedan Se Plus At6,,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,155000.0,Asistida,Delantera,5.0,170.0,10900.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,170000.0,Asistida,Delantera,5.0,170.0,9300.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Norte,1.6 Sedan S,Negro,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,188000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Plateado,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,98000.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Sur,2.0 Se,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,125000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,74000.0,Asistida,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,73700.0,Eléctrica,Delantera,5.0,170.0,15900.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,89000.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,133000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,141000.0,Asistida,Delantera,5.0,170.0,10999.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,140000.0,Asistida,Delantera,5.0,170.0,11500.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,47000.0,Eléctrica,Delantera,5.0,125.0,13200.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Norte,1.6 Sedan S,Gris,Ford,Focus III,2016,Nafta,4.0,Automática,2.5,Hatchback,118000.0,Hidráulica,Delantera,5.0,170.0,10500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,104000.0,Eléctrica,Delantera,5.0,125.0,12800.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,Azul,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,103000.0,Asistida,Delantera,5.0,170.0,9900.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,85000.0,Asistida,Delantera,5.0,170.0,11900.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Negro,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,56000.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,94000.0,Eléctrica,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,123000.0,Asistida,Delantera,5.0,170.0,11900.0
+Ford Focus III 2.0 Sedan Se,Córdoba,2.0 Sedan Se,,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,300000.0,Eléctrica,Delantera,5.0,170.0,7400.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,Plateado,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,72958.0,Eléctrica,Delantera,5.0,170.0,11266.67
+Ford Focus III 2.0 Se Plus At6,Buenos Aires Interior,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,140000.0,Eléctrica,Delantera,5.0,170.0,13200.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Blanco,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,73000.0,Eléctrica,Delantera,5.0,170.0,17200.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,Blanco,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,105000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Titanium At6,Buenos Aires Interior,2.0 Titanium At6,Plateado,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,69000.0,Eléctrica,Delantera,5.0,170.0,20000.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Plateado,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,72937.0,Eléctrica,Delantera,5.0,170.0,11266.67
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,98000.0,Eléctrica,Delantera,5.0,125.0,9866.67
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Rojo,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,113000.0,Eléctrica,Delantera,5.0,125.0,10333.33
+Ford Focus III 2.0 Se Plus Mt,Buenos Aires Interior,2.0 Se Plus Mt,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,102000.0,Asistida,Delantera,5.0,170.0,13900.0
+Ford Focus III 2.0 Se,Capital Federal,2.0 Se,Negro,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,87300.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,66000.0,Asistida,Delantera,5.0,170.0,12200.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,132000.0,Asistida,Delantera,5.0,125.0,10500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Sedan Se Plus At6,Plateado,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,99000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,,Ford,Focus III,2013,Nafta,5.0,Manual,1.6,Hatchback,99000.0,Asistida,Delantera,5.0,125.0,7866.67
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Negro,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,85000.0,Asistida,Delantera,5.0,170.0,12900.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,Azul,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,83000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Azul,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,65000.0,Eléctrica,Delantera,5.0,125.0,15500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Plateado,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,65000.0,Eléctrica,Delantera,5.0,125.0,14500.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Se Plus Mt,,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,122000.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,130000.0,Asistida,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Buenos Aires Interior,2.0 Se Plus At6,Blanco,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,119500.0,Asistida,Delantera,5.0,170.0,13000.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,130000.0,Asistida,Delantera,5.0,125.0,6750.0
+Ford Focus Iii 4p 2.0l Nat Titanium,Bs.As. Costa Atlántica,4P 2.0L NAT Titanium,,Ford,Focus III,2013,Nafta,4.0,Manual,2.0,Hatchback,105000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Buenos Aires Interior,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,85000.0,Asistida,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Sedan Se,Buenos Aires Interior,2.0 Sedan Se,Gris,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,93000.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Azul,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,72000.0,Eléctrica,Delantera,5.0,170.0,15900.0
+Ford Focus III 2.0 Sedan Se,Santiago del Estero,2.0 Sedan Se,Gris,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,150000.0,Eléctrica,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Plateado,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,73000.0,Eléctrica,Delantera,5.0,170.0,13800.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,99500.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Verde,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,73000.0,Hidráulica,Delantera,5.0,125.0,13300.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,141000.0,Eléctrica,Delantera,5.0,170.0,9600.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Sur,2.0 Titanium At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,65800.0,Eléctrica,Delantera,5.0,170.0,17000.0
+Ford Focus III 2.0 Sedan Titanium At6,Capital Federal,2.0 Sedan Titanium At6,,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,74800.0,Asistida,Delantera,5.0,170.0,12200.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,170000.0,Eléctrica,Delantera,5.0,170.0,11900.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,98000.0,Asistida,Delantera,5.0,170.0,11200.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Sur,2.0 Se,Blanco,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,69000.0,Asistida,Delantera,5.0,170.0,11300.0
+Ford Focus III 1.6 S Mt,Ubicación no encontrada,1.6 S Mt,Black,Ford,Focus III,2018,Nafta,4.0,Manual,1.0,Hatchback,38000.0,Asistida,4x2,5.0,125.0,11653.33
+Ford Focus III 1.6 S,Capital Federal,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,103000.0,Asistida,Delantera,5.0,125.0,10499.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,85000.0,Asistida,Delantera,5.0,170.0,12900.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Plateado,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,146000.0,Eléctrica,Delantera,5.0,125.0,9666.67
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Dorado,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,99000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Norte,2.0 Titanium At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,60500.0,Eléctrica,Delantera,5.0,170.0,18950.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Azul,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,109000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,Dorado,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,177800.0,Eléctrica,Delantera,5.0,125.0,10500.0
+Ford Focus III Plus,Bs.As. G.B.A. Sur,Plus,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,100000.0,Eléctrica,Delantera,5.0,170.0,11900.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,88000.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Azul,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,98000.0,Asistida,Delantera,5.0,125.0,8724.0
+Ford Focus III 1.6 Sedan S,Buenos Aires Interior,1.6 Sedan S,,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,137000.0,Eléctrica,Delantera,5.0,125.0,10900.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,50000.0,Eléctrica,Delantera,5.0,170.0,15900.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Plateado,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,83000.0,Eléctrica,Delantera,5.0,170.0,15300.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,Negro,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,69500.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,127000.0,Eléctrica,Delantera,5.0,125.0,10333.33
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Blanco,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,80500.0,Eléctrica,Delantera,5.0,125.0,13500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Negro,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,90000.0,Eléctrica,Delantera,5.0,125.0,11490.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,,Ford,Focus III,2017,Nafta,4.0,Automática,2.0,Sedán,80000.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 2.0 Se Plus Mt,Buenos Aires Interior,2.0 Se Plus Mt,Gris,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,92600.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,140000.0,Eléctrica,Delantera,5.0,125.0,12800.0
+Ford Focus III 1.6 S,San Luis,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,183000.0,Asistida,Delantera,5.0,125.0,7666.67
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,165000.0,Asistida,Delantera,5.0,125.0,9500.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,129000.0,Asistida,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Negro,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,93000.0,Asistida,Delantera,5.0,125.0,12500.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Norte,2.0 Se,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,78000.0,Asistida,Delantera,5.0,170.0,11333.33
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,120000.0,Asistida,Delantera,5.0,125.0,9900.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,73000.0,Asistida,Delantera,5.0,170.0,11900.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,97844.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Titanium Mt,Ubicación no encontrada,2.0 Titanium Mt,Gris,Ford,Focus III,2013,Nafta,5.0,Manual,2.0,Hatchback,99000.0,Asistida,Delantera,5.0,170.0,10666.67
+Ford Focus III 2.0 Titanium Mt,Corrientes,2.0 Titanium Mt,Plateado,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,19600.0,Eléctrica,Delantera,5.0,170.0,20000.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,93000.0,Asistida,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,117000.0,assisted,Delantera,5.0,170.0,15500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,118000.0,Asistida,Delantera,5.0,170.0,10900.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Gris,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,94500.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Azul,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,135000.0,Eléctrica,Delantera,5.0,125.0,12300.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,150000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Santa Fe,2.0 Sedan Se Plus Mt,,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,150000.0,Eléctrica,Delantera,5.0,170.0,9900.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,89000.0,Asistida,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Se Plus At6,Santa Fe,2.0 Se Plus At6,Plateado,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,105000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Se Plus Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,150000.0,Eléctrica,Delantera,5.0,170.0,9333.33
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,125000.0,Asistida,Delantera,5.0,170.0,8800.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,70000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Sedan Se,Capital Federal,2.0 Sedan Se,,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,133000.0,Asistida,Delantera,5.0,170.0,13300.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,104000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,7900.0,Eléctrica,Delantera,5.0,170.0,22000.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,70000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Blanco,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Hatchback,55981.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,72000.0,Eléctrica,Delantera,5.0,170.0,11666.67
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,56000.0,Eléctrica,Delantera,5.0,170.0,14200.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,Blanco,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,79000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,108000.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,70000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,62000.0,Eléctrica,Delantera,5.0,170.0,16900.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Sur,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,67000.0,Eléctrica,Delantera,5.0,170.0,17900.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Azul,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,145000.0,Asistida,Delantera,5.0,170.0,10800.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,97000.0,Eléctrica,Delantera,5.0,125.0,13000.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Se Plus Mt,,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,72000.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Oeste,2.0 Titanium At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,99000.0,Eléctrica,Delantera,5.0,170.0,13900.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,78000.0,Eléctrica,Delantera,5.0,125.0,11100.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,102000.0,Asistida,Delantera,5.0,170.0,11900.0
+Ford Focus III 2.0 Titanium Mt,Bs.As. G.B.A. Sur,2.0 Titanium Mt,,Ford,Focus III,2013,Nafta,5.0,Manual,2.0,Hatchback,92500.0,Asistida,Delantera,5.0,170.0,12600.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,,Ford,Focus III,2013,Nafta,4.0,Manual,2.0,Sedán,96000.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III 2.0 Sedan Titanium At6,Bs.As. G.B.A. Norte,2.0 Sedan Titanium At6,,Ford,Focus III,2018,Nafta,4.0,Automática,2.0,Sedán,103000.0,Eléctrica,Delantera,5.0,170.0,18500.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Gris,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,78000.0,Eléctrica,Delantera,5.0,125.0,12500.0
+Ford Focus III 1.6 S,Buenos Aires Interior,1.6 S,Azul,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,96000.0,Asistida,Delantera,5.0,125.0,10500.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,Blanco,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,80000.0,Eléctrica,Delantera,5.0,170.0,15800.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Sedan Se Plus Mt,Gris,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,30200.0,Eléctrica,Delantera,5.0,170.0,18000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,Rojo,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,95000.0,Asistida,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,Negro,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Hatchback,82500.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Plateado,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Hatchback,176723.0,Eléctrica,Delantera,5.0,170.0,9733.33
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,85000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,79000.0,Eléctrica,Delantera,5.0,170.0,13400.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,160000.0,Eléctrica,Delantera,5.0,125.0,8000.0
+Ford,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Gris,Ford,Focus III,2010,Nafta,4.0,,,,195000.0,,,,,5666.67
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2018,Nafta,4.0,Automática,2.0,Sedán,80000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,Gris,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,156220.0,Eléctrica,Delantera,5.0,170.0,12900.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,145000.0,Asistida,Delantera,5.0,170.0,8600.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,108000.0,Asistida,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Azul,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,106000.0,Asistida,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se At6,Capital Federal,2.0 Se At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,63500.0,Eléctrica,Delantera,5.0,170.0,18000.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,Negro,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,110000.0,Asistida,Delantera,5.0,125.0,8333.33
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Plateado,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,122000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Gris,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,61500.0,Eléctrica,Delantera,5.0,125.0,15200.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Negro,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,70000.0,Eléctrica,Delantera,5.0,125.0,13900.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,56000.0,Eléctrica,Delantera,5.0,125.0,15000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Azul,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,92000.0,Eléctrica,Delantera,5.0,125.0,11600.0
+Ford Focus III 2.0 Sedan Se Plus At6,Bs.As. G.B.A. Norte,2.0 Sedan Se Plus At6,,Ford,Focus III,2019,Nafta,4.0,Automática,2.0,Sedán,36900.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,80000.0,Eléctrica,Delantera,5.0,170.0,14400.0
+Ford Focus III 2.0 Sedan Se Plus At6,Capital Federal,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2017,Nafta,4.0,Automática,2.0,Sedán,86000.0,Eléctrica,Delantera,5.0,170.0,13800.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,Negro,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,113000.0,Asistida,Delantera,5.0,125.0,12000.0
+Ford Focus III 2.0 Titanium Mt,Bs.As. G.B.A. Norte,2.0 Titanium Mt,Azul,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,40000.0,Eléctrica,Delantera,5.0,170.0,19000.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2019,Nafta,4.0,Automática,2.0,Sedán,50000.0,Eléctrica,Delantera,5.0,170.0,18990.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,Gris,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,110000.0,Eléctrica,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se At6,Buenos Aires Interior,2.0 Se At6,,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,100000.0,Eléctrica,Delantera,5.0,170.0,12900.0
+Ford Focus III 2.0 Sedan Se,Entre Ríos,2.0 Sedan Se,,Ford,Focus III,2019,Nafta,4.0,Manual,2.0,Sedán,54000.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Gris,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,92000.0,Asistida,Delantera,5.0,125.0,10500.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,Blanco,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,117000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Sur,2.0 Se,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,76500.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,94000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 S,Santa Fe,1.6 S,Blanco,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,120000.0,Eléctrica,Delantera,5.0,125.0,11266.67
+Ford Focus III 2.0 Sedan Se,Misiones,2.0 Sedan Se,Gris,Ford,Focus III,2018,Nafta,4.0,Manual,2.0,Sedán,130000.0,Eléctrica,Delantera,5.0,170.0,10966.67
+Ford Focus III 2.0 Titanium At6,Neuquén,2.0 Titanium At6,Blanco,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,158620.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,91000.0,Asistida,Delantera,5.0,170.0,12900.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,85000.0,Eléctrica,Delantera,5.0,170.0,12800.0
+Ford Focus III 2.0 Titanium At6,Córdoba,2.0 Titanium At6,Blanco,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,129350.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Norte,1.6 Sedan S,Blanco,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,126000.0,Eléctrica,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Se,Capital Federal,2.0 Se,Rojo,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,170000.0,Asistida,Delantera,5.0,170.0,9900.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,110906.0,Asistida,Delantera,5.0,170.0,10652.0
+Ford Focus III 2.0 Sedan Titanium At6,Buenos Aires Interior,2.0 Sedan Titanium At6,Verde,Ford,Focus III,2018,Nafta,4.0,Automática,2.0,Sedán,120000.0,Eléctrica,Delantera,5.0,170.0,14900.0
+Ford Focus III 1.6 Sedan S,Capital Federal,1.6 Sedan S,,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,38000.0,Eléctrica,Delantera,5.0,125.0,15200.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,128250.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III SE PLUS AT6 POWERSHIFT,Ubicación no encontrada,SE PLUS AT6 POWERSHIFT,Blanco,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,94000.0,Hidráulica,Delantera,5.0,170.0,10400.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,145000.0,Asistida,Delantera,5.0,125.0,9500.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Dorado,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,75000.0,Eléctrica,Delantera,5.0,170.0,11666.67
+Ford Focus III 2.0 Sedan Se Plus Mt,Buenos Aires Interior,2.0 Sedan Se Plus Mt,,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,131000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,75000.0,Eléctrica,Delantera,5.0,170.0,15900.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Azul,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,130000.0,Asistida,Delantera,5.0,125.0,14000.0
+Ford Focus III 2.0 Sedan Se,Capital Federal,2.0 Sedan Se,Blanco,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,108000.0,Asistida,Delantera,5.0,170.0,12200.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,Gris,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,111000.0,Asistida,Delantera,5.0,170.0,9933.33
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,187000.0,Asistida,Delantera,5.0,125.0,10500.0
+Ford Focus III 2.0 Sedan Se Plus At6,Bs.As. G.B.A. Sur,2.0 Sedan Se Plus At6,Blanco,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Sedán,100000.0,Hidráulica,Delantera,5.0,170.0,13000.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Sur,1.6 Sedan S,Plateado,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,104500.0,Asistida,Delantera,5.0,125.0,10800.0
+Ford Focus III 2.0 Sedan Titanium Mt,Bs.As. Costa Atlántica,2.0 Sedan Titanium Mt,,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,83000.0,Asistida,Delantera,5.0,170.0,13800.0
+Ford Focus III 2.0 Sedan Se Plus At6,Capital Federal,2.0 Sedan Se Plus At6,,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,160000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,Gris,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,49000.0,Eléctrica,Delantera,5.0,125.0,14650.0
+Ford Focus III 2.0 Se At6,Bs.As. G.B.A. Sur,2.0 Se At6,Gris,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,62000.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,114000.0,Asistida,Delantera,5.0,125.0,10000.0
+Ford Focus III 2.0 Se,Buenos Aires Interior,2.0 Se,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,148000.0,Asistida,Delantera,5.0,170.0,9200.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,120000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,66000.0,Eléctrica,Delantera,5.0,125.0,12800.0
+Ford Focus III 2.0 Sedan Se Plus At6,Buenos Aires Interior,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,155000.0,Asistida,Delantera,5.0,170.0,10333.33
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2015,Nafta/GNC,5.0,Manual,1.6,Hatchback,137000.0,Asistida,Delantera,5.0,125.0,10133.33
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,,Ford,Focus III,2013,Nafta,5.0,Automática,2.0,Hatchback,94000.0,Asistida,Delantera,5.0,170.0,12200.0
+Ford Focus III 2.0 Sedan Se Plus At6,Bs.As. G.B.A. Sur,2.0 Sedan Se Plus At6,,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,120000.0,Asistida,Delantera,5.0,170.0,12800.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. Costa Atlántica,2.0 Sedan Se Plus Mt,,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,128000.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,Rojo,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,110000.0,Asistida,Delantera,5.0,170.0,13800.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Plateado,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,129000.0,Asistida,Delantera,5.0,125.0,9800.0
+Ford Focus III 2.0 Se,Capital Federal,2.0 Se,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,74000.0,Eléctrica,Delantera,5.0,170.0,12490.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,Plateado,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,17000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,90000.0,Eléctrica,Delantera,5.0,170.0,12800.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,82000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,110000.0,Asistida,Delantera,5.0,125.0,9600.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Negro,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,110000.0,Eléctrica,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Sedan Se,Bs.As. G.B.A. Oeste,2.0 Sedan Se,Azul,Ford,Focus III,2013,Nafta,4.0,Manual,2.0,Sedán,83000.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Santa Fe,2.0 Sedan Se Plus Mt,Plateado,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,85000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,80500.0,Eléctrica,Delantera,5.0,125.0,14200.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,130000.0,Eléctrica,Delantera,5.0,170.0,12700.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,141000.0,Asistida,Delantera,5.0,170.0,5666.67
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,88000.0,Eléctrica,Delantera,5.0,170.0,14900.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,45000.0,Eléctrica,Delantera,5.0,170.0,17500.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,129000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,Rojo,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,96000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Plateado,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,132000.0,Eléctrica,Delantera,5.0,125.0,12900.0
+Ford Focus III 2.0 Sedan Titanium Mt,Bs.As. G.B.A. Sur,2.0 Sedan Titanium Mt,Blanco,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,141000.0,Asistida,Delantera,5.0,170.0,11400.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Se Plus Mt,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,96000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Hatchback,140181.0,Eléctrica,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Rojo,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,107000.0,Eléctrica,Delantera,5.0,170.0,11500.0
+Ford Focus III 1.6 S,Buenos Aires Interior,1.6 S,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,203000.0,Asistida,Delantera,5.0,125.0,8000.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,105000.0,Asistida,Delantera,5.0,170.0,9500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Blanco,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,47000.0,Eléctrica,Delantera,5.0,125.0,13500.0
+Ford Focus III 2.0 Sedan Titanium At6,Bs.As. G.B.A. Norte,2.0 Sedan Titanium At6,,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,108999.0,Asistida,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,170000.0,Asistida,Delantera,5.0,170.0,14000.0
+Ford Focus III 1.6 Sedan S,Capital Federal,1.6 Sedan S,,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,125000.0,Eléctrica,Delantera,5.0,125.0,12500.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Plateado,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,71000.0,Asistida,Delantera,5.0,170.0,11800.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,133000.0,Asistida,Delantera,5.0,125.0,10000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,126000.0,Asistida,Delantera,5.0,125.0,12000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,95000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,98000.0,Asistida,Delantera,5.0,170.0,12900.0
+Ford Focus III 2.0 Se Plus At6,Córdoba,2.0 Se Plus At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,98000.0,Eléctrica,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Se Plus Mt,Azul,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,71500.0,Eléctrica,Delantera,5.0,170.0,13750.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,104000.0,Eléctrica,Delantera,5.0,170.0,15800.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,65000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,101000.0,Eléctrica,Delantera,5.0,125.0,11500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,124000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 2.0 Sedan Se Plus At6,Chaco,2.0 Sedan Se Plus At6,,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,118000.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 1.6 S,Buenos Aires Interior,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,104000.0,Asistida,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,Gris,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,87000.0,Asistida,Delantera,5.0,170.0,10800.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Norte,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,88000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2013,Nafta,5.0,Manual,1.6,Hatchback,125000.0,Asistida,Delantera,5.0,125.0,9000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Azul,Ford,Focus III,2016,Nafta/GNC,5.0,Manual,1.6,Hatchback,51000.0,Eléctrica,Delantera,5.0,125.0,10333.33
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,Blanco,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,130000.0,Asistida,Delantera,5.0,170.0,10900.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Rojo,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,115000.0,Asistida,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Sedan Titanium At6,Capital Federal,2.0 Sedan Titanium At6,,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,96000.0,Asistida,Delantera,5.0,170.0,14000.0
+Ford Focus III 1.6 S,Santa Fe,1.6 S,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,76500.0,Asistida,Delantera,5.0,125.0,12500.0
+Ford Focus III 2.0 Se,Santa Fe,2.0 Se,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,93000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 1.6 s.e.,Capital Federal,1.6 s.e.,Gris,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Hatchback,40000.0,Eléctrica,Delantera,5.0,125.0,14500.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,100000.0,Eléctrica,Delantera,5.0,170.0,11900.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,160000.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,Dorado,Ford,Focus III,2013,Nafta,4.0,Manual,2.0,Sedán,117000.0,Asistida,Delantera,5.0,170.0,9000.0
+Ford Focus III 2.0 Se Plus Mt,Córdoba,2.0 Se Plus Mt,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,99000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Azul,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,133990.0,Asistida,Delantera,5.0,125.0,8666.67
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Sur,2.0 Titanium At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,82000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,96500.0,Asistida,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Sedan Se,Entre Ríos,2.0 Sedan Se,,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,84500.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 S,Santa Fe,1.6 S,Gris,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,102000.0,Eléctrica,Delantera,5.0,125.0,15000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,69000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se At6,Ubicación no encontrada,2.0 Se At6,,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,33000.0,Eléctrica,Delantera,5.0,170.0,17000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,83000.0,Eléctrica,Delantera,5.0,170.0,11266.67
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,93000.0,Asistida,Delantera,5.0,170.0,10800.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Blanco,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,103000.0,Asistida,Delantera,5.0,125.0,10800.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Plateado,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,64000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 2.0 Titanium At6,Córdoba,2.0 Titanium At6,Azul,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,60000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 2.0 Se Plus Mt,Santa Fe,2.0 Se Plus Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,140000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Sedan Titanium Mt,Ubicación no encontrada,2.0 Sedan Titanium Mt,Plateado,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Sedán,98000.0,Asistida,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2018,Nafta,4.0,Automática,2.0,Sedán,62700.0,Eléctrica,Delantera,5.0,170.0,17000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,105000.0,Eléctrica,Delantera,5.0,170.0,15800.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,105000.0,Asistida,Delantera,5.0,170.0,11300.0
+Ford Focus III 1.6 Sedan S,Entre Ríos,1.6 Sedan S,,Ford,Focus III,2014,Nafta,4.0,Manual,1.6,Sedán,193000.0,Asistida,Delantera,5.0,125.0,7666.67
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Blanco,Ford,Focus III,2017,Nafta,4.0,Automática,2.0,Sedán,80000.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 2.0 Titanium At6,Córdoba,2.0 Titanium At6,Azul,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,36000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Norte,2.0 Titanium At6,Gris,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,145000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. Costa Atlántica,2.0 Se Plus Mt,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,73000.0,Eléctrica,Delantera,5.0,170.0,14900.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,71000.0,Eléctrica,Delantera,5.0,170.0,14900.0
+Ford Focus III 2.0 Titanium At6,Buenos Aires Interior,2.0 Titanium At6,Azul,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,140000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III Titanium,Ubicación no encontrada,Titanium,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Monovolumen,115600.0,Hidráulica,4x2,5.0,170.0,13500.0
+Ford Focus III 2.0 Sedan Titanium Mt,Bs.As. G.B.A. Sur,2.0 Sedan Titanium Mt,Blanco,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,107200.0,Asistida,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Se Plus At6,Mendoza,2.0 Se Plus At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,48000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Sur,2.0 Se,,Ford,Focus III,2019,Nafta,5.0,Manual,2.0,Hatchback,41000.0,Eléctrica,Delantera,5.0,170.0,16800.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,109000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,90000.0,Asistida,Delantera,5.0,170.0,11333.33
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Sur,1.6 Sedan S,,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,150000.0,Asistida,Delantera,5.0,125.0,9800.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Sedan Se Plus Mt,Blanco,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,10500.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,100000.0,Eléctrica,Delantera,5.0,125.0,9666.67
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Sur,2.0 Se,Blanco,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,96000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,67000.0,Eléctrica,Delantera,5.0,125.0,14000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Dorado,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,106000.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,74000.0,Asistida,Delantera,5.0,125.0,11900.0
+Ford Focus III 2.0 Sedan Se Plus At6,Bs.As. G.B.A. Sur,2.0 Sedan Se Plus At6,,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,96000.0,Asistida,Delantera,5.0,170.0,12200.0
+Ford Focus III 1.6 Sedan S,Bs.As. G.B.A. Sur,1.6 Sedan S,,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,85000.0,Eléctrica,Delantera,5.0,125.0,9333.33
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,58000.0,Eléctrica,Delantera,5.0,125.0,10400.0
+Ford Focus III 2.0 Sedan Titanium Mt,Capital Federal,2.0 Sedan Titanium Mt,,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,85000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,78000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Titanium Mt,Ubicación no encontrada,2.0 Titanium Mt,Plateado,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,79000.0,Eléctrica,Delantera,5.0,170.0,18000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,82000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 2.0 Sedan Se,Capital Federal,2.0 Sedan Se,,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,79600.0,Asistida,Delantera,5.0,170.0,10500.0
+Ford Focus III 2.0 Se,Capital Federal,2.0 Se,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,110000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Sedan Se,Córdoba,2.0 Sedan Se,,Ford,Focus III,2018,Nafta,4.0,Manual,2.0,Sedán,153000.0,Eléctrica,Delantera,5.0,170.0,10666.67
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,69000.0,Eléctrica,Delantera,5.0,125.0,13800.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,103000.0,Eléctrica,Delantera,5.0,125.0,11400.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,62000.0,Eléctrica,Delantera,5.0,125.0,11300.0
+Ford Focus III 2.0 Sedan Se At6,Ubicación no encontrada,2.0 Sedan Se At6,Negro,Ford,Focus III,2019,Nafta,4.0,Automática,2.0,Sedán,163000.0,Eléctrica,Delantera,5.0,170.0,11200.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,85000.0,Asistida,Delantera,5.0,125.0,9966.67
+Ford Focus III 2.0 Se Plus At6,Córdoba,2.0 Se Plus At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,110000.0,Asistida,Delantera,5.0,170.0,9500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,130000.0,Asistida,Delantera,5.0,125.0,10900.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Norte,2.0 Se,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,90000.0,Eléctrica,Delantera,5.0,170.0,14800.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,Plateado,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,54000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Plateado,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,102000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 1.6 Sedan S,Buenos Aires Interior,1.6 Sedan S,Azul,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Sedán,55873.0,Eléctrica,Delantera,5.0,125.0,14300.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Norte,2.0 Titanium At6,Blanco,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,125000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,85000.0,Asistida,Delantera,5.0,170.0,11666.67
+Ford Focus III 2.0 Titanium Mt,Ubicación no encontrada,2.0 Titanium Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,150000.0,Eléctrica,Delantera,5.0,170.0,11966.67
+Ford Focus III 2.0 Sedan Se Plus At6,Bs.As. G.B.A. Sur,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,94000.0,Eléctrica,Delantera,5.0,170.0,9333.33
+Ford Focus III 2.0 Sedan Titanium At6,Bs.As. G.B.A. Norte,2.0 Sedan Titanium At6,,Ford,Focus III,2017,Nafta,4.0,Automática,2.0,Sedán,69000.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,Blanco,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,100000.0,Eléctrica,Delantera,5.0,170.0,14200.0
+Ford Focus III 2.0 Sedan Titanium At6,Bs.As. G.B.A. Norte,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,135000.0,Eléctrica,Delantera,5.0,170.0,13900.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Blanco,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,80000.0,Eléctrica,Delantera,5.0,170.0,16499.0
+Ford Focus III 2.0 Se Plus At6,Córdoba,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,99000.0,Asistida,Delantera,5.0,170.0,9933.33
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,80000.0,Eléctrica,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,100000.0,Eléctrica,Delantera,5.0,170.0,14900.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Blanco,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,86000.0,Eléctrica,Delantera,5.0,170.0,17000.0
+Ford Focus III 1.6 S Mt,Ubicación no encontrada,1.6 S Mt,Gris,Ford,Focus III,2017,Nafta,4.0,Manual,1.0,Hatchback,97874.0,Asistida,4x2,5.0,125.0,9260.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,Rojo,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,111700.0,Asistida,Delantera,5.0,170.0,12600.0
+Ford Focus III 2.0 Sedan Titanium At6,Bs.As. G.B.A. Oeste,2.0 Sedan Titanium At6,,Ford,Focus III,2019,Nafta,4.0,Automática,2.0,Sedán,92000.0,Eléctrica,Delantera,5.0,170.0,17500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Blanco,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,65000.0,Eléctrica,Delantera,5.0,125.0,10000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,97300.0,Asistida,Delantera,5.0,125.0,9000.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Sur,2.0 Titanium At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,84000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 2.0 Se Plus Mt,Neuquén,2.0 Se Plus Mt,Azul,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,116000.0,Asistida,Delantera,5.0,170.0,9500.0
+Ford Focus III 2.0 Sedan Titanium Mt,Bs.As. G.B.A. Norte,2.0 Sedan Titanium Mt,,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,107000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Plateado,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,135000.0,Eléctrica,Delantera,5.0,125.0,10900.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Plateado,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,56000.0,Eléctrica,Delantera,5.0,170.0,19499.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,119000.0,Asistida,Delantera,5.0,170.0,9266.67
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,79000.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Sedan Titanium At6,Capital Federal,2.0 Sedan Titanium At6,Azul,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,93600.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Blanco,Ford,Focus III,2014,Nafta,4.0,Manual,1.6,Sedán,137000.0,Asistida,Delantera,5.0,125.0,4800.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,88500.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Sedan Titanium At6,Buenos Aires Interior,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,240000.0,Asistida,Delantera,5.0,170.0,7933.33
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2017,Nafta,4.0,Automática,2.0,Sedán,60000.0,Eléctrica,Delantera,5.0,170.0,14900.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2019,Nafta,5.0,Manual,2.0,Hatchback,79000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 2.0 Sedan Se,Chaco,2.0 Sedan Se,,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,78000.0,Eléctrica,Delantera,5.0,170.0,10666.67
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,98000.0,Asistida,Delantera,5.0,170.0,9000.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Sedan Se Plus Mt,,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,114000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Se At6,Ubicación no encontrada,2.0 Se At6,,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,91000.0,Eléctrica,Delantera,5.0,170.0,14200.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,115450.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Sedan Se,Bs.As. G.B.A. Oeste,2.0 Sedan Se,Negro,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,108000.0,Eléctrica,Delantera,5.0,170.0,9133.33
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,111000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,Plateado,Ford,Focus III,2018,Nafta,4.0,Manual,2.0,Sedán,75000.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,70000.0,Eléctrica,Delantera,5.0,125.0,14000.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,156000.0,Eléctrica,Delantera,5.0,170.0,11500.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Rojo,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,84000.0,Eléctrica,Delantera,5.0,170.0,13800.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,165000.0,Eléctrica,Delantera,5.0,170.0,12800.0
+Ford Focus III 2.0 Se Plus Mt,Córdoba,2.0 Se Plus Mt,Azul,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,77000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,105000.0,Eléctrica,Delantera,5.0,125.0,11800.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,120000.0,Eléctrica,Delantera,5.0,125.0,9333.33
+Ford Focus III 1.6 S,Bs.As. G.B.A. Norte,1.6 S,Azul,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,55000.0,Eléctrica,Delantera,5.0,125.0,15500.0
+Ford Focus III 2.0 Sedan Se,Capital Federal,2.0 Sedan Se,,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,117000.0,Asistida,Delantera,5.0,170.0,10600.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,110000.0,Asistida,Delantera,5.0,125.0,11500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,14000.0,Eléctrica,Delantera,5.0,125.0,15500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Azul,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,85000.0,Eléctrica,Delantera,5.0,125.0,10666.67
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,75000.0,Eléctrica,Delantera,5.0,170.0,14800.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Sedan Se Plus Mt,Gris,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,105000.0,Asistida,Delantera,5.0,170.0,12900.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,Blanco,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,94000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 1.6 Sedan S,Capital Federal,1.6 Sedan S,Plateado,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,115000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,93000.0,Eléctrica,Delantera,5.0,170.0,14700.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Negro,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,120000.0,Asistida,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Titanium Mt,Bs.As. G.B.A. Sur,2.0 Titanium Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,124000.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 2.0 Se Plus At6,Córdoba,2.0 Se Plus At6,,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,94000.0,Eléctrica,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Ubicación no encontrada,2.0 Sedan Se Plus Mt,,Ford,Focus III,2014,Nafta,4.0,Manual,2.0,Sedán,97000.0,Asistida,Delantera,5.0,170.0,10900.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,101690.0,Eléctrica,Delantera,5.0,125.0,12800.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,90000.0,Eléctrica,Delantera,5.0,125.0,13500.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,73000.0,Eléctrica,Delantera,5.0,125.0,14500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Gris,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,110000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Titanium Mt,Bs.As. G.B.A. Oeste,2.0 Titanium Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,115000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Blanco,Ford,Focus III,2017,Nafta,4.0,Automática,2.0,Sedán,106000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,65000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Blanco,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,93000.0,Asistida,Delantera,5.0,125.0,9466.67
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,127000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Gris,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,115000.0,Asistida,Delantera,5.0,170.0,9999.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Plateado,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,54000.0,Eléctrica,Delantera,5.0,170.0,20000.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Se Plus Mt,,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,122000.0,Eléctrica,Delantera,5.0,170.0,12900.0
+Ford Focus III 1.6 S Mt,Ubicación no encontrada,1.6 S Mt,White,Ford,Focus III,2014,Nafta,5.0,Manual,1.0,Hatchback,49809.0,Asistida,4x2,5.0,125.0,9266.67
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,Azul,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,95000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 1.6 S,Chaco,1.6 S,,Ford,Focus III,2020,Nafta,5.0,Manual,1.6,Hatchback,73000.0,Eléctrica,Delantera,5.0,125.0,16000.0
+Ford Focus III 2.0 Titanium Mt,Bs.As. G.B.A. Sur,2.0 Titanium Mt,Dorado,Ford,Focus III,2013,Nafta,4.0,Manual,2.0,Sedán,102000.0,Eléctrica,Delantera,5.0,170.0,10500.0
+Ford Focus III 2.0 Titanium At6,Ubicación no encontrada,2.0 Titanium At6,Plateado,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,135000.0,Asistida,Delantera,5.0,170.0,13800.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,93200.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Sur,2.0 Se Plus At6,Blanco,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,82000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,240000.0,Eléctrica,Delantera,5.0,125.0,12000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Plateado,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,110000.0,Eléctrica,Delantera,5.0,125.0,11500.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Sedan Se Plus Mt,Gris,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,109000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,80000.0,Eléctrica,Delantera,5.0,125.0,10333.33
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,81000.0,Asistida,Delantera,5.0,125.0,11200.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,127415.0,Asistida,Delantera,5.0,170.0,10866.67
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Plateado,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,81500.0,Eléctrica,Delantera,5.0,125.0,13200.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,151000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,90000.0,Eléctrica,Delantera,5.0,125.0,10666.67
+Ford Focus III 2.0 Titanium Mt,Bs.As. G.B.A. Norte,2.0 Titanium Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,125000.0,Asistida,Delantera,5.0,170.0,10900.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,66000.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Se Plus Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,160000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Sedan Titanium Mt,Santa Fe,2.0 Sedan Titanium Mt,Gris,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,120000.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,141000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 S,Chaco,1.6 S,Gris,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,165000.0,Eléctrica,Delantera,5.0,125.0,8000.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Blanco,Ford,Focus III,2017,Nafta,4.0,Manual,1.6,Sedán,176000.0,Eléctrica,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Se Plus Mt,Santa Fe,2.0 Se Plus Mt,Blanco,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,90000.0,Asistida,Delantera,5.0,170.0,11900.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Blanco,Ford,Focus III,2018,Nafta,4.0,Manual,1.6,Sedán,94000.0,Eléctrica,Delantera,5.0,125.0,9666.67
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,101000.0,Asistida,Delantera,5.0,170.0,10666.67
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,87000.0,Eléctrica,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2013,Nafta,5.0,Manual,2.0,Hatchback,98000.0,Asistida,Delantera,5.0,170.0,10000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Negro,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,110000.0,Asistida,Delantera,5.0,170.0,9266.67
+Ford Focus III 1.6 S 5Ptas,Ubicación no encontrada,1.6 S 5Ptas,Azul,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,50000.0,Hidráulica,4x2,5.0,125.0,12500.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,93329.0,Asistida,Delantera,5.0,170.0,10700.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Se Plus Mt,Plateado,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,78000.0,Asistida,Delantera,5.0,170.0,11000.0
+Ford Focus III 1.6 mt s,Bs.As. G.B.A. Norte,1.6 mt s,,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,47000.0,Asistida,Delantera,5.0,125.0,9000.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,Gris,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,105000.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 2.0 Titanium At6,La Rioja,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,151000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Oeste,2.0 Titanium At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,80000.0,Eléctrica,Delantera,5.0,170.0,15000.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2019,Nafta,4.0,Automática,2.0,Sedán,1600.0,Eléctrica,Delantera,5.0,170.0,21000.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Sur,2.0 Se Plus Mt,,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,49000.0,Eléctrica,Delantera,5.0,170.0,16000.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Norte,2.0 Se Plus At6,Plateado,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,127000.0,Eléctrica,Delantera,5.0,170.0,13800.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2013,Nafta,5.0,Manual,1.6,Hatchback,125000.0,Asistida,Delantera,5.0,125.0,9700.0
+Ford Focus III 2.0 Titanium Mt,Ubicación no encontrada,2.0 Titanium Mt,Gris,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,92000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Sedan Se Plus Mt,San Juan,2.0 Sedan Se Plus Mt,,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,148000.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 1.6 Sedan S,Buenos Aires Interior,1.6 Sedan S,,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,64000.0,Eléctrica,Delantera,5.0,125.0,10000.0
+Ford Focus III 2.0 Sedan Se,Buenos Aires Interior,2.0 Sedan Se,,Ford,Focus III,2015,Nafta,4.0,Manual,2.0,Sedán,76250.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 1.6 S,Capital Federal,1.6 S,Plateado,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,70000.0,Eléctrica,Delantera,5.0,125.0,10000.0
+Ford Focus III 2.0 Se,Río Negro,2.0 Se,,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,54500.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Se,Tucumán,2.0 Se,Gris,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Hatchback,55300.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2019,Nafta,5.0,Manual,2.0,Hatchback,80000.0,Eléctrica,Delantera,5.0,170.0,16300.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Grey,Ford,Focus III,2016,Híbrido,5.0,Manual,1.0,Hatchback,94585.0,Asistida,4x2,5.0,170.0,10546.67
+Ford Focus III 2.0 Se Plus At6,Entre Ríos,2.0 Se Plus At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,71000.0,Eléctrica,Delantera,5.0,170.0,14000.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Oeste,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,98500.0,Asistida,Delantera,5.0,125.0,10000.0
+Ford Focus III 2.0 Sedan Se Plus At6,Ubicación no encontrada,2.0 Sedan Se Plus At6,Gris,Ford,Focus III,2015,Nafta,4.0,Automática,2.0,Sedán,77000.0,Asistida,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Se At6,Capital Federal,2.0 Se At6,Gris,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,160000.0,Eléctrica,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Titanium At6,Santa Fe,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,61000.0,Eléctrica,Delantera,5.0,170.0,17000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Blanco,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,168000.0,Eléctrica,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,,Ford,Focus III,2016,Nafta,4.0,Automática,2.0,Sedán,132000.0,Eléctrica,Delantera,5.0,170.0,9333.33
+Ford Focus III 1.6 S Mt,Ubicación no encontrada,1.6 S Mt,Azul,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,50000.0,Hidráulica,Delantera,5.0,170.0,12500.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,29000.0,Asistida,Delantera,5.0,170.0,15900.0
+Ford Focus III 2.0 Se Plus At6,Capital Federal,2.0 Se Plus At6,Rojo,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,110000.0,Eléctrica,Delantera,5.0,170.0,12300.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Oeste,2.0 Se Plus Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,165000.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Titanium Mt,Ubicación no encontrada,2.0 Titanium Mt,,Ford,Focus III,2014,Nafta,5.0,Manual,2.0,Hatchback,91000.0,Asistida,Delantera,5.0,170.0,13000.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,97000.0,Asistida,Delantera,5.0,125.0,9500.0
+Ford Focus III 1.6 S,Buenos Aires Interior,1.6 S,Rojo,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,97520.0,Eléctrica,Delantera,5.0,125.0,12500.0
+Ford Focus III 2.0 Se Plus At6,Bs.As. G.B.A. Oeste,2.0 Se Plus At6,,Ford,Focus III,2019,Nafta,5.0,Automática,2.0,Hatchback,93000.0,Eléctrica,Delantera,5.0,170.0,17600.0
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Oeste,2.0 Se,Blanco,Ford,Focus III,2017,Nafta,5.0,Manual,2.0,Hatchback,60000.0,Eléctrica,Delantera,5.0,170.0,13000.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Norte,2.0 Titanium At6,Gris,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,78000.0,Eléctrica,Delantera,5.0,170.0,15500.0
+Ford Focus III 1.6 S,Bs.As. Costa Atlántica,1.6 S,Rojo,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,83700.0,Asistida,Delantera,5.0,125.0,13000.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,125000.0,Asistida,Delantera,5.0,170.0,9933.33
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Azul,Ford,Focus III,2017,Nafta,5.0,Manual,1.6,Hatchback,127000.0,Eléctrica,Delantera,5.0,125.0,12200.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2014,Nafta,5.0,Manual,1.6,Hatchback,108400.0,Asistida,Delantera,5.0,125.0,11000.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Gris,Ford,Focus III,2016,Nafta,4.0,Manual,1.6,Sedán,108000.0,Eléctrica,Delantera,5.0,125.0,10500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,,Ford,Focus III,2016,Nafta,5.0,Manual,1.6,Hatchback,112000.0,Eléctrica,Delantera,5.0,125.0,11000.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Norte,2.0 Titanium At6,Gris,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,78000.0,Eléctrica,Delantera,5.0,170.0,20000.0
+Ford Focus III 2.0 Se Plus At6,Santa Fe,2.0 Se Plus At6,Rojo,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,68800.0,Eléctrica,Delantera,5.0,170.0,10533.33
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Gris,Ford,Focus III,2015,Nafta,5.0,Automática,2.0,Hatchback,77008.0,Asistida,Delantera,5.0,170.0,12000.0
+Ford Focus III 2.0 Se Plus Mt,Ubicación no encontrada,2.0 Se Plus Mt,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,99000.0,hydraulic,Delantera,5.0,170.0,11266.0
+Ford Focus III 2.0 Titanium At6,Capital Federal,2.0 Titanium At6,,Ford,Focus III,2018,Nafta,5.0,Automática,2.0,Hatchback,70705.0,Eléctrica,Delantera,5.0,170.0,14500.0
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,1.6,Hatchback,133000.0,Asistida,Delantera,5.0,125.0,9333.33
+Ford Focus III 2.0 Se,Bs.As. G.B.A. Oeste,2.0 Se,Negro,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,151000.0,Eléctrica,Delantera,5.0,170.0,9500.0
+Ford Focus III 2.0 Se,Ubicación no encontrada,2.0 Se,Gris,Ford,Focus III,2018,Nafta,5.0,Manual,2.0,Hatchback,77000.0,Eléctrica,Delantera,5.0,170.0,12040.0
+Ford Focus III 1.6 S con GNC 5ta.,La Pampa,1.6 S con GNC 5ta.,Azul,Ford,Focus III,2014,Nafta/GNC,4.0,Manual,1.6,Hatchback,185000.0,Eléctrica,Delantera,5.0,125.0,8666.67
+Ford Focus III 1.6 S,Ubicación no encontrada,1.6 S,,Ford,Focus III,2018,Nafta,5.0,Manual,1.6,Hatchback,89000.0,Eléctrica,Delantera,5.0,125.0,12500.0
+Ford Focus III 2.0 Se Plus Mt,Capital Federal,2.0 Se Plus Mt,Azul,Ford,Focus III,2016,Nafta,5.0,Manual,2.0,Hatchback,59000.0,Eléctrica,Delantera,5.0,170.0,16500.0
+Ford Focus III 2.0 Se Plus Mt,Bs.As. G.B.A. Norte,2.0 Se Plus Mt,Gris,Ford,Focus III,2015,Nafta,5.0,Manual,2.0,Hatchback,104000.0,Asistida,Delantera,5.0,170.0,11900.0
+Ford Focus III 2.0 Se Plus At6,Ubicación no encontrada,2.0 Se Plus At6,Blanco,Ford,Focus III,2016,Nafta,5.0,Automática,2.0,Hatchback,90500.0,Eléctrica,Delantera,5.0,170.0,12600.0
+Ford Focus III 1.6 Sedan S,Ubicación no encontrada,1.6 Sedan S,Azul,Ford,Focus III,2015,Nafta,4.0,Manual,1.6,Sedán,135000.0,Asistida,Delantera,5.0,125.0,10000.0
+Ford Focus III 2.0 Sedan Se,Ubicación no encontrada,2.0 Sedan Se,Blanco,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,79000.0,Eléctrica,Delantera,5.0,170.0,13200.0
+Ford Focus III 2.0 Se Plus At6,Córdoba,2.0 Se Plus At6,,Ford,Focus III,2014,Nafta,5.0,Automática,2.0,Hatchback,125800.0,Asistida,Delantera,5.0,170.0,9500.0
+Ford Focus III 1.6 S,Bs.As. G.B.A. Sur,1.6 S,Negro,Ford,Focus III,2019,Nafta,5.0,Manual,1.6,Hatchback,70000.0,Eléctrica,Delantera,5.0,125.0,14900.0
+Ford Focus III 2.0 Sedan Se,Bs.As. G.B.A. Sur,2.0 Sedan Se,,Ford,Focus III,2017,Nafta,4.0,Manual,2.0,Sedán,145000.0,Eléctrica,Delantera,5.0,170.0,11000.0
+Ford Focus III 2.0 Sedan Titanium At6,Ubicación no encontrada,2.0 Sedan Titanium At6,Gris,Ford,Focus III,2014,Nafta,4.0,Automática,2.0,Sedán,180000.0,Asistida,Delantera,5.0,170.0,14000.0
+Ford Focus III 2.0 Sedan Se Plus Mt,Capital Federal,2.0 Sedan Se Plus Mt,,Ford,Focus III,2016,Nafta,4.0,Manual,2.0,Sedán,88600.0,Eléctrica,Delantera,5.0,170.0,13500.0
+Ford Focus III 2.0 Titanium At6,Bs.As. G.B.A. Norte,2.0 Titanium At6,,Ford,Focus III,2017,Nafta,5.0,Automática,2.0,Hatchback,112000.0,Eléctrica,Delantera,5.0,170.0,15700.0

@@ -1,0 +1,998 @@
+Título,Ubicación,Versión,Color,Marca,Modelo,Año,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Kilómetros,Dirección,Control de tracción,Capacidad de personas,Potencia,Precio
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,93000.0,Hidráulica,Delantera,2.0,114.0,12666.67
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Confort 5a 1.6 Sce,Plateado,Renault,Kangoo,2019,Nafta,5.0,Manual,1.6,Furgón,82500.0,Hidráulica,Delantera,2.0,114.0,16000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,156000.0,Hidráulica,Delantera,2.0,95.0,11500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,95.0,11000.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Gris,Renault,Kangoo,2020,Diésel,5.0,Manual,1.5,Furgón,45800.0,Hidráulica,Delantera,2.0,65.0,13666.67
+Renault Kangoo Confort 1.6,Neuquén,Confort 1.6,,Renault,Kangoo,2010,Nafta,2.0,Manual,1.6,Furgón,350000.0,Hidráulica,Delantera,2.0,95.0,5000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Buenos Aires Interior,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,200000.0,Hidráulica,Delantera,2.0,95.0,7333.33
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Ubicación no encontrada,1.5 2 Dci Ath Da Aa Cd 1plc,Beige,Renault,Kangoo,2010,Diésel,5.0,Manual,1.5,Furgón,165000.0,hydraulic,Delantera,5.0,65.0,6333.33
+Renault Kangoo Ii Express Confort 1.6 Sce,Capital Federal,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,67000.0,Hidráulica,Delantera,2.0,114.0,15500.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Bs.As. G.B.A. Oeste,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2021,Diésel,5.0,Manual,1.5,Furgón,46500.0,Hidráulica,Delantera,2.0,65.0,16900.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Capital Federal,Ii Express Confort 5a 1.5 Dci,Gris,Renault,Kangoo,2021,Diésel,5.0,Manual,1.5,Furgón,45000.0,Hidráulica,Delantera,2.0,65.0,17000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,78000.0,Hidráulica,Delantera,2.0,95.0,13800.0
+Renault Kangoo 1.6 Sce Stepway,Bs.As. G.B.A. Sur,1.6 Sce Stepway,,Renault,Kangoo,2023,Nafta,4.0,Manual,1.6,Monovolumen,5500.0,Hidráulica,Delantera,5.0,114.0,21000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2016,Diésel,3.0,Manual,1.5,Furgón,107000.0,Hidráulica,Delantera,2.0,65.0,9033.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Santa Fe,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,139000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo 1.9 Rld Athentique Aa Lc,Bs.As. G.B.A. Norte,1.9 Rld Athentique Aa Lc,,Renault,Kangoo,2006,Diésel,5.0,Automática,1.9,Rural,10000.0,Hidráulica,Delantera,5.0,65.0,6500.0
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Buenos Aires Interior,1.6 Furgon Ph3 Gran Confort Lc,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,210000.0,Hidráulica,Delantera,2.0,95.0,6666.67
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Oeste,1.6 2 Furgon Confort Aa Da Svt 1plc,Gris,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,135000.0,Hidráulica,Delantera,2.0,95.0,6000.0
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Capital Federal,1.6 Ph3 Authentique 1plc,Blanco,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,207000.0,Hidráulica,Delantera,5.0,95.0,7300.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,84000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Bs.As. G.B.A. Oeste,1.5 2 Dci Ath Da Aa Cd 1plc,,Renault,Kangoo,2008,Diésel,4.0,Automática,1.5,Monovolumen,140000.0,Hidráulica,Delantera,5.0,65.0,1333.33
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Confort 5a 1.6 Sce,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,105000.0,Hidráulica,Delantera,2.0,114.0,11666.67
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2022,Diésel,5.0,Manual,1.5,Furgón,33000.0,Hidráulica,Delantera,2.0,65.0,16499.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,173000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Plateado,Renault,Kangoo,2016,Nafta/GNC,5.0,Manual,1.6,Furgón,168000.0,Hidráulica,Delantera,2.0,95.0,12000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,152500.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,140000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo Sportway,Bs.As. Costa Atlántica,Sportway,Rojo,Renault,Kangoo,2007,GNC,5.0,Manual,1.9,Rural,140000.0,Hidráulica,Delantera,5.0,65.0,6200.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort 5as Lc,Plateado,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,98000.0,Hidráulica,Delantera,2.0,95.0,11860.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Furgón,70000.0,Hidráulica,Delantera,2.0,65.0,15000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,83300.0,Hidráulica,Delantera,2.0,95.0,7305.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Plateado,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,79500.0,Hidráulica,Delantera,2.0,95.0,9800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,12000.0,Hidráulica,Delantera,2.0,95.0,15933.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2009,Nafta,4.0,Manual,1.6,Furgón,103098.0,hydraulic,Delantera,5.0,65.0,7000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Diésel,3.0,Manual,1.5,Furgón,112000.0,Hidráulica,Delantera,2.0,65.0,9900.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,27000.0,Hidráulica,Delantera,2.0,114.0,12000.0
+Renault Kangoo Ii Express Confort 1.5 Dci,Ubicación no encontrada,Ii Express Confort 1.5 Dci,Gris,Renault,Kangoo,2018,Diésel,3.0,Manual,1.5,Furgón,93500.0,Hidráulica,Delantera,2.0,65.0,11333.33
+Renault Kangoo 1.5 Dci Stepway,Bs.As. G.B.A. Sur,1.5 Dci Stepway,Gris,Renault,Kangoo,2022,Diésel,3.0,Manual,1.5,Monovolumen,55000.0,Hidráulica,Delantera,2.0,89.0,16400.0
+Renault Kangoo 1.5 2 Dci Sportway Abcp Lc,Capital Federal,1.5 2 Dci Sportway Abcp Lc,,Renault,Kangoo,2013,Diésel,4.0,Manual,1.5,Monovolumen,99000.0,Hidráulica,Delantera,5.0,65.0,8500.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Ubicación no encontrada,1.6 Ph3 Authentique Plus Lc,,Renault,Kangoo,2016,Nafta,4.0,Manual,1.6,Monovolumen,118000.0,Hidráulica,Delantera,5.0,95.0,9666.67
+Renault Kangoo 1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,Capital Federal,1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,Gris,Renault,Kangoo,2012,Nafta/GNC,4.0,Manual,1.6,Monovolumen,89000.0,Hidráulica,Delantera,5.0,65.0,9800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,64000.0,Hidráulica,Delantera,2.0,95.0,13000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,142000.0,Hidráulica,Delantera,2.0,95.0,7600.0
+Renault Kangoo 1.5 Dci Stepway,Capital Federal,1.5 Dci Stepway,Rojo,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Monovolumen,11000.0,Hidráulica,Delantera,2.0,89.0,20000.0
+Renault Kangoo 1.6 2 Furgon Confort 5as Lc Cd,Bs.As. G.B.A. Sur,1.6 2 Furgon Confort 5as Lc Cd,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,180000.0,Hidráulica,Delantera,2.0,95.0,7400.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1000.0,Hidráulica,Delantera,2.0,95.0,13320.0
+Renault Kangoo Ii Express Emotion 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 1.6 Sce,Gris,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,161000.0,Hidráulica,Delantera,2.0,114.0,11600.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta/GNC,3.0,Manual,1.6,Furgón,135000.0,Hidráulica,Delantera,2.0,95.0,8333.33
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,50000.0,Hidráulica,Delantera,2.0,114.0,14000.0
+Renault Kangoo 1.9 Rld Athentique 1 Plc,Chubut,1.9 Rld Athentique 1 Plc,,Renault,Kangoo,2006,Diésel,5.0,Automática,1.9,Rural,200000.0,Hidráulica,Delantera,5.0,65.0,3200.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2016,Nafta/GNC,5.0,Manual,1.6,Furgón,97000.0,Hidráulica,Delantera,2.0,95.0,11500.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,78500.0,Hidráulica,Delantera,2.0,114.0,13599.99
+Renault Kangoo 1.6 2 Authentique Da Aa Cd 1plc,Bs.As. G.B.A. Oeste,1.6 2 Authentique Da Aa Cd 1plc,,Renault,Kangoo,2012,Nafta,4.0,Manual,1.6,Monovolumen,200000.0,Hidráulica,Delantera,5.0,95.0,6000.0
+Renault Kangoo 1.6 2 Furgon Confort 5as Lc Cd,Capital Federal,1.6 2 Furgon Confort 5as Lc Cd,Blanco,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,163000.0,Hidráulica,Delantera,2.0,95.0,5600.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Córdoba,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,86000.0,Hidráulica,Delantera,2.0,114.0,20500.0
+Renault Kangoo 1.5 Dci Stepway,Bs.As. G.B.A. Norte,1.5 Dci Stepway,Gris,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Monovolumen,9800.0,Hidráulica,Delantera,2.0,89.0,22000.0
+Renault Kangoo Full Doble Portón,Bs.As. G.B.A. Oeste,full doble portón,,Renault,Kangoo,2013,Nafta/GNC,5.0,Manual,1.6,Furgón,239000.0,Hidráulica,Delantera,2.0,95.0,7300.0
+Renault Kangoo 1.9 D Confort,Bs.As. G.B.A. Sur,1.9 D Confort,Blanco,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,192000.0,Hidráulica,Delantera,5.0,65.0,2566.67
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,244108.0,Hidráulica,Delantera,2.0,114.0,10866.67
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,50000.0,Hidráulica,Delantera,2.0,114.0,11933.33
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,34000.0,Hidráulica,Delantera,2.0,114.0,15500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,100000.0,Hidráulica,Delantera,2.0,95.0,11500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Gris,Renault,Kangoo,2017,Nafta/GNC,5.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,95.0,8811.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,190000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo 1.6 Confort,Ubicación no encontrada,1.6 Confort,Blanco,Renault,Kangoo,2007,Nafta,4.0,Manual,1.6,Monovolumen,173000.0,Hidráulica,Delantera,5.0,95.0,10000.0
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Bs.As. G.B.A. Sur,1.5 2 Furgon Confort Cd Da Svt 1plc,Blanco,Renault,Kangoo,2008,Diésel,3.0,Manual,1.5,Furgón,110000.0,Hidráulica,Delantera,2.0,65.0,5900.0
+Renault Kangoo Ii Stepway 1.6 Sceii,Capital Federal,Ii Stepway 1.6 Sceii,Blanco,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Monovolumen,58000.0,Hidráulica,Delantera,2.0,114.0,16000.0
+Renault Kangoo Ii Express Confort 1.5 Dci,Bs.As. Costa Atlántica,Ii Express Confort 1.5 Dci,,Renault,Kangoo,2019,Diésel,3.0,Manual,1.5,Furgón,35000.0,Hidráulica,Delantera,2.0,65.0,17000.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Aa Da Svt 1plc,Blanco,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,173000.0,Hidráulica,Delantera,2.0,95.0,5666.67
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Bs.As. Costa Atlántica,1.6 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,95.0,8000.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Capital Federal,1.6 2 Furgon Confort Cd Svt 1plc,Gris,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,157000.0,Hidráulica,Delantera,2.0,95.0,6500.0
+Renault Kangoo 1.9 Rld Authentique Aa Lc,Buenos Aires Interior,1.9 Rld Authentique Aa Lc,,Renault,Kangoo,2004,Diésel,5.0,Manual,1.9,Rural,250000.0,,Delantera,5.0,65.0,3666.67
+Renault Kangoo 1.9,Bs.As. G.B.A. Oeste,1.9,,Renault,Kangoo,2010,Diésel,6.0,Manual,1.6,Furgón,179000.0,Hidráulica,Delantera,2.0,95.0,3666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Plateado,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,100000.0,Hidráulica,Delantera,2.0,95.0,8500.0
+Renault Kangoo Ii Express Emotion 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 1.6 Sce,Gris,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,36000.0,Hidráulica,Delantera,2.0,114.0,14666.67
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Emotion 5a 1.6 Sce,,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,32000.0,Hidráulica,Delantera,2.0,114.0,18500.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Capital Federal,1.6 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,95000.0,Hidráulica,Delantera,2.0,95.0,9400.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,93000.0,Hidráulica,Delantera,2.0,95.0,11000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,85000.0,Hidráulica,Delantera,2.0,95.0,9600.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Gris,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,67200.0,Hidráulica,Delantera,2.0,114.0,15666.67
+Renault Kangoo 1.6SCe Express Confort 5A,Ubicación no encontrada,1.6SCe Express Confort 5A,Blanco,Renault,Kangoo,2023,Nafta,5.0,Manual,1.6,Furgón,500.0,Asistida,Delantera,2.0,114.0,14333.33
+Renault Kangoo 1.6 2 Sportway 7as Lc Abcp,Santa Cruz,1.6 2 Sportway 7as Lc Abcp,,Renault,Kangoo,2011,Nafta,4.0,Manual,1.6,Monovolumen,162000.0,Hidráulica,Delantera,7.0,95.0,5666.67
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Ubicación no encontrada,1.6 2 Ath Plus Da Aa Cd Pk Lc,Azul,Renault,Kangoo,2011,Nafta,4.0,Automática,1.6,Monovolumen,330000.0,Hidráulica,Delantera,7.0,95.0,6300.0
+Renault Kangoo 1.6 2 Furgon Confort 5as Lc Cd,Ubicación no encontrada,1.6 2 Furgon Confort 5as Lc Cd,,Renault,Kangoo,2011,Nafta,3.0,Manual,1.6,Furgón,125000.0,Hidráulica,Delantera,2.0,95.0,5866.67
+Renault Kangoo 1.5 2 Furgon Confort Svt 5as Ca Lc,Ubicación no encontrada,1.5 2 Furgon Confort Svt 5as Ca Lc,,Renault,Kangoo,2010,Diésel,3.0,Manual,1.5,Furgón,200000.0,Hidráulica,Delantera,2.0,65.0,5000.0
+Renault Kangoo 1.5 2 Furgon Confort Svt 5as Ca Lc,Bs.As. G.B.A. Norte,1.5 2 Furgon Confort Svt 5as Ca Lc,Gris,Renault,Kangoo,2012,Diésel,3.0,Manual,1.5,Furgón,183000.0,Hidráulica,Delantera,2.0,65.0,4866.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Córdoba,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,117000.0,Hidráulica,Delantera,2.0,95.0,9000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2018,Diésel,3.0,Manual,1.5,Furgón,159000.0,Hidráulica,Delantera,2.0,65.0,11866.67
+Renault Kangoo Ii Express Confort 1.5 Dci,Ubicación no encontrada,Ii Express Confort 1.5 Dci,Blanco,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Furgón,21494.0,Hidráulica,Delantera,2.0,65.0,15304.67
+Renault Kangoo EX. 1.6 PROFESIONAL SCE L18,Ubicación no encontrada,EX. 1.6 PROFESIONAL SCE L18,Gris oscuro,Renault,Kangoo,2018,Nafta,6.0,Manual,1.6,Furgón,150500.0,Asistida,Delantera,2.0,95.0,8946.67
+Renault Kangoo 1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,Bs.As. G.B.A. Sur,1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,,Renault,Kangoo,2012,Diésel,4.0,Automática,1.5,Monovolumen,147324.0,Hidráulica,Delantera,5.0,65.0,5666.67
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Ubicación no encontrada,1.6 Ph3 Authentique 1plc,Gris,Renault,Kangoo,2015,Nafta/GNC,5.0,Manual,1.6,Monovolumen,110000.0,Hidráulica,Delantera,5.0,95.0,9333.33
+Renault Kangoo EXPRESS 1.6 SCE CONFORT L18,Ubicación no encontrada,EXPRESS 1.6 SCE CONFORT L18,Blanco,Renault,Kangoo,2023,Nafta,6.0,Manual,1.6,Furgón,49300.0,Hidráulica,Delantera,2.0,114.0,15400.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1000.0,Hidráulica,Delantera,2.0,95.0,15330.0
+Renault Kangoo 1.6 Ph3 Sportway Lc,Bs.As. G.B.A. Sur,1.6 Ph3 Sportway Lc,,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,247000.0,Hidráulica,Delantera,5.0,95.0,9500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2018,Nafta/GNC,4.0,Manual,1.6,Furgón,75000.0,Hidráulica,Delantera,2.0,95.0,9666.67
+Renault Kangoo 1.5 Ii Express Confort Dci Mt,Ubicación no encontrada,1.5 II EXPRESS CONFORT DCI MT,Gris,Renault,Kangoo,2024,Diésel,3.0,Manual,1.6,Furgón,1000.0,Asistida,Delantera,,,13640.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Bs.As. G.B.A. Norte,Ii Express Confort 5a 1.5 Dci,,Renault,Kangoo,2022,Diésel,3.0,Manual,1.5,Furgón,19000.0,Hidráulica,Delantera,2.0,65.0,17000.0
+Renault Kangoo 1.6 Sce Stepway,Bs.As. G.B.A. Sur,1.6 Sce Stepway,Blanco,Renault,Kangoo,2023,Nafta,4.0,Manual,1.6,Monovolumen,1000.0,Hidráulica,Delantera,5.0,114.0,22500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,155000.0,Hidráulica,Delantera,2.0,95.0,7666.67
+Renault Kangoo EXPRESS 1.6 SCE EMOTION L18,Ubicación no encontrada,EXPRESS 1.6 SCE EMOTION L18,Rojo,Renault,Kangoo,2019,Nafta,5.0,Manual,1.6,Furgón,62900.0,Hidráulica,Delantera,2.0,114.0,13866.67
+Renault Kangoo 1.9 D Confort,Bs.As. G.B.A. Oeste,1.9 D Confort,Blanco,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,195000.0,Hidráulica,Delantera,5.0,65.0,5500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Tucumán,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,190000.0,Hidráulica,Delantera,2.0,95.0,6333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,211000.0,Hidráulica,Delantera,2.0,95.0,8000.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Capital Federal,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,165000.0,Hidráulica,Delantera,2.0,95.0,8000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta/GNC,3.0,Manual,1.6,Furgón,158000.0,Hidráulica,Delantera,2.0,114.0,12333.33
+Renault Kangoo 1.5 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Sur,1.5 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2012,Diésel,3.0,Manual,1.5,Furgón,270000.0,Hidráulica,Delantera,2.0,65.0,5800.0
+Renault Kangoo 1.6 Sce Furgon Zen,Bs.As. G.B.A. Sur,1.6 Sce Furgon Zen,,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Furgón,29000.0,Hidráulica,Delantera,5.0,114.0,18000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,134000.0,Hidráulica,Delantera,2.0,95.0,9900.0
+Renault Kangoo 1.9 Athentique 2PL Aa,Bs.As. G.B.A. Norte,1.9 Athentique 2PL Aa,Verde,Renault,Kangoo,2006,Diésel,5.0,Manual,1.9,Rural,226000.0,Hidráulica,Delantera,5.0,65.0,4600.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,114000.0,Hidráulica,Delantera,2.0,95.0,10700.0
+Renault Kangoo Ii Express Emotion 1.6 Sce,Capital Federal,Ii Express Emotion 1.6 Sce,,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,17000.0,Hidráulica,Delantera,2.0,114.0,15000.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Ubicación no encontrada,1.6 Ph3 Authentique Plus Lc,Rojo,Renault,Kangoo,2017,Nafta,4.0,Manual,1.6,Monovolumen,72000.0,Hidráulica,Delantera,5.0,95.0,9333.33
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Oeste,1.5 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Diésel,3.0,Manual,1.5,Furgón,82600.0,Hidráulica,Delantera,2.0,65.0,9900.0
+Renault Kangoo 1.5 2 Svt Dci Confort 1plc Aa Pkele,Bs.As. G.B.A. Oeste,1.5 2 Svt Dci Confort 1plc Aa Pkele,Gris,Renault,Kangoo,2009,Diésel,3.0,Manual,1.5,Furgón,190000.0,Hidráulica,Delantera,2.0,65.0,7000.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Bs.As. G.B.A. Oeste,1.5 2 Dci Ath Da Aa Cd 1plc,,Renault,Kangoo,2008,Diésel,4.0,Automática,1.5,Monovolumen,122000.0,Hidráulica,Delantera,5.0,65.0,5000.0
+Renault Kangoo Express 1.6 Sce Confort L18,Ubicación no encontrada,EXPRESS 1.6 SCE CONFORT L18,Plata,Renault,Kangoo,2022,Nafta,6.0,Manual,1.6,Furgón,29200.0,Hidráulica,Delantera,2.0,114.0,15333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Buenos Aires Interior,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,154791.0,Hidráulica,Delantera,2.0,95.0,7500.0
+Renault Kangoo 1.6 16v Nafta Furgon,Capital Federal,1.6 16v NAFTA Furgon,,Renault,Kangoo,2017,Nafta,5.0,Manual,1.6,Furgón,138000.0,Hidráulica,Delantera,2.0,95.0,8900.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Bs.As. G.B.A. Norte,1.5 2 Dci Ath Da Aa Cd 1plc,Azul,Renault,Kangoo,2011,Diésel,4.0,Automática,1.5,Monovolumen,200000.0,Hidráulica,Delantera,5.0,65.0,3200.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 1plc,Plateado,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,106600.0,Hidráulica,Delantera,2.0,95.0,8900.0
+Renault Kangoo 1.6 2 Sportway Abcp,Bs.As. G.B.A. Norte,1.6 2 Sportway Abcp,,Renault,Kangoo,2008,Nafta,4.0,Manual,1.6,Monovolumen,216000.0,Hidráulica,Delantera,5.0,95.0,5300.0
+Renault Kangoo 1.6CD AA DA SVT1PL,Bs.As. G.B.A. Oeste,1.6CD AA DA SVT1PL,Gris,Renault,Kangoo,2011,Nafta,3.0,Manual,1.5,Furgón,126000.0,Hidráulica,Delantera,5.0,65.0,6500.0
+Renault Kangoo Ii Express Profesional 1.6 Sce,Ubicación no encontrada,Ii Express Profesional 1.6 Sce,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,82000.0,Hidráulica,Delantera,2.0,114.0,10533.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,144000.0,Hidráulica,Delantera,2.0,95.0,8333.33
+Renault Kangoo Confort 5a 1.5 dci,Capital Federal,Confort 5a 1.5 dci,,Renault,Kangoo,2021,Diésel,5.0,Manual,1.5,Furgón,41000.0,Hidráulica,Delantera,2.0,65.0,18000.0
+Renault Kangoo 1.4 Rn Pk,Bs.As. G.B.A. Sur,1.4 Rn Pk,,Renault,Kangoo,1999,Nafta,5.0,Manual,1.4,Rural,160000.0,Mecánica,Delantera,5.0,77.0,2666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Mendoza,1.6 Furgon Ph3 Confort 5as Lc,Azul,Renault,Kangoo,2015,Nafta,5.0,Manual,1.6,Furgón,170000.0,Hidráulica,Delantera,2.0,95.0,6666.67
+Renault Kangoo 1.5 Dci Stepway,Bs.As. G.B.A. Sur,1.5 Dci Stepway,Rojo,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,34000.0,Hidráulica,Delantera,2.0,89.0,19800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,184000.0,Hidráulica,Delantera,2.0,95.0,6666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Buenos Aires Interior,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,27000.0,Hidráulica,Delantera,2.0,95.0,18000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,125000.0,Hidráulica,Delantera,2.0,95.0,6660.0
+Renault Kangoo 1.5 Dci 5as.,Bs.As. G.B.A. Norte,1.5 Dci 5as.,,Renault,Kangoo,2017,Diésel,6.0,Manual,1.6,Furgón,105000.0,Hidráulica,Delantera,2.0,95.0,11800.0
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Ubicación no encontrada,1.6 Furgon Ph3 Gran Confort Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,37000.0,Hidráulica,Delantera,2.0,95.0,11000.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,35000.0,Hidráulica,Delantera,2.0,114.0,12166.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,80000.0,Hidráulica,Delantera,2.0,95.0,9900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,94000.0,Hidráulica,Delantera,2.0,95.0,9200.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,,Renault,Kangoo,2020,Diésel,3.0,Manual,1.5,Furgón,84000.0,Hidráulica,Delantera,2.0,65.0,12666.67
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Norte,1.5 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2018,Diésel,5.0,Manual,1.5,Furgón,90000.0,Hidráulica,Delantera,2.0,65.0,16900.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Capital Federal,Ii Express Confort 1.6 Sce,Plateado,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,10000.0,Hidráulica,Delantera,2.0,114.0,17900.0
+Renault Kangoo 1.6 Sce Zen,Bs.As. G.B.A. Norte,1.6 Sce Zen,,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Monovolumen,61000.0,Hidráulica,Delantera,5.0,114.0,14000.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Bs.As. G.B.A. Sur,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2020,Diésel,3.0,Manual,1.5,Furgón,31000.0,Hidráulica,Delantera,2.0,65.0,15933.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,95.0,9000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,95.0,11700.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Entre Ríos,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,94000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Bs.As. G.B.A. Sur,1.6 2 Confort 5as Aa Da Svt 1plc,Gris,Renault,Kangoo,2014,Nafta/GNC,3.0,Manual,1.6,Furgón,161000.0,Hidráulica,Delantera,2.0,95.0,8500.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Córdoba,1.6 Ph3 Authentique Plus Lc,Rojo,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Monovolumen,140000.0,Hidráulica,Delantera,5.0,95.0,13500.0
+Renault Kangoo Ii Express Emotion 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,107000.0,Hidráulica,Delantera,2.0,114.0,11933.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Rojo,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,134000.0,Hidráulica,Delantera,2.0,95.0,11200.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,5.0,Manual,1.6,Furgón,27000.0,Hidráulica,Delantera,2.0,114.0,19000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,140000.0,Hidráulica,Delantera,2.0,95.0,8900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Rojo,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,123000.0,Hidráulica,Delantera,2.0,95.0,8000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2014,Nafta,3.0,Manual,1.5,Furgón,129000.0,Hidráulica,Delantera,2.0,65.0,5333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,95.0,8000.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Buenos Aires Interior,1.6 Ph3 Authentique Plus Lc,Azul,Renault,Kangoo,2013,Nafta/GNC,4.0,Manual,1.6,Monovolumen,242000.0,Hidráulica,Delantera,5.0,95.0,6333.33
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Plateado,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,90000.0,Hidráulica,Delantera,2.0,114.0,16500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Buenos Aires Interior,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,118000.0,Hidráulica,Delantera,2.0,95.0,8333.33
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Ubicación no encontrada,1.6 2 Ath Plus Da Aa Cd Pk Lc,Dorado,Renault,Kangoo,2014,Nafta,4.0,Automática,1.6,Monovolumen,115000.0,Hidráulica,Delantera,7.0,95.0,8600.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,175000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Capital Federal,1.5 2 Dci Ath Da Aa Cd 1plc,,Renault,Kangoo,2009,Diésel,4.0,Automática,1.5,Monovolumen,203700.0,Hidráulica,Delantera,5.0,65.0,7000.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,25097.0,Hidráulica,Delantera,2.0,114.0,13393.33
+Renault Kangoo 1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,Bs.As. G.B.A. Sur,1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,,Renault,Kangoo,2012,Diésel,4.0,Automática,1.5,Monovolumen,310000.0,Hidráulica,Delantera,5.0,65.0,4333.33
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Ubicación no encontrada,1.5 2 Furgon Confort Cd Da Svt 1plc,,Renault,Kangoo,2014,Diésel,3.0,Manual,1.5,Furgón,186000.0,Hidráulica,Delantera,2.0,65.0,8000.0
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Capital Federal,1.6 Furgon Ph3 Gran Confort Lc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,113120.0,Hidráulica,Delantera,2.0,95.0,12400.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2022,Diésel,5.0,Manual,1.5,Furgón,33050.0,Hidráulica,Delantera,2.0,65.0,16498.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,160000.0,Hidráulica,Delantera,2.0,95.0,6333.33
+Renault Kangoo 1.5 2 Dci Sportway Abcp Lc,Bs.As. G.B.A. Sur,1.5 2 Dci Sportway Abcp Lc,,Renault,Kangoo,2013,Diésel,4.0,Manual,1.5,Monovolumen,75000.0,Hidráulica,Delantera,5.0,65.0,11000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Capital Federal,1.5 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2015,Diésel,3.0,Manual,1.5,Furgón,75500.0,Hidráulica,Delantera,2.0,65.0,9200.0
+Renault Kangoo 1.5 2 Furgon Gran Confot Lc,Entre Ríos,1.5 2 Furgon Gran Confot Lc,Gris,Renault,Kangoo,2012,Diésel,3.0,Manual,1.5,Furgón,340000.0,Hidráulica,Delantera,2.0,65.0,6000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,156000.0,Hidráulica,Delantera,2.0,95.0,8500.0
+Renault Kangoo 1.5 DCI GRAND CONFORT 2PLC,Ubicación no encontrada,1.5 DCI GRAND CONFORT 2PLC,Blanco,Renault,Kangoo,2009,Diésel,5.0,Manual,1.5,Furgón,181000.0,Hidráulica,Delantera,2.0,65.0,5000.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Norte,1.6 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,218000.0,Hidráulica,Delantera,2.0,95.0,7000.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Capital Federal,1.6 Ph3 Authentique Plus Lc,,Renault,Kangoo,2017,Nafta,4.0,Manual,1.6,Monovolumen,130000.0,Hidráulica,Delantera,5.0,95.0,12600.0
+Renault Kangoo CONFORT 1.6CD AA DA SVT1PL,Córdoba,CONFORT 1.6CD AA DA SVT1PL,Blanco,Renault,Kangoo,2012,Nafta/GNC,3.0,Manual,1.6,Furgón,179000.0,Hidráulica,Delantera,2.0,95.0,5666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,122800.0,Hidráulica,Delantera,2.0,95.0,11500.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc 7as,Buenos Aires Interior,1.6 Ph3 Authentique Plus Lc 7as,,Renault,Kangoo,2013,Nafta,4.0,Manual,1.6,Monovolumen,147000.0,Hidráulica,Delantera,7.0,95.0,10000.0
+Renault Kangoo 1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,Ubicación no encontrada,1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,,Renault,Kangoo,2014,Diésel,4.0,Automática,1.5,Monovolumen,111111.0,Hidráulica,Delantera,5.0,65.0,4333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,153000.0,Hidráulica,Delantera,2.0,95.0,7566.67
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Rojo,Renault,Kangoo,2023,Nafta,4.0,Manual,1.6,Monovolumen,1150.0,Hidráulica,Delantera,5.0,114.0,25500.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Capital Federal,1.6 2 Furgon Confort Cd Svt 1plc,Blanco,Renault,Kangoo,2010,Nafta,3.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,95.0,4000.0
+Renault Kangoo Ii Stepway 1.6 Sceii,Ubicación no encontrada,Ii Stepway 1.6 Sceii,Plateado,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Monovolumen,106000.0,Hidráulica,Delantera,2.0,114.0,13933.33
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,20000.0,Hidráulica,Delantera,2.0,114.0,12066.67
+Renault Kangoo Furgon 3p Aire,Bs.As. G.B.A. Norte,Furgon 3p aire,,Renault,Kangoo,2011,Nafta/GNC,3.0,Manual,1.5,Furgón,169000.0,Hidráulica,Delantera,2.0,65.0,6500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. Costa Atlántica,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,230000.0,Hidráulica,Delantera,2.0,95.0,9000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. Costa Atlántica,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,132000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo Stepway 1.5 Dci,Bs.As. G.B.A. Oeste,Stepway 1.5 Dci,,Renault,Kangoo,2022,Diésel,3.0,Manual,1.5,Monovolumen,9000.0,Hidráulica,Delantera,2.0,65.0,20000.0
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Ubicación no encontrada,1.5 2 Furgon Confort Cd Da Svt 1plc,,Renault,Kangoo,2011,Diésel,3.0,Manual,1.5,Furgón,208000.0,Hidráulica,Delantera,2.0,65.0,4333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2015,Nafta/GNC,3.0,Manual,1.6,Furgón,163000.0,Hidráulica,Delantera,2.0,95.0,11500.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,75000.0,Hidráulica,Delantera,2.0,114.0,15333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,89000.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo 1.6 2 Sportway Abcp,Ubicación no encontrada,1.6 2 Sportway Abcp,Gris,Renault,Kangoo,2009,Nafta,4.0,Manual,1.6,Monovolumen,150000.0,Hidráulica,Delantera,5.0,95.0,7900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,104600.0,Hidráulica,Delantera,2.0,95.0,12000.0
+Renault Kangoo 1.5 Dci Stepway,Bs.As. G.B.A. Norte,1.5 Dci Stepway,Plateado,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,59500.0,Hidráulica,Delantera,2.0,89.0,21200.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Capital Federal,1.6 2 Furgon Confort Cd Svt 1plc,Amarillo,Renault,Kangoo,2013,Nafta,5.0,Manual,1.6,Furgón,160000.0,Hidráulica,Delantera,2.0,95.0,6400.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,105000.0,Hidráulica,Delantera,2.0,95.0,10500.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Bs.As. G.B.A. Norte,Ii Express Confort 5a 1.6 Sce,,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,34000.0,Hidráulica,Delantera,2.0,114.0,18500.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Ubicación no encontrada,1.6 Ph3 Authentique Plus Lc,Gris,Renault,Kangoo,2014,Nafta/GNC,4.0,Manual,1.6,Monovolumen,135000.0,Hidráulica,Delantera,5.0,95.0,8300.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1100.0,Hidráulica,Delantera,2.0,114.0,15460.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Norte,Ii Express Confort 1.6 Sce,Plateado,Renault,Kangoo,2022,Nafta,5.0,Manual,1.6,Furgón,38500.0,Hidráulica,Delantera,2.0,114.0,20000.0
+Renault Kangoo Authentic 2 Plc Plus,San Juan,Authentic 2 Plc Plus,,Renault,Kangoo,2014,Nafta,5.0,Manual,1.6,Monovolumen,171000.0,Hidráulica,Delantera,7.0,95.0,6000.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2022,Diésel,3.0,Manual,1.5,Furgón,39000.0,Hidráulica,Delantera,2.0,65.0,17600.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,60000.0,Hidráulica,Delantera,2.0,114.0,16900.0
+Renault Kangoo 1.5 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Sur,1.5 2 Furgon Confort Aa Da Svt 1plc,Blanco,Renault,Kangoo,2008,Diésel,3.0,Manual,1.5,Furgón,264000.0,Hidráulica,Delantera,2.0,65.0,5666.67
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Bs.As. G.B.A. Norte,1.6 Ph3 Authentique 1plc,,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Monovolumen,110000.0,Hidráulica,Delantera,5.0,95.0,15000.0
+Kangoo Stepway 1.6 Nafta Patentada Abril Oferta,Ubicación no encontrada,STEPWAY 1.6,Gris,Renault,Kangoo,2024,Nafta,5.0,Manual,1.6,SUV,700.0,Asistida,Delantera,,,19500.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Plateado,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,21000.0,Hidráulica,Delantera,2.0,114.0,13933.33
+Renault Kangoo 1.9 D Confort,Bs.As. G.B.A. Oeste,1.9 D Confort,,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,354000.0,Hidráulica,Delantera,5.0,65.0,5000.0
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Gris,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Monovolumen,13000.0,Hidráulica,Delantera,5.0,114.0,19900.0
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Rojo,Renault,Kangoo,2023,Nafta,4.0,Manual,1.6,Monovolumen,3200.0,Hidráulica,Delantera,5.0,114.0,23000.0
+Renault Kangoo 1.9 D Confort,Bs.As. G.B.A. Sur,1.9 D Confort,,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,280000.0,Hidráulica,Delantera,5.0,65.0,3866.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,139000.0,Hidráulica,Delantera,2.0,95.0,10450.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. Costa Atlántica,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,121000.0,Hidráulica,Delantera,2.0,95.0,8700.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,48000.0,Hidráulica,Delantera,2.0,114.0,13000.0
+Renault Kangoo 1.6 furgon con GNC,Ubicación no encontrada,1.6 furgon con GNC,Gris,Renault,Kangoo,2017,Nafta/GNC,4.0,Manual,1.6,Furgón,111111.0,Asistida,Delantera,2.0,95.0,8000.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Ubicación no encontrada,1.6 Ph3 Authentique Plus Lc,,Renault,Kangoo,2016,Nafta,4.0,Manual,1.6,Monovolumen,83212.0,Hidráulica,Delantera,5.0,95.0,12000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.5 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2016,Diésel,3.0,Manual,1.5,Furgón,105000.0,Hidráulica,Delantera,2.0,65.0,8200.0
+Renault Kangoo 1.6 2 Ath Plus Lc Sl Da Aa Pk 7as,Capital Federal,1.6 2 Ath Plus Lc Sl Da Aa Pk 7as,Azul,Renault,Kangoo,2010,Nafta,4.0,Automática,1.6,Monovolumen,178000.0,Hidráulica,Delantera,7.0,95.0,6500.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2020,Diésel,3.0,Manual,1.5,Furgón,63000.0,Hidráulica,Delantera,2.0,65.0,15500.0
+Renault Kangoo 1.6 2 Sportway Abcp,Capital Federal,1.6 2 Sportway Abcp,,Renault,Kangoo,2008,Nafta,4.0,Manual,1.6,Monovolumen,156000.0,Hidráulica,Delantera,5.0,95.0,5800.0
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Bs.As. G.B.A. Sur,1.5 2 Furgon Confort Cd Da Svt 1plc,Blanco,Renault,Kangoo,2011,Diésel,3.0,Manual,1.5,Furgón,177000.0,Hidráulica,Delantera,2.0,65.0,3333.33
+Renault Kangoo 1.5 Dci Stepway,Ubicación no encontrada,1.5 Dci Stepway,Negro,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,59380.0,Hidráulica,Delantera,2.0,89.0,13933.32
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,59296.0,Hidráulica,Delantera,2.0,114.0,14166.67
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Plateado,Renault,Kangoo,2020,Diésel,3.0,Manual,1.5,Furgón,77000.0,Hidráulica,Delantera,2.0,65.0,12333.33
+Renault Kangoo Ii 1.6 Sce Stepway,Bs.As. G.B.A. Sur,1.6 Sce Stepway,Blanco,Renault,Kangoo,2024,Nafta,6.0,Manual,1.6,Furgón,1000.0,Hidráulica,Delantera,,,20000.0
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Negro,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Monovolumen,35000.0,Hidráulica,Delantera,5.0,114.0,16199.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2017,Nafta/GNC,3.0,Manual,1.6,Furgón,119000.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,107000.0,Hidráulica,Delantera,2.0,95.0,15400.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,109000.0,Hidráulica,Delantera,2.0,95.0,11800.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc 7as,Córdoba,1.6 Ph3 Authentique Plus Lc 7as,,Renault,Kangoo,2013,Nafta,4.0,Manual,1.6,Monovolumen,207000.0,Hidráulica,Delantera,7.0,95.0,8000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,244108.0,Hidráulica,Delantera,2.0,114.0,10866.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,110000.0,Hidráulica,Delantera,2.0,95.0,10500.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Azul,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,50000.0,Hidráulica,Delantera,2.0,114.0,15666.67
+Renault Kangoo 2018 Ph3 Auth. Plus 1.6 2p,Ubicación no encontrada,PH3 AUTH. PLUS 2P,Gris,Renault,Kangoo,2018,Nafta,2.0,Manual,1.6,Furgón,127200.0,Hidráulica,Delantera,2.0,95.0,11900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,99000.0,Hidráulica,Delantera,2.0,95.0,12999.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Cd Svt 1plc,,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,149000.0,Hidráulica,Delantera,2.0,95.0,8700.0
+Renault Kangoo 1.5 Dci Stepway,Córdoba,1.5 Dci Stepway,Gris,Renault,Kangoo,2020,Diésel,5.0,Manual,1.6,Furgón,28000.0,Hidráulica,Delantera,2.0,114.0,11666.67
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Ubicación no encontrada,1.6 2 Ath Plus Da Aa Cd Pk Lc,Blanco,Renault,Kangoo,2012,Nafta,4.0,Automática,1.6,Monovolumen,140000.0,Hidráulica,Delantera,7.0,95.0,7900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Río Negro,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,52000.0,Hidráulica,Delantera,2.0,95.0,17000.0
+Renault Kangoo 1.5 2 Furgon Confort Aa Da Svt 1plc,Ubicación no encontrada,1.5 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2012,Diésel,3.0,Manual,1.5,Furgón,149000.0,Hidráulica,Delantera,2.0,65.0,5933.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,95.0,6666.67
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Bs.As. G.B.A. Oeste,1.5 2 Dci Ath Da Aa Cd 1plc,Gris,Renault,Kangoo,2014,Diésel,4.0,Automática,1.5,Monovolumen,83000.0,Hidráulica,Delantera,5.0,65.0,11000.0
+Renault Kangoo 1.9 D Confort,Ubicación no encontrada,1.9 D Confort,Blanco,Renault,Kangoo,2007,Diésel,4.0,Manual,1.9,Monovolumen,204000.0,Hidráulica,Delantera,5.0,65.0,6000.0
+Renault Kangoo 1.9 D Confort,Bs.As. G.B.A. Sur,1.9 D Confort,,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,270000.0,Hidráulica,Delantera,5.0,65.0,3000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,91000.0,Hidráulica,Delantera,2.0,95.0,7466.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Rojo,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,94000.0,Hidráulica,Delantera,2.0,95.0,7800.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Capital Federal,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,235000.0,Hidráulica,Delantera,2.0,95.0,5100.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,135000.0,Hidráulica,Delantera,2.0,95.0,8000.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Bs.As. G.B.A. Sur,1.6 Ph3 Authentique Plus Lc,,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,65000.0,Hidráulica,Delantera,5.0,95.0,8000.0
+Renault Kangoo Stepway 1.6,Córdoba,Stepway 1.6,,Renault,Kangoo,2024,Nafta,5.0,Manual,1.6,Furgón,3200.0,Asistida,Delantera,,,16000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Córdoba,1.6 Furgon Ph3 Confort 5as Lc,Azul,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,128000.0,Hidráulica,Delantera,2.0,95.0,9000.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,62500.0,Hidráulica,Delantera,2.0,114.0,14200.0
+Renault Kangoo 1.9 D Confort,Bs.As. G.B.A. Norte,1.9 D Confort,,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,220000.0,Hidráulica,Delantera,5.0,65.0,4000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,115000.0,Hidráulica,Delantera,2.0,95.0,9800.0
+Renault Kangoo 1.6 II EXPRESS CONFORT 5A SCE MT,Ubicación no encontrada,1.6 II EXPRESS CONFORT 5A SCE MT,Silver,Renault,Kangoo,2022,Nafta,5.0,Manual,1.0,Furgón,23656.0,Asistida,4x2,2.0,114.0,14733.33
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Rojo,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Monovolumen,12000.0,Hidráulica,Delantera,5.0,114.0,19800.0
+Renault Kangoo 1.6 Ph3 Sportway Lc,Santa Fe,1.6 Ph3 Sportway Lc,,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Monovolumen,80000.0,Hidráulica,Delantera,5.0,95.0,15500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,83000.0,Hidráulica,Delantera,2.0,95.0,8500.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,29000.0,Hidráulica,Delantera,2.0,114.0,13000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,85000.0,Hidráulica,Delantera,2.0,95.0,10666.67
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Bs.As. G.B.A. Oeste,1.5 2 Dci Ath Da Aa Cd 1plc,Rojo,Renault,Kangoo,2011,Diésel,4.0,Automática,1.5,Monovolumen,120000.0,Hidráulica,Delantera,5.0,65.0,5500.0
+Renault Kangoo 1.6 Furgon Ph3 Generique,Ubicación no encontrada,1.6 Furgon Ph3 Generique,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,131000.0,Hidráulica,Delantera,2.0,95.0,7200.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,31500.0,Hidráulica,Delantera,2.0,114.0,13000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2018,Eléctrico,3.0,Manual,1.5,Furgón,83500.0,Hidráulica,Delantera,2.0,65.0,8499.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,110000.0,Hidráulica,Delantera,2.0,95.0,6393.33
+Renault Kangoo Sportway 1.6 16v,Neuquén,Sportway 1.6 16v,,Renault,Kangoo,2007,Nafta/GNC,5.0,Manual,1.9,Rural,170000.0,Hidráulica,Delantera,5.0,65.0,5000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,139000.0,Hidráulica,Delantera,2.0,95.0,7900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,120000.0,Hidráulica,Delantera,2.0,95.0,12000.0
+Renault Kangoo 1.5 2 Furgon Gran Confot Lc,Ubicación no encontrada,1.5 2 Furgon Gran Confot Lc,Blanco,Renault,Kangoo,2013,Diésel,5.0,Manual,1.5,Furgón,125000.0,Hidráulica,Delantera,2.0,65.0,6800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,145000.0,Hidráulica,Delantera,2.0,95.0,7933.33
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,78500.0,Hidráulica,Delantera,2.0,114.0,13600.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,159000.0,Hidráulica,Delantera,2.0,95.0,7200.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,62584.0,Hidráulica,Delantera,2.0,114.0,15724.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1125.0,Hidráulica,Delantera,2.0,95.0,17500.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Bs.As. G.B.A. Sur,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2010,Nafta,3.0,Manual,1.6,Furgón,189000.0,Hidráulica,Delantera,2.0,95.0,5800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,96000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,160000.0,Hidráulica,Delantera,2.0,95.0,7700.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Bs.As. G.B.A. Norte,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,92000.0,Hidráulica,Delantera,2.0,95.0,10500.0
+Renault Kangoo 1.5 Dci Stepway,Bs.As. G.B.A. Norte,1.5 Dci Stepway,,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Monovolumen,29000.0,Hidráulica,Delantera,2.0,89.0,20000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 1plc,Plateado,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,106000.0,Hidráulica,Delantera,2.0,95.0,10900.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2018,Nafta/GNC,5.0,Manual,1.6,Furgón,75000.0,Hidráulica,Delantera,2.0,114.0,16000.0
+Renault Kangoo 1.6 Ph3 Sportway Lc,Bs.As. G.B.A. Norte,1.6 Ph3 Sportway Lc,Gris,Renault,Kangoo,2012,Nafta,5.0,Manual,1.6,Minivan,240000.0,Hidráulica,Delantera,2.0,95.0,7500.0
+Renault Kangoo 1.5 Dci Stepway,Bs.As. G.B.A. Oeste,1.5 Dci Stepway,Plateado,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,81000.0,Hidráulica,Delantera,2.0,89.0,15500.0
+Renault Kangoo Ii Express Emotion 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 1.6 Sce,Blanco,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,74396.0,Hidráulica,Delantera,2.0,114.0,11666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,103000.0,Hidráulica,Delantera,2.0,95.0,5733.33
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Capital Federal,1.6 Ph3 Authentique Plus Lc,,Renault,Kangoo,2013,Nafta,4.0,Manual,1.6,Monovolumen,110000.0,Hidráulica,Delantera,5.0,95.0,7900.0
+Renault Kangoo 1.6 Sce Stepway,Córdoba,1.6 Sce Stepway,,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Monovolumen,48000.0,Hidráulica,Delantera,5.0,114.0,21000.0
+Renault Kangoo 1.5 Dci Stepway,Bs.As. G.B.A. Sur,1.5 Dci Stepway,Rojo,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,38000.0,Hidráulica,Delantera,2.0,89.0,19800.0
+Renault Kangoo 1.6 Express Confort 1 Plc L14,Ubicación no encontrada,1.6 EXPRESS CONFORT 1 PLC L14,Blanco,Renault,Kangoo,2018,Nafta,5.0,Manual,1.6,Furgón,68603.0,Hidráulica,Delantera,2.0,95.0,11484.67
+Renault Kangoo 1.6 Ph3 Sportway Lc,Ubicación no encontrada,1.6 Ph3 Sportway Lc,Plateado,Renault,Kangoo,2016,Nafta,4.0,Manual,1.6,Monovolumen,74000.0,Hidráulica,Delantera,5.0,95.0,9666.67
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Bs.As. G.B.A. Norte,Ii Express Emotion 5a 1.6 Sce,Azul,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,11700.0,Hidráulica,Delantera,2.0,114.0,20000.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Capital Federal,Ii Express Emotion 5a 1.6 Sce,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,45000.0,Hidráulica,Delantera,2.0,114.0,18000.0
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Bs.As. G.B.A. Norte,1.6 2 Ath Plus Da Aa Cd Pk Lc,,Renault,Kangoo,2011,Nafta,4.0,Automática,1.6,Monovolumen,170000.0,Hidráulica,Delantera,7.0,95.0,11200.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1000.0,Hidráulica,Delantera,2.0,114.0,14000.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Cd Svt 1plc,Azul,Renault,Kangoo,2011,Nafta,3.0,Manual,1.6,Furgón,155000.0,Hidráulica,Delantera,2.0,95.0,5400.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Buenos Aires Interior,1.6 Ph3 Authentique Plus Lc,Rojo,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,170000.0,Hidráulica,Delantera,5.0,95.0,7666.67
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Buenos Aires Interior,1.6 Ph3 Authentique 1plc,,Renault,Kangoo,2016,Nafta,4.0,Manual,1.6,Monovolumen,195000.0,Hidráulica,Delantera,5.0,95.0,6533.33
+Renault Kangoo 1.5 Dci Stepway,Bs.As. Costa Atlántica,1.5 Dci Stepway,,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Monovolumen,29000.0,Hidráulica,Delantera,2.0,89.0,24200.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,42000.0,Hidráulica,Delantera,2.0,114.0,14499.0
+Renault Kangoo 1.5 Dci Stepway,Ubicación no encontrada,1.5 Dci Stepway,Plateado,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,79000.0,Hidráulica,Delantera,2.0,89.0,13800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2016,Nafta/GNC,5.0,Manual,1.6,Furgón,125000.0,Hidráulica,Delantera,2.0,95.0,10500.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Emotion 5a 1.6 Sce,,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,990.0,Hidráulica,Delantera,2.0,114.0,21800.0
+Renault Kangoo 1.9 Confort D,Ubicación no encontrada,1.9 Confort D,Gris,Renault,Kangoo,2007,Eléctrico,5.0,Manual,1.9,Rural,138000.0,Hidráulica,Delantera,5.0,65.0,5500.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Corrientes,Ii Express Confort 5a 1.6 Sce,,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,43000.0,Hidráulica,Delantera,2.0,114.0,14333.33
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Córdoba,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2020,Nafta,4.0,Manual,1.6,Furgón,85666.0,Hidráulica,Delantera,2.0,114.0,13000.0
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Bs.As. G.B.A. Sur,1.6 2 Ath Plus Da Aa Cd Pk Lc,Dorado,Renault,Kangoo,2012,Nafta,4.0,Automática,1.6,Monovolumen,260000.0,Hidráulica,Delantera,7.0,95.0,7900.0
+Renault Kangoo 1.9 D Confort,Córdoba,1.9 D Confort,Blanco,Renault,Kangoo,2007,Diésel,4.0,Manual,1.9,Monovolumen,240000.0,Hidráulica,Delantera,5.0,65.0,3466.67
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc 7as,Bs.As. G.B.A. Oeste,1.6 Ph3 Authentique Plus Lc 7as,,Renault,Kangoo,2014,Nafta,4.0,Manual,1.6,Monovolumen,120000.0,Hidráulica,Delantera,7.0,95.0,10000.0
+Renault Kangoo 1.6 Sce Stepway,Bs.As. G.B.A. Norte,1.6 Sce Stepway,Plateado,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Monovolumen,74000.0,Hidráulica,Delantera,5.0,114.0,18600.0
+Renault Kangoo 1.5 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Sur,1.5 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2008,Diésel,3.0,Manual,1.5,Furgón,176000.0,Hidráulica,Delantera,2.0,65.0,4666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort 5as Lc,Rojo,Renault,Kangoo,2016,Nafta,5.0,Manual,1.6,Furgón,151600.0,Hidráulica,Delantera,2.0,95.0,7800.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Norte,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,840.0,Hidráulica,Delantera,2.0,114.0,22500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Plateado,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,137000.0,Hidráulica,Delantera,2.0,95.0,9000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort Pack 5as Lc,Plateado,Renault,Kangoo,2017,Nafta/GNC,5.0,Manual,1.6,Van,69900.0,Hidráulica,Delantera,2.0,95.0,11666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,13000.0,Hidráulica,Delantera,2.0,95.0,17200.0
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Ubicación no encontrada,1.6 2 Ath Plus Da Aa Cd Pk Lc,Plateado,Renault,Kangoo,2013,Nafta,4.0,Automática,1.6,Monovolumen,81252.0,Hidráulica,Delantera,7.0,95.0,11700.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 5a 1.6 Sce,,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,29000.0,Hidráulica,Delantera,2.0,114.0,15133.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,235000.0,Hidráulica,Delantera,2.0,95.0,11900.0
+Renault Kangoo EXPRESS 1.6 SCE CONFORT L18,Ubicación no encontrada,EXPRESS 1.6 SCE CONFORT L18,Blanco,Renault,Kangoo,2023,Nafta,6.0,Manual,1.6,Furgón,46500.0,Hidráulica,Delantera,2.0,114.0,15400.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Capital Federal,Ii Express Confort 1.6 Sce,,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,90000.0,Hidráulica,Delantera,2.0,114.0,11000.0
+Renault Kangoo Ii Express Emotion 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Emotion 1.6 Sce,Plateado,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,44000.0,Hidráulica,Delantera,2.0,114.0,17500.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Bs.As. G.B.A. Oeste,1.6 Ph3 Authentique Plus Lc,Gris,Renault,Kangoo,2016,Nafta,5.0,Manual,1.6,Monovolumen,107000.0,Hidráulica,Delantera,5.0,95.0,10500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,51000.0,Hidráulica,Delantera,2.0,95.0,13500.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,88631.0,Hidráulica,Delantera,2.0,114.0,12538.0
+Renault Kangoo 1.5 2 Dci Sportway Abcp Lc,Bs.As. G.B.A. Sur,1.5 2 Dci Sportway Abcp Lc,Gris,Renault,Kangoo,2009,Diésel,4.0,Manual,1.5,Monovolumen,278000.0,Hidráulica,Delantera,5.0,65.0,5333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Chaco,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,112000.0,Hidráulica,Delantera,2.0,95.0,8333.33
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Córdoba,1.5 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2017,Diésel,3.0,Manual,1.5,Furgón,100000.0,Hidráulica,Delantera,2.0,65.0,9333.33
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Entre Ríos,1.5 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2015,Diésel,3.0,Manual,1.5,Furgón,87000.0,Hidráulica,Delantera,2.0,65.0,8333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,115000.0,Hidráulica,Delantera,2.0,95.0,4166.67
+Renault Kangoo Ii Express Confort 1.6 Sce,Capital Federal,Ii Express Confort 1.6 Sce,,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,890.0,Hidráulica,Delantera,2.0,114.0,16350.0
+Renault Kangoo Ii Express Emotion 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 1.6 Sce,Blanco,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,110000.0,Hidráulica,Delantera,2.0,114.0,13566.67
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Bs.As. G.B.A. Norte,Ii Express Confort 5a 1.6 Sce,,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,19500.0,Hidráulica,Delantera,2.0,114.0,19000.0
+Renault Kangoo Ii Express Emotion 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 1.6 Sce,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,118000.0,Hidráulica,Delantera,2.0,114.0,10333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,112000.0,Hidráulica,Delantera,2.0,95.0,8200.0
+Renault Kangoo ph3 confort pack 1.6,Bs.As. G.B.A. Oeste,ph3 confort pack 1.6,,Renault,Kangoo,2017,Nafta,2.0,Manual,1.6,Furgón,145000.0,Hidráulica,Delantera,2.0,95.0,8333.33
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Cd Svt 1plc,Blanco,Renault,Kangoo,2011,Nafta,3.0,Manual,1.6,Furgón,180000.0,Hidráulica,Delantera,2.0,95.0,5000.0
+Renault Kangoo Express 5a 1.6 114cv,Buenos Aires Interior,Express 5a 1.6 114cv,,Renault,Kangoo,2024,Nafta,5.0,Manual,1.6,Furgón,111111.0,Asistida,Delantera,,,19200.0
+Renault Kangoo 1.9 D Confort,Santa Fe,1.9 D Confort,Blanco,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,172000.0,Hidráulica,Delantera,5.0,65.0,3666.67
+Renault Kangoo 1.6 Ph3 Sportway Lc,Ubicación no encontrada,1.6 Ph3 Sportway Lc,Plateado,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Monovolumen,103000.0,Hidráulica,Delantera,5.0,95.0,13666.67
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Capital Federal,1.5 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Diésel,3.0,Manual,1.5,Furgón,100000.0,Hidráulica,Delantera,2.0,65.0,8950.0
+Renault Kangoo 1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,Bs.As. G.B.A. Norte,1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,,Renault,Kangoo,2009,Diésel,4.0,Automática,1.5,Monovolumen,90000.0,Hidráulica,Delantera,5.0,65.0,4666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,140000.0,Hidráulica,Delantera,2.0,95.0,7333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,103000.0,Hidráulica,Delantera,2.0,95.0,7326.67
+Renault Kangoo 1.6 2 Authentique Da Aa Cd 1plc,Bs.As. G.B.A. Norte,1.6 2 Authentique Da Aa Cd 1plc,,Renault,Kangoo,2012,Nafta,4.0,Manual,1.6,Monovolumen,151000.0,Hidráulica,Delantera,5.0,95.0,7500.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Tierra del Fuego,1.6 Ph3 Authentique Plus Lc,,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,83000.0,Hidráulica,Delantera,5.0,95.0,9500.0
+Renault Kangoo Stepway 1.5 Dci,Ubicación no encontrada,Stepway 1.5 Dci,,Renault,Kangoo,2022,Diésel,3.0,Manual,1.5,Monovolumen,43200.0,Hidráulica,Delantera,2.0,65.0,16480.0
+Renault Kangoo 1.5 Dci Stepway,Ubicación no encontrada,1.5 Dci Stepway,Negro,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,61000.0,Hidráulica,Delantera,2.0,89.0,14333.33
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,26000.0,Hidráulica,Delantera,2.0,114.0,13800.0
+Renault Kangoo EXPRESS 1.6 SCE CONFORT L18,Ubicación no encontrada,EXPRESS 1.6 SCE CONFORT L18,Blanco,Renault,Kangoo,2020,Nafta,6.0,Manual,1.6,Furgón,88700.0,Hidráulica,Delantera,2.0,114.0,11000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,3800.0,Hidráulica,Delantera,2.0,114.0,15866.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2018,Nafta/GNC,5.0,Manual,1.6,Furgón,83000.0,Hidráulica,Delantera,2.0,95.0,12300.0
+Renault Kangoo 1.6 2 Ath Plus 7as Da Aa Cd Pk Lc,Córdoba,1.6 2 Ath Plus 7as Da Aa Cd Pk Lc,,Renault,Kangoo,2009,Nafta,4.0,Automática,1.6,Monovolumen,240800.0,Hidráulica,Delantera,7.0,95.0,6000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,96500.0,Hidráulica,Delantera,2.0,95.0,11800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,250000.0,Hidráulica,Delantera,2.0,95.0,5333.33
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,5.0,Manual,1.6,Furgón,27000.0,Hidráulica,Delantera,2.0,114.0,19000.0
+Renault Kangoo 1.6 Sce Stepway,Córdoba,1.6 Sce Stepway,,Renault,Kangoo,2023,Nafta,4.0,Manual,1.6,Monovolumen,28000.0,Hidráulica,Delantera,5.0,114.0,13666.67
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Gran Confort Lc,Rojo,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,142000.0,Hidráulica,Delantera,2.0,95.0,9200.0
+Renault Kangoo 1.5 2 Furgon Confort Aa Da Svt 1plc,Buenos Aires Interior,1.5 2 Furgon Confort Aa Da Svt 1plc,Blanco,Renault,Kangoo,2012,Diésel,3.0,Manual,1.5,Furgón,132000.0,Hidráulica,Delantera,2.0,65.0,6200.0
+Renault Kangoo Kangoo,Bs.As. G.B.A. Norte,1.6 5 asientos 2P,,Renault,Kangoo,2017,Nafta/GNC,5.0,Manual,1.6,Furgón,190000.0,Hidráulica,Delantera,2.0,95.0,8600.0
+Renault Kangoo 2005 1.9 Diesel,Corrientes,1.9 Diesel,Blanco,Renault,Kangoo,2005,Diésel,3.0,Manual,1.9,Furgón,150000.0,Hidráulica,Delantera,5.0,65.0,4333.33
+Renault Kangoo 1.6 Sce Furgon Life,Bs.As. G.B.A. Sur,1.6 Sce Furgon Life,,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Furgón,120000.0,Hidráulica,Delantera,5.0,114.0,12300.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort Pack 5as Lc,Blanco,Renault,Kangoo,2018,Nafta/GNC,5.0,Manual,1.6,Furgón,146000.0,Hidráulica,Delantera,2.0,95.0,13500.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Norte,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,52000.0,Hidráulica,Delantera,2.0,114.0,13000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2015,Diésel,3.0,Manual,1.5,Furgón,151000.0,Hidráulica,Delantera,2.0,65.0,7333.33
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.5 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2014,Diésel,3.0,Manual,1.5,Furgón,186000.0,Hidráulica,Delantera,2.0,65.0,8900.0
+Renault Kangoo 1.5 Dci Stepway,Ubicación no encontrada,1.5 Dci Stepway,Gris,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,79000.0,Hidráulica,Delantera,2.0,89.0,12133.33
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc 7as,Ubicación no encontrada,1.6 Ph3 Authentique Plus Lc 7as,Rojo,Renault,Kangoo,2015,Nafta,6.0,Manual,1.6,Monovolumen,125000.0,Hidráulica,Delantera,7.0,95.0,10900.0
+Renault Kangoo 1.6 2 Ath Plus Lc Sl Da+aa+cd+pk,Entre Ríos,,,Renault,Kangoo,2010,Nafta,4.0,Automática,1.6,Monovolumen,71000.0,Hidráulica,Delantera,5.0,95.0,8500.0
+Renault Kangoo 1.4 Rn Pk,Entre Ríos,1.4 Rn Pk,Verde,Renault,Kangoo,1999,Nafta,5.0,Manual,1.4,Rural,256000.0,Mecánica,Delantera,5.0,77.0,2666.67
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Ubicación no encontrada,1.6 Ph3 Authentique 1plc,Gris,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Monovolumen,140000.0,Hidráulica,Delantera,5.0,95.0,9000.0
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Rojo,Renault,Kangoo,2023,Nafta,4.0,Manual,1.6,Monovolumen,10300.0,Hidráulica,Delantera,5.0,114.0,20800.0
+Renault Kangoo Stepway 7 asientos,Buenos Aires Interior,Stepway 7 asientos,,Renault,Kangoo,2022,Nafta/GNC,6.0,Manual,1.5,Monovolumen,65000.0,Hidráulica,Delantera,2.0,65.0,16000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2019,Diésel,3.0,Manual,1.5,Furgón,93000.0,Hidráulica,Delantera,2.0,65.0,14200.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Bs.As. G.B.A. Sur,1.6 Ph3 Authentique Plus Lc,,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,198000.0,Hidráulica,Delantera,5.0,95.0,6533.33
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Córdoba,Ii Express Emotion 5a 1.6 Sce,,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,120000.0,Hidráulica,Delantera,2.0,114.0,15000.0
+Renault Kangoo 1.5 Dci Stepway,Ubicación no encontrada,1.5 Dci Stepway,Rojo,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,60150.0,Hidráulica,Delantera,2.0,89.0,15266.67
+Renault Kangoo Confort furgon c/as,Bs.As. G.B.A. Norte,,,Renault,Kangoo,2015,Nafta,4.0,Manual,1.5,Furgón,220000.0,Hidráulica,Delantera,2.0,65.0,8733.33
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Bs.As. G.B.A. Norte,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,5.0,Manual,1.6,Furgón,43000.0,Hidráulica,Delantera,2.0,114.0,18500.0
+Renault Kangoo,Bs.As. G.B.A. Oeste,Auth.plus 1.6,Gris,Renault,Kangoo,2009,Nafta/GNC,5.0,Manual,1.5,Furgón,235000.0,Hidráulica,Delantera,5.0,65.0,6000.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Buenos Aires Interior,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,180000.0,Hidráulica,Delantera,2.0,95.0,9000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,76000.0,Hidráulica,Delantera,2.0,95.0,10100.0
+Renault Kangoo Ii Stepway 1.6 Sceii,Córdoba,Ii Stepway 1.6 Sceii,,Renault,Kangoo,2019,Nafta/GNC,5.0,Manual,1.6,Monovolumen,80000.0,Hidráulica,Delantera,2.0,114.0,17000.0
+Renault Kangoo Furgón 1.6 16v,Bs.As. G.B.A. Norte,1.6 16V,Blanco,Renault,Kangoo,2005,Nafta,4.0,Manual,1.6,Furgón,250000.0,Mecánica,Delantera,5.0,65.0,3666.67
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Ubicación no encontrada,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,85000.0,Hidráulica,Delantera,2.0,95.0,8900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2015,Nafta/GNC,3.0,Manual,1.6,Furgón,110000.0,Hidráulica,Delantera,2.0,95.0,10300.0
+Renault Kangoo 1.5 Confort Dci Aa C/Asientos,Ubicación no encontrada,,Plateado,Renault,Kangoo,2009,Nafta,4.0,Manual,1.5,Furgón,120000.0,Hidráulica,Delantera,2.0,65.0,6200.0
+Renault Kangoo 1.6 Ph3 Sportway Lc,Bs.As. G.B.A. Oeste,1.6 Ph3 Sportway Lc,Gris,Renault,Kangoo,2016,Nafta,4.0,Manual,1.6,Monovolumen,121500.0,Hidráulica,Delantera,5.0,95.0,11200.0
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Bs.As. G.B.A. Oeste,1.6 2 Ath Plus Da Aa Cd Pk Lc,Azul,Renault,Kangoo,2013,Nafta/GNC,5.0,Automática,1.6,Monovolumen,165000.0,Hidráulica,Delantera,7.0,95.0,8000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Van,149000.0,Hidráulica,Delantera,2.0,95.0,8666.67
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Capital Federal,1.6 Furgon Ph3 Gran Confort Lc,Blanco,Renault,Kangoo,2015,Nafta/GNC,5.0,Manual,1.6,Furgón,95000.0,Hidráulica,Delantera,2.0,95.0,11000.0
+Renault Kangoo 1.9 R Dynamique/expresion,Ubicación no encontrada,,Blanco,Renault,Kangoo,2005,Diésel,5.0,Manual,1.9,Rural,230000.0,Mecánica,Delantera,5.0,65.0,5000.0
+Renault Kangoo 1.6 2 Ath Plus 7as Da Aa Cd Pk Lc,Bs.As. G.B.A. Sur,1.6 2 Ath Plus 7as Da Aa Cd Pk Lc,,Renault,Kangoo,2013,Nafta,4.0,Automática,1.6,Monovolumen,133000.0,Hidráulica,Delantera,7.0,95.0,8500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,100000.0,Hidráulica,Delantera,2.0,95.0,7500.0
+Renault Kangoo 1.6 2 Sportway Abcp,Bs.As. G.B.A. Norte,1.6 2 Sportway Abcp,,Renault,Kangoo,2009,Nafta,4.0,Manual,1.6,Monovolumen,234000.0,Hidráulica,Delantera,5.0,95.0,6200.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Gris,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Furgón,72000.0,Hidráulica,Delantera,2.0,65.0,15900.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Capital Federal,1.5 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2015,Diésel,3.0,Manual,1.5,Furgón,149000.0,Hidráulica,Delantera,2.0,65.0,9900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,Rojo,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,86000.0,Hidráulica,Delantera,2.0,95.0,8000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,120000.0,Hidráulica,Delantera,2.0,95.0,5900.0
+Renault Kangoo 1.9 Confort D,Ubicación no encontrada,1.9 Confort D,Gris,Renault,Kangoo,2006,Eléctrico,5.0,Manual,1.9,Rural,175000.0,Hidráulica,Delantera,5.0,65.0,3733.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta/GNC,3.0,Manual,1.6,Furgón,135000.0,Hidráulica,Delantera,2.0,95.0,8000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,95000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo 1.6 2 Authentique Da Aa Cd 1plc,Ubicación no encontrada,1.6 2 Authentique Da Aa Cd 1plc,Blanco,Renault,Kangoo,2012,Nafta,4.0,Manual,1.6,Monovolumen,140000.0,Hidráulica,Delantera,5.0,95.0,7466.67
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,30899.0,Hidráulica,Delantera,2.0,114.0,13938.67
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Furgón,109000.0,Hidráulica,Delantera,2.0,65.0,12800.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Gris,Renault,Kangoo,2023,Diésel,5.0,Manual,1.5,Furgón,8800.0,Hidráulica,Delantera,2.0,65.0,20800.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Bs.As. G.B.A. Norte,1.6 2 Furgon Confort Cd Svt 1plc,Gris,Renault,Kangoo,2011,Nafta,3.0,Manual,1.6,Furgón,148000.0,Hidráulica,Delantera,2.0,95.0,7400.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,132246.0,Hidráulica,Delantera,2.0,114.0,15500.0
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Negro,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Monovolumen,38000.0,Hidráulica,Delantera,5.0,114.0,16200.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Bs.As. G.B.A. Norte,1.5 2 Dci Ath Da Aa Cd 1plc,Blanco,Renault,Kangoo,2010,Diésel,4.0,Automática,1.5,Monovolumen,180000.0,Hidráulica,Delantera,5.0,65.0,4000.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,San Luis,Ii Express Emotion 5a 1.6 Sce,Rojo,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,168000.0,Hidráulica,DelanteraCapacidad de la batería75 Ah,2.0,114.0,11200.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Córdoba,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,77500.0,Hidráulica,Delantera,2.0,95.0,9333.33
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2020,Diésel,3.0,Manual,1.5,Furgón,70000.0,Hidráulica,Delantera,2.0,65.0,11000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Chaco,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,77000.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Bs.As. G.B.A. Oeste,1.5 2 Furgon Confort Cd Da Svt 1plc,,Renault,Kangoo,2010,Diésel,3.0,Manual,1.5,Furgón,240000.0,Hidráulica,Delantera,2.0,65.0,4333.33
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Ubicación no encontrada,1.6 Furgon Ph3 Gran Confort Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,68000.0,Hidráulica,Delantera,2.0,95.0,9900.0
+Renault Kangoo Ii Express Confort 1.5 Dci,Ubicación no encontrada,Ii Express Confort 1.5 Dci,Blanco,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Furgón,62000.0,Hidráulica,Delantera,2.0,65.0,14400.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. Costa Atlántica,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,167000.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Bs.As. G.B.A. Norte,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,20900.0,Hidráulica,Delantera,2.0,114.0,17500.0
+Renault Kangoo 1.5 Dci Stepway,Entre Ríos,1.5 Dci Stepway,Plateado,Renault,Kangoo,2020,Diésel,3.0,Manual,1.5,Monovolumen,24970.0,Hidráulica,Delantera,2.0,89.0,22500.0
+Renault Kangoo 1.6 2 Authentique Da Aa Cd 1plc,Buenos Aires Interior,1.6 2 Authentique Da Aa Cd 1plc,,Renault,Kangoo,2013,Nafta,4.0,Manual,1.6,Monovolumen,220000.0,Hidráulica,Delantera,5.0,95.0,8000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc S/ca,Bs.As. G.B.A. Oeste,,Gris,Renault,Kangoo,2014,Diésel,3.0,Manual,1.5,Furgón,460000.0,Hidráulica,Delantera,2.0,65.0,5333.33
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,21200.0,Hidráulica,Delantera,2.0,114.0,18500.0
+Renault Kangoo Stepway 1.5 Dci,Ubicación no encontrada,Stepway 1.5 Dci,,Renault,Kangoo,2022,Diésel,3.0,Manual,1.5,Monovolumen,22000.0,Hidráulica,Delantera,2.0,65.0,16480.0
+Renault Kangoo 1.6 II EXPRESS EMOTION SCE MT,Ubicación no encontrada,1.6 II EXPRESS EMOTION SCE MT,Blanco,Renault,Kangoo,2023,Nafta,5.0,Manual,1.0,Furgón,2000.0,Asistida,4x2,2.0,114.0,15193.33
+Renault Kangoo 1.6 Sce Furgon Stepway,Bs.As. G.B.A. Sur,1.6 Sce Furgon Stepway,,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Furgón,145000.0,Hidráulica,Delantera,5.0,114.0,15500.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Cd Svt 1plc,,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,140000.0,Hidráulica,Delantera,2.0,95.0,7500.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Bs.As. G.B.A. Norte,1.5 2 Dci Ath Da Aa Cd 1plc,,Renault,Kangoo,2011,Diésel,4.0,Automática,1.5,Monovolumen,220000.0,Hidráulica,Delantera,5.0,65.0,5000.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc 7as,Capital Federal,1.6 Ph3 Authentique Plus Lc 7as,Gris,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,79500.0,Hidráulica,Delantera,7.0,95.0,12200.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,3100.0,Hidráulica,Delantera,2.0,95.0,19200.0
+Renault Kangoo Nafta,Bs.As. G.B.A. Oeste,Nafta,,Renault,Kangoo,2012,Nafta,5.0,Manual,1.6,Furgón,160000.0,Hidráulica,Delantera,2.0,95.0,9300.0
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Córdoba,1.6 Ph3 Authentique 1plc,Gris,Renault,Kangoo,2016,Nafta,4.0,Manual,1.6,Monovolumen,150000.0,Hidráulica,Delantera,5.0,95.0,7533.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,78850.0,Hidráulica,Delantera,2.0,95.0,10900.0
+Renault Kangoo Stepway,Ubicación no encontrada,stepway,Rojo,Renault,Kangoo,2024,Nafta,5.0,Manual,1.6,Furgón,500.0,Asistida,Delantera,,,23000.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,63000.0,Hidráulica,Delantera,2.0,114.0,18500.0
+Renault Kangoo Furgon,Ubicación no encontrada,Furgon,Gris,Renault,Kangoo,2018,Nafta/GNC,3.0,Manual,1.6,Furgón,85000.0,Hidráulica,Delantera,2.0,95.0,11000.0
+Renault Kangoo 1.9 Rld Athentique Aa Lc,Bs.As. G.B.A. Sur,1.9 Rld Athentique Aa Lc,,Renault,Kangoo,2006,Diésel,5.0,Automática,1.9,Rural,350000.0,Hidráulica,Delantera,5.0,65.0,3000.0
+Renault Kangoo 1.5 Dci Stepway,Ubicación no encontrada,1.5 Dci Stepway,Blanco,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Monovolumen,18295.0,Hidráulica,Delantera,2.0,89.0,23500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,95.0,8266.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Rojo,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,65000.0,Hidráulica,Delantera,2.0,95.0,13800.0
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Ubicación no encontrada,1.6 Furgon Ph3 Gran Confort Lc,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,186000.0,Hidráulica,Delantera,2.0,95.0,10300.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Capital Federal,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1000.0,Hidráulica,Delantera,2.0,114.0,19900.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,66409.0,Hidráulica,Delantera,2.0,114.0,13233.33
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Bs.As. Costa Atlántica,1.6 Furgon Ph3 Confort Pack 5as Lc,Blanco,Renault,Kangoo,2017,Nafta,5.0,Manual,1.6,Furgón,93256.0,Hidráulica,Delantera,2.0,95.0,12500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,70859.0,Hidráulica,Delantera,2.0,95.0,9333.33
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2016,Diésel,3.0,Manual,1.5,Furgón,83000.0,Hidráulica,Delantera,2.0,65.0,7126.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,153000.0,Hidráulica,Delantera,2.0,95.0,11500.0
+Renault Kangoo Ii Express Confort 1.5 Dci,Ubicación no encontrada,Ii Express Confort 1.5 Dci,Gris,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Furgón,1000.0,Hidráulica,Delantera,2.0,65.0,14666.67
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Furgón,8610.0,Hidráulica,Delantera,2.0,114.0,14000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,140000.0,Hidráulica,Delantera,2.0,95.0,11000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,105000.0,Hidráulica,Delantera,2.0,95.0,12500.0
+Renault Kangoo Sportway 1.5 abcp,Bs.As. G.B.A. Sur,Sportway 1.5 abcp,,Renault,Kangoo,2008,Diésel,5.0,Manual,1.5,Monovolumen,280000.0,Hidráulica,Delantera,5.0,65.0,4333.33
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Capital Federal,1.6 Furgon Ph3 Gran Confort Lc,Blanco,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,74000.0,Hidráulica,Delantera,2.0,95.0,12500.0
+Renault Chasis Kangoo A Hacer Rpa  Por Oxido,Bs.As. G.B.A. Sur,Express,Blanco,Renault,Kangoo,1999,Nafta,5.0,Manual,1.4,Furgón,1111111.0,Mecánica,Delantera,5.0,77.0,2000.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Sur,1.6 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,144000.0,Hidráulica,Delantera,2.0,95.0,8500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,94000.0,Hidráulica,Delantera,2.0,95.0,7400.0
+Renault Kangoo Vendo O Permuto,Bs.As. G.B.A. Norte,1.5 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2014,Diésel,3.0,Manual,1.5,Furgón,165000.0,Eléctrica,Delantera,2.0,95.0,7200.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Sur,1.6 2 Furgon Confort Aa Da Svt 1plc,Blanco,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,106200.0,Hidráulica,Delantera,2.0,95.0,8900.0
+Renault Kangoo 1.6 2 Authentique Da Aa Cd 1plc,Bs.As. G.B.A. Oeste,1.6 2 Authentique Da Aa Cd 1plc,,Renault,Kangoo,2009,Nafta,4.0,Manual,1.6,Monovolumen,181000.0,Hidráulica,Delantera,5.0,95.0,5400.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Bs.As. G.B.A. Sur,1.6 Ph3 Authentique Plus Lc,,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Monovolumen,161900.0,Hidráulica,Delantera,5.0,95.0,11000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,63000.0,Hidráulica,Delantera,2.0,114.0,18500.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,46000.0,Hidráulica,Delantera,2.0,114.0,12000.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Ubicación no encontrada,1.6 Ph3 Authentique Plus Lc,Gris,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Monovolumen,119000.0,Hidráulica,Delantera,5.0,95.0,10500.0
+Renault Kangoo Ii Stepway 1.6 Sceii,Ubicación no encontrada,Ii Stepway 1.6 Sceii,,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Monovolumen,85000.0,Hidráulica,Delantera,2.0,114.0,13200.0
+Renault Kangoo 1.6 2 Furgon Confort 5as Lc Cd,Capital Federal,1.6 2 Furgon Confort 5as Lc Cd,,Renault,Kangoo,2010,Nafta,3.0,Manual,1.6,Furgón,169586.0,Hidráulica,Delantera,2.0,95.0,7200.0
+Renault Kangoo Ii Express Confort Pack 5as 1.6 Sce,Ubicación no encontrada,II EXPRESS CONFORT PACK 5AS 1.6 SCE,Gris,Renault,Kangoo,2024,Nafta,6.0,Manual,1.6,Furgón,1000.0,Asistida,Delantera,,,15400.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Confort 1.6 Sce,,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,5000.0,Hidráulica,Delantera,2.0,114.0,18200.0
+Renault Kangoo 1.9 R Dynamique/expresion,Mendoza,,,Renault,Kangoo,2005,Diésel,5.0,Manual,1.9,Rural,290000.0,Mecánica,Delantera,5.0,65.0,2800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,134780.0,Hidráulica,Delantera,2.0,95.0,9546.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Córdoba,1.6 Furgon Ph3 Confort 1plc,Plateado,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,77000.0,Hidráulica,Delantera,2.0,95.0,12000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.5 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2016,Diésel,5.0,Manual,1.5,Furgón,69000.0,Hidráulica,Delantera,2.0,65.0,10000.0
+Renault Kangoo 1.9 D Confort,Ubicación no encontrada,1.9 D Confort,,Renault,Kangoo,2007,Eléctrico,4.0,Manual,1.9,Monovolumen,111111.0,Hidráulica,Delantera,5.0,65.0,4333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Blanco,Renault,Kangoo,2018,Nafta/GNC,5.0,Manual,1.6,Furgón,71000.0,Hidráulica,Delantera,2.0,95.0,13500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Plateado,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,112000.0,Hidráulica,Delantera,2.0,95.0,7600.0
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Ubicación no encontrada,1.6 Furgon Ph3 Gran Confort Lc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,200000.0,Hidráulica,Delantera,2.0,95.0,10800.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,244108.0,Hidráulica,Delantera,2.0,114.0,9250.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2015,Nafta/GNC,3.0,Manual,1.6,Furgón,110000.0,Hidráulica,Delantera,2.0,95.0,9666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,95.0,9900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,123000.0,Hidráulica,Delantera,2.0,95.0,9300.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,99000.0,Hidráulica,Delantera,2.0,95.0,13000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,122000.0,Hidráulica,Delantera,2.0,95.0,11500.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Bs.As. G.B.A. Sur,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,129000.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2014,Nafta,5.0,Manual,1.6,Furgón,135500.0,Mecánica,Delantera,2.0,95.0,5933.33
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Bs.As. G.B.A. Sur,1.6 Ph3 Authentique Plus Lc,,Renault,Kangoo,2014,Nafta,4.0,Manual,1.6,Monovolumen,180000.0,Hidráulica,Delantera,5.0,95.0,7733.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. Costa Atlántica,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,138000.0,Hidráulica,Delantera,2.0,95.0,6000.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,999.0,Hidráulica,Delantera,2.0,114.0,14533.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,60000.0,Hidráulica,Delantera,2.0,95.0,11000.0
+Renault Kangoo 1.6,Bs.As. G.B.A. Oeste,1.6,,Renault,Kangoo,2012,Nafta/GNC,4.0,Manual,1.6,Furgón,155000.0,Hidráulica,Delantera,2.0,95.0,4666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,90000.0,Hidráulica,Delantera,2.0,95.0,9900.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Confort 1.6 Sce,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,114.0,15500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort Pack 5as Lc,Plateado,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,65500.0,Hidráulica,Delantera,2.0,95.0,13000.0
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Ubicación no encontrada,1.6 Furgon Ph3 Gran Confort Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,80000.0,Hidráulica,Delantera,2.0,95.0,10800.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Furgón,68000.0,Hidráulica,Delantera,2.0,65.0,12666.67
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 5a 1.6 Sce,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,111000.0,Hidráulica,Delantera,2.0,114.0,10533.33
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.5 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2015,Diésel,3.0,Manual,1.5,Furgón,130000.0,Hidráulica,Delantera,2.0,65.0,5333.33
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Córdoba,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2022,Diésel,3.0,Manual,1.5,Furgón,40000.0,Hidráulica,Delantera,2.0,65.0,20000.0
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Ubicación no encontrada,1.6 Ph3 Authentique 1plc,,Renault,Kangoo,2013,Nafta,4.0,Manual,1.6,Monovolumen,118000.0,Hidráulica,Delantera,5.0,95.0,5900.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Capital Federal,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2019,Nafta,5.0,Manual,1.6,Furgón,16000.0,Hidráulica,Delantera,2.0,114.0,14000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2016,Diésel,3.0,Manual,1.5,Furgón,136000.0,Hidráulica,Delantera,2.0,65.0,5933.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,200000.0,Hidráulica,Delantera,2.0,95.0,6500.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Gris,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Furgón,42000.0,Hidráulica,Delantera,2.0,65.0,15666.67
+Renault Kangoo Ii Express Confort 1.5 Dci,Bs.As. Costa Atlántica,Ii Express Confort 1.5 Dci,,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Furgón,930.0,Hidráulica,Delantera,2.0,65.0,21900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,126000.0,Hidráulica,Delantera,2.0,95.0,10500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,135000.0,Hidráulica,Delantera,2.0,95.0,7500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,95.0,7466.67
+Renault Kangoo 1.6 2 Furgon Confort 5as Lc Cd,Bs.As. G.B.A. Oeste,1.6 2 Furgon Confort 5as Lc Cd,,Renault,Kangoo,2008,Nafta,3.0,Manual,1.6,Furgón,212000.0,Hidráulica,Delantera,2.0,95.0,3533.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,99000.0,Hidráulica,Delantera,2.0,95.0,11300.0
+Renault Kangoo 1.6 Sce Stepway,Bs.As. G.B.A. Sur,1.6 Sce Stepway,Azul,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Monovolumen,32000.0,Hidráulica,Delantera,5.0,114.0,19500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,95.0,7333.33
+Renault Kangoo Ii Zen 1.6 Sce,Bs.As. G.B.A. Sur,Ii Zen 1.6 Sce,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Monovolumen,132000.0,Hidráulica,Delantera,2.0,114.0,11333.33
+Renault Kangoo Ii Express Emotion 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,107000.0,Hidráulica,Delantera,2.0,114.0,6566.95
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Bs.As. Costa Atlántica,1.5 2 Furgon Confort Cd Da Svt 1plc,Blanco,Renault,Kangoo,2014,Diésel,3.0,Manual,1.5,Furgón,54000.0,Hidráulica,Delantera,2.0,65.0,14000.0
+Renault Kangoo Stepway 1.5 Dci,Córdoba,Stepway 1.5 Dci,Rojo,Renault,Kangoo,2021,Diésel,5.0,Manual,1.5,Monovolumen,59954.0,Hidráulica,Delantera,2.0,65.0,13333.33
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,125000.0,Hidráulica,Delantera,2.0,114.0,14500.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,111111.0,Hidráulica,Delantera,2.0,95.0,7500.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Gris,Renault,Kangoo,2019,Diésel,3.0,Manual,1.5,Furgón,72000.0,Hidráulica,Delantera,2.0,65.0,11666.67
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Bs.As. G.B.A. Sur,1.6 2 Furgon Confort Cd Svt 1plc,Azul,Renault,Kangoo,2012,Nafta,5.0,Manual,1.6,Furgón,160000.0,Hidráulica,Delantera,2.0,95.0,6066.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,120000.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,500.0,Hidráulica,Delantera,2.0,114.0,16133.33
+Renault Kangoo 1.6 2 Authentique Da Aa Cd 1plc,Bs.As. G.B.A. Sur,1.6 2 Authentique Da Aa Cd 1plc,Blanco,Renault,Kangoo,2009,Nafta,4.0,Manual,1.6,Monovolumen,310000.0,Hidráulica,Delantera,5.0,95.0,6000.0
+Renault Kangoo 1.6 2 Sportway Abcp,Ubicación no encontrada,1.6 2 Sportway Abcp,,Renault,Kangoo,2013,Nafta,4.0,Manual,1.6,Monovolumen,180000.0,Hidráulica,Delantera,5.0,95.0,8700.0
+Renault Kangoo EXPRESS 1.6 SCE CONFORT L18,Ubicación no encontrada,EXPRESS 1.6 SCE CONFORT L18,Acero,Renault,Kangoo,2020,Nafta,6.0,Manual,1.6,Furgón,126300.0,Hidráulica,Delantera,2.0,114.0,13666.67
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Ubicación no encontrada,1.5 2 Furgon Confort Cd Da Svt 1plc,Blanco,Renault,Kangoo,2010,Diésel,3.0,Manual,1.5,Furgón,85430.0,Hidráulica,Delantera,2.0,65.0,5200.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Gris,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,9500.0,Hidráulica,Delantera,2.0,114.0,19200.0
+Renault Kangoo 1.6 Sce Stepway,Bs.As. G.B.A. Oeste,1.6 Sce Stepway,Gris,Renault,Kangoo,2022,Nafta,6.0,Manual,1.6,Monovolumen,20500.0,Hidráulica,Delantera,5.0,114.0,20500.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Gris,Renault,Kangoo,2019,Diésel,4.0,Manual,1.5,Furgón,81000.0,Hidráulica,Delantera,2.0,65.0,15000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2017,Diésel,3.0,Manual,1.5,Furgón,105000.0,Hidráulica,Delantera,2.0,65.0,10500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,250000.0,Hidráulica,Delantera,2.0,95.0,8600.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,63000.0,Hidráulica,Delantera,2.0,114.0,15000.0
+Renault Kangoo Ii Express Confort 1.5 Dci,Ubicación no encontrada,Ii Express Confort 1.5 Dci,,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Furgón,41000.0,Hidráulica,Delantera,2.0,65.0,13000.0
+Renault Kangoo Z.e. Maxi 2a,Ubicación no encontrada,Z.e. Maxi 2a,Blanco,Renault,Kangoo,2019,Eléctrico,3.0,Automática,1.6,Furgón,165000.0,Hidráulica,Delantera,2.0,114.0,13333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,131000.0,Hidráulica,Delantera,2.0,95.0,9000.0
+Renault Kangoo 1.5 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Oeste,1.5 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2009,Diésel,3.0,Manual,1.5,Furgón,152000.0,Hidráulica,Delantera,2.0,65.0,3500.0
+Renault Kangoo 1.6 confort 5a 2plc,Capital Federal,1.6 confort 5a 2plc,,Renault,Kangoo,2012,Nafta/GNC,5.0,Manual,1.6,Furgón,134000.0,Hidráulica,Delantera,2.0,95.0,4000.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Furgón,68000.0,Hidráulica,Delantera,2.0,65.0,12666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Gris,Renault,Kangoo,2021,Nafta,4.0,Manual,1.6,Furgón,28000.0,Hidráulica,Delantera,2.0,95.0,20900.0
+Renault Kangoo 1.9 Rld Athentique Aa Lc,Capital Federal,1.9 Rld Athentique Aa Lc,Blanco,Renault,Kangoo,2006,Diésel,5.0,Automática,1.9,Rural,253433.0,Hidráulica,Delantera,5.0,65.0,3266.67
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Bs.As. G.B.A. Oeste,Ii Express Confort 5a 1.5 Dci,Gris,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Furgón,40500.0,Hidráulica,Delantera,2.0,65.0,13000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,58000.0,Hidráulica,Delantera,2.0,95.0,12500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort 5as Lc,Plateado,Renault,Kangoo,2014,Nafta,5.0,Manual,1.6,Furgón,120000.0,Hidráulica,Delantera,2.0,95.0,9200.0
+Renault Kangoo 1.6 2 Furgon Confort 5as Lc Cd,Ubicación no encontrada,1.6 2 Furgon Confort 5as Lc Cd,,Renault,Kangoo,2011,Nafta,3.0,Manual,1.6,Furgón,129000.0,Hidráulica,Delantera,2.0,95.0,5666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,103000.0,Hidráulica,Delantera,2.0,95.0,11900.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Córdoba,1.6 Ph3 Authentique Plus Lc,,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,167000.0,Hidráulica,Delantera,5.0,95.0,8000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Plateado,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1111.0,Hidráulica,Delantera,2.0,114.0,20900.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Bs.As. G.B.A. Sur,1.5 2 Dci Ath Da Aa Cd 1plc,,Renault,Kangoo,2009,Diésel,4.0,Automática,1.5,Monovolumen,234000.0,Hidráulica,Delantera,5.0,65.0,4666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2018,Nafta/GNC,3.0,Manual,1.6,Furgón,125000.0,Hidráulica,Delantera,2.0,95.0,10599.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,137000.0,Hidráulica,Delantera,2.0,95.0,9200.0
+Renault Kangoo Ii Express Confort 1.5 Dci,Ubicación no encontrada,Ii Express Confort 1.5 Dci,,Renault,Kangoo,2018,Diésel,3.0,Manual,1.5,Furgón,104000.0,Hidráulica,Delantera,2.0,65.0,13000.0
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Bs.As. G.B.A. Norte,1.6 2 Ath Plus Da Aa Cd Pk Lc,,Renault,Kangoo,2012,Nafta,4.0,Automática,1.6,Monovolumen,143000.0,Hidráulica,Delantera,7.0,95.0,8000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Plateado,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,93000.0,Hidráulica,Delantera,2.0,114.0,12600.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Ubicación no encontrada,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2011,Nafta,3.0,Manual,1.6,Furgón,200000.0,Hidráulica,Delantera,2.0,95.0,6800.0
+Renault Kangoo Ii Express Emotion 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 1.6 Sce,Blanco,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,79000.0,Hidráulica,Delantera,2.0,114.0,17000.0
+Renault Kangoo 1.5 Dci Stepway,Ubicación no encontrada,1.5 Dci Stepway,Plateado,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,79000.0,Hidráulica,Delantera,2.0,89.0,13800.0
+Renault Kangoo 1.9 Confort D Sportway,Ubicación no encontrada,1.9 Confort D Sportway,Gris,Renault,Kangoo,2006,Diésel,5.0,Manual,1.9,Rural,153000.0,Hidráulica,Delantera,5.0,65.0,6800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,138000.0,Hidráulica,Delantera,2.0,95.0,8000.0
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Bs.As. G.B.A. Oeste,1.5 2 Furgon Confort Cd Da Svt 1plc,,Renault,Kangoo,2009,Diésel,3.0,Manual,1.5,Furgón,118000.0,Hidráulica,Delantera,2.0,65.0,5300.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc 7as,Buenos Aires Interior,1.6 Ph3 Authentique Plus Lc 7as,,Renault,Kangoo,2016,Nafta,4.0,Manual,1.6,Monovolumen,165000.0,Hidráulica,Delantera,7.0,95.0,11000.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,2800.0,Hidráulica,Delantera,2.0,114.0,12600.0
+Renault Kangoo Ii Express Profesional 1.6 Sce,Ubicación no encontrada,Ii Express Profesional 1.6 Sce,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,110000.0,Hidráulica,Delantera,2.0,114.0,10333.33
+Renault Kangoo Kangoo confort 1.5,Capital Federal,Kangoo confort 1.5,,Renault,Kangoo,2011,Diésel,3.0,Manual,1.5,Furgón,218385.0,Hidráulica,Delantera,2.0,65.0,4666.67
+Renault Kangoo 1.6 2 Authentique Da Aa Cd 1plc,Ubicación no encontrada,1.6 2 Authentique Da Aa Cd 1plc,Gris,Renault,Kangoo,2013,Nafta,4.0,Manual,1.6,Monovolumen,176000.0,Hidráulica,Delantera,5.0,95.0,8333.33
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Gran Confort Lc,Gris,Renault,Kangoo,2016,Nafta,5.0,Manual,1.6,Furgón,124000.0,Hidráulica,Delantera,2.0,95.0,11400.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,94000.0,Hidráulica,Delantera,2.0,95.0,10500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,110000.0,Hidráulica,Delantera,2.0,95.0,6333.33
+Renault Kangoo Ii Zen 1.6 Sce,Ubicación no encontrada,Ii Zen 1.6 Sce,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Monovolumen,51308.0,Hidráulica,Delantera,2.0,114.0,15106.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Buenos Aires Interior,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,144000.0,Hidráulica,Delantera,2.0,95.0,10500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,18500.0,Hidráulica,Delantera,2.0,95.0,12000.0
+Renault Kangoo 1.6 Ph3 Sportway Lc,Bs.As. G.B.A. Sur,1.6 Ph3 Sportway Lc,,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Monovolumen,32000.0,Hidráulica,Delantera,5.0,95.0,16500.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Buenos Aires Interior,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,160000.0,Hidráulica,Delantera,2.0,95.0,8000.0
+Renault Kangoo 1.6 furgón equipada,Capital Federal,1.6 furgón equipada,Gris,Renault,Kangoo,2020,Nafta/GNC,4.0,Manual,1.6,Monovolumen,200000.0,Asistida,Delantera,5.0,114.0,11800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Entre Ríos,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,192000.0,Hidráulica,Delantera,2.0,95.0,7333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2017,Nafta/GNC,3.0,Manual,1.6,Furgón,90000.0,Hidráulica,Delantera,2.0,95.0,8166.67
+Renault Kangoo 1.6 Nafta 5 Puertas,Bs.As. G.B.A. Norte,1.6 Nafta 5 puertas,,Renault,Kangoo,2004,Nafta,5.0,Manual,1.9,Rural,198000.0,,Delantera,5.0,65.0,3466.67
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Rojo,Renault,Kangoo,2023,Nafta,4.0,Manual,1.6,Monovolumen,15000.0,Hidráulica,Delantera,5.0,114.0,17500.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Entre Ríos,1.6 2 Confort 5as Aa Da Svt 1plc,Plateado,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,142000.0,Hidráulica,Delantera,2.0,95.0,6500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,119500.0,Hidráulica,Delantera,2.0,95.0,7996.67
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Bs.As. G.B.A. Norte,1.6 Ph3 Authentique Plus Lc,Gris,Renault,Kangoo,2017,Nafta,4.0,Manual,1.6,Monovolumen,97000.0,Hidráulica,Delantera,5.0,95.0,10000.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,111111.0,Hidráulica,Delantera,2.0,114.0,14600.0
+Renault Kangoo 1.6 Furgon Ph3 Generique,Ubicación no encontrada,1.6 Furgon Ph3 Generique,Blanco,Renault,Kangoo,2014,Nafta/GNC,3.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,95.0,5260.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Buenos Aires Interior,1.6 2 Furgon Confort Aa Da Svt 1plc,Blanco,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,99500.0,Hidráulica,Delantera,2.0,95.0,9000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,103000.0,Hidráulica,Delantera,2.0,95.0,6533.33
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,59000.0,Hidráulica,Delantera,2.0,114.0,14166.67
+Renault Kangoo Ii Express Confort 1.5 Dci,Ubicación no encontrada,Ii Express Confort 1.5 Dci,Blanco,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Furgón,78500.0,Hidráulica,Delantera,2.0,65.0,13600.0
+Renault Kangoo 1.6 Sce Stepway,Bs.As. G.B.A. Sur,1.6 Sce Stepway,,Renault,Kangoo,2020,Nafta,4.0,Manual,1.6,Monovolumen,49600.0,Hidráulica,Delantera,5.0,114.0,23000.0
+Renault Kangoo Kangoo 1.6 16v,Capital Federal,Kangoo 1.6 16v,,Renault,Kangoo,2009,Nafta,5.0,Manual,1.5,Furgón,1000.0,Hidráulica,Delantera,5.0,65.0,3166.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,140000.0,Hidráulica,Delantera,2.0,95.0,8900.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Furgón,60000.0,Hidráulica,Delantera,2.0,65.0,15666.67
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,35000.0,Hidráulica,Delantera,2.0,114.0,22000.0
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Ubicación no encontrada,1.6 2 Ath Plus Da Aa Cd Pk Lc,Plateado,Renault,Kangoo,2010,Nafta,4.0,Automática,1.6,Monovolumen,199000.0,Hidráulica,Delantera,7.0,95.0,6800.0
+Renault Kangoo Furgon Confort SCE L/18,Bs.As. G.B.A. Oeste,,Gris,Renault,Kangoo,2023,Nafta/GNC,3.0,Manual,1.6,Furgón,3000.0,Hidráulica,Delantera,2.0,95.0,19230.0
+Renault Kangoo 1.5 2 Dci Sportway Abcp Lc,Bs.As. G.B.A. Sur,1.5 2 Dci Sportway Abcp Lc,,Renault,Kangoo,2013,Diésel,4.0,Manual,1.5,Monovolumen,122500.0,Hidráulica,Delantera,5.0,65.0,8500.0
+Renault Kangoo 1.9 Confort D,Ubicación no encontrada,1.9 Confort D,Blanco,Renault,Kangoo,2007,Diésel,5.0,Manual,1.9,Rural,200000.0,Hidráulica,Delantera,5.0,65.0,5666.67
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1111.0,Hidráulica,Delantera,2.0,114.0,13933.33
+Renault Kangoo 1.5 Ii Express Confort Dci Mt,Ubicación no encontrada,1.5 II EXPRESS CONFORT DCI MT,Blanco,Renault,Kangoo,2024,Diésel,3.0,Manual,1.6,Furgón,1000.0,Asistida,Delantera,,,13640.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,127000.0,Hidráulica,Delantera,2.0,95.0,8400.0
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Bs.As. G.B.A. Oeste,1.6 2 Ath Plus Da Aa Cd Pk Lc,,Renault,Kangoo,2013,Nafta,4.0,Automática,1.6,Monovolumen,112000.0,Hidráulica,Delantera,7.0,95.0,7700.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,119000.0,Hidráulica,Delantera,2.0,95.0,7666.67
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Bs.As. G.B.A. Norte,1.5 2 Dci Ath Da Aa Cd 1plc,,Renault,Kangoo,2009,Diésel,4.0,Automática,1.5,Monovolumen,136700.0,Hidráulica,Delantera,5.0,65.0,4000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,142000.0,Hidráulica,Delantera,2.0,95.0,8000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,111111.0,Hidráulica,Delantera,2.0,114.0,14961.82
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,68000.0,Hidráulica,Delantera,2.0,114.0,14800.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Bs.As. G.B.A. Oeste,1.6 2 Furgon Confort Cd Svt 1plc,Blanco,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,248000.0,Hidráulica,Delantera,2.0,95.0,7990.0
+Renault Kangoo 1.9 D Confort,Ubicación no encontrada,1.9 D Confort,,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,130000.0,Hidráulica,Delantera,5.0,65.0,5800.0
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Gran Confort Lc,Gris,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,145000.0,Hidráulica,Delantera,2.0,95.0,7000.0
+Renault Kangoo 1.6 Sce Furgon Zen,Bs.As. G.B.A. Oeste,1.6 Sce Furgon Zen,Gris,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Furgón,13000.0,Hidráulica,Delantera,5.0,114.0,17200.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Norte,Ii Express Confort 1.6 Sce,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,103000.0,Hidráulica,Delantera,2.0,114.0,13000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1500.0,Hidráulica,Delantera,2.0,95.0,19500.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,94000.0,Hidráulica,Delantera,2.0,114.0,15240.0
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Ubicación no encontrada,1.5 2 Furgon Confort Cd Da Svt 1plc,Blanco,Renault,Kangoo,2012,Diésel,3.0,Manual,1.5,Furgón,137000.0,Hidráulica,Delantera,2.0,65.0,6500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,140000.0,Hidráulica,Delantera,2.0,95.0,15000.0
+Renault Kangoo 1.9 Rnd Pk Ab 2 Plc,Buenos Aires Interior,1.9 Rnd Pk Ab 2 Plc,Gris,Renault,Kangoo,2004,Diésel,5.0,Manual,1.9,Rural,220000.0,,Delantera,5.0,65.0,3666.67
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Córdoba,1.5 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Furgón,4700.0,Hidráulica,Delantera,2.0,65.0,13966.67
+Renault Kangoo kangoo2 confort 1.5d,Ubicación no encontrada,kangoo2 confort 1.5d,,Renault,Kangoo,2017,Diésel,5.0,Manual,1.5,Furgón,195000.0,Hidráulica,Delantera,2.0,65.0,5993.33
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Capital Federal,1.6 Ph3 Authentique 1plc,Blanco,Renault,Kangoo,2017,Nafta,4.0,Manual,1.6,Monovolumen,73297.0,Hidráulica,Delantera,5.0,95.0,8700.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Aa Da Svt 1plc,Blanco,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,234000.0,Hidráulica,Delantera,2.0,95.0,5000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,,Renault,Kangoo,2021,Diésel,5.0,Manual,1.6,Furgón,83300.0,Hidráulica,Delantera,2.0,114.0,11293.33
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,131000.0,Hidráulica,Delantera,2.0,95.0,9786.67
+Renault Kangoo Ii Express Confort 1.5 Dci,Ubicación no encontrada,Ii Express Confort 1.5 Dci,,Renault,Kangoo,2020,Diésel,3.0,Manual,1.5,Furgón,92500.0,Hidráulica,Delantera,2.0,65.0,16500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,160000.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo 1.5 2 Furgon Confort Aa Da Svt 1plc,Ubicación no encontrada,1.5 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2014,Diésel,3.0,Manual,1.5,Furgón,145000.0,Hidráulica,Delantera,2.0,65.0,5933.33
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2016,Diésel,3.0,Manual,1.5,Furgón,84000.0,Hidráulica,Delantera,2.0,65.0,10500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,78000.0,Hidráulica,Delantera,2.0,95.0,11500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2016,Nafta/GNC,3.0,Manual,1.6,Furgón,88000.0,Hidráulica,Delantera,2.0,95.0,11800.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Sur,1.6 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,240000.0,Hidráulica,Delantera,2.0,95.0,5200.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Bs.As. G.B.A. Sur,1.6 2 Confort 5as Aa Da Svt 1plc,Plateado,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,194000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo 1.6 Sce Furgon Life,Ubicación no encontrada,1.6 Sce Furgon Life,Rojo,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Furgón,65000.0,Hidráulica,Delantera,5.0,114.0,15200.0
+Renault Kangoo 1.6 2 Furgon Confort 5as Lc Cd,Bs.As. G.B.A. Sur,1.6 2 Furgon Confort 5as Lc Cd,,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,185000.0,Hidráulica,Delantera,2.0,95.0,6200.0
+Renault Kangoo Ph3 confort 1.6  5a,Bs.As. G.B.A. Oeste,Ph3 confort 1.6  5a,Gris,Renault,Kangoo,2015,Nafta,5.0,Manual,1.6,Furgón,115350.0,Hidráulica,Delantera,2.0,95.0,7266.67
+Renault Kangoo Ii Express Emotion 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,107000.0,Hidráulica,Delantera,2.0,114.0,11933.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,72000.0,Hidráulica,Delantera,2.0,95.0,11266.67
+Renault Kangoo 1.5 2 Furgon Confort Svt 5as Ca Lc,Bs.As. G.B.A. Norte,1.5 2 Furgon Confort Svt 5as Ca Lc,,Renault,Kangoo,2011,Diésel,3.0,Manual,1.5,Furgón,167000.0,Hidráulica,Delantera,2.0,65.0,6000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,225000.0,Hidráulica,Delantera,2.0,95.0,6000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Buenos Aires Interior,1.6 Furgon Ph3 Confort 1plc,Amarillo,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,307000.0,Hidráulica,Delantera,2.0,95.0,6466.67
+Renault Kangoo 1.6 Ph3 Sportway Lc,Ubicación no encontrada,1.6 Ph3 Sportway Lc,Gris,Renault,Kangoo,2016,Nafta,5.0,Manual,1.6,Monovolumen,93000.0,Hidráulica,Delantera,5.0,95.0,11000.0
+Renault Kangoo 1.6 2 Furgon Confort 5as Lc Cd,Ubicación no encontrada,1.6 2 Furgon Confort 5as Lc Cd,,Renault,Kangoo,2011,Nafta,3.0,Manual,1.6,Furgón,179000.0,Hidráulica,Delantera,2.0,95.0,5733.33
+Renault Kangoo,Bs.As. G.B.A. Norte,Kangoo rl 110cv aa plc izq,Gris,Renault,Kangoo,2003,Nafta,5.0,Manual,1.9,Sedán,190000.0,,Delantera,5.0,65.0,4666.67
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,11111.0,Hidráulica,Delantera,2.0,114.0,17900.0
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Buenos Aires Interior,1.5 2 Furgon Confort Cd Da Svt 1plc,,Renault,Kangoo,2008,Diésel,3.0,Manual,1.5,Furgón,146587.0,Hidráulica,Delantera,2.0,65.0,5000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,San Luis,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,142000.0,Hidráulica,Delantera,2.0,95.0,6800.0
+Renault Kangoo Ii Zen 1.6 Sce,Córdoba,Ii Zen 1.6 Sce,,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Monovolumen,60000.0,Hidráulica,Delantera,2.0,114.0,14000.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,29500.0,Hidráulica,Delantera,2.0,114.0,16900.0
+Renault Kangoo 1.9 Confort D,Bs.As. G.B.A. Sur,1.9 Confort D,,Renault,Kangoo,2007,Diésel,5.0,Manual,1.9,Rural,193000.0,Hidráulica,Delantera,5.0,65.0,4000.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,101000.0,Hidráulica,Delantera,2.0,114.0,12600.0
+Renault Kangoo Ii Express Profesional 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Profesional 1.6 Sce,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,103000.0,Hidráulica,Delantera,2.0,114.0,12900.0
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Río Negro,1.6 Furgon Ph3 Gran Confort Lc,Blanco,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,168000.0,Hidráulica,Delantera,2.0,95.0,8200.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Neuquén,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,73000.0,Hidráulica,Delantera,2.0,95.0,8666.67
+Renault Kangoo 1.5 Dci Stepway,Ubicación no encontrada,1.5 Dci Stepway,Negro,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,60500.0,Hidráulica,Delantera,2.0,89.0,13933.33
+Renault Kangoo 1.5 Dci Stepway,Córdoba,1.5 Dci Stepway,,Renault,Kangoo,2022,Diésel,3.0,Manual,1.5,Monovolumen,51000.0,Hidráulica,Delantera,2.0,89.0,19000.0
+Renault Kangoo 1.5 2 Furgon Confort Svt 5as Ca Lc,Ubicación no encontrada,1.5 2 Furgon Confort Svt 5as Ca Lc,,Renault,Kangoo,2014,Diésel,3.0,Manual,1.5,Furgón,140000.0,Hidráulica,Delantera,2.0,65.0,7000.0
+Renault Kangoo Sportway,Bs.As. G.B.A. Norte,Sportway,,Renault,Kangoo,2008,Nafta/GNC,5.0,Manual,1.6,Monovolumen,204000.0,Hidráulica,Delantera,5.0,95.0,5333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,95.0,11500.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 5a 1.6 Sce,Gris,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,90000.0,Hidráulica,Delantera,2.0,114.0,16500.0
+Renault Kangoo 1.9 Rnd Pk Ab,Santa Fe,1.9 Rnd Pk Ab,,Renault,Kangoo,2001,Diésel,5.0,Manual,1.9,Rural,272000.0,,Delantera,5.0,65.0,5000.0
+Renault Kangoo 1.5 Dci Stepway,Bs.As. Costa Atlántica,1.5 Dci Stepway,Gris,Renault,Kangoo,2020,Diésel,5.0,Manual,1.5,Furgón,57000.0,Hidráulica,Delantera,2.0,114.0,12666.67
+Renault Kangoo Ii Express Confort 1.5 Dci,Ubicación no encontrada,Ii Express Confort 1.5 Dci,Blanco,Renault,Kangoo,2020,Diésel,3.0,Manual,1.5,Furgón,55800.0,Hidráulica,Delantera,2.0,65.0,15200.0
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Ubicación no encontrada,1.6 Ph3 Authentique 1plc,Azul,Renault,Kangoo,2014,Nafta,4.0,Manual,1.6,Monovolumen,149000.0,Hidráulica,Delantera,5.0,95.0,7200.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,76500.0,Hidráulica,Delantera,2.0,95.0,9200.0
+Renault Kangoo 1.5 Dci Stepway,Ubicación no encontrada,1.5 Dci Stepway,Gris,Renault,Kangoo,2020,Diésel,3.0,Manual,1.5,Monovolumen,127000.0,Hidráulica,Delantera,2.0,89.0,15200.0
+Renault Kangoo Turbo Dicel 1.5 Full,Bs.As. G.B.A. Sur,Turbo dicel 1.5 full,,Renault,Kangoo,2009,Diésel,5.0,Manual,1.5,Furgón,127000.0,Hidráulica,Delantera,5.0,65.0,4666.67
+Renault Kangoo Rn Die Da Aa Pack Ab,Bs.As. G.B.A. Oeste,Rn die da aa pack ab,,Renault,Kangoo,2000,Diésel,4.0,Manual,1.9,Rural,351811.0,,Delantera,5.0,65.0,3000.0
+Renault Kangoo 1.9 Rld Athentique Aa Lc,Capital Federal,1.9 Rld Athentique Aa Lc,,Renault,Kangoo,2006,Diésel,5.0,Automática,1.9,Rural,250000.0,Hidráulica,Delantera,5.0,65.0,5900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,115000.0,Hidráulica,Delantera,2.0,95.0,12000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,56000.0,Hidráulica,Delantera,2.0,95.0,9860.0
+Renault Kangoo 1.6 2 Authentique Da Aa Cd 1plc,Mendoza,1.6 2 Authentique Da Aa Cd 1plc,,Renault,Kangoo,2010,Nafta,4.0,Manual,1.6,Monovolumen,135000.0,Hidráulica,Delantera,5.0,95.0,5666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1111.0,Hidráulica,Delantera,2.0,95.0,9116.67
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Blanco,Renault,Kangoo,2018,Nafta,5.0,Manual,1.6,Furgón,50000.0,Hidráulica,Delantera,2.0,95.0,12500.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,90000.0,Hidráulica,Delantera,2.0,114.0,13713.33
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Bs.As. G.B.A. Sur,1.6 Ph3 Authentique 1plc,Gris,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,181000.0,Hidráulica,Delantera,5.0,95.0,7500.0
+Renault Kangoo Ii Express Confort 1.5 Dci,Bs.As. G.B.A. Oeste,Ii Express Confort 1.5 Dci,,Renault,Kangoo,2019,Diésel,3.0,Manual,1.5,Furgón,48500.0,Hidráulica,Delantera,2.0,65.0,13000.0
+Renault Kangoo 1.6 2 Furgon Confort 5as Lc Cd,Entre Ríos,1.6 2 Furgon Confort 5as Lc Cd,,Renault,Kangoo,2009,Nafta,3.0,Manual,1.6,Furgón,250000.0,Hidráulica,Delantera,2.0,95.0,7000.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Emotion 5a 1.6 Sce,,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,55380.0,Hidráulica,Delantera,2.0,114.0,17800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,207000.0,Hidráulica,Delantera,2.0,95.0,7800.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Capital Federal,Ii Express Confort 5a 1.6 Sce,Gris,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,47000.0,Hidráulica,Delantera,2.0,114.0,13320.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,190000.0,Hidráulica,Delantera,2.0,95.0,9200.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,58000.0,Hidráulica,Delantera,2.0,114.0,14500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,104000.0,Hidráulica,Delantera,2.0,95.0,4266.67
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Buenos Aires Interior,1.6 Furgon Ph3 Confort Pack 5as Lc,Gris oscuro,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,95.0,14500.0
+Renault Kangoo 1.5 2 Furgon Confort Svt 5as Ca Lc,Ubicación no encontrada,1.5 2 Furgon Confort Svt 5as Ca Lc,Blanco,Renault,Kangoo,2009,Diésel,3.0,Manual,1.5,Furgón,180000.0,Hidráulica,Delantera,2.0,65.0,4333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,110000.0,Hidráulica,Delantera,2.0,95.0,12000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2018,Nafta/GNC,3.0,Manual,1.6,Furgón,85000.0,Hidráulica,Delantera,2.0,95.0,11000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort Pack 5as Lc,Gris,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,505.0,Hidráulica,Delantera,2.0,95.0,13333.33
+Renault Kangoo Ii Express Confort 1.5 Dci,Ubicación no encontrada,Ii Express Confort 1.5 Dci,Gris,Renault,Kangoo,2022,Eléctrico,3.0,Manual,1.5,Furgón,1000.0,Hidráulica,Delantera,2.0,65.0,14000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,78000.0,Hidráulica,Delantera,2.0,95.0,14666.67
+Renault Kangoo 1.6 Sce Life,Ubicación no encontrada,1.6 Sce Life,Gris,Renault,Kangoo,2020,Nafta,4.0,Manual,1.6,Monovolumen,105000.0,Hidráulica,Delantera,5.0,114.0,11666.67
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Oeste,1.5 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2016,Diésel,3.0,Manual,1.5,Furgón,181000.0,Hidráulica,Delantera,2.0,65.0,7266.67
+Renault Kangoo 1.6 Sce Stepway,Capital Federal,1.6 Sce Stepway,,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Monovolumen,40900.0,Hidráulica,Delantera,5.0,114.0,15800.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Bs.As. G.B.A. Norte,1.6 2 Furgon Confort Cd Svt 1plc,Blanco,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,170000.0,Hidráulica,Delantera,2.0,95.0,5333.33
+Renault Kangoo 1.5 Dci Stepway,Ubicación no encontrada,1.5 Dci Stepway,Plateado,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,79356.0,Hidráulica,Delantera,2.0,89.0,13800.0
+Renault Kangoo 1.6 2 Sportway Abcp,Bs.As. G.B.A. Oeste,1.6 2 Sportway Abcp,,Renault,Kangoo,2008,Nafta,4.0,Manual,1.6,Monovolumen,285000.0,Hidráulica,Delantera,5.0,95.0,5666.67
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Ubicación no encontrada,1.6 Ph3 Authentique 1plc,,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,170000.0,Hidráulica,Delantera,5.0,95.0,9000.0
+Renault Kangoo 1.5 Dci Furgon Stepway,Ubicación no encontrada,1.5 Dci Furgon Stepway,Gris oscuro,Renault,Kangoo,2019,Diésel,5.0,Manual,1.6,Hatchback,53000.0,hydraulic,Delantera,5.0,114.0,13333.33
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Plateado,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Monovolumen,99000.0,Hidráulica,Delantera,5.0,114.0,13927.33
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,900.0,Hidráulica,Delantera,2.0,114.0,10333.33
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Gran Confort Lc,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,97000.0,Hidráulica,Delantera,2.0,95.0,8500.0
+Renault Kangoo 1.5 2 Svt Dci Confort 1plc Aa Pkele,Bs.As. G.B.A. Sur,1.5 2 Svt Dci Confort 1plc Aa Pkele,Blanco,Renault,Kangoo,2009,Diésel,3.0,Manual,1.5,Furgón,200000.0,Hidráulica,Delantera,2.0,65.0,5000.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Córdoba,1.6 2 Furgon Confort Cd Svt 1plc,Blanco,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,169000.0,Hidráulica,Delantera,2.0,95.0,5533.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,95.0,7266.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,95.0,9200.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,73000.0,Hidráulica,Delantera,2.0,95.0,10600.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Bs.As. G.B.A. Oeste,1.6 Ph3 Authentique Plus Lc,Gris,Renault,Kangoo,2017,Nafta,4.0,Manual,1.6,Monovolumen,104000.0,Hidráulica,Delantera,5.0,95.0,8000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,50000.0,Hidráulica,Delantera,2.0,95.0,18000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Plateado,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,135000.0,Hidráulica,Delantera,2.0,114.0,10666.67
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.5 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2020,Diésel,3.0,Manual,1.5,Furgón,107000.0,Hidráulica,Delantera,2.0,65.0,14000.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Ubicación no encontrada,1.6 Ph3 Authentique Plus Lc,Gris,Renault,Kangoo,2017,Nafta,4.0,Manual,1.6,Monovolumen,95000.0,Hidráulica,Delantera,5.0,95.0,12300.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,153000.0,Hidráulica,Delantera,2.0,95.0,5950.0
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Negro,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Monovolumen,37000.0,Hidráulica,Delantera,5.0,114.0,16200.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2016,Nafta/GNC,5.0,Manual,1.6,Furgón,70000.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Santa Fe,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2012,Nafta/GNC,4.0,Manual,1.6,Furgón,210000.0,Hidráulica,Delantera,2.0,95.0,5666.67
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2019,Diésel,3.0,Manual,1.5,Furgón,81000.0,Hidráulica,Delantera,2.0,65.0,12300.0
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Capital Federal,1.6 2 Ath Plus Da Aa Cd Pk Lc,,Renault,Kangoo,2010,Nafta,4.0,Automática,1.6,Monovolumen,130000.0,Hidráulica,Delantera,7.0,95.0,8700.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Plateado,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,98000.0,Hidráulica,Delantera,2.0,95.0,10300.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Gris,Renault,Kangoo,2017,Nafta/GNC,5.0,Manual,1.6,Furgón,129000.0,Hidráulica,Delantera,2.0,95.0,9799.33
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Bs.As. G.B.A. Oeste,1.5 2 Dci Ath Da Aa Cd 1plc,,Renault,Kangoo,2012,Diésel,4.0,Automática,1.5,Monovolumen,196000.0,Hidráulica,Delantera,5.0,65.0,5332.67
+Renault Kangoo Ii Express Emotion 1.6 Sce,Capital Federal,Ii Express Emotion 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,3000.0,Hidráulica,Delantera,2.0,114.0,21000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,290000.0,Hidráulica,DelanteraCapacidad de la batería75 Ah,2.0,114.0,9333.33
+Renault Kangoo,Bs.As. G.B.A. Sur,1.9 D Confort,Verde,Renault,Kangoo,2005,Diésel,5.0,Manual,1.9,Rural,210000.0,Mecánica,Delantera,5.0,65.0,3666.67
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.5 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2015,Diésel,3.0,Manual,1.5,Furgón,215000.0,Hidráulica,Delantera,2.0,65.0,5666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,140000.0,Hidráulica,Delantera,2.0,95.0,9000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,137000.0,Hidráulica,Delantera,2.0,95.0,7800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,65000.0,Hidráulica,Delantera,2.0,95.0,12500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,326000.0,Hidráulica,Delantera,2.0,95.0,5000.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2016,Diésel,3.0,Manual,1.5,Furgón,83000.0,Hidráulica,Delantera,2.0,65.0,8000.0
+Renault Kangoo 1.6 2 Furgon Confort 5as Lc Cd,Capital Federal,1.6 2 Furgon Confort 5as Lc Cd,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,220000.0,Hidráulica,Delantera,2.0,95.0,3600.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.5 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Diésel,3.0,Manual,1.5,Furgón,160000.0,Hidráulica,Delantera,2.0,65.0,6666.67
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Capital Federal,1.6 2 Furgon Confort Cd Svt 1plc,,Renault,Kangoo,2011,Nafta,3.0,Manual,1.6,Furgón,137000.0,Hidráulica,Delantera,2.0,95.0,5000.0
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Bs.As. G.B.A. Sur,1.6 2 Ath Plus Da Aa Cd Pk Lc,,Renault,Kangoo,2014,Nafta,4.0,Automática,1.6,Monovolumen,198000.0,Hidráulica,Delantera,7.0,95.0,7000.0
+Renault Kangoo 1.6 Sce Zen,Capital Federal,1.6 Sce Zen,Gris,Renault,Kangoo,2018,Nafta,4.0,Manual,1.6,Monovolumen,173000.0,Hidráulica,Delantera,5.0,114.0,13000.0
+Renault Kangoo Ii Express Confort 1.5 Dci,Capital Federal,Ii Express Confort 1.5 Dci,,Renault,Kangoo,2018,Diésel,3.0,Manual,1.5,Furgón,78000.0,Hidráulica,Delantera,2.0,65.0,12000.0
+Renault Kangoo 1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,Bs.As. G.B.A. Norte,1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,,Renault,Kangoo,2010,Diésel,4.0,Automática,1.5,Monovolumen,220000.0,Hidráulica,Delantera,5.0,65.0,5000.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Capital Federal,1.5 2 Dci Ath Da Aa Cd 1plc,Blanco,Renault,Kangoo,2011,Diésel,4.0,Automática,1.5,Monovolumen,174000.0,Hidráulica,Delantera,5.0,65.0,5200.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.5 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Furgón,70000.0,Hidráulica,Delantera,2.0,65.0,12900.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.5 Furgon Ph3 Confort 5as Lc,Rojo,Renault,Kangoo,2017,Nafta/GNC,5.0,Manual,1.6,Sedán,80000.0,Hidráulica,Delantera,2.0,65.0,15000.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2022,Diésel,3.0,Manual,1.5,Furgón,46000.0,Hidráulica,Delantera,2.0,65.0,12333.33
+Renault Kangoo 1.5 Dci Stepway,Ubicación no encontrada,1.5 Dci Stepway,Negro,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Monovolumen,61000.0,Hidráulica,Delantera,2.0,89.0,13933.33
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Ubicación no encontrada,1.6 2 Ath Plus Da Aa Cd Pk Lc,Rojo,Renault,Kangoo,2011,Nafta,4.0,Automática,1.6,Monovolumen,130000.0,Hidráulica,Delantera,7.0,95.0,7466.67
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,129000.0,Hidráulica,Delantera,2.0,114.0,15900.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Confort 5a 1.6 Sce,Gris,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,40000.0,Hidráulica,Delantera,2.0,114.0,24500.0
+Renault Kangoo 1.6 2 Get Up Da Aa Cd Pk,Ubicación no encontrada,1.6 2 Get Up Da Aa Cd Pk,Gris,Renault,Kangoo,2011,Nafta,5.0,Manual,1.6,Monovolumen,193000.0,Hidráulica,Delantera,5.0,95.0,8000.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Bs.As. G.B.A. Oeste,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2011,Nafta,3.0,Manual,1.6,Furgón,190000.0,Hidráulica,Delantera,2.0,95.0,7000.0
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Negro,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Monovolumen,37000.0,Hidráulica,Delantera,5.0,114.0,16200.0
+Kangoo Furgon 2009 - Lista Para Seguir Trabajando !!,Bs.As. G.B.A. Oeste,DCI,Blanco,Renault,Kangoo,2009,Diésel,5.0,Manual,1.5,Furgón,295000.0,Hidráulica,Delantera,5.0,65.0,6200.0
+Renault Kangoo 1.6 Confort,Bs.As. Costa Atlántica,1.6 Confort,,Renault,Kangoo,2008,Nafta,4.0,Manual,1.6,Monovolumen,201000.0,Hidráulica,Delantera,5.0,95.0,6500.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Ubicación no encontrada,1.6 2 Confort 5as Aa Da Svt 1plc,Gris,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,146000.0,Hidráulica,Delantera,2.0,95.0,6800.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Confort 5a 1.6 Sce,,Renault,Kangoo,2021,Nafta,5.0,Manual,1.6,Furgón,83000.0,Hidráulica,Delantera,2.0,114.0,16300.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,116000.0,Hidráulica,Delantera,2.0,95.0,11900.0
+Renault Kangoo 1.9 D Confort,Bs.As. G.B.A. Norte,1.9 D Confort,Blanco,Renault,Kangoo,2007,Diésel,4.0,Manual,1.9,Monovolumen,125000.0,Hidráulica,Delantera,5.0,65.0,3666.67
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,140000.0,Hidráulica,Delantera,2.0,114.0,10666.67
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Ubicación no encontrada,1.6 Ph3 Authentique 1plc,Gris,Renault,Kangoo,2016,Nafta,4.0,Manual,1.6,Monovolumen,162000.0,Hidráulica,Delantera,5.0,95.0,7993.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,95.0,7000.0
+Renault Kangoo Ii Express Emotion 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1111111.0,Hidráulica,Delantera,2.0,114.0,13266.82
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Bs.As. G.B.A. Norte,Ii Express Confort 5a 1.6 Sce,,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,89000.0,Hidráulica,Delantera,2.0,114.0,16500.0
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Bs.As. G.B.A. Sur,1.6 2 Ath Plus Da Aa Cd Pk Lc,Gris,Renault,Kangoo,2012,Nafta,4.0,Automática,1.6,Monovolumen,250000.0,Hidráulica,Delantera,7.0,95.0,7900.0
+Renault Kangoo 1.6 Confort,Ubicación no encontrada,1.6 Confort,Gris,Renault,Kangoo,2007,Nafta,4.0,Manual,1.6,Monovolumen,200000.0,Hidráulica,Delantera,5.0,95.0,5900.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,99000.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo 2 1.5d Ex 2 Plc Con 5a L14 2015,Ubicación no encontrada,1.5 DCI 5AS 2PL,Blanco,Renault,Kangoo,2015,Diésel,4.0,Manual,1.5,Furgón,137000.0,hydraulic,Delantera,5.0,95.0,9666.0
+Renault Kangoo 1.5 Dci Stepway,Ubicación no encontrada,1.5 Dci Stepway,Rojo,Renault,Kangoo,2018,Diésel,3.0,Manual,1.5,Monovolumen,75000.0,Hidráulica,Delantera,2.0,89.0,18000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,109000.0,Hidráulica,Delantera,2.0,95.0,9000.0
+Renault Kangoo Express 2024 Okm - Financio 100% - Permuta,Ubicación no encontrada,Express,Blanco,Renault,Kangoo,2024,Nafta,3.0,Manual,1.6,Furgón,111111.0,Asistida,Delantera,,,13333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. Costa Atlántica,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,95000.0,Hidráulica,Delantera,2.0,95.0,18000.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Bs.As. G.B.A. Oeste,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2019,Diésel,3.0,Manual,1.5,Furgón,49000.0,Hidráulica,Delantera,2.0,65.0,18500.0
+Renault Kangoo 1.5 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Oeste,1.5 2 Furgon Confort Aa Da Svt 1plc,Blanco,Renault,Kangoo,2011,Diésel,3.0,Manual,1.5,Furgón,213000.0,Hidráulica,Delantera,2.0,65.0,3320.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,125000.0,Hidráulica,Delantera,2.0,95.0,8866.67
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,38500.0,Hidráulica,Delantera,2.0,114.0,10000.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Oeste,1.6 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,168000.0,Hidráulica,Delantera,2.0,95.0,6900.0
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Ubicación no encontrada,1.5 2 Furgon Confort Cd Da Svt 1plc,Gris,Renault,Kangoo,2011,Diésel,3.0,Manual,1.5,Furgón,231000.0,Hidráulica,Delantera,2.0,65.0,5866.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,110000.0,Hidráulica,Delantera,2.0,95.0,11000.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,5000.0,Hidráulica,Delantera,2.0,114.0,16500.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Bs.As. G.B.A. Oeste,1.6 2 Confort 5as Aa Da Svt 1plc,Blanco,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,132500.0,Hidráulica,Delantera,2.0,95.0,7900.0
+Renault Kangoo 1.6 II EXPRESS CONFORT 5A SCE MT,Ubicación no encontrada,1.6 II EXPRESS CONFORT 5A SCE MT,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.0,Furgón,59346.0,Asistida,4x2,2.0,114.0,11460.0
+Renault Kangoo 1.6 Sce Furgon Zen,Ubicación no encontrada,1.6 Sce Furgon Zen,,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Furgón,22000.0,Hidráulica,Delantera,5.0,114.0,12333.33
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Cd Svt 1plc,Gris,Renault,Kangoo,2011,Nafta,3.0,Manual,1.6,Furgón,149000.0,Hidráulica,Delantera,2.0,95.0,5666.67
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Bs.As. Costa Atlántica,1.5 2 Furgon Confort Cd Da Svt 1plc,,Renault,Kangoo,2010,Diésel,3.0,Manual,1.5,Furgón,230000.0,Hidráulica,Delantera,2.0,65.0,6000.0
+Renault Kangoo 1.5 Dci Stepway,Bs.As. G.B.A. Sur,1.5 Dci Stepway,Blanco,Renault,Kangoo,2022,Diésel,3.0,Manual,1.5,Monovolumen,21000.0,Hidráulica,DelanteraTipo de cargador1,2.0,89.0,19800.0
+Renault Kangoo 1.6 2 Sportway Abcp,Córdoba,1.6 2 Sportway Abcp,Gris,Renault,Kangoo,2010,Nafta,4.0,Manual,1.6,Monovolumen,219000.0,Hidráulica,Delantera,5.0,95.0,7200.0
+Renault Kangoo .,Buenos Aires Interior,.,,Renault,Kangoo,2005,Nafta/GNC,3.0,Manual,1.9,Rural,170000.0,Mecánica,Delantera,5.0,65.0,2800.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,100500.0,Hidráulica,Delantera,2.0,114.0,17000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,115000.0,Hidráulica,Delantera,2.0,95.0,9933.33
+Renault Kangoo 1.5 2 Svt Dci Confort 1plc Aa Pkele,Buenos Aires Interior,1.5 2 Svt Dci Confort 1plc Aa Pkele,Rojo,Renault,Kangoo,2010,Diésel,3.0,Manual,1.5,Furgón,190000.0,Hidráulica,Delantera,2.0,65.0,5200.0
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Capital Federal,1.5 2 Furgon Confort Cd Da Svt 1plc,Blanco,Renault,Kangoo,2011,Diésel,3.0,Manual,1.5,Furgón,150000.0,Hidráulica,Delantera,2.0,65.0,5666.67
+Renault Kangoo Ii Express Emotion 1.6 Sce,Córdoba,Ii Express Emotion 1.6 Sce,Plateado,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,8000.0,Hidráulica,Delantera,2.0,114.0,14733.33
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Sur,Ii Express Confort 1.6 Sce,,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,90000.0,Hidráulica,Delantera,2.0,114.0,14500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,213000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,145000.0,Hidráulica,Delantera,2.0,95.0,8300.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,19000.0,Hidráulica,Delantera,2.0,95.0,18300.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Norte,1.6 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,158000.0,Hidráulica,Delantera,2.0,95.0,6500.0
+Renault Kangoo 1.6 Ph3 Sportway Lc,Bs.As. G.B.A. Oeste,1.6 Ph3 Sportway Lc,,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,81000.0,Hidráulica,Delantera,5.0,95.0,10000.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Córdoba,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,114.0,12333.33
+Renault Kangoo Sportway 1.9 2008,Bs.As. G.B.A. Oeste,1.9 Sportway,Gris,Renault,Kangoo,2008,Diésel,5.0,Manual,1.9,Monovolumen,280000.0,Hidráulica,Delantera,5.0,65.0,3666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Gris,Renault,Kangoo,2017,Nafta/GNC,5.0,Manual,1.6,Furgón,87000.0,Hidráulica,Delantera,2.0,95.0,10666.67
+Cómo Nueva! Único Dueño!,Bs.As. Costa Atlántica,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,5.0,Automática,1.6,Furgón,10000.0,Hidráulica,Delantera,2.0,114.0,20000.0
+Renault Kangoo 1.5 Dci Stepway,Capital Federal,1.5 Dci Stepway,Gris,Renault,Kangoo,2020,Diésel,3.0,Manual,1.5,Monovolumen,67000.0,Hidráulica,Delantera,2.0,89.0,17500.0
+Renault Kangoo 1.5 Dci Furgon Stepway,Bs.As. G.B.A. Oeste,1.5 Dci Furgon Stepway,Blanco,Renault,Kangoo,2020,Diésel,3.0,Manual,1.5,Furgón,66000.0,Hidráulica,Delantera,2.0,89.0,17000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2017,Nafta/GNC,3.0,Manual,1.6,Furgón,210000.0,Hidráulica,Delantera,2.0,95.0,6666.67
+Renault Kangoo AUTHENTIC PLUS,Ubicación no encontrada,AUTHENTIC PLUS,Celeste,Renault,Kangoo,2015,Nafta,5.0,Manual,1.6,Sedán,125000.0,Hidráulica,Delantera,7.0,95.0,9133.33
+Renault Kangoo 1.5 2 Svt Dci Confort 1plc Aa Pkele,Bs.As. G.B.A. Sur,1.5 2 Svt Dci Confort 1plc Aa Pkele,,Renault,Kangoo,2010,Diésel,3.0,Manual,1.5,Furgón,133000.0,Hidráulica,Delantera,2.0,65.0,5333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,175000.0,Hidráulica,Delantera,2.0,95.0,10200.0
+Renault Kangoo Ph3 confort 1.6 5as,Ubicación no encontrada,Ph3 confort 1.6 5as,,Renault,Kangoo,2017,Nafta/GNC,6.0,Manual,1.6,Furgón,160000.0,Hidráulica,Delantera,2.0,95.0,8333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,181000.0,Hidráulica,Delantera,2.0,95.0,7533.33
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,51000.0,Hidráulica,Delantera,2.0,114.0,9000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,90000.0,Hidráulica,Delantera,2.0,95.0,12500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,145000.0,Hidráulica,Delantera,2.0,95.0,6800.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Capital Federal,1.6 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,200000.0,Hidráulica,Delantera,2.0,95.0,5666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,4900.0,Hidráulica,Delantera,2.0,95.0,20500.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Cd Svt 1plc,Gris,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,138000.0,Hidráulica,Delantera,2.0,95.0,8000.0
+Renault Kangoo Doble Porton,Bs.As. G.B.A. Sur,Doble porton,Blanco,Renault,Kangoo,2015,Nafta,5.0,Manual,1.6,Furgón,110000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo Stepway,Ubicación no encontrada,Stephany,Gris,Renault,Kangoo,2024,Nafta,5.0,Manual,1.6,SUV,1111.0,Hidráulica,Delantera,,,20900.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Hatchback,87000.0,hydraulic,Delantera,5.0,114.0,18000.0
+Renault Kangoo 1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,Ubicación no encontrada,1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,,Renault,Kangoo,2011,Diésel,4.0,Automática,1.5,Monovolumen,157000.0,Hidráulica,Delantera,5.0,65.0,5200.0
+Renault Kangoo 1.5 Dci Stepway,Bs.As. G.B.A. Oeste,1.5 Dci Stepway,,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Monovolumen,12300.0,Hidráulica,Delantera,2.0,89.0,24500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1111.0,Hidráulica,Delantera,2.0,95.0,13666.67
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1500.0,Hidráulica,Delantera,2.0,114.0,16700.0
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Ubicación no encontrada,1.6 Furgon Ph3 Gran Confort Lc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,79000.0,Hidráulica,Delantera,2.0,95.0,11500.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1000.0,Hidráulica,Delantera,2.0,114.0,15333.33
+Renault Kangoo RENAULT KANGOO2 1.5D AU 2PLC 7A,Córdoba,RENAULT KANGOO2 1.5D AU 2PLC 7A,Rojo,Renault,Kangoo,2009,Diésel,5.0,Manual,1.5,Furgón,177000.0,Hidráulica,Delantera,5.0,65.0,4333.33
+Renault Kangoo 1.5 2 Furgon Gran Confot Lc,Mendoza,1.5 2 Furgon Gran Confot Lc,Rojo,Renault,Kangoo,2011,Nafta/GNC,3.0,Manual,1.5,Furgón,223000.0,Hidráulica,Delantera,2.0,65.0,4800.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Bs.As. G.B.A. Norte,1.6 2 Furgon Confort Cd Svt 1plc,Gris,Renault,Kangoo,2011,Nafta,3.0,Manual,1.6,Furgón,280000.0,Hidráulica,Delantera,2.0,95.0,5333.33
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Capital Federal,1.6 Ph3 Authentique Plus Lc,Gris,Renault,Kangoo,2016,Nafta,5.0,Manual,1.6,Monovolumen,285000.0,Hidráulica,Delantera,5.0,95.0,7500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,158000.0,Hidráulica,Delantera,2.0,95.0,6166.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2016,Nafta/GNC,3.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,95.0,7593.33
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Bs.As. G.B.A. Oeste,Ii Express Confort 5a 1.5 Dci,Plateado,Renault,Kangoo,2018,Diésel,3.0,Manual,1.5,Furgón,89000.0,Hidráulica,Delantera,2.0,65.0,15500.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Capital Federal,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,108000.0,Hidráulica,Delantera,2.0,114.0,14200.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Norte,1.5 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2015,Diésel,3.0,Manual,1.5,Furgón,110000.0,Hidráulica,Delantera,2.0,65.0,9300.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,59000.0,Hidráulica,Delantera,2.0,114.0,14166.67
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Bs.As. G.B.A. Norte,1.6 Ph3 Authentique Plus Lc,Gris,Renault,Kangoo,2014,Nafta,5.0,Manual,1.6,Monovolumen,165000.0,Hidráulica,Delantera,5.0,95.0,8333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Capital Federal,1.6 Furgon Ph3 Confort Pack 5as Lc,Blanco,Renault,Kangoo,2015,Nafta,5.0,Manual,1.6,Furgón,140000.0,Hidráulica,Delantera,2.0,95.0,9200.0
+Renault Kangoo 1.6 2 Ath Plus Da Aa Cd Pk Lc,Bs.As. G.B.A. Norte,1.6 2 Ath Plus Da Aa Cd Pk Lc,,Renault,Kangoo,2010,Nafta,4.0,Automática,1.6,Monovolumen,159000.0,Hidráulica,Delantera,7.0,95.0,7700.0
+Renault Kangoo 1.9 D Confort,Ubicación no encontrada,1.9 D Confort,,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,120000.0,Hidráulica,Delantera,5.0,65.0,3993.33
+Renault Kangoo AUTH 1.6 4 PUERTAS,Bs.As. G.B.A. Sur,AUTH 1.6 4 PUERTAS,Blanco,Renault,Kangoo,2013,Nafta,4.0,Manual,1.6,Sedán,190000.0,Hidráulica,Delantera,5.0,95.0,7200.0
+Renault Kangoo 1.6 Ph3 Authentique 1plc,Ubicación no encontrada,1.6 Ph3 Authentique 1plc,Rojo,Renault,Kangoo,2016,Nafta,4.0,Manual,1.6,Monovolumen,115000.0,Hidráulica,Delantera,5.0,95.0,9000.0
+Renault Kangoo 1.6 FURGON PH3 GRAN CONFORT LC MT,Ubicación no encontrada,1.6 FURGON PH3 GRAN CONFORT LC MT,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.0,Furgón,99000.0,Asistida,4x2,2.0,95.0,7386.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,210000.0,Hidráulica,Delantera,2.0,95.0,8900.0
+Renault Kangoo Ii Stepway 1.6 Sceii,Ubicación no encontrada,Ii Stepway 1.6 Sceii,Plateado,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Monovolumen,106000.0,Hidráulica,Delantera,2.0,114.0,13933.33
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Bs.As. G.B.A. Norte,1.6 2 Furgon Confort Cd Svt 1plc,Plateado,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,200000.0,Hidráulica,Delantera,2.0,95.0,5000.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Buenos Aires Interior,1.6 Ph3 Authentique Plus Lc,,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,25000.0,Hidráulica,Delantera,5.0,95.0,6466.67
+Renault Kangoo 1.6 2 Furgon Confort 5as Lc Cd,Ubicación no encontrada,1.6 2 Furgon Confort 5as Lc Cd,Blanco,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,124000.0,Hidráulica,Delantera,2.0,95.0,5666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,35000.0,Hidráulica,Delantera,2.0,95.0,14600.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Río Negro,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,252000.0,Hidráulica,Delantera,2.0,95.0,10500.0
+Renault Kangoo 1.9 D Confort,Mendoza,1.9 D Confort,Blanco,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,293000.0,Hidráulica,Delantera,5.0,65.0,3333.33
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Capital Federal,Ii Express Confort 5a 1.6 Sce,,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,53000.0,Hidráulica,Delantera,2.0,114.0,19000.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Bs.As. G.B.A. Norte,Ii Express Confort 5a 1.5 Dci,Plateado,Renault,Kangoo,2018,Diésel,3.0,Manual,1.5,Furgón,80000.0,Hidráulica,Delantera,2.0,65.0,17500.0
+Renault Kangoo 1.5 2 Furgon Gran Confot Lc,Bs.As. G.B.A. Sur,1.5 2 Furgon Gran Confot Lc,,Renault,Kangoo,2010,Diésel,3.0,Manual,1.5,Furgón,174000.0,Hidráulica,Delantera,2.0,65.0,5333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,47200.0,Hidráulica,Delantera,2.0,95.0,13400.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Bs.As. G.B.A. Sur,1.6 2 Furgon Confort Cd Svt 1plc,,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,140000.0,Hidráulica,Delantera,2.0,95.0,7200.0
+Renault Kangoo 1.6 1 Plc Sedan 4 Puertas,Capital Federal,1.6 1 PLC,Gris,Renault,Kangoo,2005,Nafta,4.0,Manual,1.9,Furgón,353300.0,Mecánica,Delantera,5.0,65.0,3333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,26.0,Hidráulica,Delantera,2.0,95.0,13300.0
+Renault Kangoo 1.6 II EXPRESS CONFORT 5A SCE MT,Ubicación no encontrada,1.6 II EXPRESS CONFORT 5A SCE MT,Grey,Renault,Kangoo,2021,Nafta,5.0,Manual,1.0,Furgón,16389.0,Asistida,4x2,2.0,114.0,15186.67
+Renault Kangoo 1.6 Ph3 Sportway Lc,Ubicación no encontrada,1.6 Ph3 Sportway Lc,Gris,Renault,Kangoo,2016,Nafta,5.0,Manual,1.6,Monovolumen,93000.0,Hidráulica,Delantera,5.0,95.0,11000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,120000.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo 1.6 2 Sportway Abcp,Ubicación no encontrada,1.6 2 Sportway Abcp,,Renault,Kangoo,2012,Nafta,4.0,Manual,1.6,Monovolumen,160000.0,Hidráulica,Delantera,5.0,95.0,4166.67
+Renault Kangoo 1.9 Pack 1 Plc D,Ubicación no encontrada,1.9 Pack 1 Plc D,Gris,Renault,Kangoo,2007,Diésel,5.0,Manual,1.9,Rural,111111.0,Hidráulica,Delantera,5.0,65.0,4333.33
+Renault Kangoo 1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,Capital Federal,1.5 2 Dci Ath Plus Da Aa Cd Pack Lc,Rojo,Renault,Kangoo,2010,Diésel,4.0,Automática,1.5,Monovolumen,67830.0,Hidráulica,Delantera,5.0,65.0,10500.0
+Renault Kangoo 1.6,Bs.As. G.B.A. Sur,1.6,,Renault,Kangoo,2009,Nafta/GNC,4.0,Manual,1.5,Furgón,186000.0,Hidráulica,Delantera,5.0,65.0,8000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Gris,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,28900.0,Hidráulica,Delantera,2.0,114.0,16033.6
+Renault Kangoo 1.6 2 Furgon Confort 5as Lc Cd,Capital Federal,1.6 2 Furgon Confort 5as Lc Cd,,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,190000.0,Hidráulica,Delantera,2.0,95.0,4800.0
+Renault Kangoo Ii Express Emotion 1.6 Sce,Santa Fe,Ii Express Emotion 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,25000.0,Hidráulica,Delantera,2.0,114.0,13333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,77000.0,Hidráulica,Delantera,2.0,95.0,11500.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,80000.0,Hidráulica,Delantera,2.0,114.0,12600.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,110000.0,Hidráulica,Delantera,2.0,95.0,6266.67
+Renault Kangoo 1.6 EXPRESS CONFORT 1 PLC L14,Ubicación no encontrada,1.6 EXPRESS CONFORT 1 PLC L14,Blanco,Renault,Kangoo,2014,Nafta,5.0,Manual,1.6,Furgón,79000.0,Hidráulica,Delantera,2.0,95.0,10133.33
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Ubicación no encontrada,1.6 Furgon Ph3 Gran Confort Lc,Gris,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,135000.0,Hidráulica,Delantera,2.0,95.0,8800.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Capital Federal,Ii Express Confort 5a 1.6 Sce,,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,76000.0,Hidráulica,Delantera,2.0,114.0,17000.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Bs.As. G.B.A. Norte,1.6 Ph3 Authentique Plus Lc,Gris,Renault,Kangoo,2014,Nafta,5.0,Manual,1.6,Rural,119300.0,Asistida,Delantera,2.0,95.0,10500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,122000.0,Hidráulica,Delantera,2.0,95.0,8500.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Mendoza,Ii Express Confort 5a 1.6 Sce,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,132000.0,Hidráulica,Delantera,2.0,114.0,11333.33
+Renault Kangoo Ii Stepway 1.6 Sceii,Ubicación no encontrada,Ii Stepway 1.6 Sceii,,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Monovolumen,23000.0,Hidráulica,Delantera,2.0,114.0,16670.0
+Renault Kangoo EXPRESS 1.6 SCE CONFORT L18,Ubicación no encontrada,EXPRESS 1.6 SCE CONFORT L18,Blanco,Renault,Kangoo,2022,Nafta,6.0,Manual,1.6,Furgón,83100.0,Hidráulica,Delantera,2.0,114.0,15000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,113000.0,Hidráulica,Delantera,2.0,95.0,10533.33
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.5 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Furgón,8000.0,Hidráulica,Delantera,2.0,65.0,20350.0
+Renault Kangoo 1.9 D Confort,Córdoba,1.9 D Confort,,Renault,Kangoo,2007,Diésel,4.0,Manual,1.9,Monovolumen,245000.0,Hidráulica,Delantera,5.0,65.0,3666.67
+Renault Kangoo Ii Express Confort 1.6 Sce,Buenos Aires Interior,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta/GNC,5.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,114.0,14500.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Oeste,1.6 2 Furgon Confort Aa Da Svt 1plc,Amarillo,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,162300.0,Hidráulica,Delantera,2.0,95.0,5000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Rojo,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,59000.0,Hidráulica,Delantera,2.0,95.0,12500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,150000.0,Hidráulica,Delantera,2.0,95.0,8500.0
+Renault Kangoo 1.5 Dci Stepway,Bs.As. G.B.A. Norte,1.5 Dci Stepway,,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Monovolumen,20000.0,Hidráulica,Delantera,2.0,89.0,25000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,88000.0,Hidráulica,Delantera,2.0,95.0,7900.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Santa Fe,1.6 Ph3 Authentique Plus Lc,,Renault,Kangoo,2015,Nafta,4.0,Manual,1.6,Monovolumen,72000.0,Hidráulica,Delantera,5.0,95.0,11500.0
+Renault Kangoo 1.5 2 Furgon Confort Aa Da Svt 1plc,Ubicación no encontrada,1.5 2 Furgon Confort Aa Da Svt 1plc,Blanco,Renault,Kangoo,2010,Diésel,3.0,Manual,1.5,Furgón,116000.0,Hidráulica,Delantera,2.0,65.0,7500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,98000.0,Hidráulica,Delantera,2.0,95.0,12000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,95.0,15000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,71000.0,Hidráulica,Delantera,2.0,95.0,8333.33
+Renault Kangoo 1.6 II EXPRESS EMOTION SCE MT,Ubicación no encontrada,1.6 II EXPRESS EMOTION SCE MT,Blanco,Renault,Kangoo,2021,Nafta,3.0,Manual,1.0,Furgón,14515.0,Asistida,4x2,2.0,114.0,13086.67
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Córdoba,1.6 Ph3 Authentique Plus Lc,Gris,Renault,Kangoo,2014,Nafta/GNC,5.0,Manual,1.6,Furgón,131000.0,Hidráulica,Delantera,2.0,95.0,6333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Buenos Aires Interior,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,109800.0,Hidráulica,Delantera,2.0,95.0,9600.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,137000.0,Hidráulica,Delantera,2.0,95.0,7133.33
+Renault Kangoo 1.5 Dci Stepway,Bs.As. G.B.A. Sur,1.5 Dci Stepway,Gris,Renault,Kangoo,2018,Diésel,3.0,Manual,1.5,Monovolumen,101000.0,Hidráulica,Delantera,2.0,89.0,17500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,131500.0,Hidráulica,Delantera,2.0,95.0,7666.67
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Aa Da Svt 1plc,Gris,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,171000.0,Hidráulica,Delantera,2.0,95.0,6466.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,270000.0,Hidráulica,Delantera,2.0,95.0,7333.33
+"Renault Kangoo 1.6 16V, FURGON CON PUERTA LATERAL",Buenos Aires Interior,,Azul,Renault,Kangoo,2011,Nafta/GNC,4.0,Manual,1.5,Furgón,220000.0,Hidráulica,Delantera,2.0,95.0,7000.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Buenos Aires Interior,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,160000.0,Hidráulica,Delantera,2.0,114.0,11000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,75000.0,Hidráulica,Delantera,2.0,95.0,12500.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,42500.0,Hidráulica,Delantera,2.0,114.0,14498.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Bs.As. G.B.A. Norte,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,999.0,Hidráulica,Delantera,2.0,114.0,22000.0
+Renault Kangoo 1.6 2 Authentique Da Aa Cd 1plc,Bs.As. Costa Atlántica,1.6 2 Authentique Da Aa Cd 1plc,,Renault,Kangoo,2008,Nafta,4.0,Manual,1.6,Monovolumen,180000.0,Hidráulica,Delantera,5.0,95.0,6000.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,59000.0,Hidráulica,Delantera,2.0,114.0,14166.6
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,8000.0,Hidráulica,Delantera,2.0,95.0,19000.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,78509.0,Hidráulica,Delantera,2.0,114.0,13600.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,98000.0,Hidráulica,Delantera,2.0,114.0,11320.0
+Renault Kangoo 1.6 Furgon Ph3 Gran Confort Lc,Buenos Aires Interior,1.6 Furgon Ph3 Gran Confort Lc,Blanco,Renault,Kangoo,2012,Nafta,5.0,Manual,1.6,Furgón,120000.0,Hidráulica,Delantera,2.0,95.0,4800.0
+Renault Kangoo 1.6 2 Ath Plus 7as Da Aa Cd Pk Lc,Ubicación no encontrada,1.6 2 Ath Plus 7as Da Aa Cd Pk Lc,,Renault,Kangoo,2012,Nafta,4.0,Automática,1.6,Monovolumen,140000.0,Hidráulica,Delantera,7.0,95.0,7333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,153000.0,Hidráulica,Delantera,2.0,95.0,7566.67
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Blanco,Renault,Kangoo,2019,Nafta/GNC,3.0,Manual,1.6,Furgón,110000.0,Hidráulica,Delantera,2.0,114.0,14600.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Bs.As. G.B.A. Oeste,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2020,Nafta,6.0,Manual,1.6,Furgón,44000.0,Hidráulica,Delantera,2.0,114.0,14666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,156000.0,Hidráulica,Delantera,2.0,95.0,9500.0
+Renault Kangoo Ii Express Confort 1.5 Dci,Ubicación no encontrada,Ii Express Confort 1.5 Dci,Gris,Renault,Kangoo,2019,Diésel,3.0,Manual,1.5,Furgón,84000.0,Hidráulica,Delantera,2.0,65.0,15800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Santa Fe,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,65000.0,Hidráulica,Delantera,2.0,95.0,18000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,79000.0,Hidráulica,Delantera,2.0,95.0,9333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,120000.0,Hidráulica,Delantera,2.0,95.0,7666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Tierra del Fuego,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,105000.0,Hidráulica,Delantera,2.0,95.0,5666.67
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Gris,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,12000.0,Hidráulica,Delantera,2.0,114.0,12600.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,95.0,8805.93
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1000.0,Hidráulica,Delantera,2.0,95.0,15666.67
+Renault Kangoo 1.5 2 Furgon Confort Aa Da Svt 1plc,Ubicación no encontrada,1.5 2 Furgon Confort Aa Da Svt 1plc,Blanco,Renault,Kangoo,2009,Diésel,3.0,Manual,1.5,Furgón,289000.0,Hidráulica,Delantera,2.0,65.0,4533.33
+Renault Kangoo 1.5 Dci Stepway,Capital Federal,1.5 Dci Stepway,,Renault,Kangoo,2023,Diésel,3.0,Manual,1.5,Monovolumen,4300.0,Hidráulica,Delantera,2.0,89.0,22700.0
+Renault Kangoo 1.6 2 Ath Plus Lc Sl Da+aa+cd+pk,Bs.As. G.B.A. Norte,,Gris,Renault,Kangoo,2009,Nafta,4.0,Automática,1.6,Monovolumen,160000.0,Hidráulica,Delantera,5.0,95.0,6400.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Bs.As. G.B.A. Norte,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,169000.0,Hidráulica,Delantera,2.0,95.0,8500.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Ubicación no encontrada,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2010,Nafta,3.0,Manual,1.6,Furgón,195000.0,Hidráulica,Delantera,2.0,95.0,7000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,72000.0,Hidráulica,Delantera,2.0,95.0,11900.0
+Renault Kangoo 1.6 Sce Furgon Zen,Bs.As. G.B.A. Norte,1.6 Sce Furgon Zen,Gris,Renault,Kangoo,2019,Nafta,4.0,Manual,1.6,Furgón,85000.0,Hidráulica,Delantera,5.0,114.0,17000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2018,Nafta,5.0,Manual,1.6,Furgón,83000.0,Hidráulica,Delantera,2.0,95.0,12300.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Córdoba,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2015,Nafta,3.0,Manual,1.6,Furgón,82000.0,Hidráulica,Delantera,2.0,95.0,9200.0
+Renault Kangoo 1.9 Rnd Pk Ab,Bs.As. G.B.A. Norte,1.9 Rnd Pk Ab,Gris,Renault,Kangoo,2001,Diésel,5.0,Manual,1.9,Rural,111111.0,,Delantera,5.0,65.0,2800.0
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Ubicación no encontrada,1.5 2 Furgon Confort Cd Da Svt 1plc,Blanco,Renault,Kangoo,2014,Diésel,3.0,Manual,1.5,Furgón,230000.0,Hidráulica,Delantera,2.0,65.0,6400.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Bs.As. G.B.A. Oeste,1.5 2 Dci Ath Da Aa Cd 1plc,Gris,Renault,Kangoo,2012,Diésel,4.0,Automática,1.5,Monovolumen,246000.0,Hidráulica,Delantera,5.0,65.0,5330.0
+Renault Kangoo 1.6 2 Ath Plus 7as Da Aa Cd Pk Lc,Bs.As. G.B.A. Oeste,1.6 2 Ath Plus 7as Da Aa Cd Pk Lc,,Renault,Kangoo,2010,Nafta,4.0,Automática,1.6,Monovolumen,210000.0,Hidráulica,Delantera,7.0,95.0,5333.33
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2013,Nafta,3.0,Manual,1.6,Furgón,96000.0,Hidráulica,Delantera,2.0,95.0,5598.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2018,Nafta/GNC,5.0,Manual,1.6,Furgón,92000.0,Hidráulica,Delantera,2.0,95.0,10666.67
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Mendoza,1.6 Ph3 Authentique Plus Lc,Rojo,Renault,Kangoo,2014,Nafta,5.0,Manual,1.6,Monovolumen,270000.0,Hidráulica,Delantera,5.0,95.0,6166.67
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc,Ubicación no encontrada,1.6 Ph3 Authentique Plus Lc,Gris,Renault,Kangoo,2015,GNC,4.0,Manual,1.6,Monovolumen,125000.0,Hidráulica,Delantera,5.0,95.0,9600.0
+Renault Kangoo 1.6 Express Confort 1 Plc L14,Ubicación no encontrada,1.6 EXPRESS CONFORT 1 PLC L14,Gris,Renault,Kangoo,2018,Nafta,5.0,Manual,1.6,Furgón,110900.0,Hidráulica,Delantera,2.0,95.0,12333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,85000.0,Hidráulica,Delantera,2.0,95.0,10800.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,155000.0,Hidráulica,Delantera,2.0,95.0,7500.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,137000.0,Hidráulica,Delantera,2.0,95.0,8533.33
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2022,Nafta,5.0,Manual,1.6,Furgón,27000.0,Hidráulica,Delantera,2.0,114.0,19000.0
+Renault Kangoo 1.6 2 Furgon Confort Aa Da Svt 1plc,Ubicación no encontrada,1.6 2 Furgon Confort Aa Da Svt 1plc,,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,80000.0,Hidráulica,Delantera,2.0,95.0,6600.0
+Renault Kangoo Nafta/gas Familiar,Córdoba,,,Renault,Kangoo,2000,Nafta/GNC,5.0,Manual,1.9,Rural,18000.0,,Delantera,5.0,65.0,4000.0
+Renault Kangoo 1.5 2 Furgon Confort Aa Da Svt 1plc,Bs.As. G.B.A. Norte,1.5 2 Furgon Confort Aa Da Svt 1plc,Blanco,Renault,Kangoo,2011,Diésel,3.0,Manual,1.5,Furgón,290850.0,Hidráulica,Delantera,2.0,65.0,5200.0
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,5.0,Manual,1.6,Furgón,75000.0,Hidráulica,Delantera,2.0,95.0,11200.0
+Renault Kangoo 1.6 Confort,Bs.As. G.B.A. Sur,1.6 Confort,Gris,Renault,Kangoo,2007,Nafta,4.0,Manual,1.6,Monovolumen,169000.0,Hidráulica,Delantera,5.0,95.0,4666.67
+Renault Kangoo 1.6 Furgon Ph3 Confort Pack 5as Lc,Córdoba,1.6 Furgon Ph3 Confort Pack 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,210000.0,Hidráulica,Delantera,2.0,95.0,6000.0
+Renault Kangoo,Bs.As. G.B.A. Oeste,Furgón puerta lateral equipo de frio,Plateado,Renault,Kangoo,2013,Nafta/GNC,3.0,Manual,1.6,Furgón,230000.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Furgón,70000.0,Hidráulica,Delantera,2.0,114.0,12000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Entre Ríos,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,93000.0,Hidráulica,Delantera,2.0,95.0,7000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,130000.0,Hidráulica,Delantera,2.0,95.0,11300.0
+Renault Kangoo Ii Express Confort 5a 1.6 Sce,Ubicación no encontrada,Ii Express Confort 5a 1.6 Sce,Plateado,Renault,Kangoo,2019,Nafta,5.0,Manual,1.6,Furgón,60000.0,hydraulic,Delantera,5.0,114.0,15900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,65000.0,Hidráulica,Delantera,2.0,95.0,10599.33
+Renault Kangoo 1.5 2 Furgon Confort Cd Da Svt 1plc,Capital Federal,1.5 2 Furgon Confort Cd Da Svt 1plc,,Renault,Kangoo,2008,Diésel,3.0,Manual,1.5,Furgón,125000.0,Hidráulica,Delantera,2.0,65.0,4000.0
+Renault Kangoo  Ph5,Bs.As. G.B.A. Sur,Ph5,,Renault,Kangoo,2017,Nafta,5.0,Manual,1.6,Furgón,90000.0,Hidráulica,Delantera,2.0,95.0,7866.67
+Renault Kangoo 1.9 Rnd Pk Ab,Capital Federal,1.9 Rnd Pk Ab,,Renault,Kangoo,2001,Diésel,5.0,Manual,1.9,Rural,300000.0,,Delantera,5.0,65.0,3300.0
+Renault Kangoo 1.5 II EXPRESS CONFORT DCI MT,Ubicación no encontrada,1.5 II EXPRESS CONFORT DCI MT,Gris,Renault,Kangoo,2019,Diésel,3.0,Manual,1.0,Furgón,84000.0,Asistida,4x2,2.0,65.0,9426.67
+Renault Kangoo 1.6 2 Furgon Svt Confort 1plc Aa Da,Bs.As. G.B.A. Oeste,1.6 2 Furgon Svt Confort 1plc Aa Da,Blanco,Renault,Kangoo,2010,Nafta,3.0,Manual,1.6,Furgón,270000.0,Hidráulica,Delantera,2.0,95.0,6000.0
+Renault Kangoo 1.6 FURGON CONFORT 5AS LC MT,Ubicación no encontrada,1.6 FURGON CONFORT 5AS LC MT,White,Renault,Kangoo,2016,Nafta,5.0,Manual,1.0,Furgón,89515.0,Asistida,4x2,2.0,95.0,7846.67
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 5a 1.6 Sce,Plateado,Renault,Kangoo,2022,Nafta,5.0,Manual,1.6,Furgón,1000.0,Hidráulica,Delantera,2.0,114.0,16000.0
+Renault Kangoo 1.5 2 Furgon Confort Svt 5as Ca Lc,Bs.As. G.B.A. Norte,1.5 2 Furgon Confort Svt 5as Ca Lc,Blanco,Renault,Kangoo,2011,Diésel,3.0,Manual,1.5,Furgón,37338.0,Hidráulica,Delantera,2.0,65.0,5800.01
+Renault Kangoo 1.9 D Confort,Bs.As. G.B.A. Norte,1.9 D Confort,Blanco,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,140000.0,Hidráulica,Delantera,5.0,65.0,5500.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Ubicación no encontrada,Ii Express Confort 5a 1.5 Dci,Gris,Renault,Kangoo,2019,Diésel,5.0,Manual,1.5,Furgón,100000.0,Hidráulica,Delantera,2.0,65.0,15000.0
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Ubicación no encontrada,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,97000.0,Hidráulica,Delantera,2.0,95.0,10200.0
+Renault Kangoo Ii Express Confort 5a 1.5 Dci,Santa Fe,Ii Express Confort 5a 1.5 Dci,Blanco,Renault,Kangoo,2021,Diésel,3.0,Manual,1.5,Furgón,73000.0,Hidráulica,Delantera,2.0,65.0,14666.67
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Negro,Renault,Kangoo,2022,Nafta,4.0,Manual,1.6,Monovolumen,37959.0,Hidráulica,Delantera,5.0,114.0,16200.0
+Renault Kangoo 1.6 Ph3 Authentique Plus Lc 7as,Bs.As. G.B.A. Norte,1.6 Ph3 Authentique Plus Lc 7as,Negro,Renault,Kangoo,2014,Nafta,4.0,Manual,1.6,Monovolumen,199000.0,Hidráulica,Delantera,7.0,95.0,7500.0
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Rojo,Renault,Kangoo,2023,Nafta,4.0,Manual,1.6,Monovolumen,8500.0,Hidráulica,Delantera,5.0,114.0,20300.0
+Renault Kangoo Stepway 1.5 Dci,Ubicación no encontrada,Stepway 1.5 Dci,,Renault,Kangoo,2022,Diésel,3.0,Manual,1.5,Monovolumen,49000.0,Hidráulica,Delantera,2.0,65.0,19000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Oeste,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2015,Nafta/GNC,4.0,Manual,1.6,Furgón,118115.0,Hidráulica,Delantera,2.0,95.0,6666.67
+Renault Kangoo 1.5 Dci Stepway,Bs.As. Costa Atlántica,1.5 Dci Stepway,,Renault,Kangoo,2022,Diésel,3.0,Manual,1.5,Monovolumen,33000.0,Hidráulica,Delantera,2.0,89.0,19700.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2014,Nafta,3.0,Manual,1.6,Furgón,152340.0,Hidráulica,Delantera,2.0,95.0,7000.0
+Renault Kangoo 1.5 2 Furgon Confort Svt 5as Ca Lc,Buenos Aires Interior,1.5 2 Furgon Confort Svt 5as Ca Lc,,Renault,Kangoo,2011,Diésel,3.0,Manual,1.5,Furgón,183000.0,Hidráulica,Delantera,2.0,65.0,3126.67
+Renault Kangoo 1.5 2 Dci Ath Plus Lc 7as Da Aa Pk,Bs.As. G.B.A. Norte,1.5 2 Dci Ath Plus Lc 7as Da Aa Pk,,Renault,Kangoo,2011,Diésel,4.0,Automática,1.5,Monovolumen,200000.0,Hidráulica,Delantera,7.0,65.0,8000.0
+Renault Kangoo Ii Express Emotion 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 1.6 Sce,Plateado,Renault,Kangoo,2021,Nafta,3.0,Manual,1.6,Furgón,95000.0,Hidráulica,Delantera,2.0,114.0,12600.0
+Renault Kangoo Ii Stepway 1.6 Sceii,Capital Federal,Ii Stepway 1.6 Sceii,Gris,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Monovolumen,9500.0,Hidráulica,Delantera,2.0,114.0,22500.0
+Renault Kangoo Ii Express Emotion 5a 1.6 Sce,Buenos Aires Interior,Ii Express Emotion 5a 1.6 Sce,Blanco,Renault,Kangoo,2019,Nafta,3.0,Manual,1.6,Furgón,4500.0,Hidráulica,Delantera,2.0,114.0,18000.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Bs.As. Costa Atlántica,1.5 2 Dci Ath Da Aa Cd 1plc,,Renault,Kangoo,2013,Diésel,4.0,Automática,1.5,Monovolumen,160000.0,Hidráulica,Delantera,5.0,65.0,6800.0
+Renault Kangoo 1.9 Rld,La Pampa,1.9 Rld,,Renault,Kangoo,2000,Diésel,5.0,Manual,1.9,Rural,325000.0,,Delantera,5.0,65.0,3666.67
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,129300.0,Hidráulica,Delantera,2.0,114.0,11326.67
+Renault Kangoo EXPRESS 1.5 DCI CONFORT 5AS L18,Ubicación no encontrada,EXPRESS 1.5 DCI CONFORT 5AS L18,Plata,Renault,Kangoo,2020,Diésel,6.0,Manual,1.6,Furgón,113308.0,Hidráulica,Delantera,2.0,114.0,12133.33
+Renault Kangoo 1.6 Sce Stepway,Ubicación no encontrada,1.6 Sce Stepway,Negro,Renault,Kangoo,2022,Nafta,5.0,Manual,1.6,Monovolumen,37000.0,Hidráulica,Delantera,5.0,114.0,16166.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2016,Nafta,3.0,Manual,1.6,Furgón,93000.0,Hidráulica,Delantera,2.0,95.0,7900.0
+Renault Kangoo 1.6 16v Authentique,Bs.As. Costa Atlántica,1.6 16v authentique,,Renault,Kangoo,2006,Nafta/GNC,4.0,Automática,1.9,Rural,220000.0,Hidráulica,Delantera,5.0,65.0,6500.0
+Renault Kangoo 1.5 Furgon Ph3 Confort 1plc,Bs.As. G.B.A. Norte,1.5 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2016,Diésel,5.0,Manual,1.5,Furgón,121000.0,Hidráulica,Delantera,2.0,95.0,10000.0
+Renault Kangoo 1.9 D Confort,Bs.As. G.B.A. Norte,1.9 D Confort,,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,190000.0,Hidráulica,Delantera,5.0,65.0,6600.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Capital Federal,1.5 2 Dci Ath Da Aa Cd 1plc,Blanco,Renault,Kangoo,2011,Diésel,4.0,Automática,1.5,Monovolumen,176000.0,Hidráulica,Delantera,5.0,65.0,5400.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Furgón,143000.0,Hidráulica,Delantera,2.0,95.0,10500.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1000.0,Hidráulica,Delantera,2.0,114.0,15962.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Ubicación no encontrada,1.5 2 Dci Ath Da Aa Cd 1plc,,Renault,Kangoo,2012,Diésel,4.0,Automática,1.5,Monovolumen,87000.0,Hidráulica,Delantera,5.0,65.0,7900.0
+Renault Kangoo 1.6 2 Sportway Abcp,Bs.As. G.B.A. Sur,1.6 2 Sportway Abcp,,Renault,Kangoo,2009,Nafta,4.0,Manual,1.6,Monovolumen,248000.0,Hidráulica,Delantera,5.0,95.0,4333.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 1plc,Blanco,Renault,Kangoo,2014,Nafta,5.0,Manual,1.6,Furgón,184000.0,Hidráulica,Delantera,2.0,95.0,6000.0
+Renault Kangoo 1.5 2 Furgon Gran Confot Lc,Bs.As. G.B.A. Sur,1.5 2 Furgon Gran Confot Lc,,Renault,Kangoo,2012,Diésel,3.0,Manual,1.5,Furgón,95000.0,Hidráulica,Delantera,2.0,65.0,6500.0
+Renault Kangoo 1.9 D Confort,Bs.As. G.B.A. Sur,1.9 D Confort,,Renault,Kangoo,2008,Diésel,4.0,Manual,1.9,Monovolumen,140000.0,Hidráulica,Delantera,5.0,65.0,6200.0
+Renault Kangoo Furgon Confort 1.6,Ubicación no encontrada,Furgon Confort 1.6,Gris,Renault,Kangoo,2017,Nafta,5.0,Manual,1.6,Furgón,168000.0,Hidráulica,Delantera,2.0,95.0,10200.0
+Renault Kangoo Ii Express Confort 1.6 Sce,Ubicación no encontrada,Ii Express Confort 1.6 Sce,Blanco,Renault,Kangoo,2023,Nafta,3.0,Manual,1.6,Furgón,1111.0,Hidráulica,Delantera,2.0,114.0,13933.33
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Norte,1.6 Furgon Ph3 Confort 5as Lc,,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,115000.0,Hidráulica,Delantera,2.0,95.0,12900.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Bs.As. G.B.A. Sur,1.6 Furgon Ph3 Confort 5as Lc,Gris,Renault,Kangoo,2015,Nafta,5.0,Manual,1.6,Furgón,140000.0,Hidráulica,Delantera,2.0,95.0,6666.67
+Renault Kangoo Ii Zen 1.6 Sce,Ubicación no encontrada,Ii Zen 1.6 Sce,,Renault,Kangoo,2018,Nafta,3.0,Manual,1.6,Monovolumen,195000.0,Hidráulica,Delantera,2.0,114.0,11900.0
+Renault Kangoo 1.5 2 Dci Ath Da Aa Cd 1plc,Ubicación no encontrada,1.5 2 Dci Ath Da Aa Cd 1plc,Plateado,Renault,Kangoo,2010,Diésel,4.0,Automática,1.5,Monovolumen,190000.0,Hidráulica,Delantera,5.0,65.0,5866.67
+Renault Kangoo 1.6 Furgon Ph3 Confort 5as Lc,Ubicación no encontrada,1.6 Furgon Ph3 Confort 5as Lc,Blanco,Renault,Kangoo,2017,Nafta,3.0,Manual,1.6,Furgón,120500.0,Hidráulica,Delantera,2.0,95.0,9333.33
+Renault Kangoo Ii Stepway 1.6 Sceii,Ubicación no encontrada,Ii Stepway 1.6 Sceii,Negro,Renault,Kangoo,2022,Nafta,3.0,Manual,1.6,Monovolumen,37000.0,Hidráulica,Delantera,2.0,114.0,16199.93
+Renault Kangoo 1.6 2 Confort 5as Aa Da Svt 1plc,Bs.As. G.B.A. Sur,1.6 2 Confort 5as Aa Da Svt 1plc,,Renault,Kangoo,2011,Nafta,3.0,Manual,1.6,Furgón,186000.0,Hidráulica,Delantera,2.0,95.0,5000.0
+Renault Kangoo 1.6 Furgon Ph3 Confort 1plc,Capital Federal,1.6 Furgon Ph3 Confort 1plc,Gris,Renault,Kangoo,2015,Nafta/GNC,3.0,Manual,1.6,Furgón,175000.0,Hidráulica,Delantera,2.0,95.0,7800.0
+Renault Kangoo 1.6 2 Furgon Confort Cd Svt 1plc,Bs.As. G.B.A. Norte,1.6 2 Furgon Confort Cd Svt 1plc,Gris,Renault,Kangoo,2012,Nafta,3.0,Manual,1.6,Furgón,55000.0,Hidráulica,Delantera,2.0,95.0,5866.67
+Renault Kangoo Ii Express Emotion 1.6 Sce,Ubicación no encontrada,Ii Express Emotion 1.6 Sce,Blanco,Renault,Kangoo,2020,Nafta,3.0,Manual,1.6,Furgón,180000.0,Hidráulica,Delantera,2.0,114.0,12333.33

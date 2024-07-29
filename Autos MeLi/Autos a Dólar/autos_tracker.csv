@@ -1,0 +1,998 @@
+Título,Ubicación,Versión,Color,Marca,Modelo,Año,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Kilómetros,Dirección,Control de tracción,Capacidad de personas,Potencia,Precio
+Chevrolet Tracker 1.2 Turbo At,Bs.As. G.B.A. Norte,1.2 Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,21500.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,65000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,75000.0,Hidráulica,4x2,5.0,141.0,13500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,66000.0,Hidráulica,Integral,5.0,140.0,18000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,114000.0,Asistida,Integral,5.0,140.0,13400.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Córdoba,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,96000.0,Asistida,Delantera,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Rojo,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,119000.0,Asistida,Delantera,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,73000.0,Asistida,Integral,5.0,140.0,11666.67
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,48000.0,Asistida,Integral,5.0,140.0,17500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Sur,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,124000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Oeste,1.8 Ltz,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,81500.0,Hidráulica,4x2,5.0,141.0,15500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,95600.0,Asistida,Delantera,5.0,140.0,12700.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,72000.0,Asistida,Integral,5.0,140.0,16200.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Capital Federal,,Gris,Chevrolet,Tracker,2016,Nafta/GNC,5.0,Automática,1.8,SUV,113000.0,Asistida,Integral,5.0,140.0,14500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Sur,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,103000.0,Asistida,Delantera,5.0,140.0,12100.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Oeste,1.8 Ltz,,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,65000.0,Asistida,4x2,5.0,141.0,12866.67
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Gris,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,40000.0,Eléctrica,4x2,5.0,132.0,19500.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Rojo,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19466.67
+Chevrolet Tracker Fwd premier,Capital Federal,Fwd premier,Gris,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,65000.0,Eléctrica,4x2,5.0,132.0,13666.67
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,12000.0,Eléctrica,4x2,5.0,132.0,19933.33
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,17725.33
+Chevrolet Tracker 1.2 Ltz Turbo At,Buenos Aires Interior,1.2 Ltz Turbo At,Rojo,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,83000.0,Eléctrica,4x2,5.0,132.0,21000.0
+Chevrolet Tracker 1.8 Lt Fwd Mt 4x2,Capital Federal,1.8 Lt Fwd Mt 4x2,,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,65000.0,Hidráulica,Delantera,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Sur,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,85000.0,Asistida,4x2,5.0,141.0,11333.33
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,39000.0,Eléctrica,4x2,5.0,132.0,21800.0
+Chevrolet Tracker 1.2 Turbo Mt,Bs.As. G.B.A. Norte,1.2 Turbo Mt,,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1050.0,Eléctrica,4x2,5.0,132.0,25000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Tucumán,,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,75000.0,Asistida,Integral,5.0,140.0,13000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Plateado,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,73000.0,Eléctrica,4x2,5.0,132.0,23180.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Oeste,1.8 Ltz,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,92000.0,Hidráulica,4x2,5.0,141.0,16000.0
+Chevrolet Tracker 1.2 Turbo Mt,Capital Federal,1.2 Turbo Mt,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,114000.0,Asistida,Delantera,5.0,140.0,12000.0
+Chevrolet Tracker 1.2 Turbo Ltz At,Bs.As. Costa Atlántica,1.2 Turbo Ltz At,Negro,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,24500.0,Eléctrica,4x2,5.0,132.0,19500.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,42000.0,Eléctrica,4x2,5.0,132.0,19500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,107000.0,Asistida,Integral,5.0,140.0,11933.33
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,86000.0,Asistida,Integral,5.0,140.0,12900.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,500.0,Eléctrica,4x2,5.0,132.0,18133.33
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,108000.0,Hidráulica,4x2,5.0,141.0,16500.0
+Chevrolet Tracker 4x4 Awd Premier +,Bs.As. G.B.A. Oeste,,Gris,Chevrolet,Tracker,2018,Nafta,4.0,Automática,1.8,SUV,113200.0,Hidráulica,4x4,5.0,140.0,12600.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Blanco,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,12000.0,Eléctrica,4x2,5.0,132.0,20666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Río Negro,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,75000.0,Asistida,Delantera,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz,Buenos Aires Interior,1.8 Ltz,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,55600.0,Asistida,4x2,5.0,141.0,18500.0
+Chevrolet Tracker 1.8 PREMIER LTZ,Ubicación no encontrada,1.8 PREMIER LTZ,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,70000.0,Hidráulica,4x2,5.0,141.0,15510.0
+Chevrolet Tracker 1.8 Ltz,Buenos Aires Interior,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,110000.0,Asistida,4x2,5.0,141.0,14500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Norte,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,110000.0,Asistida,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,108000.0,Asistida,Integral,5.0,140.0,13900.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Rojo,Chevrolet,Tracker,2013,Nafta/GNC,5.0,Automática,1.8,SUV,141600.0,Asistida,Integral,5.0,140.0,9680.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Norte,,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,82000.0,Asistida,Integral,5.0,140.0,16533.33
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,102000.0,Asistida,Integral,5.0,140.0,14300.0
+Chevrolet Tracker 1.8 Lt Fwd Mt 4x2,Bs.As. G.B.A. Norte,1.8 Lt Fwd Mt 4x2,Gris,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,272080.0,Hidráulica,Delantera,5.0,140.0,8000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,68000.0,Asistida,Delantera,5.0,140.0,15500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Oeste,,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,58000.0,Hidráulica,Integral,5.0,140.0,18500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,62000.0,Asistida,Integral,5.0,140.0,17000.0
+Chevrolet Tracker Ltz 2015 4x2,Córdoba,4X2 MANUAL,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,165000.0,Asistida,Delantera,5.0,140.0,9333.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,92000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,27000.0,Hidráulica,Integral,5.0,140.0,14666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,115000.0,Asistida,Delantera,5.0,140.0,12900.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Norte,1.8 Ltz 140cv,Azul,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,110417.0,Asistida,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,45000.0,Hidráulica,Integral,5.0,140.0,17333.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,90000.0,Asistida,Delantera,5.0,140.0,9980.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Sur,1.8 Ltz,,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,85000.0,Asistida,4x2,5.0,141.0,13666.67
+Chevrolet Tracker 1.2 Turbo Mt,Bs.As. G.B.A. Norte,1.2 Turbo Mt,,Chevrolet,Tracker,2021,Nafta,5.0,Manual,1.2,SUV,77000.0,Eléctrica,4x2,5.0,132.0,15700.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,147000.0,Asistida,Delantera,5.0,140.0,14500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,112000.0,Asistida,Integral,5.0,140.0,12333.33
+Chevrolet Tracker 1.8 4X2 LTZ PREMIER L17,Ubicación no encontrada,1.8 4X2 LTZ PREMIER L17,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,75237.0,Asistida,Delantera,5.0,140.0,17048.67
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Norte,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,45000.0,Asistida,Integral,5.0,140.0,19000.0
+Chevrolet Tracker Premier At Awd,Córdoba,Premier At Awd,,Chevrolet,Tracker,2019,Nafta/GNC,5.0,Automática,1.8,SUV,85000.0,Asistida,Integral,5.0,140.0,15666.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,102000.0,Asistida,Integral,5.0,140.0,11500.0
+Chevrolet Tracker 1.2 Turbo Mt,Bs.As. G.B.A. Norte,1.2 Turbo Mt,,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1111.0,Eléctrica,4x2,5.0,132.0,20333.33
+Chevrolet Tracker 1.2 Rs At6,Ubicación no encontrada,1.2 Rs At6,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,500.0,Eléctrica,Delantera,5.0,132.0,20666.67
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Awd At 140cv,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,95000.0,Asistida,Integral,5.0,140.0,12990.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,107000.0,Asistida,Integral,5.0,140.0,10333.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,130000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Oeste,,Rojo,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,80000.0,Hidráulica,Integral,5.0,140.0,16000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Capital Federal,1.2 Ltz Turbo At,,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,4000.0,Eléctrica,4x2,5.0,132.0,21333.33
+Chevrolet Tracker 1.8 LTZ MT 4x2,Ubicación no encontrada,1.8 LTZ MT 4x2,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.0,SUV,55810.0,Asistida,4x2,5.0,140.0,10793.33
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,68500.0,Asistida,4x2,5.0,141.0,12333.33
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,95000.0,Asistida,Integral,5.0,140.0,12933.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Norte,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,130000.0,Asistida,Integral,5.0,140.0,8666.67
+Chevrolet Tracker 1.8 4X2 FWD LTZ LNueva,Ubicación no encontrada,1.8 4X2 FWD LTZ LNueva,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,78490.0,Asistida,4x2,5.0,141.0,13933.33
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,96000.0,Asistida,4x4,5.0,141.0,12600.0
+Chevrolet Tracker 1.8 AWD LTZ+,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,129000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,76000.0,Asistida,Delantera,5.0,140.0,13000.0
+Chevrolet Tracker 1.2 Lt Mt 2021,Ubicación no encontrada,Lt,Blanco,Chevrolet,Tracker,2021,Nafta,5.0,Manual,1.2,SUV,50000.0,Asistida,4x2,5.0,132.0,17000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,113000.0,Asistida,Delantera,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,65000.0,Asistida,Integral,5.0,140.0,17333.33
+Chevrolet Tracker 1.2 Ltz Turbo At,Salta,1.2 Ltz Turbo At,Plateado,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,83000.0,Eléctrica,4x2,5.0,132.0,19000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,115000.0,Asistida,Integral,5.0,140.0,11266.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,121000.0,Asistida,Integral,5.0,140.0,11333.33
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Rojo,Chevrolet,Tracker,2015,Nafta,4.0,Manual,1.8,SUV,95549.0,assisted,Delantera,5.0,140.0,11187.4
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. Costa Atlántica,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,100000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19430.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Oeste,,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,112000.0,Asistida,Integral,5.0,140.0,15900.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Gris oscuro,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,70000.0,assisted,Integral,5.0,140.0,13466.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,83000.0,Asistida,Delantera,5.0,140.0,10866.67
+Chevrolet Tracker 1.8 LTZ MT 4x2,Ubicación no encontrada,1.8 LTZ MT 4x2,Black,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.0,SUV,56522.0,Asistida,4x2,5.0,140.0,10526.67
+Chevrolet Tracker Premier 4x4 At,Ubicación no encontrada,Premier 4x4 AT,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,108000.0,Hidráulica,Integral,5.0,140.0,17500.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1111.0,Eléctrica,4x2,5.0,132.0,28000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,San Juan,,Negro,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,58000.0,Asistida,Integral,5.0,140.0,15666.67
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Plateado,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,12500.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.2 Turbo At,Mendoza,1.2 Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,35000.0,Eléctrica,4x2,5.0,132.0,20200.0
+Chevrolet Tracker Ltz Premier 4x4 At,Ubicación no encontrada,LTZ PREMIER 4X4 AT,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,80000.0,Hidráulica,Integral,5.0,140.0,12600.0
+Chevrolet Tracker 1.2 Turbo Ltz At,Mendoza,1.2 Turbo Ltz At,Rojo,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,2000.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Awd At 140cv,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,25000.0,Asistida,Integral,5.0,140.0,17500.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,6233.0,Eléctrica,4x2,5.0,132.0,24500.0
+Chevrolet Tracker 1.8 Premier 4x4 At 2018 Imolaautos,Ubicación no encontrada,1.8 PREMIER 4X4 AT,Blanco,Chevrolet,Tracker,2018,Nafta,4.0,Automática,1.8,SUV,119000.0,Hidráulica,Integral,5.0,140.0,13266.67
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,74000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,87200.0,Asistida,4x2,5.0,141.0,14400.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,Rojo,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,67000.0,Asistida,Integral,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,62000.0,Hidráulica,Integral,5.0,140.0,14500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,72000.0,Asistida,Integral,5.0,140.0,14500.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Blanco,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,10000.0,Eléctrica,4x2,5.0,132.0,21266.0
+Chevrolet Tracker 1.8 Premier Awd  4x4 At 2018,Capital Federal,Premier AWD 4 x 4,Rojo,Chevrolet,Tracker,2018,Nafta,4.0,Automática,1.8,SUV,127000.0,Hidráulica,4x4,5.0,140.0,13266.67
+Chevrolet Tracker Premier,Ubicación no encontrada,Premier,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,85000.0,Hidráulica,Integral,5.0,140.0,16000.0
+Chevrolet Tracker 1.2 Turbo At argentina,Buenos Aires Interior,1.2 Turbo At argentina,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,9000.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Norte,1.8 Ltz,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,112000.0,Asistida,4x2,5.0,141.0,14800.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Capital Federal,1.2 Ltz Turbo At,Rojo,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,500.0,Eléctrica,4x2,5.0,132.0,21900.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,14000.0,Eléctrica,4x2,5.0,132.0,27500.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Salta,1.2 Ltz Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,8000.0,Eléctrica,4x2,5.0,132.0,25000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Gris,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,30000.0,Eléctrica,4x2,5.0,132.0,22500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Capital Federal,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,79000.0,Asistida,Delantera,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,77000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.2 Turbo Premier At6 2023,Ubicación no encontrada,1.2 Premier Turbo At,Blanco,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,21000.0,electronic,Delantera,5.0,132.0,21333.33
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Plateado,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,65000.0,Eléctrica,4x2,5.0,132.0,16333.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,115000.0,Asistida,Integral,5.0,140.0,12900.0
+Chevrolet Tracker 1.8 4X2 LTZ PREMIER L17,Ubicación no encontrada,1.8 4X2 LTZ PREMIER L17,Plata,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,105346.0,Asistida,Delantera,5.0,140.0,15336.67
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Gris,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,27000.0,Eléctrica,4x2,5.0,132.0,20900.0
+Chevrolet Tracker Premier 1.8 2018,Capital Federal,PREMIER 1.8 2018,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,47000.0,Hidráulica,Integral,5.0,140.0,18500.0
+Chevrolet Tracker Fwd Premier 2019,Ubicación no encontrada,FWD Premier,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,107800.0,Eléctrica,Integral,5.0,140.0,13925.33
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,135345.0,Asistida,4x2,5.0,141.0,16000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Norte,,Plateado,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,55000.0,Hidráulica,Integral,5.0,140.0,17500.0
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.8,SUV,110000.0,Eléctrica,4x4,5.0,141.0,10800.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,17725.33
+Chevrolet Tracker 1.8 Ltz 140cv,Capital Federal,1.8 Ltz 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,24500.0,Asistida,Integral,5.0,140.0,13200.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,127000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Capital Federal,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,68000.0,Asistida,Delantera,5.0,140.0,12800.0
+Chevrolet Tracker 1.8 Premier  Plus At 4x4,Ubicación no encontrada,1.8 PREMIER  PLUS AT 4x4,White,Chevrolet,Tracker,2019,Nafta,5.0,Automático,1.8,SUV,67421.0,Asistida,Integral,5.0,140.0,14986.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Santa Fe,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,80000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,111000.0,Asistida,Integral,5.0,140.0,14133.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,120000.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Santa Fe,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,43500.0,Asistida,Delantera,5.0,140.0,11333.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Sur,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,52000.0,Asistida,Delantera,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,82000.0,Asistida,4x2,5.0,141.0,17800.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,78500.0,Asistida,Integral,5.0,140.0,10333.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,101000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,90000.0,Asistida,Integral,5.0,140.0,15500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,85000.0,Asistida,Integral,5.0,140.0,15900.0
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,89000.0,Asistida,4x4,5.0,141.0,15900.0
+Chevrolet Tracker 1.8 4X2 FWD LTZ,Ubicación no encontrada,1.8 4X2 FWD LTZ,Gris,Chevrolet,Tracker,2018,Nafta,4.0,Manual,1.8,SUV,91604.0,Hidráulica,4x2,5.0,141.0,13266.67
+Chevrolet Tracker 1.8 Ltz 140cv,Mendoza,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,75000.0,Asistida,Integral,5.0,140.0,18000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Capital Federal,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,98500.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz Awd At 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,73000.0,Asistida,Integral,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz+,Bs.As. Costa Atlántica,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,85000.0,Asistida,4x4,5.0,141.0,17500.0
+Chevrolet Tarcker Ltz At 0km 2024  Ya!!!!! Mz,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1600.0,Asistida,Delantera,5.0,132.0,21990.6
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,63760.0,Hidráulica,4x4,5.0,141.0,13733.33
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,33000.0,Eléctrica,4x2,5.0,132.0,20666.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Córdoba,,,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,155000.0,Asistida,Integral,5.0,140.0,10333.33
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Plateado,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,3600.0,Eléctrica,4x2,5.0,132.0,20666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,92000.0,Asistida,Delantera,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Sur,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,73000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,Off-Road,99000.0,assisted,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Plateado,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,51000.0,Asistida,Integral,5.0,140.0,18000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,92250.0,Asistida,Integral,5.0,140.0,11933.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2013,Nafta,5.0,Automática,1.8,SUV,90700.0,Asistida,Integral,5.0,140.0,12900.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,90333.0,Hidráulica,Integral,5.0,140.0,14660.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,90000.0,Asistida,Delantera,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,95000.0,Asistida,4x2,5.0,141.0,15500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Norte,1.8 Ltz 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,106000.0,Asistida,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,40000.0,Asistida,Delantera,5.0,140.0,14900.0
+Chevrolet Tracker 1.2 Turbo At,Santa Fe,1.2 Turbo At,Rojo,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,8800.0,Eléctrica,4x2,5.0,132.0,21500.0
+Chevrolet Tracker Premier Fwd,Ubicación no encontrada,Tracker premier fwd,Rojo,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.6,SUV,60000.0,Hidráulica,Integral,5.0,140.0,13533.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2015,Nafta/GNC,5.0,Manual,1.8,SUV,166300.0,Asistida,Delantera,5.0,140.0,10600.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Rojo,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,119000.0,Asistida,Delantera,5.0,140.0,11333.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,120000.0,Asistida,Integral,5.0,140.0,10200.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Norte,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,99000.0,Asistida,Integral,5.0,140.0,16000.0
+Chevrolet Tracker 1.2 Turbo At,Misiones,1.2 Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,10000.0,Eléctrica,4x2,5.0,132.0,21500.0
+Chevrolet Tracker 1.8 Ltz+,Bs.As. G.B.A. Norte,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,84000.0,Asistida,4x4,5.0,141.0,15000.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1111.0,Eléctrica,4x2,5.0,132.0,18666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,146000.0,Asistida,Delantera,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,140000.0,Asistida,Integral,5.0,140.0,12600.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,46000.0,Asistida,Integral,5.0,140.0,14800.0
+Chevrolet Tracker 1.2 Turbo At argentina,Bs.As. G.B.A. Norte,1.2 Turbo At argentina,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,11000.0,Eléctrica,4x2,5.0,132.0,25300.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,42000.0,Asistida,Delantera,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 LTZ AT 4x4,Ubicación no encontrada,1.8 LTZ AT 4x4,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Automático,1.0,SUV,72118.0,Asistida,4x4,5.0,141.0,12340.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2017,Nafta/GNC,5.0,Manual,1.8,SUV,87000.0,Asistida,4x2,5.0,141.0,14990.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,18462.67
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,74000.0,Asistida,4x2,5.0,141.0,13900.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Plateado,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,42000.0,Eléctrica,4x2,5.0,132.0,21900.0
+Chevrolet Tracker 1.2 Premier Turbo At,Capital Federal,1.2 Premier Turbo At,Azul,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1111.0,Eléctrica,4x2,5.0,132.0,31800.0
+Chevrolet Tracker 1.2 Turbo Premier At,Capital Federal,1.2 Turbo Premier At,Gris,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,17800.0,Eléctrica,4x2,5.0,132.0,23000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,72000.0,Hidráulica,4x2,5.0,141.0,15266.67
+Chevrolet Tracker 1.2 Turbo At,Capital Federal,1.2 Turbo At,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,500.0,Eléctrica,4x2,5.0,132.0,21300.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Rojo,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,100634.0,Eléctrica,4x2,5.0,132.0,17500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Norte,,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,101000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,132000.0,Asistida,Integral,5.0,140.0,11666.67
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Sur,1.8 Ltz,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,65000.0,Hidráulica,4x2,5.0,141.0,15000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,24419.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,78000.0,Asistida,Integral,5.0,140.0,18900.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,105000.0,Asistida,Delantera,5.0,140.0,14000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Blanco,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,44300.0,Eléctrica,4x2,5.0,132.0,21000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,105000.0,Asistida,Integral,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,120000.0,Asistida,Delantera,5.0,140.0,12900.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,89000.0,Asistida,Delantera,5.0,140.0,12900.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Córdoba,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,159000.0,Asistida,Integral,5.0,140.0,11933.33
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,165000.0,Asistida,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Oeste,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,85000.0,Asistida,4x2,5.0,141.0,18000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,104000.0,Asistida,Delantera,5.0,140.0,10600.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. Costa Atlántica,1.8 Ltz,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,73000.0,Asistida,4x2,5.0,141.0,17000.0
+Chevrolet Tracker 1.2 Turbo Ltz At,Ubicación no encontrada,1.2 Turbo Ltz At,,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,24500.0,Eléctrica,4x2,5.0,132.0,22950.0
+Chevrolet Tracker 1.2 Turbo At,Capital Federal,1.2 Turbo At,Rojo,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,8000.0,Eléctrica,4x2,5.0,132.0,21700.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,124800.0,Asistida,Integral,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,85000.0,Asistida,4x2,5.0,141.0,7913.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Buenos Aires Interior,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,160000.0,Asistida,Delantera,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,56000.0,Asistida,Integral,5.0,140.0,17800.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Negro,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19333.33
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,5200.0,Eléctrica,4x2,5.0,132.0,22800.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Negro,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,800.0,Eléctrica,4x2,5.0,132.0,17846.67
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Plateado,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,67300.0,Asistida,Integral,5.0,140.0,13200.0
+Chevrolet Tracker Awd Premier+ 1.8 4x4,Ubicación no encontrada,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,53000.0,Asistida,Integral,5.0,140.0,14333.33
+Chevrolet Tracker 1.8 Ltz,Bs.As. Costa Atlántica,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,84000.0,Asistida,4x2,5.0,141.0,17500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,178656.0,Asistida,Integral,5.0,140.0,14800.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,108000.0,Asistida,4x2,5.0,141.0,11866.67
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,89000.0,Asistida,Integral,5.0,140.0,13900.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Sur,1.8 Ltz,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,80000.0,Asistida,4x2,5.0,141.0,16500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,90000.0,Asistida,Integral,5.0,140.0,11733.33
+Chevrolet Tracker 1.8 LTZ + premier,Ubicación no encontrada,,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,21000.0,Hidráulica,4x2,5.0,141.0,22500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Rojo,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,119000.0,Asistida,Delantera,5.0,140.0,13000.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Rojo,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,500.0,Eléctrica,4x2,5.0,132.0,23000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,98700.0,Asistida,Delantera,5.0,140.0,11466.67
+Chevrolet Tracker 1.8 Premier 4x2 Mt 2018 Imolaautos,Ubicación no encontrada,1.8 PREMIER 4X2 MT,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,103000.0,Hidráulica,Integral,5.0,140.0,13266.67
+Chevrolet Tracker 1.2 Turbo At,Bs.As. G.B.A. Sur,1.2 Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,19000.0,Eléctrica,4x2,5.0,132.0,22000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,85000.0,Hidráulica,Integral,5.0,140.0,13266.67
+Chevrolet Tracker 1.8 4X2 LTZ L13,Ubicación no encontrada,1.8 4X2 LTZ L13,Blanco,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,180000.0,Asistida,Delantera,5.0,140.0,7666.67
+Chevrolet Tracker Ltz,Bs.As. G.B.A. Oeste,Ltz,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,3600.0,Eléctrica,4x2,5.0,132.0,21266.67
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,12345.0,Eléctrica,4x2,5.0,132.0,17706.67
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,88000.0,Asistida,Integral,5.0,140.0,14800.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,93585.0,Asistida,Integral,5.0,140.0,14500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,31000.0,Asistida,Integral,5.0,140.0,19900.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,70000.0,Asistida,Integral,5.0,140.0,16900.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,84000.0,Hidráulica,4x2,5.0,141.0,12666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,96500.0,Asistida,Delantera,5.0,140.0,12800.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,121000.0,Asistida,Delantera,5.0,140.0,13333.33
+Chevrolet Tracker Fwd Premier,Ubicación no encontrada,FWD PREMIER,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,53000.0,Asistida,Integral,5.0,140.0,16900.0
+Chevrolet Tracker 1.2 Turbo Ltz At,Ubicación no encontrada,1.2 Turbo Ltz At,Rojo,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,25100.0,Eléctrica,4x2,5.0,132.0,18533.33
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1800.0,electronic,Delantera,5.0,132.0,24000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Norte,1.8 Ltz 140cv,Azul,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,17000.0,Asistida,Integral,5.0,140.0,17000.0
+Chevrolet Tracker 1.2 Turbo At,Santa Fe,1.2 Turbo At,Rojo,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,8900.0,Eléctrica,4x2,5.0,132.0,20500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Sur,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,84000.0,Asistida,Delantera,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,80000.0,Asistida,Delantera,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,135000.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Capital Federal,1.8 Ltz Awd At 140cv,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,40000.0,Asistida,Integral,5.0,140.0,17000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Tucumán,1.2 Premier Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,3500.0,Eléctrica,4x2,5.0,132.0,18666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Sur,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,75000.0,Asistida,Delantera,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,93500.0,Asistida,Integral,5.0,140.0,13200.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,11250.0,Eléctrica,4x2,5.0,132.0,28500.0
+Chevrolet Tracker 1.2 Premier Turbo At,Bs.As. G.B.A. Norte,1.2 Premier Turbo At,Rojo,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,51000.0,Eléctrica,4x2,5.0,132.0,22000.0
+Chevrolet Tracker 1.2 Turbo At,Santa Fe,1.2 Turbo At,,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,57000.0,Eléctrica,4x2,5.0,132.0,17500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,170000.0,Asistida,Delantera,5.0,140.0,9933.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Negro,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,92000.0,Asistida,Integral,5.0,140.0,12999.0
+Chevrolet Tracker 1.2 Premier Turbo At,Bs.As. G.B.A. Oeste,1.2 Premier Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,18000.0,Eléctrica,4x2,5.0,132.0,22000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Norte,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,102000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Capital Federal,1.8 Ltz Awd At 140cv,Negro,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,190000.0,Asistida,Integral,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,75600.0,Asistida,Integral,5.0,140.0,12666.67
+Chevrolet Tracker Premier Fwd Mt,Ubicación no encontrada,Premier,Plateado,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,51500.0,Asistida,Integral,5.0,140.0,16500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,68500.0,Asistida,4x2,5.0,141.0,12333.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Negro,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,155000.0,Asistida,Integral,5.0,140.0,9933.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,168000.0,Asistida,Integral,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Misiones,1.8 Ltz 140cv,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,73000.0,Hidráulica,Integral,5.0,140.0,13000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,27000.0,Eléctrica,4x2,5.0,132.0,22900.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,98600.0,Asistida,Integral,5.0,140.0,16000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Sur,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,68000.0,Asistida,Integral,5.0,140.0,18800.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,142419.0,Asistida,Delantera,5.0,140.0,10850.0
+Chevrolet Tracker 1.2 Turbo Mt,Capital Federal,1.2 Turbo Mt,,Chevrolet,Tracker,2023,Nafta,5.0,Manual,1.2,SUV,16050.0,Eléctrica,4x2,5.0,132.0,22800.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Rojo,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,11111.0,Eléctrica,4x2,5.0,132.0,18333.33
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Rojo,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,68000.0,Hidráulica,Integral,5.0,140.0,17000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Capital Federal,,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,80000.0,Asistida,Integral,5.0,140.0,14200.0
+Chevrolet Tracker 1.2 T Premier At,Ubicación no encontrada,1.2 T Premier At,Gris,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.0,SUV,8000.0,Eléctrica,4x2,5.0,132.0,33000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Córdoba,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,81500.0,Asistida,Integral,5.0,140.0,19000.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Gris,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,48000.0,Eléctrica,4x2,5.0,132.0,21500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,75000.0,Asistida,Integral,5.0,140.0,16000.0
+Chevrolet Tracker Ltz AWD,Ubicación no encontrada,Ltz AWD,Gris,Chevrolet,Tracker,2016,Nafta/GNC,5.0,Automática,1.8,SUV,50000.0,Asistida,Integral,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,75000.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,76700.0,Asistida,Delantera,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 LTZ AT 4x4,Ubicación no encontrada,1.8 LTZ AT 4x4,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Automático,1.0,SUV,61661.0,Asistida,4x4,5.0,141.0,12286.67
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2018,Eléctrico,5.0,Automática,1.8,SUV,71000.0,Hidráulica,Integral,5.0,140.0,12666.67
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Blanco,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,44300.0,Eléctrica,4x2,5.0,132.0,21000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2015,Nafta/GNC,5.0,Manual,1.8,SUV,166300.0,Asistida,Delantera,5.0,140.0,10600.0
+Chevrolet Tracker 1.2 Turbo Ltz At,Capital Federal,1.2 Turbo Ltz At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,15900.0,Eléctrica,4x2,5.0,132.0,27500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,59000.0,Asistida,Integral,5.0,140.0,17000.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,20346.67
+Chevrolet Tracker 1.2 Turbo Mt,Córdoba,1.2 Turbo Mt,,Chevrolet,Tracker,2021,Nafta,5.0,Manual,1.2,SUV,39000.0,Eléctrica,4x2,5.0,132.0,15000.0
+Chevrolet Tracker 1.8 Premier Mt 4x2,Ubicación no encontrada,1.8 PREMIER MT 4x2,Plateado,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,68268.0,Asistida,Integral,5.0,140.0,12220.0
+Chevrolet Tracker Fwd Premier C/ Gnc | Usados Certificados,Ubicación no encontrada,FWD PREMIER,Blanco,Chevrolet,Tracker,2019,Nafta/GNC,5.0,Automática,1.8,Hatchback,151785.0,Eléctrica,Integral,5.0,140.0,13740.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,109000.0,Hidráulica,Integral,5.0,140.0,12133.33
+Chevrolet Tracker 1.8 Lt Fwd Mt 4x2,Ubicación no encontrada,1.8 Lt Fwd Mt 4x2,Plateado,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,138000.0,Hidráulica,Delantera,5.0,140.0,9000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Buenos Aires Interior,,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,80000.0,Asistida,Integral,5.0,140.0,16200.0
+Chevrolet Tracker 1.8 Premier 4x2 Mt 2018 Imolaautos,Ubicación no encontrada,1.8 PREMIER 4X2 MT,Plateado,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,63000.0,Hidráulica,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,900.0,Eléctrica,4x2,5.0,132.0,20666.67
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,88000.0,Asistida,Integral,5.0,140.0,13201.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Norte,1.8 Ltz,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,87000.0,Hidráulica,4x2,5.0,141.0,15000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,60000.0,Asistida,Delantera,5.0,140.0,15500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,70000.0,Asistida,Integral,5.0,140.0,18500.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Blanco,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,48000.0,Eléctrica,4x2,5.0,132.0,18200.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,121115.0,Asistida,Delantera,5.0,140.0,10920.0
+Chevrolet Tracker 1.2 Turbo Mt,Santa Fe,1.2 Turbo Mt,Blanco,Chevrolet,Tracker,2020,Nafta,5.0,Manual,1.2,SUV,69000.0,Eléctrica,4x2,5.0,132.0,14993.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,127800.0,Asistida,Delantera,5.0,140.0,10666.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,93800.0,Asistida,Integral,5.0,140.0,14500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,82000.0,Asistida,4x2,5.0,141.0,11333.33
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,51000.0,Asistida,4x2,5.0,141.0,15533.33
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,40000.0,Asistida,Integral,5.0,140.0,14900.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,60000.0,Asistida,Integral,5.0,140.0,16200.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,138000.0,Asistida,Integral,5.0,140.0,15800.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,98000.0,Asistida,Delantera,5.0,140.0,8666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Rojo,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,111111.0,Asistida,Delantera,5.0,140.0,14500.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Sur,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,103000.0,Asistida,Integral,5.0,140.0,14500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,99000.0,Asistida,Delantera,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz,Capital Federal,1.8 Ltz,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,98000.0,Asistida,4x2,5.0,141.0,12333.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,138000.0,Asistida,Integral,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 LTZ MT 4X2,Ubicación no encontrada,1.8 LTZ MT 4X2,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,60000.0,Hidráulica,4x2,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,85000.0,Asistida,Integral,5.0,140.0,12533.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,116000.0,Asistida,Delantera,5.0,140.0,12000.0
+Chevrolet Tracker 1.2 Turbo Ltz At,Ubicación no encontrada,1.2 Turbo Ltz At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1300.0,Eléctrica,4x2,5.0,132.0,23540.0
+Chevrolet Tracker 1.8 4X4 LTZ + AWD PREMIER,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,90333.0,Eléctrica,Delantera,5.0,141.0,14660.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,98000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker,Ubicación no encontrada,Ltz,Negro,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,120000.0,Asistida,Delantera,5.0,140.0,11666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2015,Nafta/GNC,5.0,Manual,1.8,SUV,166300.0,Asistida,Delantera,5.0,140.0,10600.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Capital Federal,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,85000.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,79000.0,Asistida,Delantera,5.0,140.0,9999.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,153000.0,Asistida,Integral,5.0,140.0,14500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Negro,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,71302.0,Hidráulica,4x2,5.0,141.0,11933.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,91000.0,Asistida,Delantera,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,95000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.2 Premier Turbo At,Buenos Aires Interior,1.2 Premier Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,18000.0,Eléctrica,4x2,5.0,132.0,29000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,73000.0,Hidráulica,Integral,5.0,140.0,11333.33
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz Awd At 140cv,Plateado,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,97000.0,Asistida,Integral,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,75000.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Gris,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,15690.0,Eléctrica,4x2,5.0,132.0,19562.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,94000.0,Asistida,Integral,5.0,140.0,15333.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Capital Federal,,Negro,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,90000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,72410.0,Asistida,Integral,5.0,140.0,18000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,135000.0,Asistida,4x2,5.0,141.0,10600.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,51000.0,Asistida,Integral,5.0,140.0,17500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,73000.0,Hidráulica,Integral,5.0,140.0,11133.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,125000.0,Asistida,Delantera,5.0,140.0,11500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Plateado,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,56000.0,Hidráulica,Integral,5.0,140.0,16500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,121000.0,Asistida,Delantera,5.0,140.0,9060.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,76181.0,Asistida,Delantera,5.0,140.0,10733.33
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Plateado,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,900.0,Eléctrica,4x2,5.0,132.0,17846.67
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Plateado,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,900.0,Eléctrica,4x2,5.0,132.0,19420.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,70000.0,Asistida,Integral,5.0,140.0,14333.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,20000.0,Asistida,Integral,5.0,140.0,21500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,65000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,88000.0,assisted,Integral,5.0,140.0,12799.33
+Chevrolet Tracker Fwd Premier 1.8,Ubicación no encontrada,1.8 Fwd Premier,Plateado,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,79000.0,Hidráulica,Integral,5.0,140.0,16000.0
+Chevrolet Tracker 1.2 Turbo At,Capital Federal,1.2 Turbo At,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,2000.0,Eléctrica,4x2,5.0,132.0,21333.33
+Chevrolet Tracker 1.8 4X4 LTZ AT L13,Ubicación no encontrada,1.8 4X4 LTZ AT L13,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,90947.0,Asistida,4x4,5.0,140.0,14908.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,60000.0,Asistida,Delantera,5.0,140.0,12800.0
+Chevrolet Tracker 1.2 Turbo Mt,Capital Federal,1.2 Turbo Mt,,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,500.0,Eléctrica,4x2,5.0,132.0,20700.0
+Chevrolet Tracker 1.8 Ltz,Río Negro,1.8 Ltz,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,91000.0,Asistida,4x2,5.0,141.0,16800.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19763.33
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,80000.0,Asistida,4x2,5.0,141.0,13266.67
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,82000.0,Asistida,Integral,5.0,140.0,16500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,102000.0,Asistida,Delantera,5.0,140.0,13500.0
+Chevrolet Tracker 1.2 Turbo Premier At,Ubicación no encontrada,1.2 Turbo Premier At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,2600.0,Eléctrica,4x2,5.0,132.0,27500.0
+Chevrolet Tracker 1.2 Turbo Premier At,Ubicación no encontrada,1.2 Turbo Premier At,Rojo,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,20000.0,Eléctrica,4x2,5.0,132.0,27990.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,73000.0,Asistida,Integral,5.0,140.0,14900.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,156000.0,Asistida,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,125000.0,Asistida,Delantera,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,90177.0,Asistida,Integral,5.0,140.0,15500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,110000.0,Asistida,Integral,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Premier  Plus At 4x4,Ubicación no encontrada,1.8 PREMIER  PLUS AT 4x4,Silver,Chevrolet,Tracker,2019,Nafta,5.0,Automático,1.8,SUV,84101.0,Asistida,Integral,5.0,140.0,14060.0
+Chevrolet Tracker 1.8 Ltz+ 140cv AWD,Capital Federal,,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,52000.0,Hidráulica,Integral,5.0,140.0,16200.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,85000.0,Asistida,4x2,5.0,141.0,13999.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Norte,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,80000.0,Asistida,Integral,5.0,140.0,16800.0
+Chevrolet Tracker Ltz + Aut 4x4,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,Monovolumen,95000.0,Asistida,Integral,5.0,140.0,16000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Awd At 140cv,Negro,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,130000.0,Asistida,Integral,5.0,140.0,14500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,113000.0,Asistida,Delantera,5.0,140.0,11700.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Capital Federal,1.2 Ltz Turbo At,Rojo,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,111111.0,Eléctrica,4x2,5.0,132.0,21000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,75000.0,Asistida,Integral,5.0,140.0,12566.67
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,78000.0,Eléctrica,4x2,5.0,132.0,21900.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz Awd At 140cv,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,81000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,,Chevrolet,Tracker,2021,Nafta,5.0,Manual,1.2,SUV,45000.0,Eléctrica,4x2,5.0,132.0,21500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,75000.0,Asistida,4x2,5.0,141.0,17500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,107700.0,Asistida,Delantera,5.0,140.0,11258.67
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. Costa Atlántica,,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,114000.0,Asistida,Integral,5.0,140.0,19000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,88500.0,Asistida,Delantera,5.0,140.0,13200.0
+Chevrolet Tracker Ltz Premier+ 4x4 Aut,Buenos Aires Interior,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,59000.0,Asistida,Integral,5.0,140.0,19500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Capital Federal,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,110000.0,Asistida,Delantera,5.0,140.0,11500.0
+Chevrolet Tracker 1.2 Turbo At,Córdoba,1.2 Turbo At,,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,800.0,Eléctrica,4x2,5.0,132.0,21700.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,81500.0,Asistida,Delantera,5.0,140.0,10866.67
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,82000.0,Asistida,4x2,5.0,141.0,13900.0
+Chevrolet Tracker 1.8 4X2 LTZ PREMIER L17,Ubicación no encontrada,1.8 4X2 LTZ PREMIER L17,Rojo,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,62000.0,Asistida,Delantera,5.0,140.0,14980.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Tucumán,1.2 Ltz Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,8000.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Gris,Chevrolet,Tracker,2013,Nafta,5.0,Automática,1.8,SUV,180000.0,Asistida,Integral,5.0,140.0,11500.0
+Chevrolet Tracker 1.2 Turbo Premier At,Capital Federal,1.2 Turbo Premier At,Gris,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,5000.0,Eléctrica,4x2,5.0,132.0,27300.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,Verde,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,56800.0,Asistida,Integral,5.0,140.0,16133.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,71900.0,Hidráulica,Integral,5.0,140.0,13666.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,103000.0,Asistida,Integral,5.0,140.0,9933.33
+Chevrolet Tracker 1.2 Turbo At,Bs.As. Costa Atlántica,1.2 Turbo At,,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,2500.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,77000.0,Asistida,Integral,5.0,140.0,14800.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Sur,1.8 Ltz Fwd Mt 140cv,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,82000.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.2 T PREMIER AT 4x2,Ubicación no encontrada,1.2 T PREMIER AT 4x2,Rojo,Chevrolet,Tracker,2021,Nafta,5.0,Automático,1.0,SUV,40285.0,Asistida,4x2,5.0,132.0,18186.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2013,Nafta,5.0,Automática,1.8,SUV,90707.0,Asistida,Integral,5.0,140.0,12900.0
+Chevrolet Tracker 1.8 LTZ AT 4x4,Ubicación no encontrada,1.8 LTZ AT 4x4,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Automático,1.0,SUV,53415.0,Asistida,4x4,5.0,141.0,14120.0
+Chevrolet Tracker 1.8 Ltz 140cv,Capital Federal,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,65200.0,Asistida,Integral,5.0,140.0,13800.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,133000.0,Asistida,Integral,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,70000.0,Asistida,Integral,5.0,140.0,12400.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Plateado,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,77500.0,Hidráulica,4x2,5.0,141.0,11593.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,90080.0,Asistida,Integral,5.0,140.0,14660.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,33000.0,Eléctrica,4x2,5.0,132.0,19500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Buenos Aires Interior,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,93000.0,Asistida,Integral,5.0,140.0,14600.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,118000.0,Asistida,4x2,5.0,141.0,14500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,129000.0,Asistida,Integral,5.0,140.0,16200.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,106000.0,Asistida,Delantera,5.0,140.0,10333.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,79655.0,Asistida,Integral,5.0,140.0,15100.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Gris,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,41000.0,Eléctrica,4x2,5.0,132.0,22500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Azul,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,87000.0,Asistida,4x2,5.0,141.0,13300.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,140000.0,Asistida,Integral,5.0,140.0,12900.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,86000.0,Asistida,Integral,5.0,140.0,16500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Norte,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,86255.0,Asistida,Integral,5.0,140.0,11333.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Capital Federal,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,132000.0,Asistida,Delantera,5.0,140.0,12900.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Capital Federal,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,43200.0,Asistida,Delantera,5.0,140.0,15000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,138000.0,Asistida,Delantera,5.0,140.0,11700.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,121000.0,Asistida,Delantera,5.0,140.0,8600.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Bs.As. Costa Atlántica,1.2 Ltz Turbo At,Blanco,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,70000.0,Eléctrica,4x2,5.0,132.0,19800.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,190000.0,Asistida,Delantera,5.0,140.0,8600.0
+Chevrolet Tracker 1.2 T AT 4x2,Ubicación no encontrada,1.2 T AT 4x2,Red,Chevrolet,Tracker,2020,Nafta,5.0,Automático,1.0,SUV,81354.0,Asistida,4x2,5.0,132.0,14720.0
+Chevrolet Tracker 1.8 Ltz,Capital Federal,1.8 Ltz,Plateado,Chevrolet,Tracker,2017,GNC,5.0,Manual,1.8,SUV,76000.0,Asistida,4x2,5.0,141.0,14500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,80000.0,Asistida,Integral,5.0,140.0,11993.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Capital Federal,,Negro,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,136600.0,Asistida,Integral,5.0,140.0,11500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,123000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,95000.0,Hidráulica,Integral,5.0,140.0,17500.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Blanco,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,31000.0,Eléctrica,4x2,5.0,132.0,21500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,75000.0,Hidráulica,Integral,5.0,140.0,16500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,64000.0,Hidráulica,Integral,5.0,140.0,13266.67
+Chevrolet Tracker 1.8 Lt Fwd Mt 4x2,Capital Federal,1.8 Lt Fwd Mt 4x2,,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,136000.0,Hidráulica,Delantera,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Capital Federal,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,44000.0,Asistida,Integral,5.0,140.0,16500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,95000.0,Asistida,Delantera,5.0,140.0,10000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Blanco,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,60000.0,Eléctrica,4x2,5.0,132.0,22000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,202000.0,Asistida,Delantera,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,Rojo,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,14000.0,Asistida,Integral,5.0,140.0,20500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,95650.0,Asistida,Delantera,5.0,140.0,12701.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Oeste,,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,87000.0,Asistida,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Catamarca,1.2 Premier Turbo At,,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,47500.0,Eléctrica,4x2,5.0,132.0,17666.67
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,51000.0,Asistida,4x4,5.0,141.0,15533.33
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Rojo,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,22901.0,Eléctrica,4x2,5.0,132.0,20133.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Norte,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,58000.0,Asistida,Integral,5.0,140.0,17500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2014,Nafta,2.0,Manual,1.8,Coupé,120707.0,assisted,Delantera,5.0,140.0,10333.33
+Chevrolet Tracker 1.2 Turbo Mt,Capital Federal,1.2 Turbo Mt,,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,5200.0,Eléctrica,4x2,5.0,132.0,20500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Entre Ríos,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,40000.0,Asistida,Integral,5.0,140.0,16800.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,83000.0,Asistida,Integral,5.0,140.0,13666.67
+Chevrolet Tracker 1.8 Fwd Premier 2018,Ubicación no encontrada,1.8 Fwd Premier,Blanco,Chevrolet,Tracker,2018,Nafta/GNC,5.0,Manual,1.8,SUV,68000.0,Eléctrica,Integral,5.0,140.0,16000.0
+Chevrolet Tracker 1.2 Turbo Mt,Buenos Aires Interior,1.2 Turbo Mt,,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Buenos Aires Interior,,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,110000.0,Asistida,Integral,5.0,140.0,12333.33
+Chevrolet Tracker 1.2 Rs At6,Ubicación no encontrada,1.2 Rs At6,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,700.0,Eléctrica,Delantera,5.0,132.0,21101.8
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,98000.0,Asistida,Delantera,5.0,140.0,12600.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,3000.0,Eléctrica,4x2,5.0,132.0,29000.0
+Chevrolet Tracker 1.8 Ltz + premier,Ubicación no encontrada,,,Chevrolet,Tracker,2018,Nafta/GNC,5.0,Manual,1.8,SUV,97000.0,Hidráulica,4x2,5.0,141.0,13000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Negro,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,67000.0,Hidráulica,Integral,5.0,140.0,15732.67
+Chevrolet Tracker 1.2 Turbo At,Capital Federal,1.2 Turbo At,Plateado,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,64000.0,Eléctrica,4x2,5.0,132.0,23000.0
+Chevrolet Tracker 1.2 Turbo Ltz At,Ubicación no encontrada,1.2 Turbo Ltz At,Blanco,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,35060.0,Eléctrica,4x2,5.0,132.0,22999.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Blanco,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,21000.0,Eléctrica,4x2,5.0,132.0,21266.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,75000.0,Asistida,Integral,5.0,140.0,12240.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,84000.0,Asistida,Delantera,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,119000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.2 T PREMIER AT 4x2,Ubicación no encontrada,1.2 T PREMIER AT 4x2,Blue,Chevrolet,Tracker,2020,Nafta,5.0,Automático,1.0,SUV,58675.0,Asistida,4x2,5.0,132.0,17580.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,85000.0,Hidráulica,Integral,5.0,140.0,13333.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,120000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Rojo,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,100634.0,Eléctrica,4x2,5.0,132.0,17500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,90000.0,Asistida,Integral,5.0,140.0,12600.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,106000.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,145000.0,Asistida,Integral,5.0,140.0,10933.33
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,98000.0,Hidráulica,Integral,5.0,140.0,13000.0
+Chevrolet Tracker 4x4 Full Automatica,Bs.As. G.B.A. Norte,4x4 full automatica,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,145000.0,Asistida,Integral,5.0,140.0,11666.67
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Plateado,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,126000.0,Asistida,Integral,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Mendoza,,Plateado,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,120000.0,Asistida,Integral,5.0,140.0,12700.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. Costa Atlántica,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,137000.0,Asistida,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Gris,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,46000.0,Eléctrica,4x2,5.0,132.0,24900.0
+Chevrolet Tracker 1.8 Ltz 140cv,Córdoba,1.8 Ltz 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,113000.0,Asistida,Integral,5.0,140.0,11900.0
+Chevrolet Tracker 1.8 Ltz 140cv,Capital Federal,1.8 Ltz 140cv,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,84000.0,Asistida,Integral,5.0,140.0,11733.33
+Chevrolet Tracker 1.2 Turbo Mt,Capital Federal,1.2 Turbo Mt,Rojo,Chevrolet,Tracker,2021,Nafta,5.0,Manual,1.2,SUV,11000.0,Eléctrica,4x2,5.0,132.0,22500.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Plateado,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,85000.0,Eléctrica,4x2,5.0,132.0,17466.67
+Chevrolet Tracker 1.2 Turbo Mt,Tucumán,1.2 Turbo Mt,Blanco,Chevrolet,Tracker,2021,Nafta,5.0,Manual,1.2,SUV,36000.0,Eléctrica,4x2,5.0,132.0,13666.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,137255.0,Asistida,Integral,5.0,140.0,10000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Bs.As. G.B.A. Oeste,1.2 Premier Turbo At,,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,16800.0,Eléctrica,4x2,5.0,132.0,24000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,62000.0,Asistida,Integral,5.0,140.0,18000.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Sur,1.8 Ltz,Plateado,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,42000.0,Asistida,4x2,5.0,141.0,16500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,64000.0,Asistida,Delantera,5.0,140.0,8666.67
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,87800.0,Asistida,Integral,5.0,140.0,14990.0
+Chevrolet Tracker 1.8 Ltz 140cv,Salta,1.8 Ltz 140cv,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,73000.0,Asistida,Integral,5.0,140.0,12333.33
+Chevrolet Tracker Premier,Ubicación no encontrada,premier,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,73000.0,Hidráulica,Integral,5.0,140.0,12333.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,63000.0,Hidráulica,Integral,5.0,140.0,16900.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Gris,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,56000.0,Eléctrica,4x2,5.0,132.0,19500.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,21956.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,75000.0,Asistida,Delantera,5.0,140.0,11900.0
+Chevrolet Tracker 1.8 Ltz 140cv,Capital Federal,1.8 Ltz 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,94000.0,Asistida,Integral,5.0,140.0,15500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,11300.0,Asistida,Delantera,5.0,140.0,16400.0
+Chevrolet Tracker 1.8 Ltz 140cv,Córdoba,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,77000.0,Asistida,Integral,5.0,140.0,9333.33
+Chevrolet Tracker 1.2 Turbo At,Santa Fe,1.2 Turbo At,Gris,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,13000.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Oeste,1.8 Ltz,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,38500.0,Hidráulica,4x2,5.0,141.0,18500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Córdoba,1.8 Ltz 140cv,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,39000.0,Asistida,Integral,5.0,140.0,12666.67
+Chevrolet Tracker 1.8 Premier  Plus At 4x4,Ubicación no encontrada,1.8 PREMIER  PLUS AT 4x4,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Automático,1.8,SUV,32323.0,Asistida,Integral,5.0,140.0,15240.0
+Chevrolet Tracker 1.2 Turbo Premier At,Ubicación no encontrada,1.2 Turbo Premier At,Blanco,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,15600.0,Eléctrica,4x2,5.0,132.0,21326.67
+Chevrolet Tracker 1.8 Ltz 140cv,Capital Federal,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,67000.0,Asistida,Integral,5.0,140.0,15500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,108000.0,Asistida,Integral,5.0,140.0,10666.67
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,135000.0,Asistida,Integral,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,69000.0,Hidráulica,Integral,5.0,140.0,15900.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Oeste,,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,87305.0,Asistida,Integral,5.0,140.0,13900.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Capital Federal,1.8 Ltz Awd At 140cv,Gris,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,160000.0,Asistida,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 AWD + LTZ AT,Ubicación no encontrada,,Azul,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,102314.0,Asistida,Integral,5.0,141.0,16500.0
+Chevrolet Tracker FWD LTZ,Bs.As. G.B.A. Oeste,FWD LTZ,Blanco,Chevrolet,Tracker,2018,Nafta,4.0,Manual,1.8,SUV,36000.0,Hidráulica,4x2,5.0,141.0,18500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,130000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,64000.0,Asistida,4x2,5.0,141.0,14000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,51000.0,Hidráulica,Integral,5.0,140.0,12666.67
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2013,Nafta,5.0,Automática,1.8,SUV,180000.0,Asistida,Integral,5.0,140.0,11200.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2013,Nafta,5.0,Automática,1.8,SUV,110000.0,Asistida,Integral,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Sur,1.8 Ltz,Negro,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,68000.0,Hidráulica,4x2,5.0,141.0,16500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,119000.0,Asistida,Integral,5.0,140.0,13300.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,105000.0,Asistida,Delantera,5.0,140.0,11500.0
+Chevrolet Tracker 1.8 Lt Fwd Mt 4x2,Bs.As. G.B.A. Norte,1.8 Lt Fwd Mt 4x2,Gris,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,138000.0,Hidráulica,Delantera,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,127000.0,Asistida,Delantera,5.0,140.0,9266.67
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Azul,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,3000.0,Eléctrica,4x2,5.0,132.0,33000.0
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,126268.0,Asistida,4x4,5.0,141.0,11883.33
+Chevrolet Tracker 1.8 Ltz,Córdoba,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,80000.0,Asistida,4x2,5.0,141.0,11933.33
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz 140cv,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,65000.0,Asistida,Integral,5.0,140.0,12866.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,79000.0,Asistida,Delantera,5.0,140.0,10333.33
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. Costa Atlántica,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,70000.0,Asistida,Integral,5.0,140.0,14500.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,40000.0,Eléctrica,4x2,5.0,132.0,24900.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Sur,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,107000.0,Hidráulica,Integral,5.0,140.0,16900.0
+Chevrolet Tracker At 0km 2024 Ya!! Mz,Ubicación no encontrada,RS,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1800.0,Asistida,Delantera,5.0,132.0,17725.27
+Chevrolet Tracker 1.2 Turbo Mt,Capital Federal,1.2 Turbo Mt,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,5000.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Norte,1.8 Ltz 140cv,Rojo,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,89000.0,Hidráulica,Integral,5.0,140.0,15900.0
+Chevrolet Tracker 1.2 T LTZ AT 4x2,Ubicación no encontrada,1.2 T LTZ AT 4x2,White,Chevrolet,Tracker,2022,Nafta,5.0,Automático,1.0,SUV,44303.0,Asistida,4x2,5.0,132.0,17673.33
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Azul,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,13326.6
+Chevrolet Tracker 1.8 Ltz+ 140cv,Córdoba,,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,80000.0,Asistida,Integral,5.0,140.0,17000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Norte,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,74000.0,Asistida,Integral,5.0,140.0,13900.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Norte,1.8 Ltz,Plateado,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,62000.0,Asistida,4x2,5.0,141.0,16500.0
+Chevrolet Tracker 1.2 Turbo At,Córdoba,1.2 Turbo At,,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1111.0,Eléctrica,4x2,5.0,132.0,21000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,173000.0,Asistida,Delantera,5.0,140.0,9266.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,117000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.2 T AT 4x2,Ubicación no encontrada,1.2 T AT 4x2,Red,Chevrolet,Tracker,2024,Híbrido,5.0,Automático,1.0,SUV,9830.0,Asistida,4x2,5.0,132.0,18580.0
+Chevrolet Tracker 1.8 Ltz,Buenos Aires Interior,1.8 Ltz,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,144000.0,Asistida,4x2,5.0,141.0,10666.67
+Chevrolet Tracker 1.8 Ltz 140cv,Mendoza,1.8 Ltz 140cv,,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.8,SUV,52000.0,Eléctrica,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Gris oscuro,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,12500.0,electronic,Delantera,5.0,132.0,22500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,74171.0,Asistida,Delantera,5.0,140.0,9666.67
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Azul,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,21600.0,Eléctrica,4x2,5.0,132.0,27800.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,Dorado,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,64600.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz+,Tucumán,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,145000.0,Asistida,4x4,5.0,141.0,10666.67
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Gris,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,27000.0,Eléctrica,4x2,5.0,132.0,17933.33
+Chevrolet Tracker 1.2 Ltz Turbo At,Bs.As. G.B.A. Oeste,1.2 Ltz Turbo At,,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,12500.0,Eléctrica,4x2,5.0,132.0,24000.0
+Chevrolet Tracker 1.8 Lt Fwd Mt 4x2,Bs.As. G.B.A. Oeste,1.8 Lt Fwd Mt 4x2,,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,104000.0,Hidráulica,Delantera,5.0,140.0,11900.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,102700.0,Asistida,Integral,5.0,140.0,11500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,65000.0,Asistida,Delantera,5.0,140.0,11333.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,21990.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,51000.0,Asistida,4x2,5.0,141.0,15533.33
+Chevrolet Tracker 1.8 4X2 LTZ L13,Ubicación no encontrada,1.8 4X2 LTZ L13,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,159700.0,Asistida,Delantera,5.0,140.0,8333.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2016,Nafta/GNC,5.0,Manual,1.8,SUV,105000.0,Asistida,Delantera,5.0,140.0,10526.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,108189.0,Asistida,Delantera,5.0,140.0,11266.67
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,116000.0,Asistida,Integral,5.0,140.0,12900.0
+Chevrolet Tracker 1.8 Ltz,Capital Federal,1.8 Ltz,Azul,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,98000.0,Asistida,4x2,5.0,141.0,12333.33
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Entre Ríos,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,165000.0,Asistida,Integral,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,86000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz 140cv,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,118000.0,Asistida,Integral,5.0,140.0,10266.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Rojo,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,125113.0,Asistida,Delantera,5.0,140.0,11073.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,90000.0,Asistida,Delantera,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Capital Federal,,Rojo,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,95900.0,Asistida,Integral,5.0,140.0,11700.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,60500.0,Asistida,Integral,5.0,140.0,13999.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Norte,,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,47000.0,Hidráulica,Integral,5.0,140.0,17800.0
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,190000.0,Asistida,4x4,5.0,141.0,16900.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Sur,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,75000.0,Asistida,Delantera,5.0,140.0,13800.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,140000.0,Asistida,Integral,5.0,140.0,13700.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,101500.0,Asistida,Integral,5.0,140.0,15500.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Plateado,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1500.0,Eléctrica,4x2,5.0,132.0,21363.0
+Chevrolet Tracker Premier,Ubicación no encontrada,premier,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1800.0,SUV,69000.0,Hidráulica,Integral,5.0,140.0,17000.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Negro,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,5200.0,Eléctrica,4x2,5.0,132.0,23800.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Norte,1.8 Ltz 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,87850.0,Asistida,Integral,5.0,140.0,10600.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,49500.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.2 Turbo Mt,Bs.As. G.B.A. Oeste,1.2 Turbo Mt,,Chevrolet,Tracker,2022,Nafta,5.0,Manual,1.2,SUV,20000.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,550.0,electronic,Delantera,5.0,132.0,25500.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Plateado,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1400.0,Eléctrica,4x2,5.0,132.0,18206.67
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Azul,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,60000.0,Eléctrica,4x2,5.0,132.0,17333.33
+Chevrolet Tracker 1.8 Premier Mt 4x2,Ubicación no encontrada,1.8 PREMIER MT 4x2,Red,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,25885.0,Asistida,Integral,5.0,140.0,14773.33
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Blanco,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,26000.0,Eléctrica,4x2,5.0,132.0,21666.67
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,71000.0,Hidráulica,4x2,5.0,141.0,14000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,118000.0,Asistida,Integral,5.0,140.0,13900.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,104000.0,Asistida,4x2,5.0,141.0,15900.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Capital Federal,1.8 Ltz Awd At 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,75000.0,Asistida,Integral,5.0,140.0,11000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Rojo,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,100634.0,Eléctrica,4x2,5.0,132.0,17500.0
+Chevrolet Tracker Ltz Premier,Bs.As. G.B.A. Sur,Ltz premier,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,30000.0,Hidráulica,Integral,5.0,140.0,16500.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,18435.95
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,108500.0,Asistida,Integral,5.0,140.0,15500.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Norte,1.8 Ltz,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,68000.0,Asistida,4x2,5.0,141.0,15800.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,114000.0,Asistida,Delantera,5.0,140.0,15500.0
+Chevrolet Tracker 1.2 Turbo At,Córdoba,1.2 Turbo At,Blanco,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,9500.0,Eléctrica,4x2,5.0,132.0,17000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Santa Fe,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,85600.0,Asistida,Integral,5.0,140.0,12200.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,86000.0,Asistida,Integral,5.0,140.0,18000.0
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,135868.0,Hidráulica,4x4,5.0,141.0,18500.0
+Chevrolet Tracker 1.8 Fwd Premier 2019,Ubicación no encontrada,1.8 Fwd Premier,Negro,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,91000.0,Eléctrica,Integral,5.0,140.0,16500.0
+Chevrolet Tracker Premier 4x2 2018 - Ivanoffautos,Ubicación no encontrada,Premier 4x2,Negro,Chevrolet,Tracker,2018,Nafta,4.0,Automática,1.8,SUV,65000.0,Hidráulica,Integral,5.0,140.0,16900.0
+Chevrolet Tracker 1.8 4X2 LTZ PREMIER L17,Ubicación no encontrada,1.8 4X2 LTZ PREMIER L17,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,64500.0,Asistida,Delantera,5.0,140.0,14400.0
+Chevrolet Tracker 1.2 Premier Turbo At,Bs.As. G.B.A. Norte,1.2 Premier Turbo At,Azul,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,95000.0,Eléctrica,4x2,5.0,132.0,21500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,80100.0,Asistida,Integral,5.0,140.0,14900.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,56000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,113000.0,Asistida,Delantera,5.0,140.0,10376.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,127800.0,Asistida,Delantera,5.0,140.0,10666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Sur,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,109000.0,Asistida,Delantera,5.0,140.0,14000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Capital Federal,1.2 Ltz Turbo At,Plateado,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,40000.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 FWD LTZ,Ubicación no encontrada,1.8 FWD LTZ,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,136000.0,Asistida,Delantera,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,48600.0,Asistida,Integral,5.0,140.0,17500.0
+Chevrolet Tracker 1.8 Ltz,Santa Fe,1.8 Ltz,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,96700.0,Hidráulica,4x2,5.0,141.0,14000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,83000.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Capital Federal,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,96000.0,Asistida,Integral,5.0,140.0,13400.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,42600.0,Asistida,Integral,5.0,140.0,16900.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,72000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,73000.0,Hidráulica,4x2,5.0,141.0,15500.0
+Chevrolet Tracker Ltz 0km 2024 Ya!! Mz,Ubicación no encontrada,RS,Negro,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1100.0,Asistida,Delantera,5.0,132.0,21990.6
+Chevrolet Tracker 1.8 Ltz+ 140cv,Buenos Aires Interior,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,88000.0,Asistida,Integral,5.0,140.0,22000.0
+Chevrolet Tracker Fwd Premier 1.8 2018 Excelente!,Ubicación no encontrada,FWD PREMIER 1.8,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,50784.0,Hidráulica,Integral,5.0,140.0,17900.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,Rosa,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,111600.0,Asistida,Integral,5.0,140.0,13200.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,120000.0,Asistida,4x2,5.0,141.0,18000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Plateado,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,65000.0,Eléctrica,4x2,5.0,132.0,16333.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,101100.0,Asistida,Delantera,5.0,140.0,11725.33
+Chevrolet Tracker 1.2 Turbo Mt,Bs.As. G.B.A. Oeste,1.2 Turbo Mt,,Chevrolet,Tracker,2021,Nafta,5.0,Manual,1.2,SUV,48000.0,Eléctrica,4x2,5.0,132.0,19500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Oeste,,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,78000.0,Asistida,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,65000.0,Asistida,Delantera,5.0,140.0,15500.0
+Chevrolet Tracker Awd Premier +,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2018,Nafta/GNC,5.0,Automática,1.8,SUV,88000.0,Eléctrica,Integral,5.0,140.0,16500.0
+Chevrolet Tracker Tracker FWD PREMIER,Bs.As. G.B.A. Sur,Tracker FWD PREMIER,Negro,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,41000.0,Eléctrica,4x2,5.0,132.0,19000.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Negro,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,17846.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,66000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,47060.0,Hidráulica,4x2,5.0,141.0,12666.67
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Plateado,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,140000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,67000.0,Asistida,4x2,5.0,141.0,14000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Gris oscuro,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,27000.0,Eléctrica,4x2,5.0,132.0,25000.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Norte,1.8 Ltz,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,115000.0,Asistida,4x2,5.0,141.0,12500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,68000.0,Asistida,4x2,5.0,141.0,18900.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,92000.0,Asistida,Delantera,5.0,140.0,12700.0
+Chevrolet Tracker 1.8 4X4 LTZ AT AWD,Ubicación no encontrada,1.8 4X4 LTZ AT AWD,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,90080.0,Asistida,4x2,5.0,141.0,14660.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Norte,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,87600.0,Asistida,Integral,5.0,140.0,18000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,84000.0,Asistida,Integral,5.0,140.0,15200.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,50000.0,Asistida,Integral,5.0,140.0,11200.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,119000.0,Asistida,Integral,5.0,140.0,15800.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,89000.0,Asistida,Delantera,5.0,140.0,12490.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Azul,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,34000.0,Eléctrica,4x2,5.0,132.0,25800.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Entre Ríos,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,112700.0,Asistida,Delantera,5.0,140.0,9000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,94700.0,Asistida,Integral,5.0,140.0,16500.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1900.0,Eléctrica,4x2,5.0,132.0,20666.67
+Chevrolet Tracker,Capital Federal,,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,39900.0,HidráulicaSeguridadFrenos ABSSíAirbag conductorSíFaros con regulación automáticaSíSensor de estacionamientoSíAirbag para conductor y pasajeroSíFaros antinieblas traserosSíDesempañador traseroSíControl de estabilidadSíTercera luz de freno ledSíCierre centralizado de puertasSíSeguridadCon cámara de retrocesoSíConfort y convenienciaPiloto automáticoSíAire acondicionadoSí,Integral,5.0,140.0,21900.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Norte,1.8 Ltz 140cv,Azul,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,82000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz+,Bs.As. G.B.A. Sur,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,100000.0,Asistida,4x4,5.0,141.0,12666.67
+Chevrolet Tracker 1.2 Turbo Mt,Bs.As. G.B.A. Norte,1.2 Turbo Mt,,Chevrolet,Tracker,2021,Nafta,5.0,Manual,1.2,SUV,36000.0,Eléctrica,4x2,5.0,132.0,19900.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,98155.0,Asistida,Integral,5.0,140.0,12333.33
+Chevrolet Tracker 1.8 Ltz+,Buenos Aires Interior,,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,108000.0,Asistida,4x4,5.0,141.0,11333.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Norte,,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,86000.0,Asistida,Integral,5.0,140.0,13900.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,75600.0,Asistida,Integral,5.0,140.0,12233.33
+Chevrolet Tracker 1.2 Turbo Mt,Bs.As. G.B.A. Norte,1.2 Turbo Mt,,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1111.0,Eléctrica,4x2,5.0,132.0,20333.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,94000.0,Asistida,Integral,5.0,140.0,11933.33
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Oeste,1.8 Ltz,,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,77000.0,Asistida,4x2,5.0,141.0,17000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,55000.0,Asistida,Delantera,5.0,140.0,16000.0
+Chevrolet Tracker 1.8 Lt Fwd Mt 4x2,Ubicación no encontrada,1.8 Lt Fwd Mt 4x2,,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,111000.0,Hidráulica,Delantera,5.0,140.0,12300.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,58000.0,Asistida,Integral,5.0,140.0,15500.0
+Chevrolet Tracker Ltz 0km 2024  Ya!!!! Mz,Ubicación no encontrada,RS,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,950.0,Asistida,Delantera,5.0,132.0,21990.6
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,102000.0,Hidráulica,Integral,5.0,140.0,18000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Capital Federal,,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,139000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,120000.0,Hidráulica,Integral,5.0,140.0,17500.0
+Chevrolet Tracker 1.2 Premier Turbo At,Córdoba,1.2 Premier Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,55000.0,Eléctrica,4x2,5.0,132.0,21000.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Gris,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,25000.0,Eléctrica,4x2,5.0,132.0,19000.0
+Chevrolet Tracker At 2024 !! Jh,Ubicación no encontrada,LT AT,Azul,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1500.0,Asistida,Trasera,5.0,132.0,19666.67
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,87200.0,Asistida,4x2,5.0,141.0,14400.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2018,Nafta/GNC,4.0,Manual,1.8,SUV,130800.0,electronic,Integral,5.0,140.0,17000.0
+Chevrolet Tracker Ltz Pus 4x4 Aut,Ubicación no encontrada,ltz plus 4x4 aut,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,Hatchback,70000.0,Hidráulica,Integral,5.0,140.0,13900.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,124000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,105000.0,Asistida,4x2,5.0,141.0,17400.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Negro,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,56456.0,Hidráulica,Integral,5.0,140.0,19990.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,91000.0,Asistida,Integral,5.0,140.0,17200.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,68000.0,Hidráulica,Integral,5.0,140.0,16900.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,62000.0,Asistida,Delantera,5.0,140.0,15500.0
+Chevrolet Tracker 1.2 Turbo At argentina,Capital Federal,1.2 Turbo At argentina,Negro,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,24000.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,70000.0,Asistida,Integral,5.0,140.0,13333.33
+Chevrolet Tracker 1.2 Premier Turbo At,Bs.As. G.B.A. Norte,1.2 Premier Turbo At,Azul,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,76000.0,Eléctrica,4x2,5.0,132.0,22800.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Blanco,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,6000.0,electronic,Delantera,5.0,132.0,24000.0
+Chevrolet Tracker 1.2 Turbo Ltz At,Ubicación no encontrada,1.2 Turbo Ltz At,Blanco,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,36211.0,Eléctrica,4x2,5.0,132.0,22999.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,87000.0,Asistida,Delantera,5.0,140.0,10733.33
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,113240.0,Asistida,Integral,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz+,Bs.As. G.B.A. Oeste,,Plateado,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,108000.0,Hidráulica,4x4,5.0,141.0,14000.0
+Chevrolet Tracker 1.8 Ltz,Capital Federal,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,70300.0,Asistida,4x2,5.0,141.0,14300.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Plateado,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,78490.0,Asistida,4x2,5.0,141.0,13933.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,88400.0,Eléctrica,Delantera,5.0,140.0,10592.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Gris,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,26000.0,Eléctrica,4x2,5.0,132.0,24500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Sur,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,86000.0,Asistida,Delantera,5.0,140.0,13500.0
+Chevrolet Tracker 1.2 T AT 4x2,Ubicación no encontrada,1.2 T AT 4x2,Gris,Chevrolet,Tracker,2024,Híbrido,5.0,Automático,1.0,SUV,1113.0,Asistida,4x2,5.0,132.0,19066.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,57000.0,Asistida,Delantera,5.0,140.0,10600.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Capital Federal,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,121000.0,Asistida,Delantera,5.0,140.0,11000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Rojo,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,99000.0,Eléctrica,4x2,5.0,132.0,18499.0
+Chevrolet Tracker 1.2 Turbo Premier At,Ubicación no encontrada,1.2 Turbo Premier At,Plateado,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,2100.0,Eléctrica,4x2,5.0,132.0,20666.67
+Chevrolet Tracker 1.2 Turbo Mt,Bs.As. G.B.A. Norte,1.2 Turbo Mt,Negro,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Buenos Aires Interior,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,115000.0,Asistida,Delantera,5.0,140.0,11333.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Sur,,Violeta,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,140600.0,Asistida,Integral,5.0,140.0,13400.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,98000.0,Asistida,Integral,5.0,140.0,10600.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,68500.0,Asistida,4x2,5.0,141.0,12333.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,121115.0,Asistida,Delantera,5.0,140.0,10920.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,115000.0,Asistida,Integral,5.0,140.0,12666.67
+Chevrolet Tracker 1.8 Ltz 140cv,Córdoba,1.8 Ltz 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,86000.0,Asistida,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Córdoba,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,69000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,,Chevrolet,Tracker,2020,Nafta,5.0,Manual,1.2,SUV,27000.0,Eléctrica,4x2,5.0,132.0,15333.33
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,105000.0,assisted,Integral,5.0,140.0,16000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Capital Federal,,Plateado,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,128000.0,Asistida,Integral,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Mendoza,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,70000.0,Asistida,Integral,5.0,140.0,15600.0
+Chevrolet Tracker 1.2 Turbo At,Santa Fe,1.2 Turbo At,Gris,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,13000.0,Eléctrica,4x2,5.0,132.0,18333.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,78000.0,Asistida,Integral,5.0,140.0,11966.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,84000.0,Asistida,Delantera,5.0,140.0,12600.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,37000.0,electronic,Delantera,5.0,140.0,17000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Blanco,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,49700.0,Eléctrica,4x2,5.0,132.0,20900.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. Costa Atlántica,,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,133000.0,Asistida,Integral,5.0,140.0,13900.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Negro,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,17706.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,80000.0,Asistida,Delantera,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz,Córdoba,1.8 Ltz,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,107000.0,Asistida,4x2,5.0,141.0,13500.0
+Chevrolet Tracker 1.2 Turbo Mt,Santa Fe,1.2 Turbo Mt,,Chevrolet,Tracker,2023,Nafta,5.0,Manual,1.2,SUV,14000.0,Eléctrica,4x2,5.0,132.0,24000.0
+Chevrolet Tracker 1.2 Turbo Mt,Capital Federal,1.2 Turbo Mt,Negro,Chevrolet,Tracker,2023,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,16866.67
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,39000.0,Asistida,Integral,5.0,140.0,13300.0
+Chevrolet Tracker LTZ AT,Santa Fe,LTZ AT,,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,24000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,83000.0,Asistida,Integral,5.0,140.0,17800.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Capital Federal,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,58700.0,Asistida,Integral,5.0,140.0,13999.0
+Chevrolet Tracker 1.2 Turbo At,Bs.As. G.B.A. Sur,1.2 Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,9100.0,Eléctrica,4x2,5.0,132.0,21000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,102000.0,Asistida,Integral,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Azul,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,100000.0,Asistida,Integral,5.0,140.0,10000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Plateado,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,64000.0,Eléctrica,4x2,5.0,132.0,16333.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Negro,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,155000.0,Asistida,Integral,5.0,140.0,10600.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Plateado,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,900.0,Eléctrica,4x2,5.0,132.0,19886.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Capital Federal,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,105000.0,Asistida,Delantera,5.0,140.0,11000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,6600.0,Eléctrica,4x2,5.0,132.0,27000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,55000.0,Asistida,Integral,5.0,140.0,17066.67
+Chevrolet Tracker 1.2 Turbo At,Córdoba,1.2 Turbo At,,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,85000.0,Eléctrica,4x2,5.0,132.0,19500.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Gris,Chevrolet,Tracker,2013,Nafta,5.0,Automática,1.8,SUV,98000.0,Asistida,Integral,5.0,140.0,9800.0
+Chevrolet Tracker 1.2 Turbo At,Bs.As. G.B.A. Norte,1.2 Turbo At,Azul,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,12000.0,Eléctrica,4x2,5.0,132.0,22000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,80000.0,Asistida,Delantera,5.0,140.0,10666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,89000.0,Asistida,Delantera,5.0,140.0,11000.0
+Chevrolet Tracker Fwd Premier Mt,Ubicación no encontrada,PREMIER,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,121000.0,Asistida,Integral,5.0,140.0,13333.33
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,138000.0,Asistida,Integral,5.0,140.0,15500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,125000.0,Asistida,4x2,5.0,141.0,14300.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,95000.0,Asistida,Integral,5.0,140.0,12990.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,65000.0,Hidráulica,Integral,5.0,140.0,16000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,90000.0,Asistida,Delantera,5.0,140.0,16500.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Azul,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,500.0,Eléctrica,4x2,5.0,132.0,19933.33
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,78000.0,Asistida,4x2,5.0,141.0,12666.67
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,51000.0,Asistida,4x2,5.0,141.0,15533.33
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,71900.0,Hidráulica,Integral,5.0,140.0,13066.67
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Plateado,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,70000.0,Asistida,Integral,5.0,140.0,10007.33
+Chevrolet Tracker 1.8 4X2 LTZ PREMIER L17,Ubicación no encontrada,1.8 4X2 LTZ PREMIER L17,Plata,Chevrolet,Tracker,2019,GNC,5.0,Manual,1.8,SUV,76400.0,Asistida,Delantera,5.0,140.0,16000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,100000.0,Asistida,Integral,5.0,140.0,14500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,125000.0,Asistida,Integral,5.0,140.0,11333.33
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz 140cv,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,39000.0,Asistida,Integral,5.0,140.0,17500.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,139700.0,Asistida,Integral,5.0,140.0,12333.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,54000.0,Asistida,Integral,5.0,140.0,20000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Capital Federal,,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,95000.0,Asistida,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Santa Fe,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,85000.0,Asistida,Delantera,5.0,140.0,13000.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,128000.0,Asistida,Integral,5.0,140.0,9666.67
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,101000.0,Asistida,Integral,5.0,140.0,11133.33
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Buenos Aires Interior,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,125000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Negro,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,116000.0,Hidráulica,Integral,5.0,140.0,18100.0
+Chevrolet Tracker 1.2 Turbo At argentina,Ubicación no encontrada,1.2 Turbo At argentina,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,3800.0,Eléctrica,4x2,5.0,132.0,18600.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,89000.0,Asistida,Integral,5.0,140.0,13326.6
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,85000.0,Asistida,Integral,5.0,140.0,12866.67
+Chevrolet Tracker Awd Premier +,Ubicación no encontrada,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,48000.0,Asistida,Integral,5.0,140.0,17900.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Norte,,Rojo,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,122000.0,Asistida,Integral,5.0,140.0,11500.0
+Chevrolet Tracker FWD LTZ,Capital Federal,FWD LTZ,Plateado,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,95868.0,Hidráulica,Delantera,5.0,141.0,12666.67
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Norte,1.8 Ltz,,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,73000.0,Asistida,4x2,5.0,141.0,11666.67
+Chevrolet Tracker 1.8 Ltz+ 140cv,Misiones,,Azul,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,77000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Blanco,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,48000.0,Eléctrica,4x2,5.0,132.0,18200.0
+Chevrolet Tracker 1.8 Ltz+,Córdoba,,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,24000.0,Hidráulica,4x4,5.0,141.0,17000.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Norte,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,129000.0,Asistida,4x2,5.0,141.0,13000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Capital Federal,1.8 Ltz Awd At 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,37000.0,Asistida,Integral,5.0,140.0,18500.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Blanco,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,64000.0,Eléctrica,4x2,5.0,132.0,21500.0
+Chevrolet Tracker 1.2 Turbo Mt,Capital Federal,1.2 Turbo Mt,Azul,Chevrolet,Tracker,2021,Nafta,5.0,Manual,1.2,SUV,27500.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,98000.0,Asistida,Integral,5.0,140.0,12499.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,123000.0,Asistida,Delantera,5.0,140.0,8333.33
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Blanco,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,54000.0,Eléctrica,4x2,5.0,132.0,21500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,La Rioja,1.8 Ltz Fwd Mt 140cv,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,65000.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,64000.0,Hidráulica,4x2,5.0,141.0,15500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,76000.0,Asistida,Delantera,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Norte,,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,50000.0,Asistida,Integral,5.0,140.0,17000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,121115.0,Asistida,Delantera,5.0,140.0,10400.0
+Chevrolet Tracker Premier 1.8 Año 2018 - Bellocchioautoslp,Ubicación no encontrada,1.8 Premier,Plateado,Chevrolet,Tracker,2018,Nafta/GNC,4.0,Automática,1.8,SUV,84000.0,Hidráulica,Integral,5.0,140.0,13900.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Blanco,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,77710.0,Eléctrica,4x2,5.0,132.0,15666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Rojo,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,99000.0,Asistida,Delantera,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Córdoba,,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,105000.0,Hidráulica,Integral,5.0,140.0,12666.67
+Chevrolet Tracker 1.8 Ltz 140cv,Entre Ríos,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,120000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,18499.0
+Chevrolet Tracker 1.8 4X2 LTZ PREMIER L17,Ubicación no encontrada,1.8 4X2 LTZ PREMIER L17,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,70995.0,Asistida,Delantera,5.0,140.0,17000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Plateado,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,27500.0,Eléctrica,4x2,5.0,132.0,19200.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,130000.0,Asistida,Integral,5.0,140.0,14500.0
+Chevrolet Tracker 1.2 LTZ AT,Capital Federal,1.2 LTZ AT,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1500.0,Eléctrica,Delantera,5.0,132.0,23799.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,116000.0,Asistida,Delantera,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,68000.0,Hidráulica,4x4,5.0,141.0,18900.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,120000.0,Asistida,Delantera,5.0,140.0,11500.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,138000.0,Asistida,Integral,5.0,140.0,12600.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Gris,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,20000.0,Eléctrica,4x2,5.0,132.0,20533.33
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Blanco,Chevrolet,Tracker,2021,Nafta,5.0,Manual,1.2,SUV,42000.0,Eléctrica,4x2,5.0,132.0,21500.0
+Chevrolet Tracker 1.8 Ltz+,Bs.As. G.B.A. Norte,,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,64000.0,Hidráulica,4x4,5.0,141.0,16800.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,San Juan,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,105256.0,Asistida,Delantera,5.0,140.0,9466.67
+Chevrolet Tracker TRACKER LT AT,Bs.As. G.B.A. Norte,TRACKER LT AT,Azul,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,Delantera,5.0,132.0,20800.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,71000.0,Hidráulica,4x2,5.0,141.0,15000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,40000.0,Asistida,Integral,5.0,140.0,20000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,,Chevrolet,Tracker,2013,Nafta,5.0,Automática,1.8,SUV,99180.0,Asistida,Integral,5.0,140.0,12800.0
+Chevrolet Tracker AWD LTZ+,Bs.As. G.B.A. Oeste,,Rojo,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,91500.0,Asistida,4x4,5.0,140.0,12500.0
+Chevrolet Tracker 1.2 Premier Turbo At,Córdoba,1.2 Premier Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,49000.0,Eléctrica,4x2,5.0,132.0,19333.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Azul,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,90000.0,Asistida,Integral,5.0,140.0,10000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Gris,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,80000.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,90300.0,Hidráulica,4x2,5.0,141.0,13333.33
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Norte,1.8 Ltz 140cv,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,118000.0,Asistida,Integral,5.0,140.0,12600.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Plateado,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,86900.0,Hidráulica,Integral,5.0,140.0,13733.33
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,134000.0,Asistida,Integral,5.0,140.0,9733.33
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,7000.0,Eléctrica,4x2,5.0,132.0,16666.67
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Sur,1.8 Ltz 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,85000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,60000.0,Asistida,4x2,5.0,141.0,14666.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,119000.0,Asistida,Integral,5.0,140.0,9000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Rojo,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,147300.0,Asistida,Integral,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Capital Federal,,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,37500.0,Asistida,Integral,5.0,140.0,16500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,107000.0,Asistida,Integral,5.0,140.0,11666.67
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,139000.0,Asistida,Integral,5.0,140.0,14850.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,91000.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,50000.0,Asistida,4x2,5.0,141.0,13466.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. Costa Atlántica,,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,83200.0,Asistida,Integral,5.0,140.0,16500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Santa Fe,,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,40000.0,Asistida,Integral,5.0,140.0,19500.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,17725.33
+Chevrolet Tracker 1.2 Turbo Mt,Bs.As. G.B.A. Norte,1.2 Turbo Mt,Gris,Chevrolet,Tracker,2020,Nafta,5.0,Manual,1.2,SUV,25500.0,Eléctrica,4x2,5.0,132.0,23000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,53000.0,Asistida,Integral,5.0,140.0,12400.0
+Chevrolet Tracker 1.2 Premier Turbo At,Capital Federal,1.2 Premier Turbo At,,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,48000.0,Eléctrica,4x2,5.0,132.0,21500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Mendoza,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,119000.0,Asistida,Delantera,5.0,140.0,8666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Rojo,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,87000.0,Asistida,Delantera,5.0,140.0,13300.0
+Chevrolet Tracker 1.8 LTZ MT 4x2,Ubicación no encontrada,1.8 LTZ MT 4x2,White,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.0,SUV,78240.0,Asistida,4x2,5.0,140.0,10926.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Rojo,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,106817.0,Asistida,Delantera,5.0,140.0,10066.67
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,27000.0,Eléctrica,4x2,5.0,132.0,23500.0
+Chevrolet Tracker 1.2 Turbo At,Bs.As. Costa Atlántica,1.2 Turbo At,Rojo,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,13000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,101000.0,Asistida,Delantera,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,82000.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,102000.0,Asistida,Integral,5.0,140.0,15200.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,18264.67
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,92000.0,Asistida,Integral,5.0,140.0,11500.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Capital Federal,1.2 Ltz Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,87400.0,Eléctrica,4x2,5.0,132.0,22500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. Costa Atlántica,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,97000.0,Asistida,Integral,5.0,140.0,16000.0
+Chevrolet Tracker 1.2 Turbo At,Córdoba,1.2 Turbo At,,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,22000.0
+Chevrolet Tracker 1.2 Lt At,Ubicación no encontrada,1.2 Lt At,Blanco,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,9000.0,Eléctrica,4x2,5.0,132.0,24000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,86000.0,Asistida,Integral,5.0,140.0,12833.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,104000.0,Asistida,Integral,5.0,140.0,12333.33
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Negro,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,21990.0
+Chevrolet Tracker 1.2 Turbo At,Santa Fe,1.2 Turbo At,Gris,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,75000.0,Eléctrica,4x2,5.0,132.0,18600.0
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,103000.0,Asistida,4x4,5.0,141.0,17500.0
+Chevrolet Tracker 1.8 Ltz+,Bs.As. G.B.A. Sur,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,82000.0,Asistida,4x4,5.0,141.0,12666.67
+Chevrolet Tracker 1.2 Ltz Turbo At,Capital Federal,1.2 Ltz Turbo At,Gris,Chevrolet,Tracker,2022,Nafta,5.0,Automática,1.2,SUV,501.0,Eléctrica,4x2,5.0,132.0,21500.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19762.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19766.67
+Chevrolet Tracker 1.8 Ltz 140cv,Mendoza,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,140000.0,Asistida,Integral,5.0,140.0,13250.0
+Chevrolet Tracker 1.2 Turbo Ltz At,Ubicación no encontrada,1.2 Turbo Ltz At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,900.0,Eléctrica,4x2,5.0,132.0,20000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Sur,1.8 Ltz Fwd Mt 140cv,Plateado,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,82000.0,Asistida,Delantera,5.0,140.0,12000.0
+Chevrolet Premier 1.8 Automatica 2019,Ubicación no encontrada,Premier,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,96000.0,Eléctrica,Integral,5.0,140.0,14333.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,86000.0,Asistida,Delantera,5.0,140.0,10666.67
+Chevrolet Tracker 1.8 Ltz+ 140cv,Buenos Aires Interior,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,145000.0,Asistida,Integral,5.0,140.0,11666.67
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Gris,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,71000.0,Eléctrica,4x2,5.0,132.0,21000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Norte,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,65000.0,Asistida,Integral,5.0,140.0,17500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Buenos Aires Interior,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,84000.0,Asistida,Delantera,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,72000.0,Hidráulica,4x2,5.0,141.0,13900.0
+Chevrolet Tracker 1.2 Turbo At,Capital Federal,1.2 Turbo At,Rojo,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,4000.0,Eléctrica,4x2,5.0,132.0,22000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Santa Fe,,Blanco,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,92500.0,Asistida,Integral,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,117607.0,assisted,Integral,5.0,140.0,17000.0
+Chevrolet Tracker 1.2 Premier Turbo At,Bs.As. G.B.A. Oeste,1.2 Premier Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,67000.0,Eléctrica,4x2,5.0,132.0,28000.0
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,98000.0,Hidráulica,4x4,5.0,141.0,12666.67
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Sur,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,97000.0,Asistida,Delantera,5.0,140.0,12500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,112000.0,Asistida,Integral,5.0,140.0,11900.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,82000.0,Asistida,Integral,5.0,140.0,17000.0
+Chevrolet Tracker 1.8 Ltz,Capital Federal,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,71000.0,Asistida,4x2,5.0,141.0,16000.0
+Chevrolet Tracker 1.2 Turbo Mt,Bs.As. G.B.A. Norte,1.2 Turbo Mt,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19000.0
+Chevrolet Tracker 1.8 Ltz+,Capital Federal,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,118000.0,Asistida,4x4,5.0,141.0,11266.67
+Chevrolet Tracker 1.2 Turbo At,Mendoza,1.2 Turbo At,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1123.0,Eléctrica,4x2Autonomia de la batería800 km,5.0,132.0,22000.0
+Chevrolet Tracker Ltz 4x4 Automático,Salta,Ltz 4x4 automático,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,193000.0,Asistida,Integral,5.0,140.0,9000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Bs.As. G.B.A. Norte,1.2 Ltz Turbo At,Gris,Chevrolet,Tracker,2021,Nafta,5.0,Automática,0.0,SUV,75000.0,Eléctrica,4x2,5.0,132.0,21000.0
+Chevrolet Tracker Awd Premier +,Bs.As. G.B.A. Sur,,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,32000.0,Hidráulica,Integral,5.0,140.0,22500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,94000.0,Asistida,Delantera,5.0,140.0,14800.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,88000.0,Asistida,Integral,5.0,140.0,14500.0
+Chevrolet Tracker Ltz,Ubicación no encontrada,Ltz,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,55000.0,Asistida,Integral,5.0,140.0,12900.0
+Chevrolet Tracker 1.8 Ltz 140cv,Capital Federal,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,89000.0,Asistida,Integral,5.0,140.0,12000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,90500.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker Premier,Capital Federal,premier,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,52000.0,Hidráulica,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,125000.0,Asistida,Integral,5.0,140.0,9000.0
+Chevrolet Tracker Premier Turbo 1.2 AT6,Bs.As. Costa Atlántica,Premier Turbo 1.2 AT6,Blanco,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,140000.0,Eléctrica,4x2,5.0,132.0,20500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2015,Nafta,5.0,Manual,1.8,SUV,90000.0,Asistida,Delantera,5.0,140.0,11000.0
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,82000.0,Asistida,4x4,5.0,141.0,13266.67
+Chevrolet Tracker,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,66000.0,Asistida,Integral,5.0,140.0,16333.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,175000.0,Asistida,Delantera,5.0,140.0,14500.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Bs.As. G.B.A. Norte,1.2 Ltz Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,40000.0,Eléctrica,4x2,5.0,132.0,19000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,71000.0,Asistida,Integral,5.0,140.0,16500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,109000.0,Asistida,Delantera,5.0,140.0,11133.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,90000.0,Asistida,Integral,5.0,140.0,16100.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,86000.0,Asistida,Delantera,5.0,140.0,12600.0
+Chevrolet Tracker 1.8 Lt Fwd Mt 4x2,Santa Fe,1.8 Lt Fwd Mt 4x2,Negro,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,131000.0,Hidráulica,Delantera,5.0,140.0,9326.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,74000.0,Asistida,Integral,5.0,140.0,13700.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Oeste,,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,120000.0,Asistida,Integral,5.0,140.0,14466.67
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Gris oscuro,Chevrolet,Tracker,2019,Nafta/GNC,5.0,Manual,1.8,SUV,56881.0,electronic,Integral,5.0,140.0,17000.0
+Chevrolet Tracker 1.8 Premier 4x4 At 2018 Imolaautos,Ubicación no encontrada,1.8 PREMIER 4X4 AT,Plateado,Chevrolet,Tracker,2018,Nafta,4.0,Automática,1.8,SUV,123000.0,Hidráulica,Integral,5.0,140.0,13266.67
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,75000.0,Hidráulica,Integral,5.0,140.0,17700.0
+Chevrolet Tracker 1.8 Premier Fwd Mt Full 4x2 (gnc),Ubicación no encontrada,1.8 Ltz 140cv,Rojo,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,97359.0,Asistida,Integral,5.0,140.0,13440.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,Plateado,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,169000.0,Asistida,Integral,5.0,140.0,12200.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,127000.0,Asistida,Integral,5.0,140.0,14200.0
+Chevrolet Tracker 1.2 Premier Turbo At,Córdoba,1.2 Premier Turbo At,Blanco,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,93000.0,Eléctrica,4x2,5.0,132.0,17333.33
+Chevrolet Tracker 1.2 Turbo Ltz At,Bs.As. G.B.A. Sur,1.2 Turbo Ltz At,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,9700.0,Eléctrica,4x2,5.0,132.0,26000.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Norte,1.8 Ltz,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Manual,1.8,SUV,26500.0,Asistida,4x2,5.0,141.0,16000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,85000.0,Hidráulica,Integral,5.0,140.0,13200.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,80000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,119000.0,Asistida,Integral,5.0,140.0,14900.0
+Chevrolet Tracker AWD LTZ 4x4,Ubicación no encontrada,AWD LTZ 4x4,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,79900.0,Asistida,Integral,5.0,140.0,14500.0
+Chevrolet Tracker 1.2 Turbo Mt,Bs.As. G.B.A. Norte,1.2 Turbo Mt,Plateado,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,500.0,Eléctrica,4x2,5.0,132.0,17800.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Plateado,Chevrolet,Tracker,2021,Nafta,5.0,Manual,1.2,SUV,45000.0,Eléctrica,4x2,5.0,132.0,20500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,88000.0,Hidráulica,Integral,5.0,140.0,13713.33
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,54000.0,Eléctrica,4x2,5.0,132.0,18000.0
+Chevrolet Tracker Premier 4x2  Motor 1.8  Poco Uso Nueva,Capital Federal,Fwd,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,25100.0,Hidráulica,Integral,5.0,140.0,16500.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,79000.0,Hidráulica,Integral,5.0,140.0,17900.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Sur,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,93000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,73000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2015,Nafta,4.0,Automática,1.8,SUV,119213.0,assisted,Delantera,5.0,140.0,10866.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Norte,,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,104000.0,Asistida,Integral,5.0,140.0,13900.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,100000.0,Asistida,Integral,5.0,140.0,7580.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,106118.0,Asistida,Delantera,5.0,140.0,13200.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Sur,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,60000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,60000.0,Hidráulica,4x2,5.0,141.0,19000.0
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Gris,Chevrolet,Tracker,2020,Nafta,5.0,Manual,1.2,SUV,45938.0,Eléctrica,4x2,5.0,132.0,16666.67
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,55300.0,Asistida,4x2,5.0,141.0,12533.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,93000.0,Asistida,Integral,5.0,140.0,14300.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Gris,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,91000.0,Asistida,Integral,5.0,140.0,16000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,120000.0,Asistida,Delantera,5.0,140.0,15600.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,53000.0,Asistida,Integral,5.0,140.0,16800.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,73000.0,Hidráulica,Integral,5.0,140.0,10533.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Santa Fe,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,71500.0,Asistida,Integral,5.0,140.0,12900.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,88000.0,Asistida,4x2,5.0,141.0,14666.67
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,75000.0,Asistida,Integral,5.0,140.0,19990.0
+Chevrolet Tracker 1.8 Ltz+,Córdoba,,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,120000.0,Hidráulica,4x4,5.0,141.0,13333.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,75000.0,Asistida,Delantera,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,88000.0,Asistida,Delantera,5.0,140.0,10933.33
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Gris,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,9500.0,Eléctrica,4x2,5.0,132.0,31500.0
+Chevrolet Tracker 1.8 Ltz 140cv,Bs.As. G.B.A. Sur,1.8 Ltz 140cv,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,120000.0,Asistida,Integral,5.0,140.0,14666.67
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,100000.0,Asistida,Integral,5.0,140.0,10800.0
+Chevrolet Tracker Premier,Salta,Premier,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,115000.0,Hidráulica,Integral,5.0,140.0,13900.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,26000.0
+Chevrolet Tracker 1.8 LTZ 4X2 PREMIER,Ubicación no encontrada,1.8 LTZ 4X2 PREMIER,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,Hatchback,83675.0,Hidráulica,Delantera,5.0,141.0,14164.67
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Ubicación no encontrada,1.8 Ltz Awd At 140cv,Negro,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,155000.0,Asistida,Integral,5.0,140.0,9933.33
+Chevrolet Tracker 1.8 Ltz+,Bs.As. G.B.A. Norte,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,112000.0,Asistida,4x4,5.0,141.0,10000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Capital Federal,1.8 Ltz 140cv,Azul,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,125000.0,Asistida,Integral,5.0,140.0,8333.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,122700.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.2 Turbo Mt,Capital Federal,1.2 Turbo Mt,Gris,Chevrolet,Tracker,2023,Nafta,5.0,Manual,1.2,SUV,9000.0,Eléctrica,4x2,5.0,132.0,19400.0
+Chevrolet Tracker Awd Premier +,Bs.As. G.B.A. Norte,,Blanco,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,71000.0,Hidráulica,Integral,5.0,140.0,17000.0
+Chevrolet Tracker Premier,Córdoba,Premier,,Chevrolet,Tracker,2019,Nafta,5.0,Automática,1.8,SUV,50000.0,Asistida,Integral,5.0,140.0,17000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,58600.0,Hidráulica,Integral,5.0,140.0,19000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,Gris,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,100000.0,Asistida,Delantera,5.0,140.0,11900.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Blanco,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,23000.0,Eléctrica,4x2,5.0,132.0,17333.33
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Negro,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,112000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Sur,,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,66000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Mendoza,,Negro,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,140000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.8 Ltz+,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,115000.0,Asistida,4x4,5.0,141.0,13200.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. Costa Atlántica,,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,100000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Capital Federal,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,110000.0,Asistida,Integral,5.0,140.0,12900.0
+Chevrolet Tracker 1.2 Turbo At,Bs.As. G.B.A. Norte,1.2 Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,82000.0,Eléctrica,4x2,5.0,132.0,18900.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,82000.0,Asistida,4x2,5.0,141.0,14666.67
+Chevrolet Tracker 1.8 Ltz At,Ubicación no encontrada,1.8 Ltz At,Gris oscuro,Chevrolet,Tracker,2013,Nafta,5.0,Automática,1.8,SUV,124000.0,Asistida,Delantera,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Norte,1.8 Ltz,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,139000.0,Hidráulica,4x2,5.0,141.0,17000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Buenos Aires Interior,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,77000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,121001.0,Asistida,Integral,5.0,140.0,12015.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Bs.As. G.B.A. Norte,1.2 Ltz Turbo At,,Chevrolet,Tracker,2021,Nafta,5.0,Automática,1.2,SUV,40000.0,Eléctrica,4x2,5.0,132.0,19000.0
+Chevrolet Tracker 1.8 LTZ MT 4x2,Ubicación no encontrada,1.8 LTZ MT 4x2,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.0,SUV,37880.0,Asistida,4x2,5.0,141.0,12826.67
+Chevrolet Tracker 1.2 Turbo Premier At,Capital Federal,1.2 Turbo Premier At,,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,500.0,Eléctrica,4x2,5.0,132.0,26000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,67000.0,Eléctrica,4x2,5.0,132.0,22900.0
+Chevrolet Tracker 1.8 Ltz Mt,Ubicación no encontrada,1.8 Ltz Mt,Negro,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,Sedán,60000.0,Asistida,4x2,5.0,140.0,10000.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,135000.0,Asistida,Integral,5.0,140.0,13990.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Blanco,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,100000.0,Asistida,Integral,5.0,140.0,13900.0
+Chevrolet Tracker 1.2 Premier Turbo At,Ubicación no encontrada,1.2 Premier Turbo At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,510.0,electronic,Delantera,5.0,132.0,25000.0
+Chevrolet Tracker 1.8 Ltz+,Bs.As. G.B.A. Norte,,Rojo,Chevrolet,Tracker,2019,Nafta/GNC,5.0,Automática,1.8,SUV,63000.0,Asistida,4x4,5.0,141.0,17000.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Bs.As. G.B.A. Norte,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2013,Nafta,5.0,Manual,1.8,SUV,38000.0,Asistida,Delantera,5.0,140.0,14200.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,82000.0,Asistida,Integral,5.0,140.0,15000.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Azul,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19333.33
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Plateado,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19886.67
+Chevrolet Tracker 1.2 Turbo Premier At,Ubicación no encontrada,1.2 Turbo Premier At,Rojo,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1300.0,Eléctrica,4x2,5.0,132.0,20666.67
+Chevrolet Tracker 1.2 Turbo Mt,Ubicación no encontrada,1.2 Turbo Mt,Gris,Chevrolet,Tracker,2024,Nafta,5.0,Manual,1.2,SUV,6300.0,Eléctrica,4x2,5.0,132.0,20300.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Bs.As. G.B.A. Norte,,Azul,Chevrolet,Tracker,2016,Nafta,5.0,Automática,1.8,SUV,98000.0,Asistida,Integral,5.0,140.0,14200.0
+Chevrolet Tracker 1.8 Ltz 140cv,Ubicación no encontrada,1.8 Ltz 140cv,Gris oscuro,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,90200.0,assisted,Integral,5.0,140.0,17500.0
+Chevrolet Tracker 1.2 Turbo At argentina,Bs.As. Costa Atlántica,1.2 Turbo At argentina,,Chevrolet,Tracker,2023,Nafta,5.0,Automática,1.2,SUV,6500.0,Eléctrica,4x2,5.0,132.0,25800.0
+Chevrolet Tracker 1.2 Turbo At,Ubicación no encontrada,1.2 Turbo At,Blanco,Chevrolet,Tracker,2024,Nafta,5.0,Automática,1.2,SUV,1000.0,Eléctrica,4x2,5.0,132.0,19763.33
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,78000.0,Asistida,Integral,5.0,140.0,15800.0
+Chevrolet Tracker 1.8 Ltz+ 140cv,Ubicación no encontrada,,Rojo,Chevrolet,Tracker,2017,Nafta,5.0,Automática,1.8,SUV,51000.0,Asistida,Integral,5.0,140.0,12600.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,70981.0,Asistida,Integral,5.0,140.0,11249.33
+Chevrolet Tracker 1.8 4X2 LTZ L13,Ubicación no encontrada,1.8 4X2 LTZ L13,Blanco,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,110026.0,Asistida,Delantera,5.0,140.0,14694.67
+Chevrolet Tracker 1.8 Ltz+ 140cv,Capital Federal,,,Chevrolet,Tracker,2018,Nafta,5.0,Automática,1.8,SUV,134500.0,Hidráulica,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz,Ubicación no encontrada,1.8 Ltz,,Chevrolet,Tracker,2018,Nafta,5.0,Manual,1.8,SUV,114000.0,Hidráulica,4x2,5.0,141.0,17500.0
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Ubicación no encontrada,1.8 Ltz Fwd Mt 140cv,,Chevrolet,Tracker,2016,Nafta,5.0,Manual,1.8,SUV,75000.0,Asistida,Delantera,5.0,140.0,13000.0
+Chevrolet Tracker 1.8 Ltz,Bs.As. G.B.A. Norte,1.8 Ltz,,Chevrolet,Tracker,2017,Nafta,5.0,Manual,1.8,SUV,94000.0,Asistida,4x2,5.0,141.0,16500.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,Plateado,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,62000.0,Asistida,Integral,5.0,140.0,14000.0
+Chevrolet Tracker 1.8 Ltz Awd At 140cv,Bs.As. G.B.A. Oeste,1.8 Ltz Awd At 140cv,,Chevrolet,Tracker,2014,Nafta,5.0,Automática,1.8,SUV,82000.0,Asistida,Integral,5.0,140.0,13500.0
+Chevrolet Tracker 1.2 Ltz Turbo At,Ubicación no encontrada,1.2 Ltz Turbo At,Plateado,Chevrolet,Tracker,2020,Nafta,5.0,Automática,1.2,SUV,64000.0,Eléctrica,4x2,5.0,132.0,16333.33
+Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv,Buenos Aires Interior,1.8 Ltz Fwd Mt 140cv,Blanco,Chevrolet,Tracker,2014,Nafta,5.0,Manual,1.8,SUV,125000.0,Asistida,Delantera,5.0,140.0,10000.0
+Chevrolet Tracker 1.8 Ltz+ Awd At 140cv,Ubicación no encontrada,,,Chevrolet,Tracker,2015,Nafta,5.0,Automática,1.8,SUV,129500.0,Asistida,Integral,5.0,140.0,11333.33

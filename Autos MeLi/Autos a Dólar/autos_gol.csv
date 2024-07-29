@@ -1,0 +1,795 @@
+Título,Ubicación,Versión,Color,Marca,Modelo,Año,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Kilómetros,Dirección,Control de tracción,Capacidad de personas,Potencia,Precio
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,Blanco,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,170000.0,Mecánica,Delantera,5.0,92.0,4100.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Sur,1.6 Mi Deejay,,Volkswagen,Gol,2003,Nafta,3.0,Manual,1.6,Hatchback,143000.0,Hidráulica,Delantera,5.0,90.0,3850.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Norte,1.6 Mi Deejay,Gris,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,91500.0,Hidráulica,Delantera,5.0,90.0,3333.33
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Gris,Volkswagen,Gol,2012,Nafta/GNC,3.0,Manual,1.4,Hatchback,248000.0,Hidráulica,Delantera,5.0,83.0,5700.0
+Volkswagen Gol Pack 3,Bs.As. G.B.A. Norte,Pack 3,,Volkswagen,Gol,2010,Nafta,5.0,Manual,1.6,Hatchback,108000.0,Mecánica,Delantera,5.0,92.0,8500.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,Gris,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,136000.0,Mecánica,Delantera,5.0,92.0,4600.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Buenos Aires Interior,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,143000.0,Hidráulica,Delantera,5.0,83.0,5200.0
+Volkswagen Gol 1.6 5p Trend 2017,Ubicación no encontrada,1.6 Trendline,blue,Volkswagen,Gol,2017,Nafta,5.0,Manual,1.6,Hatchback,57000.0,hydraulic,Delantera,5.0,,10500.0
+Volkswagen Gol 1.6 I Comfortline 60a,Bs.As. G.B.A. Oeste,1.6 I Comfortline 60a,Gris,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,155000.0,Hidráulica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 Gl Mi,Entre Ríos,1.6 Gl Mi,,Volkswagen,Gol,1997,Nafta,3.0,Manual,1.6,Hatchback,580000.0,Hidráulica,Delantera,5.0,90.0,2333.33
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,155000.0,Mecánica,Delantera,5.0,92.0,5200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,Rojo,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,116000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,Gris,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,192510.0,Mecánica,Delantera,5.0,92.0,4084.83
+Volkswagen Gol 1.9 Sd Power 701,Bs.As. G.B.A. Norte,1.9 Sd Power 701,,Volkswagen,Gol,2006,Diésel,5.0,Manual,1.9,Hatchback,180000.0,Hidráulica,Delantera,5.0,64.0,4800.0
+Volkswagen Gol 1.6 I Power 701,Córdoba,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,120000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 Mi Dublin Dh Aa,Capital Federal,1.6 Mi Dublin Dh Aa,Negro,Volkswagen,Gol,2000,Nafta,5.0,Manual,1.6,Hatchback,165000.0,Hidráulica,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Negro,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,127000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.8 Gl Mi,Capital Federal,1.8 Gl Mi,Verde,Volkswagen,Gol,1998,Nafta,3.0,Manual,1.8,Hatchback,285000.0,Asistida,Delantera,5.0,98.0,1533.33
+Volkswagen Gol 1.6 Mi Deejay,Capital Federal,1.6 Mi Deejay,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,186000.0,Hidráulica,Delantera,5.0,90.0,4800.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,96000.0,Hidráulica,Delantera,5.0,83.0,4900.0
+Volkswagen Gol 1.9 Sd Power 701,Córdoba,1.9 Sd Power 701,,Volkswagen,Gol,2008,Diésel,5.0,Manual,1.9,Hatchback,250000.0,Hidráulica,Delantera,5.0,64.0,2333.33
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Gris,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,96787.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol Gol Power 1.6 Nafta,Buenos Aires Interior,gol power 1.6 nafta,,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,200000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Gol Diesel,Bs.As. G.B.A. Sur,Sedan 3 puertas,Gris,Volkswagen,Gol,1999,Diésel,3.0,Manual,1.6,Hatchback,271726.0,Hidráulica,Delantera,5.0,54.0,2000.0
+Volkswagen Gol 1.6 I Power 601 5 p,Bs.As. G.B.A. Norte,1.6 I Power 601 5 p,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,185000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 Mi Dublin Dh Aa Pack,Bs.As. G.B.A. Sur,1.6 Mi Dublin Dh Aa Pack,,Volkswagen,Gol,2001,Nafta,3.0,Manual,1.6,Hatchback,300000.0,Hidráulica,Delantera,5.0,90.0,3500.0
+Volkswagen Gol 1.9 Sd Dublin Dh Aa,Bs.As. G.B.A. Oeste,1.9 Sd Dublin Dh Aa,,Volkswagen,Gol,2000,Diésel,3.0,Manual,1.9,Hatchback,153000.0,Hidráulica,Delantera,5.0,64.0,3066.67
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,Gris,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,199000.0,Hidráulica,Delantera,5.0,83.0,5100.0
+Volkswagen Gol 1.0 Gl Mi 3 p,Bs.As. G.B.A. Sur,1.0 Gl Mi 3 p,,Volkswagen,Gol,1999,Nafta,3.0,Manual,1.0,Hatchback,181000.0,Hidráulica,Delantera,5.0,54.0,3500.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Oeste,1.6 Mi Deejay,Gris,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,13000.0,Hidráulica,Delantera,5.0,90.0,3666.67
+Volkswagen Gol Gol Trend 1.6,Ubicación no encontrada,Gol Trend 1.6,,Volkswagen,Gol,2014,Nafta/GNC,5.0,Manual,1.4,Hatchback,86400.0,Hidráulica,Delantera,5.0,83.0,10600.0
+Volkswagen Gol 1.6 I Comfortline 60a,Bs.As. G.B.A. Sur,1.6 I Comfortline 60a,Blanco,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,165000.0,Hidráulica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol 1.6 Gl,Santa Fe,1.6 Gl,,Volkswagen,Gol,1995,Nafta,3.0,Manual,1.6,Hatchback,186000.0,Mecánica,Delantera,5.0,90.0,2333.33
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,169500.0,Mecánica,Delantera,5.0,92.0,3900.0
+Volkswagen Gol 1.6 I Power 601,Córdoba,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,173900.0,Mecánica,Delantera,5.0,92.0,3866.67
+Volkswagen Gol 1.6 Gld,Mendoza,1.6 Gld,,Volkswagen,Gol,1997,Diésel,3.0,Manual,1.6,Hatchback,111111.0,Hidráulica,Delantera,5.0,54.0,2000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,260000.0,Mecánica,Delantera,5.0,92.0,3666.67
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Norte,1.6 Gl,Rojo,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.6,Hatchback,242000.0,Mecánica,DelanteraCapacidad de la batería60 Ah,5.0,90.0,5000.0
+Volkswagen Gol POWER 1.6L,Capital Federal,POWER 1.6L,Gris,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,62000.0,Hidráulica,Delantera,5.0,92.0,4900.0
+Volkswagen Gol Pack 1,Bs.As. G.B.A. Oeste,Pack 1,,Volkswagen,Gol,2010,Nafta,5.0,Manual,1.6,Hatchback,139000.0,Mecánica,Delantera,5.0,92.0,6500.0
+Volkswagen Gol 1.4 Power 83cv,Buenos Aires Interior,1.4 Power 83cv,Blanco,Volkswagen,Gol,2014,Nafta,3.0,Manual,1.4,Hatchback,136090.0,Hidráulica,Delantera,5.0,83.0,6800.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,60000.0,Mecánica,Delantera,5.0,92.0,7000.0
+Volkswagen Gol 1.6 Trendline,Bs.As. G.B.A. Oeste,1.6 Trendline,Gris,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,190000.0,Hidráulica,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.6 I Power 601,Santa Fe,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,135000.0,Mecánica,Delantera,5.0,92.0,3933.33
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,150000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Gris,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,130000.0,Hidráulica,Delantera,5.0,83.0,5900.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Negro,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,118000.0,Hidráulica,Delantera,5.0,83.0,5400.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Rojo,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,83.0,5200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Rojo,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,83.0,5400.0
+Volkswagen Gol 1.6,Bs.As. G.B.A. Norte,1.6,,Volkswagen,Gol,2003,Nafta/GNC,3.0,Manual,1.6,Hatchback,177000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,,Volkswagen,Gol,2014,Nafta,3.0,Manual,1.4,Hatchback,80000.0,Hidráulica,Delantera,5.0,83.0,7500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,83.0,4000.0
+Volkswagen Gol Trendline,Capital Federal,Trendline,,Volkswagen,Gol,2018,Nafta,5.0,Manual,1.6,Hatchback,22000.0,Asistida,Delantera,5.0,,10950.0
+Volkswagen Gol 1.6 Trendline,Ubicación no encontrada,1.6 Trendline,Rojo,Volkswagen,Gol,2010,Nafta,5.0,Manual,1.6,Hatchback,201500.0,hydraulic,Delantera,5.0,92.0,7000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Córdoba,,Gris,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,80000.0,Hidráulica,Delantera,5.0,83.0,5333.33
+Volkswagen Gol 1.4 Power 83cv,Córdoba,1.4 Power 83cv,Gris,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,150000.0,Hidráulica,Delantera,5.0,83.0,4993.33
+Volkswagen Gol Power A/a D/h 2012,Ubicación no encontrada,,Plateado,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,66000.0,Hidráulica,Delantera,5.0,83.0,6100.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,Gris,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,109000.0,Hidráulica,Delantera,5.0,83.0,5800.0
+Volkswagen Gol 1.4 L,Ubicación no encontrada,1.4 L,Negro,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Sedán,111000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Santa Fe,1.4 Power 83cv 3 p,Negro,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,95000.0,Hidráulica,Delantera,5.0,83.0,5000.0
+Volkswagen Gol 1.4 Power 83cv.,Capital Federal,1.4 Power 83cv.,Gris,Volkswagen,Gol,2014,Nafta,3.0,Manual,1.4,Coupé,70000.0,Hidráulica,Delantera,5.0,83.0,7500.0
+Volkswagen Gol 1.9 Sd Power 701,Ubicación no encontrada,1.9 Sd Power 701,Gris,Volkswagen,Gol,2006,Diésel,5.0,Manual,1.9,Hatchback,195000.0,Hidráulica,Delantera,5.0,64.0,1900.0
+Volkswagen Gol 1.6 Trendline,Santa Fe,1.6 Trendline,Plateado,Volkswagen,Gol,2004,Nafta/GNC,3.0,Manual,1.6,Hatchback,152000.0,Hidráulica,Delantera,5.0,90.0,3200.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Ubicación no encontrada,1.4 Power 83cv 5 p,Gris,Volkswagen,Gol,2013,Nafta/GNC,5.0,Manual,1.4,Hatchback,213500.0,Hidráulica,Delantera,5.0,83.0,5200.0
+Volkswagen Gol 1.6 I Power 701,Capital Federal,1.6 I Power 701,Negro,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,169000.0,Mecánica,Delantera,5.0,92.0,5299.0
+Volkswagen Gol Dublin,Bs.As. Costa Atlántica,Dublin,,Volkswagen,Gol,2005,Nafta,2.0,Manual,1.6,Hatchback,220000.0,Hidráulica,Delantera,5.0,90.0,6000.0
+Volkswagen Gol 1.0 Gl Mi 3 p,Ubicación no encontrada,1.0 Gl Mi 3 p,Gris,Volkswagen,Gol,1999,Nafta,3.0,Manual,1.0,Hatchback,87000.0,Hidráulica,Delantera,5.0,54.0,3200.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,Negro,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,240000.0,Hidráulica,Delantera,5.0,83.0,6900.0
+Volkswagen Gol 1.6 Mi Deejay,Capital Federal,1.6 Mi Deejay,Gris,Volkswagen,Gol,2003,Nafta,5.0,Manual,1.6,Hatchback,189000.0,Hidráulica,Delantera,5.0,90.0,3800.0
+Volkswagen Gol 1.6 Mi Dublin,Entre Ríos,1.6 Mi Dublin,,Volkswagen,Gol,2000,Nafta,3.0,Manual,1.6,Hatchback,175000.0,Hidráulica,Delantera,5.0,90.0,3500.0
+Volkswagen Gol 1.6 I Power 601 5 p,Bs.As. G.B.A. Norte,1.6 I Power 601 5 p,Gris,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,162300.0,Mecánica,Delantera,5.0,92.0,4600.0
+Volkswagen Gol trend 1.6,Córdoba,trend 1.6,,Volkswagen,Gol,2010,Nafta/GNC,5.0,Manual,1.6,Hatchback,250000.0,Hidráulica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Norte,1.6 Mi Deejay,Blanco,Volkswagen,Gol,2003,Nafta,3.0,Manual,1.6,Hatchback,200000.0,Hidráulica,Delantera,5.0,90.0,2800.0
+Volkswagen Gol 1.6 I Power 601 3 p,Ubicación no encontrada,1.6 I Power 601 3 p,Plateado,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,190000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Look 70l,Bs.As. G.B.A. Oeste,1.6 I Look 70l,Negro,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,162000.0,Hidráulica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.4 Power 83cv,Capital Federal,1.4 Power 83cv,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,73000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 Mi Deejay,Ubicación no encontrada,1.6 Mi Deejay,Rojo,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,195909.0,Hidráulica,Delantera,5.0,90.0,6500.0
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,Negro,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,180000.0,Hidráulica,Delantera,5.0,83.0,5800.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Sur,1.6 Mi Deejay,Gris,Volkswagen,Gol,2004,Nafta,5.0,Manual,1.6,Hatchback,76000.0,Hidráulica,Delantera,5.0,90.0,5400.0
+Volkswagen Gol 1.4 Power 83cv,Capital Federal,1.4 Power 83cv,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,197000.0,Hidráulica,Delantera,5.0,83.0,5500.0
+Volkswagen Gol 1.6 Trendline 3p,Bs.As. G.B.A. Sur,1.6 Trendline 3 p,,Volkswagen,Gol,2017,Nafta,3.0,Manual,1.6,Hatchback,92000.0,hydraulic,Delantera,5.0,,9200.0
+Volkswagen Gol 1.6 Gld,Ubicación no encontrada,1.6 Gld,,Volkswagen,Gol,1999,Diésel,3.0,Manual,1.6,Hatchback,180000.0,Hidráulica,Delantera,5.0,54.0,4300.0
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,Negro,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,77776.0,hydraulic,Delantera,5.0,83.0,7900.0
+Volkswagen Gol 1.6 Trendline,Córdoba,1.6 Trendline,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,229536.0,Hidráulica,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,115000.0,Hidráulica,Delantera,5.0,83.0,7500.0
+Volkswagen Gol 1.6 D,Bs.As. G.B.A. Norte,1.6 D,Rojo,Volkswagen,Gol,1999,Diésel,3.0,Manual,1.6,Sedán,266377.0,Hidráulica,Delantera,5.0,54.0,2000.0
+Volkswagen Gol 1.6 Gl Mi,Bs.As. G.B.A. Sur,1.6 Gl Mi,,Volkswagen,Gol,1998,Nafta,3.0,Manual,1.6,Hatchback,69000.0,Hidráulica,Delantera,5.0,90.0,5000.0
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Sur,1.6 Gl,,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.6,Hatchback,254000.0,Mecánica,Delantera,5.0,90.0,6000.0
+Gol G3 Modelo 2000 Motor 1.6 Nafta,Córdoba,Gol G3 modelo 2000 motor 1.6 nafta 3 puertas,Verde,Volkswagen,Gol,2000,Nafta,3.0,Manual,1.6,Hatchback,1111111.0,Mecánica,Delantera,5.0,64.0,2733.33
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,Blanco,Volkswagen,Gol,2006,Nafta/GNC,3.0,Manual,1.6,Hatchback,246000.0,Hidráulica,Delantera,5.0,92.0,3333.33
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,Negro,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,174600.0,Hidráulica,Delantera,5.0,83.0,4700.0
+Volkswagen Gol 1.6 I Power 601,Córdoba,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,5.0,Manual,1.6,Hatchback,145000.0,Mecánica,Delantera,5.0,92.0,4500.0
+Volkswagen Gol 1.6 I Power 701,Entre Ríos,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,116000.0,Mecánica,Delantera,5.0,92.0,7999.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,132000.0,Hidráulica,Delantera,5.0,83.0,5900.0
+Volkswagen Gol 1.8 Gli Special Aa Dh,Bs.As. G.B.A. Oeste,1.8 Gli Special Aa Dh,,Volkswagen,Gol,1998,Nafta,3.0,Manual,1.8,Hatchback,280000.0,Hidráulica,Delantera,5.0,98.0,3700.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Norte,1.4 Power 83cv,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,83.0,6700.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,Plateado,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,195000.0,Mecánica,Delantera,5.0,92.0,4990.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Bs.As. G.B.A. Norte,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,214000.0,Hidráulica,Delantera,5.0,83.0,6700.0
+Volkswagen Gol Base 4 Puertas,Entre Ríos,Base 4 puertas,,Volkswagen,Gol,2007,Nafta,4.0,Manual,1.6,Hatchback,230000.0,Mecánica,Delantera,5.0,92.0,3666.67
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Norte,1.6 I Power 701,Verde,Volkswagen,Gol,2010,Nafta,5.0,Manual,1.6,Hatchback,196000.0,Mecánica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Norte,1.6 Mi Deejay,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,204000.0,Hidráulica,Delantera,5.0,90.0,5699.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,Negro,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,110000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,111111.0,Mecánica,Delantera,5.0,92.0,3666.67
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Norte,1.4 Power 83cv,Verde,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,145000.0,Asistida,Delantera,5.0,83.0,3332.53
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Córdoba,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,83.0,4666.67
+Volkswagen Gol 1.0 Gl Mi 3 p,Córdoba,1.0 Gl Mi 3 p,Rojo,Volkswagen,Gol,1999,Nafta,3.0,Manual,1.0,Hatchback,156000.0,Hidráulica,Delantera,5.0,54.0,3600.0
+Volkswagen Gol 1.4 Power 83cv,Santa Fe,1.4 Power 83cv,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,170000.0,Hidráulica,Delantera,5.0,83.0,4666.67
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,Gris,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,211000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol Power 1.6,Buenos Aires Interior,Power 1.6,,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,416000.0,Hidráulica,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,105000.0,Mecánica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Norte,1.4 Power 83cv 3 p,Azul,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,85000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,Negro,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,112000.0,Hidráulica,Delantera,5.0,83.0,7300.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Sur,1.4 Power 83cv 3 p,Gris,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,115000.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol 1.6 I Trendline 60b,Capital Federal,1.6 I Trendline 60b,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,151000.0,Hidráulica,Delantera,5.0,92.0,5200.0
+Volkswagen Gol 1.6 I Power 601 3 p,Bs.As. G.B.A. Sur,1.6 I Power 601 3 p,,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,217000.0,Mecánica,Delantera,5.0,92.0,4200.0
+Volkswagen Gol 1.6 I Power 601 3 p,Buenos Aires Interior,1.6 I Power 601 3 p,,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,189000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.0 Gl,Bs.As. G.B.A. Oeste,1.0 Gl,,Volkswagen,Gol,1999,Nafta,3.0,Manual,1.0,Hatchback,131000.0,Hidráulica,Delantera,5.0,54.0,2333.33
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,Gris,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,84000.0,Mecánica,Delantera,5.0,92.0,7000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Hidráulica,Delantera,5.0,83.0,4333.33
+Volkswagen Gol 1.4 Power 83cv 3 p,Capital Federal,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,85900.0,Hidráulica,Delantera,5.0,83.0,5500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Gris,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,105000.0,Hidráulica,Delantera,5.0,83.0,5333.33
+Volkswagen Gol 1.8 Gl Mi,Bs.As. G.B.A. Oeste,1.8 Gl Mi,Gris,Volkswagen,Gol,1998,Nafta,3.0,Manual,1.8,Hatchback,235000.0,Hidráulica,Delantera,5.0,98.0,3840.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Norte,1.6 I Power 701,Negro,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,138000.0,Mecánica,Delantera,5.0,92.0,5200.0
+Volkswagen Gol 1.6 I Comfortline 70a,Bs.As. G.B.A. Norte,1.6 I Comfortline 70a,,Volkswagen,Gol,2009,Nafta,5.0,Manual,1.6,Hatchback,113000.0,Hidráulica,Delantera,5.0,92.0,6200.0
+Volkswagen Gol Sedan 5 Ptas,Bs.As. G.B.A. Norte,Sedan 5 ptas,,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,100000.0,Mecánica,Delantera,5.0,92.0,5300.0
+Volkswagen Gol 1.6 2003,Tucumán,1.6 Power,Gris,Volkswagen,Gol,2003,Nafta/GNC,3.0,Manual,1.6,Hatchback,147000.0,Hidráulica,Delantera,5.0,90.0,2649.87
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,157000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,5.0,Manual,1.6,Hatchback,107000.0,Hidráulica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,99000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Power 701,Entre Ríos,1.6 I Power 701,Negro,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,115000.0,Hidráulica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 Gld,Capital Federal,1.6 Gld,,Volkswagen,Gol,1997,Diésel,3.0,Manual,1.6,Hatchback,160000.0,Hidráulica,Delantera,5.0,54.0,2100.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Gris,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,130000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Ubicación no encontrada,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,107000.0,Hidráulica,Delantera,5.0,83.0,6300.0
+Volkswagen Gol 1.6 Dublin,Bs.As. G.B.A. Norte,1.6 dublin,,Volkswagen,Gol,2003,Nafta,3.0,Manual,1.6,Hatchback,185000.0,Hidráulica,Delantera,5.0,90.0,3300.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,200000.0,Mecánica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol Power plus AA,Ubicación no encontrada,Power plus AA,Blanco,Volkswagen,Gol,2009,Nafta,5.0,Manual,1.6,Hatchback,200000.0,Hidráulica,Delantera,5.0,92.0,6490.0
+Volkswagen Gol 1.6 Gl,Capital Federal,1.6 Gl,Negro,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.6,Hatchback,296422.0,Mecánica,Delantera,5.0,90.0,2000.0
+Volkswagen Gol Trendline 1.6,Bs.As. G.B.A. Norte,trendline 1.6,,Volkswagen,Gol,2020,Nafta,5.0,Manual,,Hatchback,66000.0,Asistida,,,,13000.0
+Volkswagen Gol Power 1.6 5P,Bs.As. G.B.A. Sur,Power 1.6 5P,Negro,Volkswagen,Gol,2010,Nafta/GNC,5.0,Manual,1.6,Hatchback,243000.0,Mecánica,Delantera,5.0,92.0,4500.0
+Volkswagen Gol 1.6 I Power 601 3 p,Bs.As. G.B.A. Oeste,1.6 I Power 601 3 p,,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,225000.0,Mecánica,Delantera,5.0,92.0,4500.0
+Volkswagen Gol 1.6 I Power 601,Entre Ríos,1.6 I Power 601,Gris,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,176000.0,Mecánica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Oeste,1.4 Power 83cv,Plateado,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,154325.0,Hidráulica,Delantera,5.0,83.0,4666.67
+Volkswagen Gol 1.4,Bs.As. G.B.A. Norte,1.4,,Volkswagen,Gol,2009,Nafta,4.0,Manual,1.6,Hatchback,185000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,97000.0,Hidráulica,Delantera,5.0,83.0,6700.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,Negro,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,115000.0,Mecánica,Delantera,5.0,92.0,5200.0
+Volkswagen Gol 1.6 I Comfortline 60a,Ubicación no encontrada,1.6 I Comfortline 60a,Gris,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,176000.0,Hidráulica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 Mi Deejay,Córdoba,1.6 Mi Deejay,Gris,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,265000.0,Hidráulica,Delantera,5.0,90.0,3200.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Norte,1.6 I Power 701,Gris,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,145000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Power 601,Santa Fe,1.6 I Power 601,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,49000.0,Mecánica,Delantera,5.0,92.0,6500.0
+Volkswagen Gol 1.6 Mi Deejay,Capital Federal,1.6 Mi Deejay,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,217000.0,Hidráulica,Delantera,5.0,90.0,2666.67
+Volkswagen Gol 1.8 Gl Mi,Bs.As. G.B.A. Sur,1.8 Gl Mi,,Volkswagen,Gol,1997,Nafta,5.0,Manual,1.8,Hatchback,111111.0,Hidráulica,Delantera,5.0,98.0,3600.0
+Volkswagen Gol 1.6 Gl Mi,Bs.As. G.B.A. Sur,1.6 Gl Mi,,Volkswagen,Gol,1997,Nafta,3.0,Manual,1.6,Hatchback,83000.0,Hidráulica,Delantera,5.0,90.0,5000.0
+Volkswagen Bora 2005 Tdi 2.0 Anti Y Financio,Ubicación no encontrada,TDI 2.0,Gris,Volkswagen,Gol,2005,Diésel,5.0,Manual,2.0,Sedán,140000.0,Hidráulica,Delantera,5.0,90.0,7500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. Costa Atlántica,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,124000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.6 I Power,Santa Fe,1.6 I Power,Gris,Volkswagen,Gol,2007,Nafta/GNC,5.0,Manual,1.6,Sedán,260342.0,Hidráulica,Delantera,5.0,92.0,4666.67
+Volkswagen Gol Dublin,Ubicación no encontrada,DUBLIN,,Volkswagen,Gol,2005,Nafta,5.0,Manual,1.6,Hatchback,101000.0,Hidráulica,Delantera,5.0,90.0,6350.0
+Volkswagen Gol 1.6 I Power 601 5 p,Bs.As. G.B.A. Norte,1.6 I Power 601 5 p,Azul,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,182000.0,Mecánica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Ubicación no encontrada,1.4 Power 83cv 5 p,Gris,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,123000.0,Hidráulica,Delantera,5.0,83.0,5300.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,Azul,Volkswagen,Gol,2007,Nafta,5.0,Manual,1.6,Hatchback,100000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Norte,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,339600.0,Mecánica,Delantera,5.0,92.0,2333.33
+Volkswagen Gol 1.6 I Power 701,Buenos Aires Interior,1.6 I Power 701,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,250000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,Blanco,Volkswagen,Gol,2010,Nafta,5.0,Manual,1.6,Hatchback,180000.0,Hidráulica,Delantera,5.0,92.0,4632.67
+Volkswagen Gol 1.6 5p Trend Comfort L17 2018,Ubicación no encontrada,1.6 Trend Comfortline,,Volkswagen,Gol,2018,Nafta,5.0,Manual,1.6,Hatchback,71000.0,hydraulic,Delantera,5.0,,10000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,108000.0,Hidráulica,Delantera,5.0,83.0,7390.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,Verde,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,209000.0,Mecánica,Delantera,5.0,92.0,4600.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,144000.0,Mecánica,Delantera,5.0,92.0,7000.0
+Volkswagen Gol 1.6 I Power 601,Buenos Aires Interior,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,200000.0,Mecánica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Sur,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,63000.0,Hidráulica,Delantera,5.0,83.0,8700.0
+Volkswagen Gol 1.4 Power 83cv,Corrientes,1.4 Power 83cv,,Volkswagen,Gol,2014,Nafta,3.0,Manual,1.4,Hatchback,119000.0,Hidráulica,Delantera,5.0,83.0,4666.67
+Volkswagen Gol 1.6 I Look 70l,Bs.As. G.B.A. Oeste,1.6 I Look 70l,Negro,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,200000.0,Hidráulica,Delantera,5.0,92.0,4200.0
+Volkswagen Gol 1.6 I Power 601,Buenos Aires Interior,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,100000.0,Mecánica,Delantera,5.0,92.0,4333.33
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,Blanco,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,112000.0,Mecánica,Delantera,5.0,92.0,5800.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,122000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 I Trendline 60b,Buenos Aires Interior,1.6 I Trendline 60b,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,194000.0,Hidráulica,Delantera,5.0,92.0,6300.0
+Volkswagen Gol 1.9,Ubicación no encontrada,1.9,,Volkswagen,Gol,2004,Diésel,5.0,Manual,1.6,Hatchback,185000.0,Hidráulica,Delantera,5.0,90.0,4900.0
+Volkswagen Gol 1.9 Sd Power 701,Capital Federal,1.9 Sd Power 701,,Volkswagen,Gol,2006,Diésel,5.0,Manual,1.9,Hatchback,215000.0,Hidráulica,Delantera,5.0,64.0,4000.0
+Volkswagen Gol 1.6 I Comfortline 70a,Ubicación no encontrada,1.6 I Comfortline 70a,Gris,Volkswagen,Gol,2010,Nafta,5.0,Manual,1.6,Hatchback,65000.0,Hidráulica,Delantera,5.0,92.0,5900.0
+Volkswagen Gol 1.6 Gli,Bs.As. G.B.A. Oeste,1.6 Gli,Rojo,Volkswagen,Gol,1997,Nafta,3.0,Manual,1.6,Hatchback,160000.0,Hidráulica,Delantera,5.0,90.0,4200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,103000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,77400.0,Mecánica,Delantera,5.0,92.0,4466.67
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,105000.0,Mecánica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Sur,1.6 Gl,,Volkswagen,Gol,1995,Nafta,3.0,Manual,1.6,Hatchback,240000.0,Mecánica,Delantera,5.0,90.0,4500.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,Gris,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,260000.0,Mecánica,Delantera,5.0,92.0,3533.33
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,95000.0,Hidráulica,Delantera,5.0,83.0,6100.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Capital Federal,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,199900.0,Hidráulica,Delantera,5.0,83.0,5000.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Capital Federal,1.4 Power 83cv 5 p,Gris,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,125000.0,Hidráulica,Delantera,5.0,83.0,5200.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,Negro,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,80000.0,Mecánica,Delantera,5.0,92.0,4500.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,Negro,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,83.0,5933.33
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,151000.0,Mecánica,Delantera,5.0,92.0,6200.0
+Volkswagen Gol 1.6 Mi Deejay,Buenos Aires Interior,1.6 Mi Deejay,Rojo,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,191200.0,Asistida,Delantera,5.0,90.0,4500.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Sur,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,185000.0,Hidráulica,Delantera,5.0,83.0,3800.0
+Volkswagen Gol 1.6,Buenos Aires Interior,1.6,,Volkswagen,Gol,2017,Nafta,3.0,Manual,1.6,Hatchback,86000.0,hydraulic,Delantera,5.0,,10500.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,296000.0,Mecánica,Delantera,5.0,92.0,3333.33
+Volkswagen Gol 1.6 I Trendline Plus,Bs.As. G.B.A. Oeste,1.6 I Trendline Plus,Gris,Volkswagen,Gol,2010,Nafta,5.0,Manual,1.6,Hatchback,165000.0,Hidráulica,Delantera,5.0,92.0,4000.0
+Vwgol,San Luis,1.6 Nafta,Gris,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Sedán,230000.0,Mecánica,Delantera,5.0,90.0,3666.67
+Volkswagen Gol 1.9 Sd Dublin Dh Aa,Bs.As. G.B.A. Sur,1.9 Sd Dublin Dh Aa,,Volkswagen,Gol,2002,Diésel,3.0,Manual,1.9,Hatchback,264000.0,Hidráulica,Delantera,5.0,64.0,3200.0
+Volkswagen Gol Trendiline,Capital Federal,Trendiline,,Volkswagen,Gol,2004,Diésel,4.0,Manual,1.6,Hatchback,267000.0,Hidráulica,Delantera,5.0,90.0,4400.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,Gris,Volkswagen,Gol,2009,Nafta,5.0,Manual,1.6,Hatchback,213000.0,Mecánica,Delantera,5.0,92.0,3900.0
+Volkswagen Gol 1.4 Power 83cv,Entre Ríos,1.4 Power 83cv,Verde,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,114000.0,Hidráulica,Delantera,5.0,83.0,4533.33
+Volkswagen Gol 1.6 I Comfortline 60a,Ubicación no encontrada,1.6 I Comfortline 60a,Gris,Volkswagen,Gol,2007,Nafta/GNC,5.0,Manual,1.6,Hatchback,117000.0,Hidráulica,Delantera,5.0,92.0,5300.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Norte,1.6 I Power 701,Gris,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,135000.0,Mecánica,Delantera,5.0,92.0,6300.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,120000.0,Mecánica,Delantera,5.0,92.0,3333.33
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Norte,1.6 Gl,,Volkswagen,Gol,1992,Nafta,3.0,Manual,1.6,Hatchback,168000.0,,Delantera,5.0,90.0,8600.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,Verde,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,178000.0,Hidráulica,Delantera,5.0,83.0,4800.0
+Volkswagen Gol 1.6 I Trendline 60b,Capital Federal,1.6 I Trendline 60b,,Volkswagen,Gol,2009,Nafta,5.0,Manual,1.6,Hatchback,145000.0,Hidráulica,Delantera,5.0,92.0,6300.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Norte,1.4 Power 83cv,,Volkswagen,Gol,2014,Nafta,3.0,Manual,1.4,Hatchback,81610.0,Hidráulica,Delantera,5.0,83.0,6800.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Neuquén,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,147000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,150000.0,Mecánica,Delantera,5.0,92.0,5900.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,103000.0,Mecánica,Delantera,5.0,92.0,4333.33
+Volkswagen Gol 1.6 I Power 601,Córdoba,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,130000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Oeste,1.6 Mi Deejay,,Volkswagen,Gol,2003,Nafta,3.0,Manual,1.6,Hatchback,202000.0,Hidráulica,Delantera,5.0,90.0,4500.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,130000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,Negro,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,113000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.6 I Power 601 3 p,Capital Federal,1.6 I Power 601 3 p,,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,150000.0,Mecánica,Delantera,5.0,92.0,5200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,Plateado,Volkswagen,Gol,2012,Nafta/GNC,3.0,Manual,1.4,Hatchback,98000.0,Hidráulica,Delantera,5.0,83.0,6900.0
+Volkswagen Gol 1.4 L,Bs.As. G.B.A. Oeste,1.4 L,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Sedán,170000.0,Mecánica,Trasera,5.0,83.0,5500.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Oeste,1.4 Power 83cv,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,118000.0,Hidráulica,Delantera,5.0,83.0,5600.0
+Volkswagen Gol Gti 16v,Capital Federal,GTi 16v,,Volkswagen,Gol,2000,Nafta,5.0,Manual,1.6,Hatchback,130000.0,Hidráulica,Delantera,5.0,64.0,14000.0
+Volkswagen Gol Power,Bs.As. G.B.A. Norte,Power,Rojo,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Coupé,160000.0,Asistida,Delantera,5.0,83.0,4200.0
+Volkswagen Gol 1.4 Power 83cv,Tucumán,1.4 Power 83cv,,Volkswagen,Gol,2014,Nafta,3.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,83.0,4666.67
+Volkswagen Gol 1.6 I Trendline 60b,Bs.As. G.B.A. Norte,1.6 I Trendline 60b,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,160000.0,Hidráulica,Delantera,5.0,92.0,4700.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,110000.0,Mecánica,Delantera,5.0,92.0,5800.0
+Volkswagen Gol Power,Buenos Aires Interior,Power,,Volkswagen,Gol,2010,Nafta/GNC,2.0,Manual,1.6,Hatchback,35000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol Power 3p,Córdoba,Power,Blanco,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,255000.0,Hidráulica,Delantera,5.0,90.0,2500.0
+Volkswagen Gol 1.6 I Power 601 3 p,Bs.As. G.B.A. Norte,1.6 I Power 601 3 p,Gris,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,197000.0,Hidráulica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol Power,Bs.As. G.B.A. Oeste,Power,Plateado,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,192000.0,Hidráulica,Delantera,5.0,90.0,5000.0
+Volkswagen Gol 1.6 I Power 601 3 p,Bs.As. G.B.A. Norte,1.6 I Power 601 3 p,Plateado,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,185000.0,Mecánica,Delantera,5.0,92.0,3700.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,Rojo,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,59000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.6 Gl,Capital Federal,1.6 Gl,,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.6,Hatchback,466663.0,Mecánica,Delantera,5.0,90.0,2000.0
+Volkswagen Gol Trendline,Bs.As. G.B.A. Sur,Trendline,Gris,Volkswagen,Gol,2021,Nafta,5.0,Automática,1.6,Hatchback,40000.0,Asistida,Delantera,5.0,,15000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,Gris,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,186000.0,Mecánica,Delantera,5.0,92.0,5300.0
+Volkswagen Gol 1.6 Confortline Mod.2003 Gnc Aire 5 Ptas,Bs.As. G.B.A. Sur,Conforline 1.6,Verde,Volkswagen,Gol,2003,Nafta/GNC,5.0,Manual,1.6,Sedán,220000.0,Hidráulica,Delantera,5.0,90.0,4200.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Oeste,1.4 Power 83cv 3 p,Plateado,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,138000.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,65000.0,Mecánica,Delantera,5.0,92.0,6500.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,Negro,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,83.0,5933.33
+Volkswagen Gol 1.6 I Comfortline 60a,Córdoba,1.6 I Comfortline 60a,Gris,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,108000.0,Hidráulica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,208000.0,Mecánica,Delantera,5.0,92.0,4200.0
+Volkswagen Gol Gol 1.0L MI PLUS,Bs.As. G.B.A. Oeste,Gol 1.0L MI PLUS,,Volkswagen,Gol,1999,Nafta,3.0,Manual,1.0,Hatchback,200000.0,Hidráulica,Delantera,5.0,54.0,2333.33
+Volkswagen Gol 1.6,Bs.As. G.B.A. Norte,1.6,Gris,Volkswagen,Gol,1999,Diésel,5.0,Manual,1.6,Crossover,250000.0,Asistida,Delantera,5.0,54.0,1333.33
+Volkswagen Gol 1.6 I Power 601,Buenos Aires Interior,1.6 I Power 601,Gris,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,320000.0,Mecánica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,168000.0,Mecánica,Delantera,5.0,92.0,5400.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,Negro,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,101073.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Córdoba,,Gris,Volkswagen,Gol,2011,Nafta/GNC,3.0,Manual,1.4,Hatchback,199200.0,Hidráulica,Delantera,5.0,83.0,4133.33
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,108000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Norte,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,130000.0,Mecánica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.6 Plus Mi,Bs.As. G.B.A. Norte,1.6 Plus Mi,Rojo,Volkswagen,Gol,1997,Nafta,3.0,Manual,1.6,Hatchback,205000.0,Hidráulica,Delantera,5.0,90.0,2333.33
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Buenos Aires Interior,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,162000.0,Hidráulica,Delantera,5.0,83.0,4800.0
+Volkswagen Gol 1.6 Gld,Bs.As. G.B.A. Oeste,1.6 Gld,,Volkswagen,Gol,1996,Diésel,3.0,Manual,1.6,Hatchback,275000.0,Hidráulica,Delantera,5.0,54.0,1666.67
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,128000.0,Hidráulica,Delantera,5.0,83.0,7500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,165000.0,Hidráulica,Delantera,5.0,83.0,5200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Norte,,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,108000.0,Hidráulica,Delantera,5.0,83.0,666.67
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,135000.0,Hidráulica,Delantera,5.0,83.0,4533.33
+Volkswagen Gol 1.6 Gld,Bs.As. G.B.A. Oeste,1.6 Gld,Plateado,Volkswagen,Gol,1999,Diésel,3.0,Manual,1.6,Sedán,170000.0,Mecánica,4x2,5.0,54.0,3100.0
+Volkswagen Gol 1.6 Mi Deejay,Ubicación no encontrada,1.6 Mi Deejay,Gris,Volkswagen,Gol,2003,Nafta,3.0,Manual,1.6,Hatchback,170000.0,Hidráulica,Delantera,5.0,90.0,3666.67
+Volkswagen Gol 1.6 I Power 601 5 p,Bs.As. Costa Atlántica,1.6 I Power 601 5 p,Gris,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,126651.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,176000.0,Mecánica,Delantera,5.0,92.0,4600.0
+Volkswagen Gol 1.0 Gl Mi 3 p,Bs.As. G.B.A. Sur,1.0 Gl Mi 3 p,,Volkswagen,Gol,1999,Nafta,3.0,Manual,1.0,Hatchback,109000.0,Hidráulica,Delantera,5.0,54.0,3300.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Sur,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,1111.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.6,Ubicación no encontrada,1.6,Gris,Volkswagen,Gol,2003,Nafta/GNC,3.0,Manual,1.6,Hatchback,270000.0,Hidráulica,Delantera,5.0,90.0,3100.0
+Volkswagen Gol 1.9 Sd Comfortline 60a,Capital Federal,1.9 Sd Comfortline 60a,Blanco,Volkswagen,Gol,2006,Diésel,3.0,Manual,1.9,Hatchback,118188.0,Hidráulica,Delantera,5.0,64.0,4900.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,Negro,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Sur,1.4 Power 83cv 3 p,Blanco,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,105000.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol 1.9 Sd Dublin,Bs.As. G.B.A. Sur,1.9 Sd Dublin,,Volkswagen,Gol,2000,Diésel,3.0,Manual,1.9,Hatchback,333000.0,Hidráulica,Delantera,5.0,64.0,2333.33
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Gris,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,70000.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen,Ubicación no encontrada,1.6,Negro,Volkswagen,Gol,2010,Nafta,5.0,Manual,1.6,Hatchback,96435.0,Hidráulica,Delantera,5.0,92.0,6800.0
+Volkswagen Gol Power Aa/dh 1.6,Córdoba,,,Volkswagen,Gol,2005,Nafta,5.0,Manual,1.6,Hatchback,258000.0,Hidráulica,Delantera,5.0,90.0,3860.0
+Volkswagen Gol 1.6 Mi Deejay,Entre Ríos,1.6 Mi Deejay,,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,200000.0,Hidráulica,Delantera,5.0,90.0,3866.67
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,Blanco,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,149000.0,Hidráulica,Delantera,5.0,83.0,4533.33
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,Negro,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.6 I Power 601 5 p,Bs.As. G.B.A. Norte,1.6 I Power 601 5 p,Gris,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,176700.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 I Comfortline 70a,Bs.As. G.B.A. Norte,1.6 I Comfortline 70a,Gris,Volkswagen,Gol,2010,Nafta,5.0,Manual,1.6,Hatchback,165000.0,Hidráulica,Delantera,5.0,92.0,5950.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. Costa Atlántica,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,217060.0,Mecánica,Delantera,5.0,92.0,5500.0
+Gol Power 2005 1.6 C/ Aire Y Dirección. 3 Puertas,Bs.As. G.B.A. Sur,,Plateado,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,117000.0,Hidráulica,Delantera,5.0,90.0,3333.33
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Blanco,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,170000.0,Hidráulica,Delantera,5.0,83.0,5433.33
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,Plateado,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,159000.0,Hidráulica,Delantera,5.0,83.0,6700.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Oeste,1.4 Power 83cv,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,106000.0,Hidráulica,Delantera,5.0,83.0,3666.67
+Volkswagen Gol 1.9 Sd Power 701,Córdoba,1.9 Sd Power 701,,Volkswagen,Gol,2008,Diésel,5.0,Manual,1.9,Hatchback,184000.0,Hidráulica,Delantera,5.0,64.0,2800.0
+Volkswagen Gol 1.6,Bs.As. G.B.A. Sur,1.6,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,160000.0,Mecánica,Delantera,5.0,92.0,4500.0
+Volkswagen Gol 1.6 I Comfortline 60a,Bs.As. G.B.A. Sur,1.6 I Comfortline 60a,Gris,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,205000.0,Hidráulica,Delantera,5.0,92.0,4450.0
+Volkswagen Gol 1.9 Sd Full - Excelente Estado,Bs.As. G.B.A. Sur,1.9 Sd,Azul,Volkswagen,Gol,2004,Diésel,5.0,Manual,1.6,Sedán,189500.0,Hidráulica,4x2,5.0,90.0,6000.0
+Gol 1.6 Volkswagen,Bs.As. G.B.A. Norte,3 PUERTAS,Gris,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Coupé,250000.0,Hidráulica,Delantera,5.0,90.0,3600.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Bs.As. G.B.A. Oeste,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.6 I Comfortline 60a,Ubicación no encontrada,1.6 I Comfortline 60a,,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,295000.0,Hidráulica,Delantera,5.0,92.0,4133.33
+Volkswagen Gol 1.6 I Power 701,Corrientes,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,151000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Norte,1.4 Power 83cv,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,171000.0,Hidráulica,Delantera,5.0,83.0,5000.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,144000.0,Mecánica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.6 I Power 601,Buenos Aires Interior,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,185000.0,Mecánica,Delantera,5.0,92.0,5800.0
+Volkswagen Gol 1.9 Sd Dublin,Ubicación no encontrada,1.9 Sd Dublin,Celeste,Volkswagen,Gol,2002,Diésel,3.0,Manual,1.9,Hatchback,80000.0,Hidráulica,Delantera,5.0,64.0,4150.0
+Volkswagen Gol Gol power 1.6,Bs.As. G.B.A. Oeste,Gol power 1.6,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,169000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 I Power 701,Capital Federal,1.6 I Power 701,Gris,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.6,Hatchback,47000.0,Mecánica,Delantera,5.0,92.0,6500.0
+Volkswagen Gol 1.6 I Power 701,Capital Federal,1.6 I Power 701,Negro,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,55000.0,Mecánica,Delantera,5.0,92.0,7200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,Gris,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,122000.0,Hidráulica,Delantera,5.0,83.0,5500.0
+Volkswagen Gol 1.6,Capital Federal,1.6,Blanco,Volkswagen,Gol,2005,Nafta,5.0,Manual,1.6,Monovolumen,150000.0,Hidráulica,Delantera,5.0,90.0,3333.33
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Negro,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,96500.0,Mecánica,Delantera,5.0,92.0,6800.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Plateado,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,83.0,4700.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,163000.0,Hidráulica,Delantera,5.0,83.0,4400.0
+Volkswagen Gol 1.4 Nafta,Bs.As. G.B.A. Oeste,1.4 L,Gris,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,163000.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Norte,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,120800.0,Mecánica,Delantera,5.0,92.0,5300.0
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Oeste,1.6 Gl,,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.6,Hatchback,174985.0,Mecánica,Delantera,5.0,90.0,933.33
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,145000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Sur,1.6 Gl,,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.6,Hatchback,166000.0,Mecánica,Delantera,5.0,90.0,2466.67
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,Plateado,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,144000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Norte,1.6 I Power 601,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,140000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 Comfort,Capital Federal,1.6 Comfort,,Volkswagen,Gol,2005,Nafta,5.0,Manual,1.6,Hatchback,215000.0,Hidráulica,Delantera,5.0,90.0,2600.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,San Luis,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,200000.0,Hidráulica,Delantera,5.0,83.0,4600.0
+Volkswagen Gol 1.6 I Comfortline 60a,Bs.As. G.B.A. Oeste,1.6 I Comfortline 60a,,Volkswagen,Gol,2007,Nafta,5.0,Manual,1.6,Hatchback,135000.0,Hidráulica,Delantera,5.0,92.0,4500.0
+Volkswagen Gol 1.6 I Power 701,Capital Federal,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,105000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,71500.0,Hidráulica,Delantera,5.0,83.0,8500.0
+Volkswagen Gol Power,Bs.As. G.B.A. Sur,Power,Azul,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,149565.0,Hidráulica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.9 Sd Dublin Dh,Buenos Aires Interior,1.9 Sd Dublin Dh,,Volkswagen,Gol,2000,Diésel,3.0,Manual,1.9,Hatchback,230000.0,Hidráulica,Delantera,5.0,64.0,2933.33
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,182000.0,Mecánica,Delantera,5.0,92.0,5100.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,55000.0,Mecánica,Delantera,5.0,92.0,6500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Córdoba,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,83.0,4666.67
+Volkswagen Gol 1.6 I Trendline 60b,Bs.As. G.B.A. Sur,1.6 I Trendline 60b,Negro,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,154000.0,Hidráulica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol Gti,Ubicación no encontrada,Gti,,Volkswagen,Gol,1999,Nafta,5.0,Manual,1.6,Hatchback,100000.0,Hidráulica,Delantera,5.0,54.0,13000.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Oeste,1.4 Power 83cv,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,160000.0,Hidráulica,Delantera,5.0,83.0,4750.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,136000.0,Mecánica,Delantera,5.0,92.0,4500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,Gris,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,150000.0,Hidráulica,DelanteraCapacidad de la batería75 Ah,5.0,83.0,6200.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Norte,1.6 Mi Deejay,,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,197000.0,Hidráulica,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,Negro,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,143000.0,Hidráulica,Delantera,5.0,83.0,5660.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,132000.0,Hidráulica,Delantera,5.0,83.0,4100.0
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,Gris,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,138000.0,Hidráulica,Delantera,5.0,83.0,5500.0
+Volkswagen Gol 1.6 Gl,Bs.As. Costa Atlántica,1.6 Gl,Azul,Volkswagen,Gol,1995,Nafta,3.0,Manual,1.6,Hatchback,40000.0,Mecánica,Delantera,5.0,90.0,10000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,110600.0,Hidráulica,Delantera,5.0,83.0,4666.67
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Norte,1.6 Gl,Azul,Volkswagen,Gol,1995,Nafta,3.0,Manual,1.6,Hatchback,164000.0,Mecánica,Delantera,5.0,90.0,3600.0
+Volkswagen Gol 1.9 Sd Dublin Dh Aa Pack,Capital Federal,1.9 Sd Dublin Dh Aa Pack,,Volkswagen,Gol,2000,Diésel,3.0,Manual,1.9,Hatchback,270000.0,Hidráulica,Delantera,5.0,64.0,3250.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2014,Nafta,5.0,Manual,1.4,Hatchback,108000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Verde,Volkswagen,Gol,2011,Nafta/GNC,5.0,Manual,1.6,Hatchback,180000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Norte,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,5.0,Manual,1.6,Hatchback,135000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Norte,1.6 I Power 701,Plateado,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,145000.0,Mecánica,Delantera,5.0,92.0,4400.0
+Volkswagen Gol 1.4 Power 83cv,Córdoba,1.4 Power 83cv,Blanco,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,125000.0,Hidráulica,Delantera,5.0,83.0,5500.0
+Volkswagen Gol 1.6 Mi Dublin Dh Aa,Bs.As. G.B.A. Norte,1.6 Mi Dublin Dh Aa,,Volkswagen,Gol,2002,Nafta,3.0,Manual,1.6,Hatchback,187000.0,Hidráulica,Delantera,5.0,90.0,4300.0
+Volkswagen Gol Power A/acc Dir,Capital Federal,,,Volkswagen,Gol,2004,Nafta,5.0,Manual,1.6,Hatchback,210000.0,Hidráulica,Delantera,5.0,90.0,4700.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Norte,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,157000.0,Mecánica,Delantera,5.0,92.0,5900.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,Plateado,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,131000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 2004 1.6,Bs.As. G.B.A. Sur,1.6,Gris,Volkswagen,Gol,2004,Nafta,5.0,Manual,1.6,Sedán,82000.0,Hidráulica,Delantera,5.0,90.0,5300.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Gris,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,104000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,15000.0,Hidráulica,Delantera,5.0,83.0,10000.0
+Volkswagen Gol 1.8 Plus Mi,Bs.As. G.B.A. Sur,1.8 Plus Mi,,Volkswagen,Gol,1997,Nafta,3.0,Manual,1.8,Hatchback,400000.0,Hidráulica,Delantera,5.0,98.0,3000.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,175000.0,Mecánica,Delantera,5.0,92.0,4200.0
+Volkswagen Gol 1.4 Power 83cv,Capital Federal,1.4 Power 83cv,Gris,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Oeste,1.6 Gl,,Volkswagen,Gol,1993,Nafta,3.0,Manual,1.6,Hatchback,160000.0,,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.9 Sd Power 701,Bs.As. G.B.A. Norte,1.9 Sd Power 701,Gris,Volkswagen,Gol,2008,Diésel,5.0,Manual,1.9,Hatchback,134000.0,Hidráulica,Delantera,5.0,64.0,5500.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,199628.0,Hidráulica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol 1.6 I Look 70l,Ubicación no encontrada,1.6 I Look 70l,Gris,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,110000.0,Hidráulica,Delantera,5.0,92.0,5900.0
+Volkswagen Gol G3 1.6 Trendline 2005,Bs.As. G.B.A. Norte,G3 1.6 trendline,Dorado,Volkswagen,Gol,2005,Nafta,2.0,Manual,1.6,Hatchback,187000.0,Hidráulica,Delantera,5.0,90.0,4666.67
+Volkswagen Gol 1.6,Bs.As. G.B.A. Sur,1.6,,Volkswagen,Gol,2004,Nafta/GNC,3.0,Manual,1.6,Hatchback,272000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Sur,1.6 Gl,,Volkswagen,Gol,1991,Nafta,3.0,Manual,1.6,Hatchback,111111.0,,Delantera,5.0,90.0,933.33
+Volkswagen Gol Gol Dublin,Capital Federal,GOL DUBLIN,,Volkswagen,Gol,2005,Nafta,5.0,Manual,1.6,Hatchback,101000.0,Hidráulica,Delantera,5.0,90.0,6350.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Gris,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,83.0,5700.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. Costa Atlántica,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,85000.0,Mecánica,Delantera,5.0,92.0,5600.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,Blanco,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,137000.0,Hidráulica,Delantera,5.0,83.0,6199.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Oeste,1.4 Power 83cv,Gris,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,150000.0,Hidráulica,Delantera,5.0,83.0,5500.0
+Volkswagen Gol 1.6 Gli,Bs.As. G.B.A. Norte,1.6 Gli,,Volkswagen,Gol,1996,Nafta,3.0,Manual,1.6,Hatchback,220000.0,Hidráulica,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.6 Plus Mi,Buenos Aires Interior,1.6 Plus Mi,Blanco,Volkswagen,Gol,1997,Nafta,3.0,Manual,1.6,Hatchback,200000.0,Hidráulica,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.6 I Power 601 3 p,Bs.As. G.B.A. Sur,1.6 I Power 601 3 p,,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,148000.0,Mecánica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol 1.6 Gld,Misiones,1.6 Gld,,Volkswagen,Gol,1998,Diésel,3.0,Manual,1.6,Hatchback,360000.0,Hidráulica,Delantera,5.0,54.0,1600.0
+Volkswagen Gol 1.8 Gl,Bs.As. G.B.A. Norte,1.8 Gl,Azul,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.8,Hatchback,260000.0,Mecánica,Delantera,5.0,98.0,6000.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Capital Federal,1.4 Power 83cv 5 p,Gris,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,83000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,139000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Oeste,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,124500.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta/GNC,5.0,Manual,1.6,Hatchback,218000.0,Hidráulica,Delantera,5.0,92.0,3233.33
+Volkswagen Gol 1.4 Power 83cv 5 p,Bs.As. G.B.A. Oeste,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,138000.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol 1.6,Capital Federal,1.6,,Volkswagen,Gol,2005,Nafta,5.0,Manual,1.6,Hatchback,270000.0,Hidráulica,Delantera,5.0,90.0,2800.0
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,Blanco,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,37000.0,Hidráulica,Delantera,5.0,83.0,9000.0
+Volkswagen Gol 1.6 I Power 601 3 p,Capital Federal,1.6 I Power 601 3 p,,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,199000.0,Mecánica,Delantera,5.0,92.0,3700.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,Gris,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,167000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol Gol power SD 1.9,Misiones,Gol power SD 1.9,Negro,Volkswagen,Gol,2007,Diésel,4.0,Manual,1.9,Hatchback,199000.0,Hidráulica,Delantera,5.0,64.0,3533.33
+Volkswagen Gol 1.6 Mi Deejay,Capital Federal,1.6 Mi Deejay,Plateado,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,401000.0,Hidráulica,Delantera,5.0,90.0,3333.33
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta/GNC,3.0,Manual,1.6,Hatchback,159000.0,Mecánica,Delantera,5.0,92.0,5300.0
+Volkswagen Gol 1.6 Gl Mi,Bs.As. G.B.A. Sur,1.6 Gl Mi,Plateado,Volkswagen,Gol,1999,Nafta,3.0,Manual,1.6,Hatchback,200000.0,Hidráulica,Delantera,5.0,90.0,2933.33
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,363000.0,Mecánica,Delantera,5.0,92.0,6100.0
+Gol Power,Capital Federal,Powe,Blanco,Volkswagen,Gol,2004,Nafta,5.0,Manual,1.6,Hatchback,130000.0,Asistida,Delantera,5.0,90.0,4700.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Oeste,1.4 Power 83cv,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,144000.0,Hidráulica,Delantera,5.0,83.0,4533.33
+Volkswagen Gol 1.9,Bs.As. G.B.A. Oeste,1.9,,Volkswagen,Gol,2006,Diésel,3.0,Manual,1.6,Hatchback,160000.0,Mecánica,Delantera,5.0,92.0,2666.67
+Volkswagen Golf 1.6 Confortline 2016- Autocarsberissense,Ubicación no encontrada,1.6 Confortline,Blanco,Volkswagen,Gol,2016,Nafta,5.0,Automática,1.4,Hatchback,58000.0,Asistida,Delantera,,,13500.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Bs.As. G.B.A. Oeste,1.4 Power 83cv 5 p,,Volkswagen,Gol,2014,Nafta,5.0,Manual,1.4,Hatchback,217000.0,Hidráulica,Delantera,5.0,83.0,5250.0
+Volkswagen Gol 1.4 Power 83cv,Capital Federal,1.4 Power 83cv,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Sur,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,190000.0,Hidráulica,Delantera,5.0,83.0,5900.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,Gris,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,137000.0,Mecánica,Delantera,5.0,92.0,4900.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Gris,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,140000.0,Mecánica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.6 Gl Mi,Capital Federal,1.6 Gl Mi,,Volkswagen,Gol,1998,Nafta,3.0,Manual,1.6,Hatchback,169000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,Gris,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,137500.0,Hidráulica,DelanteraCapacidad de la batería75 AhTiempo de carga99999999 hTipo de cargadorTipo 1Autonomia de la batería500 km,5.0,92.0,4533.33
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,127000.0,Mecánica,Delantera,5.0,92.0,6500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,230000.0,Hidráulica,Delantera,5.0,83.0,1433.33
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,300000.0,Mecánica,Delantera,5.0,92.0,4800.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Buenos Aires Interior,,Negro,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,150000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,120000.0,Mecánica,Delantera,5.0,92.0,5400.0
+Vw Gol Power 1.6 Gnc,Bs.As. G.B.A. Norte,Power 1.6 gnc,Plateado,Volkswagen,Gol,2005,Nafta/GNC,3.0,Manual,1.6,Sedán,216000.0,Hidráulica,Delantera,5.0,90.0,3200.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,Blanco,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,83.0,5666.67
+Volkswagen Gol 1.9d Confortline 5ptas Titular,Bs.As. G.B.A. Oeste,1.9D Confortline,Gris,Volkswagen,Gol,2004,Diésel,5.0,Manual,1.9,Hatchback,191800.0,Hidráulica,Delantera,5.0,90.0,4800.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Sur,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,83.0,6800.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Gris,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,116800.0,Hidráulica,Delantera,5.0,83.0,5900.0
+Volkswagen Gol 1.6 Gl Mi,Bs.As. G.B.A. Oeste,1.6 Gl Mi,Gris,Volkswagen,Gol,1999,Nafta,3.0,Manual,1.6,Hatchback,200000.0,Hidráulica,Delantera,5.0,90.0,3400.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,170000.0,Mecánica,Delantera,5.0,92.0,4700.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Buenos Aires Interior,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,130000.0,Hidráulica,Delantera,5.0,83.0,5800.0
+Volkswagen Gol 1.6 I Comfortline 60a,Bs.As. G.B.A. Oeste,1.6 I Comfortline 60a,,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,164000.0,Hidráulica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol Gol 1.6,Capital Federal,1.6,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,39800.0,Mecánica,Delantera,5.0,92.0,9000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Norte,,Azul,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,Verde,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,92200.0,Hidráulica,Delantera,5.0,83.0,6300.0
+Volkswagen Gol 1.6 Inyección,Buenos Aires Interior,1.6 inyección,,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,185000.0,Hidráulica,Delantera,5.0,90.0,3800.0
+Volkswagen Gol Confortline 1.4 Dsg,Capital Federal,confortline 1.4 dsg,Blanco,Volkswagen,Gol,2016,Nafta,4.0,Automática,1.4,Sedán,82600.0,Hidráulica,Delantera,,,16500.0
+Volkswagen Gol,Bs.As. G.B.A. Sur,1.6 Confortline,Blanco,Volkswagen,Gol,2003,Nafta,4.0,Manual,1.6,Hatchback,260000.0,Hidráulica,Delantera,5.0,90.0,4500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,Gris,Volkswagen,Gol,2014,Nafta,5.0,Manual,1.4,Hatchback,213000.0,Hidráulica,Delantera,5.0,83.0,6100.0
+Volkswagen Gol Gol Power Confortline,Bs.As. G.B.A. Sur,Gol Power Confortline,Azul,Volkswagen,Gol,2007,Nafta/GNC,3.0,Manual,1.6,Cabriolet,272000.0,Hidráulica,Delantera,5.0,92.0,4500.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Norte,1.6 I Power 601,Plateado,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,177000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,135000.0,Mecánica,Delantera,5.0,92.0,2166.67
+Volkswagen Gol 1.6 Mi Dublin,Bs.As. G.B.A. Sur,1.6 Mi Dublin,Plateado,Volkswagen,Gol,2001,Nafta,3.0,Manual,1.6,Hatchback,300000.0,Hidráulica,Delantera,5.0,90.0,3300.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Santa Fe,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,59000.0,Hidráulica,Delantera,5.0,83.0,5300.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Gris,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,116000.0,Mecánica,Delantera,5.0,92.0,3266.67
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,83.0,6900.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,Negro,Volkswagen,Gol,2007,Nafta/GNC,3.0,Manual,1.6,Hatchback,182000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol Gol Power 1.6 G3,Bs.As. G.B.A. Oeste,gol power 1.6 G3,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,200000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,Negro,Volkswagen,Gol,2014,Nafta,3.0,Manual,1.4,Hatchback,97000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.6 I Power 601 3 p,Bs.As. G.B.A. Sur,1.6 I Power 601 3 p,Gris,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,143000.0,Mecánica,Delantera,5.0,92.0,3700.0
+Volkswagen Gol 1.6 I Comfortline 60a,Capital Federal,1.6 I Comfortline 60a,Azul,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,160000.0,Hidráulica,Delantera,5.0,92.0,4700.0
+Volkswagen Gol 1.6 Gl Mi,Bs.As. G.B.A. Norte,1.6 Gl Mi,,Volkswagen,Gol,1997,Nafta,3.0,Manual,1.6,Hatchback,222222.0,Hidráulica,Delantera,5.0,90.0,466.67
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,Gris,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,99400.0,Mecánica,Delantera,5.0,92.0,5800.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Bs.As. G.B.A. Norte,1.4 Power 83cv 5 p,Rojo,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,135000.0,Hidráulica,Delantera,5.0,83.0,5900.0
+Volkswagen Gol 1.6 I Power 601,San Luis,1.6 I Power 601,Rojo,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,127300.0,Mecánica,Delantera,5.0,92.0,3266.67
+Volkswagen Gol 1.6 Gl Mi,Bs.As. G.B.A. Sur,1.6 Gl Mi,,Volkswagen,Gol,1998,Nafta,3.0,Manual,1.6,Hatchback,193800.0,Hidráulica,Delantera,5.0,90.0,1666.67
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Norte,1.6 I Power 701,Gris,Volkswagen,Gol,2011,Nafta/GNC,3.0,Manual,1.6,Hatchback,215000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 Plus Mi,Bs.As. G.B.A. Oeste,1.6 Plus Mi,,Volkswagen,Gol,1999,Nafta,3.0,Manual,1.6,Hatchback,100000.0,Hidráulica,Delantera,5.0,90.0,8000.0
+Volkswagen Gol 1.6 I Power 601 3 p,Bs.As. G.B.A. Oeste,1.6 I Power 601 3 p,,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,126000.0,Mecánica,Delantera,5.0,92.0,3800.0
+Volkswagen Gol 1.6 Trendline,Bs.As. G.B.A. Sur,1.6 Trendline,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,172000.0,Hidráulica,Delantera,5.0,90.0,5100.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Norte,1.6 Mi Deejay,Gris,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,211000.0,Hidráulica,Delantera,5.0,90.0,4500.0
+Volkswagen Gol 1.6 I Power 601,Mendoza,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,193000.0,Mecánica,Delantera,5.0,92.0,4800.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Buenos Aires Interior,,Gris,Volkswagen,Gol,2012,Nafta/GNC,5.0,Manual,1.4,Hatchback,153000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6  Trendline Plus,Capital Federal,1.6 Trendline Plus,Azul,Volkswagen,Gol,2003,Nafta,5.0,Manual,1.6,Hatchback,230000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.6 Gli,Bs.As. G.B.A. Oeste,1.6 Gli,,Volkswagen,Gol,1996,Nafta,3.0,Manual,1.6,Hatchback,236000.0,Hidráulica,Delantera,5.0,90.0,1466.67
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,Gris oscuro,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,49000.0,hydraulic,Delantera,5.0,83.0,6900.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,216000.0,Mecánica,Delantera,5.0,92.0,4600.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Oeste,1.4 Power 83cv,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,99000.0,Hidráulica,Delantera,5.0,83.0,4733.33
+Volkswagen Gol 1.6 Mi Deejay,Ubicación no encontrada,1.6 Mi Deejay,Blanco,Volkswagen,Gol,2003,Nafta,3.0,Manual,1.6,Hatchback,200000.0,Hidráulica,Delantera,5.0,90.0,6000.0
+Volkswagen Gol 1.6 I Look 70l,Entre Ríos,1.6 I Look 70l,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,174000.0,Hidráulica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Power 601 3 p,San Luis,1.6 I Power 601 3 p,,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,230000.0,Mecánica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol Gol Power 1.4,Entre Ríos,Gol Power 1.4,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,134000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Oeste,1.4 Power 83cv,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,116500.0,Hidráulica,Delantera,5.0,83.0,4000.0
+Volkswagen Gol 1.6 I Power 701,Capital Federal,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,193500.0,Mecánica,Delantera,5.0,92.0,5350.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,Gris,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,148000.0,Hidráulica,Delantera,5.0,83.0,5500.0
+Volkswagen Gol 3p 1.6 Taraborelli Entre Rios,Ubicación no encontrada,3p 1.6,Negro,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,135000.0,Mecánica,Delantera,5.0,92.0,3266.67
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,140000.0,Mecánica,Delantera,5.0,92.0,5400.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Negro,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.6,Hatchback,150000.0,Mecánica,Delantera,5.0,92.0,5300.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Buenos Aires Interior,1.4 Power 83cv 5 p,Gris,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,150000.0,Hidráulica,Delantera,5.0,83.0,5200.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Sur,1.6 Mi Deejay,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,160000.0,Hidráulica,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.6 Gli,Bs.As. G.B.A. Norte,1.6 Gli,,Volkswagen,Gol,1997,Nafta,3.0,Manual,1.6,Hatchback,300000.0,Hidráulica,Delantera,5.0,90.0,1600.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,42000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Capital Federal,1.4 Power 83cv 3 p,Gris,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,83.0,5500.0
+Volkswagen Gol 1.6 Gld,Bs.As. G.B.A. Norte,1.6 Gld,,Volkswagen,Gol,1996,Diésel,3.0,Manual,1.6,Hatchback,1000.0,Hidráulica,Delantera,5.0,54.0,1000.0
+Volkswagen Gol 1.6 I Look 70l,Capital Federal,1.6 I Look 70l,,Volkswagen,Gol,2009,Nafta,5.0,Manual,1.6,Hatchback,96700.0,Hidráulica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. Costa Atlántica,,Plateado,Volkswagen,Gol,2013,Nafta/GNC,3.0,Manual,1.4,Hatchback,156000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,98000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,98500.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.6 gol power,Bs.As. G.B.A. Oeste,1.6 gol power,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,130000.0,Mecánica,Delantera,5.0,92.0,5700.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,Negro,Volkswagen,Gol,2007,Nafta,5.0,Manual,1.6,Hatchback,160000.0,Mecánica,Delantera,5.0,92.0,3500.0
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,Blanco,Volkswagen,Gol,2012,Nafta/GNC,3.0,Manual,1.4,Hatchback,164000.0,Hidráulica,Delantera,5.0,83.0,5666.67
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,40000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 463-gol 1.4 L,Córdoba,463-GOL 1.4 L,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,67000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Negro,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,8000.0,Hidráulica,Delantera,5.0,83.0,6900.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Oeste,1.6 Mi Deejay,,Volkswagen,Gol,2003,Nafta,3.0,Manual,1.6,Hatchback,230000.0,Hidráulica,Delantera,5.0,90.0,5200.0
+Volkswagen Gol 1.6,Bs.As. G.B.A. Sur,1.6,,Volkswagen,Gol,2004,Nafta/GNC,3.0,Manual,1.6,Hatchback,272000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Córdoba,,Gris,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,143500.0,Hidráulica,Delantera,5.0,83.0,4533.33
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,Gris,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,200000.0,Hidráulica,Delantera,5.0,83.0,5100.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,101000.0,Hidráulica,Delantera,5.0,83.0,5800.0
+Volkswagen Gol 1.6 I Power 601 3 p,Bs.As. G.B.A. Oeste,1.6 I Power 601 3 p,Rojo,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,265000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Gris,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,133000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol Dublin,Buenos Aires Interior,Dublin,,Volkswagen,Gol,2004,Diésel,2.0,Manual,1.6,Hatchback,161000.0,Hidráulica,Delantera,5.0,90.0,4500.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,190000.0,Hidráulica,Delantera,5.0,83.0,5666.67
+Volkswagen Gol 1.6 Gli,Chaco,1.6 Gli,,Volkswagen,Gol,1997,Nafta,3.0,Manual,1.6,Hatchback,190000.0,Hidráulica,Delantera,5.0,90.0,1466.67
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,97000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,132000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.4 Power 83cv,Entre Ríos,1.4 Power 83cv,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,112000.0,Hidráulica,Delantera,5.0,83.0,5000.0
+Volkswagen Gol Pointer Gti 2000,Capital Federal,Pointer gti 2000,,Volkswagen,Gol,1995,Nafta,4.0,Manual,1.6,Hatchback,75000.0,Mecánica,Delantera,5.0,90.0,5250.0
+Volkswagen Gol 1.6 I Trendline 60b,San Luis,1.6 I Trendline 60b,Blanco,Volkswagen,Gol,2007,Nafta,5.0,Manual,1.6,Hatchback,200000.0,Hidráulica,Delantera,5.0,92.0,3266.67
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,73000.0,Mecánica,Delantera,5.0,92.0,6800.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,260000.0,Mecánica,Delantera,5.0,92.0,4333.33
+Volkswagen Gol 1.6 Gl,Capital Federal,1.6 Gl,,Volkswagen,Gol,1995,Nafta,3.0,Manual,1.6,Hatchback,111111.0,Mecánica,Delantera,5.0,90.0,15000.0
+Volkswagen Gol Gti,Bs.As. G.B.A. Sur,Gti,,Volkswagen,Gol,1996,Nafta,3.0,Manual,1.6,Hatchback,70000.0,Hidráulica,Delantera,5.0,90.0,15000.0
+Volkswagen Gol 1.9 Sd Dublin Dh Aa,Ubicación no encontrada,1.9 Sd Dublin Dh Aa,,Volkswagen,Gol,2000,Diésel,3.0,Manual,1.9,Hatchback,112000.0,Hidráulica,Delantera,5.0,64.0,3500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,Azul,Volkswagen,Gol,2014,Nafta,3.0,Manual,1.4,Hatchback,57000.0,Hidráulica,Delantera,5.0,83.0,7500.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,Gris,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,160000.0,Mecánica,Delantera,5.0,92.0,4333.33
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,101000.0,Hidráulica,Delantera,5.0,83.0,4700.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,55000.0,Hidráulica,Delantera,5.0,83.0,7500.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Verde,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,154000.0,Mecánica,Delantera,5.0,92.0,5866.67
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,Plateado,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,75000.0,Mecánica,Delantera,5.0,92.0,6200.0
+Volkswagen Gol 1.6 I Power 601 3 p,Bs.As. G.B.A. Norte,1.6 I Power 601 3 p,Gris,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,101000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Blanco,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,145000.0,Mecánica,Delantera,5.0,92.0,5200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Norte,,Gris,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,115000.0,Hidráulica,Delantera,5.0,83.0,5700.0
+Volkswagen Gol 1.6 Gl Mi,Bs.As. G.B.A. Sur,1.6 Gl Mi,Blanco,Volkswagen,Gol,1998,Nafta,3.0,Manual,1.6,Hatchback,240000.0,Hidráulica,Delantera,5.0,90.0,4200.0
+Gol Conforline,Bs.As. G.B.A. Norte,Conforline,Gris,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Coupé,210000.0,Hidráulica,Delantera,5.0,90.0,4400.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,30000.0,Mecánica,Delantera,5.0,92.0,8000.0
+Volkswagen Gol 1.6 I Power 601 3 p,Bs.As. G.B.A. Sur,1.6 I Power 601 3 p,,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,186000.0,Mecánica,Delantera,5.0,92.0,4500.0
+Volkswagen Gol 1.6 Mi Deejay,Ubicación no encontrada,1.6 Mi Deejay,Plateado,Volkswagen,Gol,2003,Nafta,3.0,Manual,1.6,Hatchback,124000.0,Hidráulica,Delantera,5.0,90.0,3993.33
+Volkswagen Gol 1.9 Sd Comfortline 60a,Ubicación no encontrada,1.9 Sd Comfortline 60a,Blanco,Volkswagen,Gol,2008,Diésel,5.0,Manual,1.9,Hatchback,165000.0,Hidráulica,Delantera,5.0,64.0,4333.33
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,Gris,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,117000.0,Mecánica,Delantera,5.0,92.0,4633.33
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Oeste,1.4 Power 83cv,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,112000.0,Hidráulica,Delantera,5.0,83.0,5400.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Santa Fe,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,124000.0,Hidráulica,Delantera,5.0,83.0,5333.33
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Mendoza,,Plateado,Volkswagen,Gol,2011,Nafta/GNC,3.0,Manual,1.4,Hatchback,155000.0,Hidráulica,DelanteraCapacidad de la batería75 Ah,5.0,83.0,4666.67
+Volkswagen Gol 1.6 I Look 70l,Capital Federal,1.6 I Look 70l,,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,117000.0,Hidráulica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Buenos Aires Interior,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,170000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,134000.0,Mecánica,Delantera,5.0,92.0,7200.0
+Volkswagen Gol 1.6 I Power 601,Santa Fe,1.6 I Power 601,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,195000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Córdoba,,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,38125.0,Hidráulica,Delantera,5.0,83.0,5800.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Ubicación no encontrada,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,117000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Jujuy,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,150000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,220000.0,Mecánica,Delantera,5.0,92.0,3666.67
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Gris,Volkswagen,Gol,2009,Nafta,5.0,Manual,1.6,Hatchback,163000.0,Mecánica,Delantera,5.0,92.0,4600.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,163000.0,Mecánica,Delantera,5.0,92.0,3300.0
+Volkswagen Gol 1.6,Ubicación no encontrada,1.6,Gris,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,146000.0,Hidráulica,Delantera,5.0,90.0,4400.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,70000.0,Hidráulica,Delantera,5.0,83.0,5666.67
+Volkswagen Gol 1.6 I Power 701,Buenos Aires Interior,1.6 I Power 701,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,160000.0,Mecánica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol 1.9 Diesel,Ubicación no encontrada,1.9 Diesel,,Volkswagen,Gol,2005,Diésel,3.0,Manual,1.6,Hatchback,136000.0,Hidráulica,Delantera,5.0,90.0,4800.0
+Volkswagen Gol 1.6 I Look 70l,Bs.As. G.B.A. Norte,1.6 I Look 70l,Plateado,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,131500.0,Hidráulica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,Gris,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.6,Hatchback,100000.0,Mecánica,Delantera,5.0,92.0,5899.0
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,Rojo,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,204000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Negro,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,161927.0,Hidráulica,Delantera,5.0,83.0,4333.33
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,110000.0,Mecánica,Delantera,5.0,92.0,6500.0
+Volkswagen Gol 1.6 I Power 601 3 p,Bs.As. G.B.A. Norte,1.6 I Power 601 3 p,Gris,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,183000.0,Mecánica,Delantera,5.0,92.0,3866.67
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,Negro,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,87500.0,Hidráulica,Delantera,5.0,83.0,7500.0
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,Blanco,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,139000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.9 Sd,Bs.As. G.B.A. Sur,1.9 Sd,,Volkswagen,Gol,2004,Diésel,5.0,Manual,1.6,Hatchback,61000.0,Hidráulica,Delantera,5.0,90.0,10000.0
+Volkswagen Gol Power 1.6,Bs.As. G.B.A. Norte,,Gris,Volkswagen,Gol,2004,Nafta,5.0,Manual,1.6,Sedán,250000.0,Hidráulica,Delantera,5.0,90.0,4200.0
+Volkswagen Gol 1.4 Power 83cv,Capital Federal,1.4 Power 83cv,Negro,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,50000.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Mendoza,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,50000.0,Hidráulica,Delantera,5.0,83.0,7299.0
+Volkswagen Gol 1.6 I Comfortline 70a,Ubicación no encontrada,1.6 I Comfortline 70a,Gris,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,56300.0,hydraulic,Delantera,5.0,92.0,6900.0
+Volkswagen Gol 1.9 Sd,Bs.As. G.B.A. Sur,1.9 Sd,,Volkswagen,Gol,2005,Diésel,2.0,Manual,1.6,Hatchback,108000.0,Hidráulica,Delantera,5.0,90.0,7500.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,161000.0,Mecánica,Delantera,5.0,92.0,4666.67
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Sur,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,186127.0,Hidráulica,Delantera,5.0,83.0,5000.0
+Volkswagen Gol 1.6 I Look 70l,Bs.As. G.B.A. Oeste,1.6 I Look 70l,Gris,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,142000.0,Hidráulica,Delantera,5.0,92.0,4299.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,62000.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Norte,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,87000.0,Hidráulica,Delantera,5.0,83.0,6400.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Bs.As. G.B.A. Oeste,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,163600.0,Hidráulica,Delantera,5.0,83.0,5800.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,105000.0,Mecánica,Delantera,5.0,92.0,4200.0
+Volkswagen Gol Trend 1.6 Pack Li 101cv,Bs.As. G.B.A. Norte,Gol 1.6 5P Trend PK2,Blanco,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Sedán,79000.0,Asistida,Delantera,5.0,83.0,8800.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,169000.0,Mecánica,Delantera,5.0,92.0,5900.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,173000.0,Mecánica,Delantera,5.0,92.0,3333.33
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Norte,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,102000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Norte,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,145000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol Gol Trend,Entre Ríos,Gol trend,,Volkswagen,Gol,2016,Nafta,4.0,Automática,1.4,Hatchback,172000.0,Asistida,Delantera,,,8500.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Gris,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,134000.0,Mecánica,Delantera,5.0,92.0,4900.0
+Volkswagen Gol 1.4 Power 83cv,Capital Federal,1.4 Power 83cv,Negro,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,38000.0,Hidráulica,Delantera,5.0,83.0,5600.0
+Volkswagen Gol 1.4 Power 83cv,Capital Federal,1.4 Power 83cv,Gris,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,83.0,3866.67
+Volkswagen Gol Gol Full 2005,Bs.As. G.B.A. Sur,Gol full 2005,,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,173000.0,Hidráulica,Delantera,5.0,90.0,4500.0
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Oeste,1.6 Gl,,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.6,Hatchback,230000.0,Mecánica,Delantera,5.0,90.0,7000.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Norte,1.6 I Power 701,Blanco,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,268900.0,Mecánica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Norte,1.6 Mi Deejay,,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,162000.0,Hidráulica,Delantera,5.0,90.0,3850.0
+Volkswagen Gol 1.6 I Comfortline 60a,Ubicación no encontrada,1.6 I Comfortline 60a,,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,295000.0,Hidráulica,Delantera,5.0,92.0,4133.33
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Sur,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,130000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 Power Plus,Capital Federal,1.6 Power Plus,Rojo,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,138000.0,Hidráulica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol Power 1.6,Bs.As. G.B.A. Norte,Power 1.6,,Volkswagen,Gol,2005,Nafta,5.0,Manual,1.6,Hatchback,160000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.9 Sd Dublin,Bs.As. G.B.A. Oeste,1.9 Sd Dublin,,Volkswagen,Gol,2001,Diésel,3.0,Manual,1.9,Hatchback,260000.0,Hidráulica,Delantera,5.0,64.0,3800.0
+Volkswagen Gol Gol,Mendoza,Trend,,Volkswagen,Gol,2017,Nafta,3.0,Manual,1.6,Hatchback,6400.0,hydraulic,Delantera,5.0,,11000.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Norte,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,140000.0,Mecánica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.4 Power 83cv,Santa Fe,1.4 Power 83cv,Negro,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,147000.0,Mecánica,Delantera,5.0,92.0,4500.0
+Volkswagen Gol 1.8 Gl,Bs.As. G.B.A. Sur,1.8 Gl,Verde,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.8,Hatchback,50000.0,Mecánica,Delantera,5.0,98.0,6800.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,,Volkswagen,Gol,2014,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,83.0,7200.0
+Volkswagen Gol 1.8 Gl,Bs.As. G.B.A. Sur,1.8 Gl,,Volkswagen,Gol,1993,Nafta,3.0,Manual,1.8,Hatchback,112000.0,,Delantera,5.0,98.0,5500.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Norte,1.4 Power 83cv,Negro,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,200000.0,Hidráulica,Delantera,5.0,83.0,5500.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,Gris,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,140000.0,Hidráulica,Delantera,5.0,83.0,4800.0
+Volkswagen Gol 1.6 I Power 601 5 p,Ubicación no encontrada,1.6 I Power 601 5 p,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,130000.0,Mecánica,Delantera,5.0,92.0,4666.67
+Volkswagen Gol 1.6 I Power 601 3 p,Buenos Aires Interior,1.6 I Power 601 3 p,Blanco,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,138000.0,Mecánica,Delantera,5.0,92.0,2666.67
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Norte,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,123000.0,Mecánica,Delantera,5.0,92.0,6600.0
+Volkswagen Gol 1.6 I Power 601 3 p,Ubicación no encontrada,1.6 I Power 601 3 p,Plateado,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,218000.0,Mecánica,Delantera,5.0,92.0,4700.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,200000.0,Hidráulica,Delantera,5.0,83.0,4333.33
+Volkswagen Gol 1.6 I Trendline 60b,Bs.As. G.B.A. Oeste,1.6 I Trendline 60b,Blanco,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,130000.0,Hidráulica,Delantera,5.0,92.0,3666.67
+Volkswagen Gol 1.6 I Power 601,Mendoza,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,145000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol Nafta,Buenos Aires Interior,Nafta,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,70000.0,Mecánica,Delantera,5.0,92.0,7000.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,Negro,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,116000.0,Mecánica,Delantera,5.0,92.0,6200.0
+Volkswagen Gol 1.6 Mi Deejay,Santa Fe,1.6 Mi Deejay,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,134000.0,Hidráulica,Delantera,5.0,90.0,4300.0
+Volkswagen Gol 1.6 Confortline G3,Bs.As. G.B.A. Norte,1.6 Confortline G3,,Volkswagen,Gol,2004,Nafta,5.0,Manual,1.6,Hatchback,250000.0,Hidráulica,Delantera,5.0,90.0,5400.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,Negro,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,82000.0,Hidráulica,Delantera,5.0,83.0,6300.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,200000.0,Mecánica,Delantera,5.0,92.0,2866.67
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Sur,1.6 Gl,Rojo,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.6,Hatchback,146000.0,Mecánica,Delantera,5.0,90.0,5800.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,250000.0,Hidráulica,Delantera,5.0,83.0,3900.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Norte,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,214000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. Costa Atlántica,,Gris,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,100000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.6 Trendline,Capital Federal,1.6 Trendline,Gris,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,210000.0,Hidráulica,Delantera,5.0,90.0,4200.0
+Volkswagen Gol Power 1.6 2005,Ubicación no encontrada,3 PUERTAS,Plateado,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,100000.0,Hidráulica,Delantera,5.0,90.0,3866.67
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Norte,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,120000.0,Mecánica,Delantera,5.0,92.0,5900.0
+Volkswagen Gol 1.6 Gl Mi,Capital Federal,1.6 Gl Mi,Plateado,Volkswagen,Gol,1999,Nafta/GNC,3.0,Manual,1.6,Hatchback,234600.0,Hidráulica,Delantera,5.0,90.0,3600.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,178000.0,Mecánica,Delantera,5.0,92.0,5900.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,133000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,Blanco,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,139000.0,Hidráulica,Delantera,5.0,83.0,3900.0
+Volkswagen Gol 1.6 I Comfortline 60a,Bs.As. G.B.A. Sur,1.6 I Comfortline 60a,Gris,Volkswagen,Gol,2007,Nafta,5.0,Manual,1.6,Hatchback,120000.0,Hidráulica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,145000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.9 Sd Dublin,Córdoba,1.9 Sd Dublin,,Volkswagen,Gol,2004,Diésel,5.0,Manual,1.6,Hatchback,266000.0,Hidráulica,Delantera,5.0,90.0,5500.0
+Volkswagen Gol 1.6 I Comfortline 60a,Bs.As. G.B.A. Norte,1.6 I Comfortline 60a,Blanco,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,155000.0,Hidráulica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 Mi Dublin,Bs.As. G.B.A. Oeste,1.6 Mi Dublin,,Volkswagen,Gol,2000,Nafta,3.0,Manual,1.6,Hatchback,227000.0,Hidráulica,Delantera,5.0,90.0,2600.0
+Volkswagen Gol 1.6 I Power 701,Santa Fe,1.6 I Power 701,Blanco,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,150000.0,Mecánica,Delantera,5.0,92.0,5600.0
+Volkswagen Gol 1.6 I Power 601 5 p,Tucumán,1.6 I Power 601 5 p,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,44000.0,Mecánica,Delantera,5.0,92.0,5900.0
+Volkswagen Gol 1.6 I Look 70l,Bs.As. G.B.A. Norte,1.6 I Look 70l,,Volkswagen,Gol,4366,Nafta,60252.0,Manual,1.6,Hatchback,210000.0,Hidráulica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 Gld,Mendoza,1.6 Gld,Verde,Volkswagen,Gol,1999,Diésel,3.0,Manual,1.6,Hatchback,350000.0,Hidráulica,DelanteraCapacidad de la batería75 Ah,5.0,54.0,2666.67
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Gris,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,113000.0,Hidráulica,Delantera,5.0,83.0,6999.0
+Volkswagen Gol 1.4 Power 83cv,Capital Federal,1.4 Power 83cv,Negro,Volkswagen,Gol,2014,Nafta,3.0,Manual,1.4,Hatchback,218000.0,Hidráulica,Delantera,5.0,83.0,4233.33
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,Gris,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,210000.0,Mecánica,Delantera,5.0,92.0,5600.0
+Volkswagen Gol Comfortline,Entre Ríos,Comfortline,,Volkswagen,Gol,2018,Nafta,5.0,Manual,1.6,Hatchback,68000.0,Asistida,Delantera,5.0,,11000.0
+Volkswagen Gol 1.6 Mi Deejay,Ubicación no encontrada,1.6 Mi Deejay,Gris,Volkswagen,Gol,2005,Nafta,5.0,Manual,1.6,Hatchback,111111.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.6 Gl Mi,Capital Federal,1.6 Gl Mi,,Volkswagen,Gol,1998,Nafta,3.0,Manual,1.6,Hatchback,240000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.6,Buenos Aires Interior,1.6,,Volkswagen,Gol,2007,Nafta/GNC,3.0,Manual,1.6,Hatchback,285000.0,Mecánica,Delantera,5.0,92.0,3166.67
+Volkswagen Gol 1.6 I Look 70l,Bs.As. G.B.A. Sur,1.6 I Look 70l,,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,146000.0,Hidráulica,Delantera,5.0,92.0,4400.0
+Volkswagen Gol 1.9 Sd Trendline 60b,Bs.As. G.B.A. Oeste,1.9 Sd Trendline 60b,Negro,Volkswagen,Gol,2008,Diésel,5.0,Manual,1.9,Hatchback,199000.0,Hidráulica,Delantera,5.0,64.0,4500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,145000.0,Hidráulica,Delantera,5.0,83.0,7800.0
+Volkswagen Gol 1.8 Gli,Ubicación no encontrada,1.8 Gli,Celeste,Volkswagen,Gol,1995,Nafta,3.0,Manual,1.8,Hatchback,46000.0,Mecánica,Delantera,5.0,98.0,7000.0
+Volkswagen Gol 1.6 I Comfortline 60a,Ubicación no encontrada,1.6 I Comfortline 60a,,Volkswagen,Gol,2007,Nafta,5.0,Manual,1.6,Hatchback,142000.0,Hidráulica,Delantera,5.0,92.0,4333.33
+Volkswagen Gol 1.6 3 Puertas,Bs.As. G.B.A. Norte,1.6 3 puertas,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,100000.0,Mecánica,Delantera,5.0,92.0,6500.0
+Vw Gol Power 2005 - 5 Puertas - 79000km,Capital Federal,Power,Gris,Volkswagen,Gol,2005,Nafta,5.0,Manual,1.6,Hatchback,79000.0,Hidráulica,Delantera,5.0,90.0,5500.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Ubicación no encontrada,1.4 Power 83cv 5 p,Blanco,Volkswagen,Gol,2014,Nafta,5.0,Manual,1.4,Hatchback,124300.0,Hidráulica,Delantera,5.0,83.0,7890.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,Negro,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,83.0,6700.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Oeste,1.6 Mi Deejay,,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,260000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,Negro,Volkswagen,Gol,2013,Nafta/GNC,3.0,Manual,1.4,Hatchback,139256.0,Hidráulica,Delantera,5.0,83.0,5660.0
+Volkswagen Gol 1.6 I Comfortline 60a,Bs.As. G.B.A. Oeste,1.6 I Comfortline 60a,,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,136000.0,Hidráulica,Delantera,5.0,92.0,4300.0
+Volkswagen Gol 1.6,Brasil,1.6,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,78000.0,Hidráulica,Delantera,5.0,83.0,9900.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,135000.0,Hidráulica,Delantera,5.0,83.0,4000.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Oeste,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,101000.0,Hidráulica,Delantera,5.0,83.0,5500.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Bs.As. G.B.A. Sur,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,39000.0,Hidráulica,Delantera,5.0,83.0,8300.0
+Volkswagen Gol 1.6 I Power 701,Mendoza,1.6 I Power 701,Blanco,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.6,Hatchback,85000.0,Mecánica,Delantera,5.0,92.0,6500.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Bs.As. Costa Atlántica,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,220000.0,Hidráulica,Delantera,5.0,83.0,5500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,181000.0,Hidráulica,Delantera,5.0,83.0,5000.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Sur,1.6 Mi Deejay,Gris,Volkswagen,Gol,2005,Nafta,5.0,Manual,1.6,Hatchback,189000.0,Hidráulica,Delantera,5.0,90.0,4400.0
+Volkswagen Gol 1.4 Power 83cv,Capital Federal,1.4 Power 83cv,Negro,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,109000.0,Hidráulica,Delantera,5.0,83.0,4500.0
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,Negro,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,98000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,Gris,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,134000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 Gld Aa,Entre Ríos,1.6 Gld Aa,Verde,Volkswagen,Gol,1998,Diésel,3.0,Manual,1.6,Hatchback,160000.0,Hidráulica,Delantera,5.0,54.0,3266.67
+Volkswagen Gol 1.6 Trendline,Bs.As. G.B.A. Norte,1.6 Trendline,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,170000.0,Hidráulica,Delantera,5.0,90.0,5300.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Norte,1.4 Power 83cv,Gris,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,67000.0,Hidráulica,Delantera,5.0,83.0,7500.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Sur,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,51165.0,Hidráulica,Delantera,5.0,83.0,5466.67
+Volkswagen Gol 1.6 I Power 601 5 p,Capital Federal,1.6 I Power 601 5 p,Gris,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,127000.0,Asistida,Delantera,5.0,92.0,4750.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Sur,1.6 Mi Deejay,Gris,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,190000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,Negro,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,150000.0,Hidráulica,Delantera,5.0,83.0,3926.67
+Volkswagen Gol 1.0 Gl Mi 3 p,Santa Fe,1.0 Gl Mi 3 p,Rojo,Volkswagen,Gol,1999,Nafta,3.0,Manual,1.0,Hatchback,36500.0,Hidráulica,Delantera,5.0,54.0,5600.0
+Volkswagen Gol 1.6 Power Dublin,Bs.As. G.B.A. Sur,1.6 Power Dublin,,Volkswagen,Gol,2004,Nafta,5.0,Manual,1.6,Hatchback,230000.0,Hidráulica,Delantera,5.0,90.0,4700.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,Verde,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,133000.0,Mecánica,Delantera,5.0,92.0,4890.0
+Volkswagen Gol Gol Trend Pack 3,Buenos Aires Interior,Gol Trend pack 3,,Volkswagen,Gol,2010,Nafta,5.0,Manual,1.6,Hatchback,156000.0,Mecánica,Delantera,5.0,92.0,6900.0
+Volkswagen Gol 3p 1.6 Taraborelli Entre Rios,Ubicación no encontrada,3p 1.6,Negro,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,135000.0,Mecánica,Delantera,5.0,92.0,3266.67
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Negro,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,65979.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 Gl,Capital Federal,1.6 Gl,Gris,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.6,Hatchback,166000.0,Mecánica,Delantera,5.0,90.0,3300.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Ubicación no encontrada,1.4 Power 83cv 5 p,Gris,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,144000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.8 Gl,Bs.As. G.B.A. Norte,1.8 Gl,,Volkswagen,Gol,1993,Nafta,3.0,Manual,1.8,Hatchback,210000.0,,Delantera,5.0,98.0,1166.67
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Blanco,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,164000.0,Mecánica,Delantera,5.0,92.0,6500.0
+Volkswagen Gol 1.4 Power 83cv,Capital Federal,1.4 Power 83cv,,Volkswagen,Gol,2014,Nafta,3.0,Manual,1.4,Hatchback,86500.0,Hidráulica,Delantera,5.0,83.0,7100.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,230000.0,Mecánica,Delantera,5.0,92.0,3000.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Capital Federal,1.4 Power 83cv 3 p,Blanco,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,156000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.6 Trendline,Bs.As. G.B.A. Norte,1.6 Trendline,Gris,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,275000.0,Hidráulica,Delantera,5.0,90.0,2866.67
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,124500.0,Hidráulica,Delantera,5.0,83.0,5200.0
+Vw Gol,Bs.As. G.B.A. Norte,1.6 tipo sedan 5 puertas,Plateado,Volkswagen,Gol,2004,Nafta/GNC,5.0,Manual,1.6,Sedán,260000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,136000.0,Hidráulica,Delantera,5.0,83.0,4133.33
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,Negro,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,152000.0,Hidráulica,Delantera,5.0,92.0,6200.0
+Volkswagen Gol Gld,Mendoza,Gld,,Volkswagen,Gol,1997,Diésel,3.0,Manual,1.6,Hatchback,365000.0,Hidráulica,Delantera,5.0,54.0,2000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,126000.0,Hidráulica,Delantera,5.0,83.0,6200.0
+Volkswagen Gol 1.9 Sd Power 701,Ubicación no encontrada,1.9 Sd Power 701,,Volkswagen,Gol,2008,Diésel,5.0,Manual,1.9,Hatchback,155000.0,Hidráulica,Delantera,5.0,64.0,4500.0
+Volkswagen Gol 1.6 I Power 701,Capital Federal,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,129000.0,Mecánica,Delantera,5.0,92.0,5300.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Norte,1.6 Mi Deejay,Gris,Volkswagen,Gol,2005,Nafta,5.0,Manual,1.6,Hatchback,230000.0,Hidráulica,Delantera,5.0,90.0,4500.0
+Volkswagen Gol 1.9 Sd Power 701,Capital Federal,1.9 Sd Power 701,,Volkswagen,Gol,2007,Diésel,5.0,Manual,1.9,Hatchback,136000.0,Hidráulica,Delantera,5.0,64.0,5000.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Sur,1.6 Mi Deejay,,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,190000.0,Hidráulica,Delantera,5.0,90.0,4700.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Blanco,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,160000.0,Mecánica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,170000.0,Mecánica,Delantera,5.0,92.0,6000.0
+Volkswagen Gol 1.6 Gl,Buenos Aires Interior,1.6 Gl,,Volkswagen,Gol,1993,Nafta,3.0,Manual,1.6,Hatchback,118000.0,,Delantera,5.0,90.0,3400.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Sur,,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,75000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.6 I Power 601,Entre Ríos,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,160000.0,Mecánica,Delantera,5.0,92.0,3700.0
+Volkswagen Gol 1.6 Gl,Ubicación no encontrada,1.6 Gl,Gris,Volkswagen,Gol,1992,Nafta,3.0,Manual,1.6,Hatchback,119000.0,,Delantera,5.0,90.0,3193.33
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,175000.0,Mecánica,Delantera,5.0,92.0,3933.33
+Volkswagen Gol 1.6 I Power 601 3 p,Bs.As. G.B.A. Norte,1.6 I Power 601 3 p,,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,135000.0,Mecánica,Delantera,5.0,92.0,3900.0
+Volkswagen Gol 1.9 Sd Power 701,Bs.As. G.B.A. Sur,1.9 Sd Power 701,Blanco,Volkswagen,Gol,2008,Diésel,3.0,Manual,1.9,Hatchback,129069.0,Hidráulica,Delantera,5.0,64.0,5090.0
+Volkswagen Gol 1.6 Gl Mi,Capital Federal,1.6 Gl Mi,,Volkswagen,Gol,1997,Nafta,3.0,Manual,1.6,Hatchback,220000.0,Hidráulica,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Córdoba,,Rojo,Volkswagen,Gol,2012,Nafta/GNC,3.0,Manual,1.4,Hatchback,170000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.6 I Trendline 60b,Ubicación no encontrada,1.6 I Trendline 60b,,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,227000.0,Hidráulica,Delantera,5.0,92.0,4133.33
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,168000.0,Mecánica,Delantera,5.0,92.0,5600.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Oeste,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,175000.0,Mecánica,Delantera,5.0,92.0,2733.33
+Volkswagen Gol Gol Trend Pack Ii,Capital Federal,Celta lt,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,128000.0,Hidráulica,Delantera,5.0,83.0,5500.0
+Volkswagen Gol 1.6 I Power 601 3 p,Ubicación no encontrada,1.6 I Power 601 3 p,Gris,Volkswagen,Gol,2006,Nafta,3.0,Manual,1.6,Hatchback,169000.0,Mecánica,Delantera,5.0,92.0,4133.33
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,168000.0,Mecánica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol 1.6 I Trendline 60b,Ubicación no encontrada,1.6 I Trendline 60b,Gris,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,151000.0,Hidráulica,Delantera,5.0,92.0,4980.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Norte,1.6 Mi Deejay,Plateado,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,179400.0,Hidráulica,Delantera,5.0,90.0,4800.0
+Volkswagen Gol 1.6 I Power 601,Córdoba,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,186000.0,Mecánica,Delantera,5.0,92.0,3533.33
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Norte,1.4 Power 83cv,,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,126115.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Sur,1.4 Power 83cv,Blanco,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,202000.0,Hidráulica,Delantera,5.0,83.0,5100.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,135000.0,Hidráulica,Delantera,5.0,83.0,5000.0
+Volkswagen Gol 1.6 I Comfortline 60a,Bs.As. G.B.A. Sur,1.6 I Comfortline 60a,Gris,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,230000.0,Hidráulica,Delantera,5.0,92.0,4800.0
+Volkswagen Gol 1.6 Gli Aa Dh Ll,Misiones,1.6 Gli Aa Dh Ll,,Volkswagen,Gol,1996,Nafta,3.0,Manual,1.6,Hatchback,999.0,Hidráulica,Delantera,5.0,90.0,666.67
+Volkswagen Gol Trend,Bs.As. G.B.A. Oeste,Trend,,Volkswagen,Gol,2017,Nafta,5.0,Manual,1.6,Hatchback,78000.0,hydraulic,Delantera,5.0,,9500.0
+Volkswagen Gol 5 Puertas,Entre Ríos,5 puertas,,Volkswagen,Gol,2018,Nafta/GNC,5.0,Manual,1.6,Hatchback,130000.0,Asistida,Delantera,5.0,,14000.0
+Volkswagen Gol Sedan,Bs.As. G.B.A. Norte,Sedan,,Volkswagen,Gol,2005,Nafta,5.0,Manual,1.6,Hatchback,160000.0,Hidráulica,Delantera,5.0,90.0,3800.0
+Volkswagen Gol 1.6 I Comfortline 70a,Bs.As. G.B.A. Norte,1.6 I Comfortline 70a,,Volkswagen,Gol,2010,Nafta,5.0,Manual,1.6,Hatchback,135000.0,Hidráulica,Delantera,5.0,92.0,5300.0
+Volkswagen Gol 1.6 I Power 601,Santa Fe,1.6 I Power 601,Negro,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,93000.0,Mecánica,Delantera,5.0,92.0,5333.33
+Volkswagen Gol 1.6 I Look 70l,Bs.As. G.B.A. Sur,1.6 I Look 70l,,Volkswagen,Gol,2007,Nafta,5.0,Manual,1.6,Hatchback,201000.0,Hidráulica,Delantera,5.0,92.0,4400.0
+Volkswagen Gol 1.6 I Power 601,Córdoba,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,250000.0,Mecánica,Delantera,5.0,92.0,4600.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,Gris,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,90000.0,Hidráulica,Delantera,5.0,83.0,5600.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Santa Fe,,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,59157.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Córdoba,1.4 Power 83cv 3 p,Gris,Volkswagen,Gol,2011,Nafta/GNC,3.0,Manual,1.4,Hatchback,150000.0,Hidráulica,Delantera,5.0,83.0,4993.33
+Volkswagen Gol 1.9 Sd,Bs.As. G.B.A. Oeste,1.9 Sd,,Volkswagen,Gol,2005,Diésel,3.0,Manual,1.9,Hatchback,111111.0,Hidráulica,Delantera,5.0,90.0,3800.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,208000.0,Hidráulica,Delantera,5.0,83.0,5300.0
+Volkswagen Gol 1.6 Mi Dublin,Capital Federal,1.6 Mi Dublin,,Volkswagen,Gol,2000,Nafta,3.0,Manual,1.6,Hatchback,230000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.6 Mi Deejay,Ubicación no encontrada,1.6 Mi Deejay,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,125000.0,Hidráulica,Delantera,5.0,90.0,4100.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Gris,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,129000.0,Hidráulica,Delantera,5.0,83.0,5066.67
+Volkswagen Gol 1.6 Gl Mi,Bs.As. G.B.A. Norte,1.6 Gl Mi,Rojo,Volkswagen,Gol,1998,Nafta,3.0,Manual,1.6,Hatchback,252000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.9 Sd Comfortline 60a,Capital Federal,1.9 Sd Comfortline 60a,,Volkswagen,Gol,2008,Diésel,5.0,Manual,1.9,Hatchback,145000.0,Hidráulica,Delantera,5.0,64.0,4000.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Rojo,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,132000.0,Mecánica,Delantera,5.0,92.0,5700.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,146000.0,Hidráulica,Delantera,5.0,83.0,5000.0
+Volkswagen Gol 1.6 Gl Mi,Bs.As. G.B.A. Sur,1.6 Gl Mi,,Volkswagen,Gol,1997,Nafta,3.0,Manual,1.6,Hatchback,185000.0,Hidráulica,Delantera,5.0,90.0,4500.0
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Oeste,1.6 Gl,Gris,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.6,Hatchback,138000.0,Mecánica,Delantera,5.0,90.0,4200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,99000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,225000.0,Mecánica,Delantera,5.0,92.0,6900.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Sur,1.6 I Power 701,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,40300.0,Mecánica,Delantera,5.0,92.0,7400.0
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Norte,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,120000.0,Mecánica,Delantera,5.0,92.0,4666.67
+Volkswagen Gol 1.6 I Look 70l,Bs.As. G.B.A. Oeste,1.6 I Look 70l,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,141000.0,Hidráulica,Delantera,5.0,92.0,4299.0
+Volkswagen Gol 1.6 I Comfortline 60a,Bs.As. G.B.A. Norte,1.6 I Comfortline 60a,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,71700.0,Hidráulica,Delantera,5.0,92.0,6500.0
+Ve Gol Power 2004,Capital Federal,1.6 I Power 601,Blanco,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,230000.0,Hidráulica,Delantera,5.0,90.0,3900.0
+Volkswagen Gol Trendline Msi,Bs.As. G.B.A. Norte,Trendline msi,,Volkswagen,Gol,2017,Nafta,3.0,Manual,1.6,Hatchback,46000.0,hydraulic,Delantera,5.0,,12800.0
+Volkswagen Gol 1.6 I Power 601,San Juan,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,138000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Power 701,Capital Federal,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,190000.0,Mecánica,Delantera,5.0,92.0,5200.0
+Volkswagen Gol 1.6 I Power 601 5 p,Mendoza,1.6 I Power 601 5 p,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,228000.0,Mecánica,Delantera,5.0,92.0,2666.67
+Volkswagen Gol 1.4 POWER 4G MT,Ubicación no encontrada,1.4 POWER 4G MT,Silver,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.0,Hatchback,86128.0,Asistida,4x2,5.0,83.0,4980.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Buenos Aires Interior,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,155000.0,Hidráulica,Delantera,5.0,83.0,5600.0
+Volkswagen Gol 1.6 Trendline,Bs.As. G.B.A. Sur,1.6 Trendline,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,160000.0,Hidráulica,Delantera,5.0,90.0,4500.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Sur,1.6 Mi Deejay,Gris,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,204000.0,Hidráulica,Delantera,5.0,90.0,4300.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Entre Ríos,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,90000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.6 Mi Dublin,Bs.As. G.B.A. Oeste,1.6 Mi Dublin,,Volkswagen,Gol,2000,Nafta,3.0,Manual,1.6,Hatchback,230000.0,Hidráulica,Delantera,5.0,90.0,2666.67
+Volkswagen Gol 1.6 Gld,Buenos Aires Interior,1.6 Gld,,Volkswagen,Gol,1999,Diésel,3.0,Manual,1.6,Hatchback,237000.0,Hidráulica,Delantera,5.0,54.0,2000.0
+Volkswagen Gol 1.6 Gl,Buenos Aires Interior,1.6 Gl,,Volkswagen,Gol,1993,Nafta,3.0,Manual,1.6,Hatchback,207000.0,,Delantera,5.0,90.0,8700.0
+Volkswagen Gol 1.8 Gl,Bs.As. G.B.A. Oeste,1.8 Gl,,Volkswagen,Gol,1995,Nafta,3.0,Manual,1.8,Hatchback,63000.0,Mecánica,Delantera,5.0,98.0,7000.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,Gris,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,199000.0,Mecánica,Delantera,5.0,92.0,5700.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,Negro,Volkswagen,Gol,2013,Nafta/GNC,3.0,Manual,1.4,Hatchback,143300.0,Hidráulica,Delantera,5.0,83.0,5660.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Gris,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,98000.0,Hidráulica,Delantera,5.0,83.0,6999.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,101000.0,Hidráulica,Delantera,5.0,83.0,5900.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Bs.As. G.B.A. Oeste,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,83.0,7300.0
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,120000.0,Hidráulica,Delantera,5.0,83.0,5700.0
+Volkswagen Gol Nafta,Bs.As. G.B.A. Norte,Nafta,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,68000.0,Hidráulica,Delantera,5.0,83.0,6500.0
+Volkswagen Gol 1.6 Gld,Mendoza,1.6 Gld,,Volkswagen,Gol,1998,Diésel,3.0,Manual,1.6,Hatchback,198450.0,Hidráulica,Delantera,5.0,54.0,4500.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,Gris,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,144000.0,Hidráulica,Delantera,5.0,83.0,6250.0
+Volkswagen Gol Trend,Ubicación no encontrada,TRENDLINE TIPTRONIC 110cv,Blanco,Volkswagen,Gol,2021,Nafta,5.0,Automática,1.6,Hatchback,26000.0,Asistida,Delantera,5.0,,13900.0
+Volkswagen Gol 1.6 Gld,Bs.As. G.B.A. Sur,1.6 Gld,Rojo,Volkswagen,Gol,1997,Diésel,3.0,Manual,1.6,Hatchback,320000.0,Hidráulica,Delantera,5.0,54.0,266.67
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Sur,1.6 Mi Deejay,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,149000.0,Hidráulica,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.6 I Trendline 60b,Capital Federal,1.6 I Trendline 60b,Gris,Volkswagen,Gol,2008,Nafta,5.0,Manual,1.6,Hatchback,124000.0,Hidráulica,Delantera,5.0,92.0,5650.0
+Volkswagen Gol Gol 1.6 Aa Dh,Capital Federal,Gol 1.6 AA DH,,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,105000.0,Hidráulica,Delantera,5.0,90.0,4800.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Bs.As. G.B.A. Sur,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,150000.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol 1.6 I Comfortline 60a,Capital Federal,1.6 I Comfortline 60a,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,114000.0,Hidráulica,Delantera,5.0,92.0,5200.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,145000.0,Mecánica,Delantera,5.0,92.0,4600.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,Gris,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,115000.0,hydraulic,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.9 Sd Trendline 60b,Bs.As. G.B.A. Sur,1.9 Sd Trendline 60b,Azul,Volkswagen,Gol,2006,Diésel,5.0,Manual,1.9,Hatchback,154000.0,Hidráulica,Delantera,5.0,64.0,5000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,,Volkswagen,Gol,2014,Nafta,5.0,Manual,1.4,Hatchback,87000.0,Hidráulica,Delantera,5.0,83.0,6300.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Norte,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,120000.0,Mecánica,Delantera,5.0,92.0,3733.33
+Volkswagen Gol 1.6 Gl,Bs.As. G.B.A. Sur,1.6 Gl,,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.6,Hatchback,98000.0,Mecánica,Delantera,5.0,90.0,8000.0
+Volkswagen Gol Gol 1.6 Sedan 3p,Bs.As. G.B.A. Sur,GOL 1.6 SEDAN 3P,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,225000.0,Mecánica,Delantera,5.0,92.0,4500.0
+Volkswagen Gol 1.6 Trendline,Ubicación no encontrada,1.6 Trendline,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,219147.0,Hidráulica,Delantera,5.0,90.0,4700.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,174000.0,Mecánica,Delantera,5.0,92.0,5200.0
+Volkswagen Gol 1.6 Mi Deejay,Ubicación no encontrada,1.6 Mi Deejay,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,162000.0,Hidráulica,Delantera,5.0,90.0,4100.0
+Volkswagen Gol 1.6 Mi Deejay,Capital Federal,1.6 Mi Deejay,Rojo,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,173000.0,Hidráulica,Delantera,5.0,90.0,6000.0
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,156000.0,Mecánica,Delantera,5.0,92.0,5500.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,Gris,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,157000.0,Hidráulica,Delantera,5.0,83.0,5300.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,189000.0,Mecánica,Delantera,5.0,92.0,5800.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Sur,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,188000.0,Mecánica,Delantera,5.0,92.0,4800.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Bs.As. G.B.A. Norte,1.4 Power 83cv 3 p,,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,255000.0,Hidráulica,Delantera,5.0,83.0,5200.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Buenos Aires Interior,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,148000.0,Hidráulica,Delantera,5.0,83.0,4133.33
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Norte,,Gris,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,134000.0,Hidráulica,Delantera,5.0,83.0,6700.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,111111.0,Mecánica,Delantera,5.0,92.0,3666.67
+Volkswagen Gol 1.6 I Power 701,Bs.As. G.B.A. Oeste,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,195000.0,Mecánica,Delantera,5.0,92.0,3333.33
+Volkswagen Gol 1.6 Trendline,Bs.As. G.B.A. Sur,1.6 Trendline,,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,154000.0,Hidráulica,Delantera,5.0,90.0,2866.67
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,81000.0,Hidráulica,Delantera,5.0,83.0,6400.0
+Volkswagen Gol 1.9 Sd Comfortline 60a,Capital Federal,1.9 Sd Comfortline 60a,,Volkswagen,Gol,2006,Diésel,5.0,Manual,1.9,Hatchback,300000.0,Hidráulica,Delantera,5.0,64.0,5000.0
+Volkswagen Gol 1.6 I Power 701,Buenos Aires Interior,1.6 I Power 701,,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.6,Hatchback,108000.0,Mecánica,Delantera,5.0,92.0,6200.0
+Volkswagen Gol 1.6 Mi Deejay,Córdoba,1.6 Mi Deejay,,Volkswagen,Gol,2005,Nafta,3.0,Manual,1.6,Hatchback,180000.0,Hidráulica,Delantera,5.0,90.0,4000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Negro,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,107000.0,Hidráulica,Delantera,5.0,83.0,5333.33
+Volkswagen Gol 1.6,Santa Fe,1.6,Gris,Volkswagen,Gol,2004,Nafta,3.0,Manual,1.6,Hatchback,195000.0,Hidráulica,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.6 I Power 601,Ubicación no encontrada,1.6 I Power 601,,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,190000.0,Mecánica,Delantera,5.0,92.0,3966.67
+Volkswagen Gol 1.4 3 Puertas,Ubicación no encontrada,1.4,Blanco,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,83.0,5733.33
+Volkswagen Gol 1.6 Gl,Ubicación no encontrada,1.6 Gl,,Volkswagen,Gol,1996,Nafta,3.0,Manual,1.6,Hatchback,130000.0,Hidráulica,Delantera,5.0,90.0,5700.0
+Volkswagen Gol 1.6 I Power 601,Bs.As. G.B.A. Norte,1.6 I Power 601,,Volkswagen,Gol,2007,Nafta,3.0,Manual,1.6,Hatchback,183000.0,Mecánica,Delantera,5.0,92.0,4000.0
+Volkswagen Gol 1.6 I Power 601 5 p,Ubicación no encontrada,1.6 I Power 601 5 p,,Volkswagen,Gol,2006,Nafta,5.0,Manual,1.6,Hatchback,160000.0,Mecánica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 I Power 701,Mendoza,1.6 I Power 701,Verde,Volkswagen,Gol,2009,Nafta,3.0,Manual,1.6,Hatchback,133000.0,Mecánica,Delantera,5.0,92.0,5400.0
+Volkswagen Gol 1.4 Power 83cv,Bs.As. G.B.A. Norte,1.4 Power 83cv,Negro,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,152000.0,Hidráulica,Delantera,5.0,83.0,5400.0
+Volkswagen Gol 1.6 Mi Deejay,Bs.As. G.B.A. Sur,1.6 Mi Deejay,Plateado,Volkswagen,Gol,2003,Nafta,3.0,Manual,1.6,Hatchback,204000.0,Hidráulica,Delantera,5.0,90.0,3666.67
+Volkswagen Gol 1.4 Power 83cv,Córdoba,1.4 Power 83cv,Negro,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,110000.0,Hidráulica,Delantera,5.0,83.0,6000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Ubicación no encontrada,,Negro,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,141000.0,Hidráulica,Delantera,5.0,83.0,8500.0
+Volkswagen Gol 1.4 Power 83cv 5 p,Capital Federal,1.4 Power 83cv 5 p,,Volkswagen,Gol,2013,Nafta,5.0,Manual,1.4,Hatchback,112000.0,Hidráulica,Delantera,5.0,83.0,6800.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Buenos Aires Interior,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,153000.0,Hidráulica,Delantera,5.0,83.0,8400.0
+Volkswagen Gol 1.6 I Power 701,Ubicación no encontrada,1.6 I Power 701,,Volkswagen,Gol,2010,Nafta,3.0,Manual,1.6,Hatchback,370000.0,Mecánica,Delantera,5.0,92.0,4666.67
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Capital Federal,,,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,108000.0,Hidráulica,Delantera,5.0,83.0,7390.0
+Volkswagen Gol 1.4 Power 83cv,Córdoba,1.4 Power 83cv,Verde,Volkswagen,Gol,2012,Nafta,3.0,Manual,1.4,Hatchback,145000.0,Hidráulica,Delantera,5.0,83.0,5200.0
+Volkswagen Gol 1.4 Power 83cv,Ubicación no encontrada,1.4 Power 83cv,Gris,Volkswagen,Gol,2011,Nafta,3.0,Manual,1.4,Hatchback,47000.0,Hidráulica,Delantera,5.0,83.0,7000.0
+Volkswagen Gol 1.8 Gl,Capital Federal,1.8 Gl,,Volkswagen,Gol,1994,Nafta,3.0,Manual,1.8,Hatchback,64800.0,Mecánica,Delantera,5.0,98.0,10000.0
+Volkswagen Gol 1.6 Gl,Capital Federal,1.6 Gl,Gris,Volkswagen,Gol,1992,Nafta,3.0,Manual,1.6,Hatchback,95000.0,,Delantera,5.0,90.0,4500.0
+Volkswagen Gol 1.4 Power 83cv 3 p,Ubicación no encontrada,1.4 Power 83cv 3 p,Negro,Volkswagen,Gol,2013,Nafta,3.0,Manual,1.4,Hatchback,128000.0,Hidráulica,Delantera,5.0,83.0,6400.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,124000.0,Hidráulica,Delantera,5.0,83.0,333.67
+Volkswagen Gol 1.6 I Power 601,Capital Federal,1.6 I Power 601,Gris,Volkswagen,Gol,2008,Nafta,3.0,Manual,1.6,Hatchback,171400.0,Hidráulica,Delantera,5.0,92.0,5000.0
+Volkswagen Gol 1.6 Mi Dublin Dh Aa Pack,Bs.As. G.B.A. Sur,1.6 Mi Dublin Dh Aa Pack,,Volkswagen,Gol,2000,Nafta,3.0,Manual,1.6,Hatchback,213000.0,Hidráulica,Delantera,5.0,90.0,4600.0
+Volkswagen Gol 1.9sd,Bs.As. G.B.A. Sur,1.9 Sd,Rojo,Volkswagen,Gol,2004,Diésel,5.0,Manual,1.9,Sedán,229916.0,Asistida,Delantera,5.0,90.0,3000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,Gris,Volkswagen,Gol,2012,Nafta,5.0,Manual,1.4,Hatchback,146000.0,Hidráulica,Delantera,5.0,83.0,5800.0
+Volkswagen Gol 1.6 Gl Aa,Misiones,1.6 Gl Aa,,Volkswagen,Gol,1993,Nafta,3.0,Manual,1.6,Hatchback,200000.0,,Delantera,5.0,90.0,2666.67
+Volkswagen Gol 1.6 Gld,Bs.As. G.B.A. Sur,1.6 Gld,Azul,Volkswagen,Gol,1996,Diésel,3.0,Manual,1.6,Hatchback,400000.0,Mecánica,Delantera,5.0,54.0,1000.0
+Volkswagen Gol 1.4 Power Ps+ac 83cv,Bs.As. G.B.A. Oeste,,,Volkswagen,Gol,2011,Nafta,5.0,Manual,1.4,Hatchback,124000.0,Hidráulica,Delantera,5.0,83.0,333.67

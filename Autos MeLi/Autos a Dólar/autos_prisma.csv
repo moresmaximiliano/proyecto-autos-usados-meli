@@ -1,0 +1,382 @@
+Título,Ubicación,Versión,Color,Marca,Modelo,Año,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Kilómetros,Dirección,Control de tracción,Capacidad de personas,Potencia,Precio
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Azul,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,117500.0,Hidráulica,Delantera,5.0,98.0,6133.33
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,96000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,100000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,71000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,84500.0,Asistida,Delantera,5.0,98.0,9100.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,76644.0,Asistida,Delantera,5.0,98.0,10633.33
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Automática,1.4,Sedán,59000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,116000.0,Asistida,Delantera,5.0,98.0,9900.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,117000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,115000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Negro,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,90000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Negro,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,80000.0,Asistida,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Sur,,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,95000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Prisma 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,Plateado,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,55000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Capital Federal,,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,89000.0,Asistida,Delantera,5.0,98.0,6800.0
+Chevrolet Prisma 1.4 Joy Ls,Bs.As. G.B.A. Oeste,1.4 Joy Ls,Blanco,Chevrolet,Prisma,2020,Nafta,4.0,Manual,1.4,Sedán,84000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,Azul,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,181000.0,Hidráulica,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,98000.0,Hidráulica,Delantera,5.0,98.0,7500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,143000.0,Asistida,Delantera,5.0,98.0,10533.33
+Chevrolet Prisma 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,Negro,Chevrolet,Prisma,2020,Nafta,4.0,Manual,1.4,Sedán,89000.0,Asistida,Delantera,5.0,98.0,9800.0
+Chevrolet Prisma JOY 4P 1.4 N LS MT+,Ubicación no encontrada,,Negro,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,58423.0,Asistida,Delantera,5.0,98.0,9126.67
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Negro,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,65000.0,Asistida,Delantera,5.0,98.0,9900.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,70000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Bs.As. G.B.A. Norte,1.4 Ltz At 98cv,Gris,Chevrolet,Prisma,2016,Nafta,4.0,Automática,1.4,Sedán,78900.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Santa Fe,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,1550000.0,Asistida,Delantera,5.0,98.0,10333.33
+Chevrolet Prisma 1.4 Ltz 98cv,Buenos Aires Interior,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,165000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,69000.0,Asistida,Delantera,5.0,98.0,11050.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,70000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,85000.0,Hidráulica,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Plateado,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,118000.0,Asistida,Delantera,5.0,98.0,7993.33
+Chevrolet Prisma 1.4 Joy Ls 98cv,Capital Federal,1.4 Joy Ls 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,46000.0,Asistida,Delantera,5.0,98.0,9900.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Gris,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Automática,1.4,Sedán,63000.0,Asistida,Delantera,5.0,98.0,13300.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. Costa Atlántica,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,160000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,225000.0,Asistida,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,82000.0,Asistida,Delantera,5.0,98.0,9333.33
+Chevrolet Prisma 1.4 Ltz At 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz At 98cv,,Chevrolet,Prisma,2015,Nafta,4.0,Automática,1.4,Sedán,109000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,101000.0,Asistida,Delantera,5.0,98.0,6666.67
+Chevrolet Prisma 1.4 Joy Ls,Salta,1.4 Joy Ls,Gris,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,87000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Plateado,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,90000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,101800.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Prisma 1.4 Lt 98cv,Tucumán,1.4 Lt 98cv,,Chevrolet,Prisma,2017,Nafta/GNC,4.0,Manual,1.4,Sedán,110000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Sur,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,126000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 Lt 98cv,Corrientes,1.4 Lt 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,140000.0,Hidráulica,Delantera,5.0,98.0,5000.0
+Chevrolet Prisma 1.4 Joy Ls 98cv,Santiago del Estero,1.4 Joy Ls 98cv,Plateado,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,60000.0,Asistida,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,260000.0,Asistida,Delantera,5.0,98.0,5333.33
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Prisma,2020,Nafta,4.0,Manual,1.4,Sedán,49000.0,Asistida,Delantera,5.0,98.0,14480.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Sur,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,89000.0,Asistida,Delantera,5.0,98.0,8533.33
+Chevrolet Prisma 1.4 N LSMT +,Bs.As. G.B.A. Sur,,,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Manual,1.4,Sedán,300000.0,Asistida,Delantera,5.0,98.0,7000.0
+Chevrolet Prisma 1.4 Joy Ls,Córdoba,1.4 Joy Ls,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,85000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Rojo,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,32000.0,Asistida,Delantera,5.0,98.0,9326.67
+Chevrolet Prisma 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,98000.0,Asistida,Delantera,5.0,98.0,8300.0
+Chevrolet Prisma 1.4 Lt 98cv,Córdoba,1.4 Lt 98cv,Negro,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,150000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,160000.0,Hidráulica,Delantera,5.0,98.0,6326.67
+Chevrolet Prisma 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,131000.0,Asistida,Delantera,5.0,98.0,7666.67
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,130000.0,Asistida,Delantera,5.0,98.0,11900.0
+Chevrolet Prisma 1.4 Lt 98cv,Buenos Aires Interior,1.4 Lt 98cv,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,145000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,60000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,73000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Prisma 1.4 Joy Ls,Río Negro,1.4 Joy Ls,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,89000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Prisma 1.4 Ltz 98cv,Misiones,1.4 Ltz 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,96800.0,Hidráulica,Delantera,5.0,98.0,9600.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,104000.0,Hidráulica,Delantera,5.0,98.0,8400.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Blanco,Chevrolet,Prisma,2016,Nafta/GNC,4.0,Manual,1.4,Sedán,80000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Prisma 1.4 Ltz 98cv,Entre Ríos,1.4 Ltz 98cv,,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,132000.0,Hidráulica,Delantera,5.0,98.0,7666.67
+Chevrolet Prisma 1.4 Joy Ls,Córdoba,1.4 Joy Ls,Blanco,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,111244.0,Asistida,Delantera,5.0,98.0,6333.33
+Chevrolet Prisma 1.4 Lt 98cv,Córdoba,1.4 Lt 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,104000.0,Asistida,Delantera,5.0,98.0,7733.33
+Chevrolet Prisma 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,,Chevrolet,Prisma,2021,Nafta,4.0,Manual,1.4,Sedán,500.0,Asistida,Delantera,5.0,98.0,16000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,130000.0,Asistida,Delantera,5.0,98.0,9337.33
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Negro,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,125000.0,Asistida,Delantera,5.0,98.0,8800.0
+Chevrolet Prisma 1.4 Ltz 98cv,Córdoba,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,51000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Prisma 1.4 Lt 92cv,Ubicación no encontrada,1.4 Lt 92cv,,Chevrolet,Prisma,2011,Nafta,4.0,Manual,1.4,Sedán,185000.0,Hidráulica,Delantera,5.0,92.0,5933.33
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,82000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,97500.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Prisma 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,Plateado,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,109000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,72000.0,Asistida,Delantera,5.0,98.0,9010.67
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,Azul,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,75800.0,Hidráulica,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 LT MT,Ubicación no encontrada,1.4 LT MT,Negro,Chevrolet,Prisma,2016,Híbrido,4.0,Manual,1.0,Sedán,77314.0,Asistida,4x2,5.0,98.0,7906.67
+Chevrolet Prisma 1.4 Ltz At 98cv,Santa Fe,1.4 Ltz At 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,79000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,135300.0,Asistida,Delantera,5.0,98.0,8200.0
+Chevrolet Prisma 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,70000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,88000.0,Asistida,Delantera,5.0,98.0,3666.67
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,92000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Negro,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,32000.0,Asistida,Delantera,5.0,98.0,14000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Corrientes,1.4 Ltz 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,110000.0,Asistida,Delantera,5.0,98.0,6333.33
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,120000.0,Hidráulica,Delantera,5.0,98.0,8300.0
+Chevrolet Prisma 1.4 Joy Ls 98cv,Córdoba,1.4 Joy Ls 98cv,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,80000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,112471.0,Asistida,Delantera,5.0,98.0,9020.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,Azul,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,105000.0,Hidráulica,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,73000.0,Asistida,Delantera,5.0,98.0,10333.33
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,122000.0,Hidráulica,Delantera,5.0,98.0,7200.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,178000.0,Hidráulica,Delantera,5.0,98.0,7300.0
+Chevrolet Prisma 1.4 Lt 98cv 2015 - Anticipo --,Ubicación no encontrada,1.4 Lt 98cv 2015 - Anticipo --,Negro,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,134000.0,Hidráulica,Delantera,5.0,98.0,3326.67
+Chevrolet Prisma 1.4 Ltz 98cv,Tucumán,1.4 Ltz 98cv,Azul,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,80600.0,Asistida,Delantera,5.0,98.0,7733.33
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,93000.0,Asistida,Delantera,5.0,98.0,10300.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2017,Nafta/GNC,4.0,Manual,1.4,Sedán,99000.0,Asistida,Delantera,5.0,98.0,10200.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Plateado,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,141000.0,Asistida,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. Costa Atlántica,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,210500.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,158000.0,Asistida,Delantera,5.0,98.0,9533.33
+Chevrolet Prisma 1.4 Joy Ls 98cv,Córdoba,1.4 Joy Ls 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,59000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Plateado,Chevrolet,Prisma,2020,Nafta,4.0,Manual,1.4,Sedán,55000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,69000.0,Asistida,Delantera,5.0,98.0,7666.67
+Chevrolet Prisma 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,156800.0,Hidráulica,Delantera,5.0,98.0,11500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,127000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Ltz At,Ubicación no encontrada,1.4 Ltz At,Negro,Chevrolet,Prisma,2016,Nafta,4.0,Automático,1.4,Sedán,112063.0,Asistida,Delantera,5.0,98.0,7453.33
+Chevrolet Prisma 1.4 Ltz 98cv,Santa Fe,1.4 Ltz 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,70000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2015,Nafta,4.0,Automática,1.4,Sedán,82000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,160000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,95000.0,Asistida,Delantera,5.0,98.0,9200.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Sur,,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,80000.0,Asistida,Delantera,5.0,98.0,9900.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2015,Nafta,4.0,Automática,1.4,Sedán,82000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 N LT,Bs.As. G.B.A. Oeste,1.4 N LT,,Chevrolet,Prisma,2018,Nafta/GNC,5.0,Manual,1.4,Sedán,182000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Bs.As. G.B.A. Sur,1.4 Ltz At 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Automática,1.4,Sedán,49000.0,Hidráulica,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,152000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Negro,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,75753.0,Asistida,Delantera,5.0,98.0,9933.33
+Chevrolet Prisma 1.4 Joy Ls 98cv,Bs.As. G.B.A. Oeste,1.4 Joy Ls 98cv,Blanco,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Manual,1.4,Sedán,207000.0,Asistida,DelanteraCapacidad de la batería45 Ah,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,Negro,Chevrolet,Prisma,2018,Nafta,5.0,Manual,1.4,Sedán,93000.0,Asistida,Delantera,5.0,98.0,8800.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,104000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Azul,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,90000.0,Asistida,Delantera,5.0,98.0,4700.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,72000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 Joy Ls,Córdoba,1.4 Joy Ls,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,77000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Azul,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,117000.0,Hidráulica,Delantera,5.0,98.0,6266.67
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,Verde,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,50000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Manual,1.4,Sedán,86000.0,Asistida,Delantera,5.0,98.0,9200.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,165000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,48300.0,Asistida,Delantera,5.0,98.0,10533.33
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,95000.0,Asistida,Delantera,5.0,98.0,9700.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2015,Nafta,4.0,Automática,1.4,Sedán,82000.0,Hidráulica,Delantera,5.0,98.0,8066.67
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Buenos Aires Interior,,Negro,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,132000.0,Asistida,Delantera,5.0,98.0,5800.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,88000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Capital Federal,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,290000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Lt 92cv,Bs.As. G.B.A. Oeste,1.4 Lt 92cv,,Chevrolet,Prisma,2012,Nafta,4.0,Manual,1.4,Sedán,72025.0,Hidráulica,Delantera,5.0,92.0,8200.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,65000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,69800.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Ls 92cv,Bs.As. G.B.A. Sur,1.4 Ls 92cv,Gris,Chevrolet,Prisma,2012,Nafta,4.0,Manual,1.4,Sedán,35000.0,Hidráulica,Delantera,5.0,92.0,8000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,92000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Prisma Joy 1.4 N LS MT,Capital Federal,Joy 1.4 N LS MT,,Chevrolet,Prisma,2017,Nafta/GNC,5.0,Manual,1.4,Sedán,110000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,14800.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,88000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2015,Nafta,4.0,Automática,1.4,Sedán,82000.0,Hidráulica,Delantera,5.0,98.0,7933.33
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,59600.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,107059.0,Asistida,Delantera,5.0,98.0,8533.33
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,61000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Capital Federal,,Negro,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,135500.0,Asistida,Delantera,5.0,98.0,6200.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. Costa Atlántica,,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,110000.0,Asistida,Delantera,5.0,98.0,8990.0
+Chevrolet Prisma 1.4 Ltz 98cv,Santa Fe,1.4 Ltz 98cv,,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,160000.0,Hidráulica,Delantera,5.0,98.0,6333.33
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,76000.0,Asistida,Delantera,5.0,98.0,12800.0
+Chevrolet Prisma PrimaJoy 1.4  LSMT+,Capital Federal,,,Chevrolet,Prisma,2017,Nafta/GNC,5.0,Manual,1.4,Sedán,166000.0,Asistida,Delantera,5.0,98.0,7000.0
+Chevrolet Prisma 1.4 Lt 92cv,Bs.As. G.B.A. Oeste,1.4 Lt 92cv,Gris,Chevrolet,Prisma,2012,Nafta,4.0,Manual,1.4,Sedán,160000.0,Hidráulica,Delantera,5.0,92.0,4333.33
+Chevrolet Prisma Joy 4p 1.4 n ls mt,Bs.As. G.B.A. Norte,Joy 4p 1.4 n ls mt,,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Manual,1.4,Sedán,145300.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2015,Nafta,4.0,Automática,1.4,Sedán,80000.0,Hidráulica,Delantera,5.0,98.0,6666.67
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Negro,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,32000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz At 98cv,Gris,Chevrolet,Prisma,2016,Nafta,4.0,Automática,1.4,Sedán,118000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,96000.0,assisted,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Sur,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,104000.0,Asistida,Delantera,5.0,98.0,7466.67
+Chevrolet Prisma 1.4 Lt 98cv,Mendoza,1.4 Lt 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,145000.0,Hidráulica,Delantera,5.0,98.0,5866.67
+Chevrolet Prisma 1.4 Ltz At 98cv,Capital Federal,1.4 Ltz At 98cv,Negro,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,215000.0,Asistida,Delantera,5.0,98.0,6000.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,115000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Bs.As. G.B.A. Sur,1.4 Ltz At 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Automática,1.4,Sedán,85000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,83000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2017,Nafta/GNC,4.0,Manual,1.4,Sedán,117000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Plateado,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,83000.0,Asistida,Delantera,5.0,98.0,7500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Neuquén,1.4 Ltz 98cv,,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,156000.0,Hidráulica,Delantera,5.0,98.0,7000.0
+Chevrolet Prisma 1.4 Ls 92cv,Bs.As. G.B.A. Norte,1.4 Ls 92cv,Gris,Chevrolet,Prisma,2012,Nafta,4.0,Manual,1.4,Sedán,180000.0,Hidráulica,Delantera,5.0,92.0,5200.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Blanco,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,163000.0,Hidráulica,Delantera,5.0,98.0,7800.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,90000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,106000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Norte,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,77500.0,Asistida,Delantera,5.0,98.0,9800.0
+Chevrolet Prisma 1.4 Joy Ls+,Ubicación no encontrada,,Blanco,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,41000.0,Hidráulica,Delantera,5.0,98.0,8833.33
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Negro,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,125000.0,Asistida,Delantera,5.0,98.0,8800.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Capital Federal,1.4 Ltz At 98cv,,Chevrolet,Prisma,2015,Nafta,4.0,Automática,1.4,Sedán,107000.0,Hidráulica,Delantera,5.0,98.0,7333.33
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Manual,1.4,Sedán,129000.0,Asistida,Delantera,5.0,98.0,7000.0
+Chevrolet Prisma 1.4 Joy Ls 98cv,Capital Federal,1.4 Joy Ls 98cv,Negro,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,235000.0,Asistida,Delantera,5.0,98.0,7026.67
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Plateado,Chevrolet,Prisma,2016,Nafta,4.0,Automática,1.4,Sedán,117000.0,Asistida,Delantera,5.0,98.0,10200.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,94000.0,Asistida,Delantera,5.0,98.0,8900.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2016,Nafta/GNC,4.0,Manual,1.4,Sedán,120000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Negro,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,140000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,50000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Prisma 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,133000.0,Asistida,Delantera,5.0,98.0,9200.0
+Chevrolet Prisma 1.4 Lt Mt,Ubicación no encontrada,1.4 Lt Mt,Black,Chevrolet,Prisma,2020,Nafta,4.0,Manual,1.0,Sedán,55213.0,Asistida,4x2,5.0,98.0,9586.67
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,69000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2016,Nafta/GNC,4.0,Manual,1.4,Sedán,150000.0,Asistida,Delantera,5.0,98.0,6666.67
+Chevrolet Prisma 1.4 Ltz At 98cv,Bs.As. G.B.A. Sur,1.4 Ltz At 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,109000.0,Asistida,Delantera,5.0,98.0,7866.67
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Plateado,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,118000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,74000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 Joy Ls 98cv,Capital Federal,1.4 Joy Ls 98cv,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,61200.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,24400.0,Asistida,Delantera,5.0,98.0,15500.0
+Chevrolet Prisma 1.4 Joy Ls,Capital Federal,1.4 Joy Ls,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,80000.0,Asistida,Delantera,5.0,98.0,9333.33
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,100000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Ltz At,Ubicación no encontrada,1.4 Ltz At,Silver,Chevrolet,Prisma,2015,Nafta,4.0,Automático,1.0,Sedán,38709.0,Asistida,4x2,5.0,98.0,8646.67
+Chevrolet Prisma 1.4 Ltz 98cv,Neuquén,1.4 Ltz 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,60000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,102557.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Prisma 1.4 Joy Ls,Bs.As. G.B.A. Oeste,1.4 Joy Ls,Gris,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,44500.0,Asistida,Delantera,5.0,98.0,9266.67
+Chevrolet Prisma 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,44000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,54000.0,Asistida,Delantera,5.0,98.0,9400.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,125000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2015,Nafta/GNC,4.0,Manual,1.4,Sedán,96000.0,Hidráulica,Delantera,5.0,98.0,9900.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,68880.0,Asistida,Delantera,5.0,98.0,9800.0
+Chevrolet Prisma 1.4 Ltz 98cv,Buenos Aires Interior,1.4 Ltz 98cv,,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,160000.0,Hidráulica,Delantera,5.0,98.0,8800.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,129000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,160000.0,Asistida,Delantera,5.0,98.0,7000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Negro,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,58423.0,Asistida,Delantera,5.0,98.0,9126.67
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Plateado,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,79000.0,Asistida,Delantera,5.0,98.0,10333.33
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,111000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,78000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Gris,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Automática,1.4,Sedán,65000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,,Chevrolet,Prisma,2013,Nafta/GNC,5.0,Manual,1.4,Sedán,157887.0,Hidráulica,Delantera,5.0,98.0,5000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,120000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Córdoba,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,80000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,90000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,Celeste,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,184000.0,Hidráulica,Delantera,5.0,98.0,7200.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Negro,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,130000.0,Asistida,Delantera,5.0,98.0,7200.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Azul,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Manual,1.4,Sedán,97000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,43000.0,Asistida,Delantera,5.0,98.0,7000.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,69000.0,Asistida,Delantera,5.0,98.0,7333.33
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,65426.0,hydraulic,Delantera,5.0,98.0,13500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Buenos Aires Interior,,Gris,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Manual,1.4,Sedán,127000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Ltz Mt,Ubicación no encontrada,1.4 Ltz Mt,Silver,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.0,Sedán,56629.0,Asistida,4x2,5.0,98.0,9446.67
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,89000.0,Asistida,Delantera,5.0,98.0,8600.0
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,95000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Prisma,2020,Nafta,4.0,Manual,1.4,Sedán,93000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,67000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Joy Ls,Bs.As. G.B.A. Oeste,1.4 Joy Ls,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,85000.0,Asistida,Delantera,5.0,98.0,8800.0
+Chevrolet Prisma 1.4 Joy Ls,Río Negro,1.4 Joy Ls,Blanco,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,149000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2017,Nafta/GNC,4.0,Manual,1.4,Sedán,114000.0,Asistida,Delantera,5.0,98.0,9533.33
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Capital Federal,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,59000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,Negro,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,304000.0,Asistida,Delantera,5.0,98.0,5000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Manual,1.4,Sedán,128000.0,Asistida,Delantera,5.0,98.0,11999.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,153000.0,Asistida,Delantera,5.0,98.0,9300.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,140000.0,Hidráulica,Delantera,5.0,98.0,9900.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,92000.0,Hidráulica,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,35000.0,Asistida,Delantera,5.0,98.0,13500.0
+Chevrolet Prisma 1.4 Joy Ls 98cv,Bs.As. Costa Atlántica,1.4 Joy Ls 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,300000.0,Asistida,Delantera,5.0,98.0,6333.33
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,100000.0,Asistida,Delantera,5.0,98.0,10200.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz At 98cv,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,29000.0,Asistida,Delantera,5.0,98.0,13200.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,77000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,Rojo,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,45000.0,Asistida,Delantera,5.0,98.0,12500.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Sur,1.4 Lt 98cv,Negro,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,24000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2020,Nafta/GNC,4.0,Manual,1.4,Sedán,87000.0,Asistida,Delantera,5.0,98.0,12900.0
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,101000.0,Asistida,Delantera,5.0,98.0,9900.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,140000.0,Hidráulica,Delantera,5.0,98.0,9900.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,82000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,116000.0,Asistida,Delantera,5.0,98.0,10200.0
+Chevrolet Prisma 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,42000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,70000.0,Asistida,Delantera,5.0,98.0,10666.67
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,110000.0,Asistida,Delantera,5.0,98.0,4766.67
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Negro,Chevrolet,Prisma,2015,Nafta,4.0,Automática,1.4,Sedán,68340.0,Hidráulica,Delantera,5.0,98.0,8873.33
+Chevrolet Prisma 1.4 Lt 98cv,Entre Ríos,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,90000.0,Asistida,Delantera,5.0,98.0,9333.33
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2015,Nafta,4.0,Automática,1.4,Sedán,80000.0,Hidráulica,Delantera,5.0,98.0,6333.33
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,96000.0,Asistida,Delantera,5.0,98.0,8533.33
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Blanco,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,75000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,92000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,72000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Santa Fe,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,110000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,60780.0,Asistida,Delantera,5.0,98.0,9313.33
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,74000.0,Asistida,Delantera,5.0,98.0,9300.0
+Chevrolet Prisma 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,180000.0,Hidráulica,Delantera,5.0,98.0,5200.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,95000.0,Hidráulica,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Plateado,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,99000.0,Asistida,Delantera,5.0,98.0,9985.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,90000.0,Asistida,Delantera,5.0,98.0,8326.67
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2015,Nafta,4.0,Automática,1.4,Sedán,80000.0,Hidráulica,Delantera,5.0,98.0,6600.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Plateado,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,107000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,46000.0,Asistida,Delantera,5.0,98.0,10410.67
+Chevrolet Prisma 1.4 Ltz At 98cv,Capital Federal,1.4 Ltz At 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,109000.0,Asistida,Delantera,5.0,98.0,9866.67
+Chevrolet Prisma 1.4 Joy Ls,Bs.As. Costa Atlántica,1.4 Joy Ls,Blanco,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,37000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,73000.0,Asistida,Delantera,5.0,98.0,10900.0
+Chevrolet Prisma 1.4 JOY LS MT,Ubicación no encontrada,1.4 JOY LS MT,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.0,Sedán,83573.0,Asistida,4x2,5.0,98.0,6126.67
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,45000.0,Asistida,Delantera,5.0,98.0,9266.67
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,118000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Prisma N Ls Mt +,Capital Federal,,,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Manual,1.4,Sedán,87000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,82000.0,Asistida,Delantera,5.0,98.0,11600.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,112000.0,Asistida,Delantera,5.0,98.0,9900.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Capital Federal,1.4 Ltz At 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Automática,1.4,Sedán,148000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,84000.0,Asistida,Delantera,5.0,98.0,10333.33
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,97000.0,Hidráulica,Delantera,5.0,98.0,8900.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,40000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,270000.0,Hidráulica,Delantera,5.0,98.0,6999.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,103000.0,Asistida,Delantera,5.0,98.0,7533.33
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Oeste,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,85300.0,Asistida,Delantera,5.0,98.0,9800.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,54000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,52000.0,Asistida,Delantera,5.0,98.0,13000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,76000.0,Hidráulica,Delantera,5.0,98.0,8666.67
+Chevrolet Prisma 1.4 LTZ L16,Ubicación no encontrada,1.4 LTZ L16,Negro,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,101898.0,Asistida,Delantera,5.0,98.0,10414.67
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,33000.0,Asistida,Delantera,5.0,98.0,16000.0
+Chevrolet Prisma 1.4 Lt 98cv,Santa Fe,1.4 Lt 98cv,,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,90000.0,Hidráulica,Delantera,5.0,98.0,7800.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,113000.0,Asistida,Delantera,5.0,98.0,8900.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,Azul,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,135000.0,Hidráulica,Delantera,5.0,98.0,7333.33
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,Azul,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,108000.0,Asistida,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Plateado,Chevrolet,Prisma,2015,Nafta,4.0,Automática,1.4,Sedán,124000.0,Hidráulica,Delantera,5.0,98.0,8600.0
+Chevrolet Prisma 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,Negro,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,41500.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Capital Federal,,Plateado,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,156000.0,Asistida,Delantera,5.0,98.0,8800.0
+Chevrolet Prisma 1.4 Lt 98cv,Buenos Aires Interior,1.4 Lt 98cv,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,95000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Santa Fe,,Negro,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,200000.0,Asistida,Delantera,5.0,98.0,18000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Plateado,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,110000.0,Asistida,Delantera,5.0,98.0,8600.0
+Chevrolet Prisma 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,Plateado,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,104000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,93000.0,Asistida,Delantera,5.0,98.0,9200.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Neuquén,,Negro,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,114000.0,Asistida,Delantera,5.0,98.0,7333.33
+Chevrolet Prisma 1.4 Joy Ls,Bs.As. G.B.A. Norte,1.4 Joy Ls,Blanco,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,83000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Neuquén,1.4 Ltz At 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Automática,1.4,Sedán,51800.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Norte,,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,77000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Prisma 1.4 Lt 92cv,Bs.As. G.B.A. Oeste,1.4 Lt 92cv,,Chevrolet,Prisma,2012,Nafta,4.0,Manual,1.4,Sedán,68000.0,Hidráulica,Delantera,5.0,92.0,4933.33
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,140000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,43000.0,Asistida,Delantera,5.0,98.0,7000.67
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,Plateado,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,138000.0,Asistida,Delantera,5.0,98.0,8900.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Norte,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,72000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. Costa Atlántica,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,150000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,120000.0,Asistida,Delantera,5.0,98.0,5000.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,Blanco,Chevrolet,Prisma,2016,Nafta/GNC,4.0,Manual,1.4,Sedán,141000.0,Asistida,Delantera,5.0,98.0,8200.0
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Blanco,Chevrolet,Prisma,2017,Nafta/GNC,4.0,Manual,1.4,Sedán,126000.0,assisted,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Lt 98cv,Córdoba,1.4 Lt 98cv,Negro,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Manual,1.4,Sedán,58000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Lt 92cv,Santa Fe,1.4 Lt 92cv,,Chevrolet,Prisma,2011,Nafta,4.0,Manual,1.4,Sedán,90000.0,Hidráulica,Delantera,5.0,92.0,4800.0
+Chevrolet Prisma 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Negro,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,77000.0,Asistida,Delantera,5.0,98.0,10900.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Blanco,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,103000.0,Hidráulica,Delantera,5.0,98.0,7600.0
+Chevrolet Prisma 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,Plateado,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,135000.0,Asistida,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Joy Ls 98cv,Buenos Aires Interior,1.4 Joy Ls 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,130000.0,Asistida,Delantera,5.0,98.0,8333.33
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,Azul,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,112000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,100000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Lt 98cv,Córdoba,1.4 Lt 98cv,,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,195000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,83000.0,Asistida,Delantera,5.0,98.0,8466.67
+Chevrolet Prisma 1.4 Ltz 98cv,Tucumán,1.4 Ltz 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,93000.0,Asistida,Delantera,5.0,98.0,7000.0
+Chevrolet Prisma 1.4 Ltz At,Ubicación no encontrada,1.4 Ltz At,Grey,Chevrolet,Prisma,2018,Nafta,4.0,Automático,1.0,Sedán,101892.0,Asistida,4x2,5.0,98.0,8913.33
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Negro,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,150000.0,Hidráulica,Delantera,5.0,98.0,7333.33
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,160000.0,Hidráulica,Delantera,5.0,98.0,8500.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,85000.0,Asistida,Delantera,5.0,98.0,8400.0
+Chevrolet Prisma 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,70000.0,Asistida,Delantera,5.0,98.0,7666.67
+Chevrolet Prisma 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,101000.0,Asistida,Delantera,5.0,98.0,10300.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,120000.0,Hidráulica,Delantera,5.0,98.0,10500.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2018,Nafta/GNC,4.0,Manual,1.4,Sedán,109000.0,Asistida,Delantera,5.0,98.0,10200.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Capital Federal,1.4 Ltz At 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Automática,1.4,Sedán,98000.0,Hidráulica,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,85000.0,Asistida,Delantera,5.0,98.0,13500.0
+Chevrolet Prisma 1.4 Ltz At,Ubicación no encontrada,1.4 Ltz At,White,Chevrolet,Prisma,2014,Nafta,4.0,Automático,1.0,Sedán,91678.0,Asistida,4x2,5.0,98.0,7373.33
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Azul,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,180000.0,Hidráulica,Delantera,5.0,98.0,3666.67
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,150000.0,Asistida,Delantera,5.0,98.0,8200.0
+Chevrolet Prisma 1.4 Joy Ls 98cv,Bs.As. G.B.A. Sur,1.4 Joy Ls 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,69000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Negro,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,160000.0,Asistida,Delantera,5.0,98.0,7333.33
+Chevrolet Prisma 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,,Chevrolet,Prisma,2020,Nafta,4.0,Manual,1.4,Sedán,500.0,Asistida,Delantera,5.0,98.0,16000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,140000.0,Hidráulica,Delantera,5.0,98.0,9900.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,92000.0,Asistida,Delantera,5.0,98.0,4000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Gris,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,89000.0,Asistida,Delantera,5.0,98.0,9300.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,100000.0,Asistida,Delantera,5.0,98.0,7333.33
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,106000.0,Hidráulica,Delantera,5.0,98.0,9200.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz At 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Automática,1.4,Sedán,82000.0,Hidráulica,Delantera,5.0,98.0,10500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Sur,1.4 Ltz 98cv,,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,135000.0,Hidráulica,Delantera,5.0,98.0,6666.67
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Ubicación no encontrada,,Negro,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,160000.0,Asistida,Delantera,5.0,98.0,9800.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Ubicación no encontrada,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Automática,1.4,Sedán,46900.0,hydraulic,Delantera,5.0,98.0,13200.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Plateado,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,123000.0,Asistida,Delantera,5.0,98.0,9800.0
+Chevrolet Prisma 1.4 Lt 92cv,Bs.As. G.B.A. Sur,1.4 Lt 92cv,,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,175000.0,Hidráulica,Delantera,5.0,92.0,6600.0
+Chevrolet Prisma 1.4 Lt 98cv,Capital Federal,1.4 Lt 98cv,Negro,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,83000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,95000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Lt 98cv,Buenos Aires Interior,1.4 Lt 98cv,,Chevrolet,Prisma,2014,Nafta,4.0,Manual,1.4,Sedán,105000.0,Hidráulica,Delantera,5.0,98.0,8400.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Azul,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,117000.0,Hidráulica,Delantera,5.0,98.0,5333.33
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Capital Federal,,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,85000.0,Asistida,Delantera,5.0,98.0,9900.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Córdoba,1.4 Ltz At 98cv,Blanco,Chevrolet,Prisma,2019,Nafta,4.0,Automática,1.4,Sedán,74000.0,Asistida,Delantera,5.0,98.0,10666.67
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2013,Nafta/GNC,4.0,Manual,1.4,Sedán,89000.0,Hidráulica,Delantera,5.0,98.0,7500.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Blanco,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,95000.0,Asistida,Delantera,5.0,98.0,10666.67
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,77000.0,Asistida,Delantera,5.0,98.0,11200.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,90000.0,Asistida,Delantera,5.0,98.0,9000.0
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,Gris,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,90000.0,Asistida,Delantera,5.0,98.0,8250.0
+Chevrolet Prisma 1.4 Lt 98cv,Buenos Aires Interior,1.4 Lt 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,81500.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Río Negro,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,64000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,83500.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,140000.0,Asistida,Delantera,5.0,98.0,8666.67
+Chevrolet Prisma Joy 4P 1.4 N LS MT+,Capital Federal,,Negro,Chevrolet,Prisma,2017,Nafta/GNC,4.0,Manual,1.4,Sedán,133000.0,Asistida,Delantera,5.0,98.0,8000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Norte,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,111000.0,Asistida,Delantera,5.0,98.0,9500.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,Blanco,Chevrolet,Prisma,2017,Nafta/GNC,4.0,Manual,1.4,Sedán,123000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Prisma 1.4 Ltz At 98cv,Capital Federal,1.4 Ltz At 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Automática,1.4,Sedán,72000.0,Asistida,Delantera,5.0,98.0,12700.0
+Chevrolet Prisma 1.4 Ltz 98cv,Bs.As. G.B.A. Oeste,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,119500.0,Asistida,Delantera,5.0,98.0,11200.0
+Chevrolet Prisma 1.4 Joy Ls + 98cv,Bs.As. G.B.A. Sur,,,Chevrolet,Prisma,2017,Nafta,4.0,Manual,1.4,Sedán,104000.0,Asistida,Delantera,5.0,98.0,7800.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Azul,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,87000.0,Hidráulica,Delantera,5.0,98.0,9800.0
+Chevrolet Prisma 1.4 Joy Ls,Buenos Aires Interior,1.4 Joy Ls,Gris,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,82000.0,Asistida,Delantera,5.0,98.0,11000.0
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,90000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Joy Ls,Ubicación no encontrada,1.4 Joy Ls,,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,46000.0,Asistida,Delantera,5.0,98.0,10500.0
+Chevrolet Prisma 1.4 Ltz 98cv,Buenos Aires Interior,1.4 Ltz 98cv,,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,150000.0,Hidráulica,Delantera,5.0,98.0,6666.67
+Chevrolet Prisma 1.4 Lt 98cv,Ubicación no encontrada,1.4 Lt 98cv,,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,100000.0,Hidráulica,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Gris,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,40000.0,Asistida,Delantera,5.0,98.0,12000.0
+Chevrolet Prisma 1.4 Joy Ls 98cv,Ubicación no encontrada,1.4 Joy Ls 98cv,Verde,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,185000.0,Asistida,Delantera,5.0,98.0,6866.67
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Oeste,1.4 Lt 98cv,Gris,Chevrolet,Prisma,2019,Nafta,4.0,Manual,1.4,Sedán,84000.0,Asistida,Delantera,5.0,98.0,11500.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Prisma,2016,Nafta,4.0,Manual,1.4,Sedán,145000.0,Asistida,Delantera,5.0,98.0,8400.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2015,Nafta,4.0,Manual,1.4,Sedán,167807.0,Hidráulica,Delantera,5.0,98.0,8400.0
+Chevrolet Prisma 1.4 Ltz 98cv,Ubicación no encontrada,1.4 Ltz 98cv,Blanco,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,160000.0,Hidráulica,Delantera,5.0,98.0,6066.67
+Chevrolet Prisma 1.4 Joy Ls,Capital Federal,1.4 Joy Ls,,Chevrolet,Prisma,2019,Nafta/GNC,4.0,Manual,1.4,Sedán,190000.0,Asistida,Delantera,5.0,98.0,10000.0
+Chevrolet Prisma 1.4 Ltz 98cv,Capital Federal,1.4 Ltz 98cv,,Chevrolet,Prisma,2013,Nafta,4.0,Manual,1.4,Sedán,200000.0,Hidráulica,Delantera,5.0,98.0,7000.0
+Chevrolet Prisma 1.4 Lt 98cv,Bs.As. G.B.A. Norte,1.4 Lt 98cv,,Chevrolet,Prisma,2018,Nafta,4.0,Manual,1.4,Sedán,150000.0,Asistida,Delantera,5.0,98.0,8666.67

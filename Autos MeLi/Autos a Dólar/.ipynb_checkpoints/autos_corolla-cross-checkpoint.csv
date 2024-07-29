@@ -1,0 +1,381 @@
+Título,Ubicación,Versión,Color,Marca,Modelo,Año,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Kilómetros,Dirección,Control de tracción,Capacidad de personas,Potencia,Precio
+Toyota Corolla Cross 1.8 Xei Ecvt,Capital Federal,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,3731.0,Eléctrica,4x2,5.0,98.0,32990.0
+Toyota Corolla Cross 2.0 Xli Cvt,Capital Federal,2.0 Xli Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,18000.0,Eléctrica,4x2,5.0,170.0,25000.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Córdoba,2.0 Grs Cvt 170cv,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,2600.0,Eléctrica,4x2,5.0,170.0,32000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Córdoba,1.8 Xei Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,1500.0,Eléctrica,4x2,5.0,98.0,35900.0
+Toyota Corolla Cross 2.0 Xei Cvt,Córdoba,2.0 Xei Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,6000.0,Eléctrica,4x2,5.0,170.0,31000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Sur,2.0 Xli Cvt,Plateado,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1500.0,Eléctrica,4x2,5.0,170.0,24000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Córdoba,1.8 Seg Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,16000.0,Eléctrica,4x2,5.0,98.0,26666.67
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Negro,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,8300.0,Eléctrica,4x2,5.0,98.0,35000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,500.0,Eléctrica,4x2,5.0,170.0,26333.33
+Toyota Corolla Cross 2.0 Xli Cvt,Córdoba,2.0 Xli Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,23911.0,Eléctrica,4x2,5.0,170.0,21333.33
+Toyota Corolla Cross 1.8 Xei Ecvt,Capital Federal,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,14000.0,Eléctrica,4x2,5.0,98.0,31000.0
+Toyota Corolla Cross SEG,Bs.As. G.B.A. Sur,SEG,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,501.0,Asistida,Delantera,5.0,170.0,34900.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Buenos Aires Interior,1.8 Xei Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,16000.0,Eléctrica,4x2,5.0,98.0,27900.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,40000.0,Eléctrica,4x2,5.0,170.0,20000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Capital Federal,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,3700.0,Eléctrica,4x2,5.0,170.0,29200.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1500.0,Eléctrica,4x2,5.0,98.0,38500.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Capital Federal,1.8 Xei Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,5900.0,Eléctrica,4x2,5.0,98.0,31900.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,21000.0,Eléctrica,4x2,5.0,170.0,34500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,19471.0,Eléctrica,4x2,5.0,98.0,35000.0
+Toyota Corolla Cross Gr,Ubicación no encontrada,GR,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,1000.0,Asistida,4x2,5.0,170.0,32800.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Sur,2.0 Seg Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,3100.0,Eléctrica,4x2,5.0,170.0,34000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Córdoba,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,73000.0,Eléctrica,4x2,5.0,170.0,22866.67
+Toyota Corolla Cross 2.0 Seg Cvt,Entre Ríos,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,42000.0,Eléctrica,4x2,5.0,170.0,30000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Buenos Aires Interior,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,55000.0,Eléctrica,4x2,5.0,170.0,26500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1258.0,Eléctrica,4x2,5.0,170.0,27800.0
+Toyota Corolla Cross 2.0 Seg Cvt,Santa Fe,2.0 Seg Cvt,Plateado,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,3000.0,Eléctrica,4x2,5.0,170.0,32000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Norte,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,25000.0,Eléctrica,4x2,5.0,98.0,31500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Santa Fe,2.0 Seg Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1100.0,Eléctrica,4x2,5.0,170.0,33500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Azul,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,4000.0,Eléctrica,4x2,5.0,170.0,31500.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Sur,2.0 Xei Cvt,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,3200.0,Eléctrica,4x2,5.0,170.0,34500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,1111.0,Eléctrica,4x2,5.0,170.0,28500.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,1000.0,Eléctrica,4x2,5.0,98.0,27500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,20000.0,Eléctrica,4x2,5.0,170.0,33500.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Norte,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,55000.0,Hidráulica,4x2,5.0,170.0,32500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1250.0,Eléctrica,4x2,5.0,170.0,36900.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Capital Federal,2.0 Grs Cvt 170cv,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,10000.0,Eléctrica,4x2,5.0,170.0,32500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Eléctrica,4x2,5.0,170.0,28400.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Plateado,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,12000.0,Eléctrica,4x2,5.0,98.0,32000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Santa Fe,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,13500.0,Eléctrica,4x2,5.0,170.0,29000.0
+Toyota Corolla Cross Seg Hibrida,Buenos Aires Interior,Seg Hibrida,,Toyota,Corolla Cross,2022,Híbrido/Nafta,4.0,Automática,2.0,SUV,30000.0,Eléctrica,4x2,5.0,170.0,30000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,69000.0,Eléctrica,4x2,5.0,170.0,20666.67
+Toyota Corolla Cross 2.0 Xli Cvt,Capital Federal,2.0 Xli Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,500.0,Eléctrica,4x2,5.0,170.0,28900.0
+Toyota Corolla Cross XEI 2.0 CVT,Bs.As. Costa Atlántica,XEI 2.0 CVT,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Asistida,Delantera,5.0,170.0,38800.0
+Toyota Corolla Cross 2.0 Xli Cvt,Capital Federal,2.0 Xli Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Eléctrica,4x2,5.0,170.0,27900.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,22100.0,Eléctrica,4x2,5.0,170.0,29500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Norte,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,35000.0,Eléctrica,4x2,5.0,170.0,28500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,26000.0,Eléctrica,4x2,5.0,98.0,31900.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Gris,Toyota,Corolla Cross,2023,Nafta,5.0,Automático,1.0,SUV,10698.0,Asistida,4x2,5.0,170.0,19966.67
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,47000.0,Eléctrica,4x2,5.0,98.0,30500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Plateado,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,24000.0,Eléctrica,4x2,5.0,170.0,25333.33
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Gris,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1111.0,Eléctrica,4x2,5.0,98.0,36900.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Rojo,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,31421.0,Eléctrica,4x2,5.0,170.0,32900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Norte,1.8 Seg Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1111.0,Eléctrica,4x2,5.0,98.0,34999.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Norte,2.0 Xli Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,23900.0,Eléctrica,4x2,5.0,170.0,27500.0
+Toyota Corolla Cross 1.8 HYBRID SEG CVT 4x2,Ubicación no encontrada,1.8 HYBRID SEG CVT 4x2,White,Toyota,Corolla Cross,2023,Híbrido,5.0,Automático,1.0,SUV,3438.0,Asistida,4x2,5.0,98.0,27260.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Gris,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1111111.0,Eléctrica,4x2,5.0,98.0,28000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,35000.0,Eléctrica,4x2,5.0,170.0,28000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,89000.0,Eléctrica,4x2,5.0,170.0,29000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Capital Federal,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido,5.0,Automática,2.0,SUV,1111.0,Eléctrica,4x2,5.0,170.0,32500.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Capital Federal,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,24000.0,Eléctrica,4x2,5.0,98.0,25900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,39000.0,Eléctrica,4x2,5.0,98.0,29900.0
+Toyota Corolla Cross 2.0 Xei Cvt,Córdoba,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,46900.0,Eléctrica,4x2,5.0,170.0,27000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,48269.0,Eléctrica,4x2,5.0,170.0,20333.33
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Azul,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,35000.0,Eléctrica,4x2,5.0,170.0,26900.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Grey,Toyota,Corolla Cross,2021,Nafta,5.0,Automático,1.0,SUV,45023.0,Asistida,4x2,5.0,170.0,20726.67
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,500.0,Eléctrica,4x2,5.0,170.0,34000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Gris,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,60000.0,Eléctrica,4x2,5.0,98.0,30000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Santa Fe,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,2000.0,Eléctrica,4x2,5.0,170.0,30000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,45000.0,Eléctrica,4x2,5.0,170.0,20600.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Ubicación no encontrada,2.0 Grs Cvt 170cv,Rojo,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Eléctrica,4x2,5.0,170.0,33000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,75000.0,Eléctrica,4x2,5.0,170.0,21333.33
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,62000.0,Eléctrica,4x2,5.0,98.0,26500.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Capital Federal,1.8 Xei Ecvt,Gris,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,65000.0,Eléctrica,4x2,5.0,98.0,25500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Sur,1.8 Seg Ecvt,Plateado,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,38000.0,Eléctrica,4x2,5.0,98.0,29900.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Gris,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,43000.0,Eléctrica,4x2,5.0,98.0,27000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Bs.As. G.B.A. Oeste,1.8 Xei Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,17565.0,Eléctrica,4x2,5.0,98.0,31500.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Ubicación no encontrada,2.0 Grs Cvt 170cv,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,1111.0,Eléctrica,4x2,5.0,170.0,37800.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. Costa Atlántica,2.0 Xei Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Eléctrica,4x2,5.0,170.0,25800.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Norte,2.0 Seg Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,8500.0,Eléctrica,4x2,5.0,170.0,30000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Sur,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,43200.0,Eléctrica,4x2,5.0,170.0,23333.33
+Toyota Corolla Cross 2.0 Seg Cvt,Capital Federal,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,500.0,Eléctrica,4x2,5.0,170.0,33500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Córdoba,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Eléctrica,4x2,5.0,170.0,26500.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,6500.0,Eléctrica,4x2,5.0,170.0,23333.33
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Norte,1.8 Seg Ecvt,Azul,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,34000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Oeste,2.0 Xli Cvt,Plateado,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,32000.0,Eléctrica,4x2,5.0,170.0,25800.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Azul,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,500.0,Eléctrica,4x2,5.0,170.0,35000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,60000.0,Eléctrica,4x2,5.0,170.0,26500.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Gris,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1000.0,electronic,4x2,5.0,98.0,34500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Azul,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,65000.0,Eléctrica,4x2,5.0,170.0,28000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Bs.As. G.B.A. Norte,1.8 Xei Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1000.0,Eléctrica,4x2,5.0,98.0,32500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,16000.0,Eléctrica,4x2,5.0,170.0,33000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Córdoba,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1111.0,Eléctrica,4x2,5.0,170.0,34500.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,55000.0,Eléctrica,4x2,5.0,98.0,32500.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Bs.As. G.B.A. Norte,1.8 Xei Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1029.0,Eléctrica,4x2,5.0,98.0,35000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Oeste,2.0 Xei Cvt,,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,7313.0,Eléctrica,4x2,5.0,170.0,28000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Capital Federal,2.0 Xli Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,12200.0,Eléctrica,4x2,5.0,170.0,24999.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Gris oscuro,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,7300.0,electronic,4x2,5.0,170.0,31000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Negro,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,2300.0,Eléctrica,4x2,5.0,98.0,44000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Sur,2.0 Xli Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,3000.0,Eléctrica,4x2,5.0,170.0,22666.67
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,28000.0,Eléctrica,4x2,5.0,170.0,21993.27
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Córdoba,2.0 Grs Cvt 170cv,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,6900.0,Eléctrica,4x2,5.0,170.0,34900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,111111.0,Eléctrica,4x2,5.0,98.0,36000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Negro,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,44200.0,electronic,4x2,5.0,170.0,30000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Neuquén,2.0 Xei Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,50000.0,Eléctrica,4x2,5.0,170.0,30000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Plateado,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,23500.0,Eléctrica,4x2,5.0,170.0,33690.0
+Toyota Corolla Cross 2.0 Xli Cvt,Córdoba,2.0 Xli Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,600.0,Eléctrica,4x2,5.0,170.0,30000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Mendoza,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1950.0,Eléctrica,4x2,5.0,98.0,39500.0
+Toyota Corolla Cross 1.8 HYBRID SEG CVT 4x2,Ubicación no encontrada,1.8 HYBRID SEG CVT 4x2,Blanco,Toyota,Corolla Cross,2021,Nafta,5.0,Automático,1.0,SUV,22407.0,Asistida,4x2,5.0,98.0,24726.67
+Toyota Corolla Cross 2.0 Xei Cvt,Misiones,2.0 Xei Cvt,Plateado,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,28000.0,Eléctrica,4x2,5.0,170.0,27000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Capital Federal,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,31000.0,Eléctrica,4x2,5.0,170.0,31000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,28000.0,Eléctrica,4x2,5.0,170.0,21993.27
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Azul,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,37500.0,Eléctrica,4x2,5.0,170.0,22333.33
+Toyota Corolla Cross 2.0 Xli Cvt,Capital Federal,2.0 Xli Cvt,Plateado,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,46940.0,Eléctrica,4x2,5.0,170.0,21436.67
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Norte,1.8 Seg Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,7500.0,Eléctrica,4x2,5.0,98.0,33000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Oeste,2.0 Seg Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,13000.0,Eléctrica,4x2,5.0,170.0,25866.67
+Toyota Corolla Cross Seg Hv,Ubicación no encontrada,seg Hv,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,111111.0,Eléctrica,Delantera,5.0,170.0,42000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Bs.As. G.B.A. Sur,1.8 Xei Ecvt,Rojo,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,27000.0,Eléctrica,4x2,5.0,98.0,27900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,3500.0,Eléctrica,4x2,5.0,98.0,33800.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,3100.0,Eléctrica,4x2,5.0,98.0,33500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,34000.0,Eléctrica,4x2,5.0,170.0,33000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Norte,2.0 Xei Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,38000.0,Eléctrica,4x2,5.0,170.0,30000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,10000.0,Eléctrica,4x2,5.0,170.0,34500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,5000.0,Eléctrica,4x2,5.0,170.0,27000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,37400.0
+Toyota Corolla Cross 2.0 Xli Cvt,Córdoba,2.0 Xli Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,43000.0,Eléctrica,4x2,5.0,170.0,19333.33
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Gris oscuro,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,7300.0,electronic,4x2,5.0,170.0,31000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Norte,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,40.0,Eléctrica,4x2,5.0,98.0,38500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,2000.0,Eléctrica,4x2,5.0,98.0,31300.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Norte,2.0 Xli Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,5500.0,Eléctrica,4x2,5.0,170.0,27500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Plateado,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,33000.0,Eléctrica,4x2,5.0,98.0,29800.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Norte,2.0 Xei Cvt,Gris,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,29000.0,Eléctrica,4x2,5.0,170.0,30990.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,10000.0,Eléctrica,4x2,5.0,98.0,31300.0
+Toyota Corolla Cross 2.0 Xli Cvt,Córdoba,2.0 Xli Cvt,Negro,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,3600.0,Eléctrica,4x2,5.0,170.0,27800.0
+Toyota Corolla Cross 2.0 Xli Cvt,La Rioja,2.0 Xli Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,25000.0,Eléctrica,4x2,5.0,170.0,21933.33
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,9985.0,Eléctrica,4x2,5.0,98.0,33500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Córdoba,2.0 Seg Cvt,,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,53000.0,Eléctrica,4x2,5.0,170.0,27900.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Gris,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,39000.0,Eléctrica,4x2,5.0,170.0,21000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Norte,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,42000.0,Eléctrica,4x2,5.0,170.0,32500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Capital Federal,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,5600.0,Eléctrica,4x2,5.0,170.0,31800.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Oeste,2.0 Seg Cvt,,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,26800.0,Eléctrica,4x2,5.0,170.0,27900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,4600.0,Eléctrica,4x2,5.0,98.0,36900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,34500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,110000.0,Eléctrica,4x2,5.0,98.0,28000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1111111.0,Eléctrica,4x2,5.0,98.0,19933.33
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,33800.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,68800.0,Eléctrica,Delantera,5.0,170.0,20466.67
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Plateado,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,36000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Oeste,2.0 Xei Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,2700.0,Eléctrica,4x2,5.0,170.0,28900.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Norte,2.0 Xli Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,20000.0,Eléctrica,4x2,5.0,170.0,25500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Oeste,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,41000.0,Eléctrica,4x2,5.0,170.0,28000.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Ubicación no encontrada,2.0 Grs Cvt 170cv,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,5000.0,Eléctrica,4x2,5.0,170.0,35000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automático,1.0,SUV,9032.0,Asistida,4x2,5.0,170.0,21993.33
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Capital Federal,2.0 Grs Cvt 170cv,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,3500.0,Eléctrica,4x2,5.0,170.0,34000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Gris,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,53000.0,Eléctrica,4x2,5.0,98.0,30000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Chaco,1.8 Seg Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,33000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Córdoba,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,21000.0,Eléctrica,4x2,5.0,170.0,34750.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,51700.0,Eléctrica,4x2,5.0,170.0,27100.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,3500.0,Eléctrica,4x2,5.0,98.0,44000.0
+Toyota Corolla Cross Seg Híbrido 1.8 Ecvt,Ubicación no encontrada,Seg Híbrido 1.8 Ecvt,,Toyota,Corolla Cross,2020,Híbrido,5.0,,,,102000.0,,,,,30000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Misiones,1.8 Xei Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,65000.0,Eléctrica,4x2,5.0,98.0,21333.33
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Plateado,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,27000.0,Eléctrica,4x2,5.0,170.0,29900.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Buenos Aires Interior,1.8 Xei Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,38000.0,Eléctrica,4x2,5.0,98.0,29000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1000.0,Eléctrica,4x2,5.0,98.0,43500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,28000.0,Eléctrica,4x2,5.0,170.0,21993.27
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Sur,1.8 Seg Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,38000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,11342.0,Eléctrica,4x2,5.0,98.0,31800.0
+Toyota Corolla Cross 2.0 Seg Cvt,Capital Federal,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,3900.0,Eléctrica,4x2,5.0,170.0,32500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,24000.0,Eléctrica,4x2,5.0,170.0,21933.33
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Bs.As. G.B.A. Norte,2.0 Grs Cvt 170cv,Rojo,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,8300.0,Eléctrica,4x2,5.0,170.0,33800.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,47500.0,Eléctrica,4x2,5.0,98.0,29000.0
+Toyota Corolla Cross 2.0 SEG,Bs.As. G.B.A. Sur,2.0 SEG,Gris,Toyota,Corolla Cross,2022,Nafta,5.0,Automática secuencial,2.0,SUV,19000.0,Eléctrica,Delantera,5.0,170.0,23666.67
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Oeste,2.0 Xei Cvt,Gris,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,31000.0,Eléctrica,4x2,5.0,170.0,28500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Sur,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,14000.0,Eléctrica,4x2,5.0,170.0,33000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1001.0,Eléctrica,4x2,5.0,98.0,39900.0
+Toyota Corolla Cross 2.0 Seg Cvt,Corrientes,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,19000.0,Eléctrica,4x2,5.0,170.0,32500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1111.0,Eléctrica,4x2,5.0,98.0,38990.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Azul,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,30636.0,Eléctrica,4x2,5.0,98.0,33200.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,28000.0,Eléctrica,4x2,5.0,98.0,33000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,50000.0,Eléctrica,4x2,5.0,98.0,26500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,25000.0,Eléctrica,4x2,5.0,170.0,21927.27
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Sur,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,70000.0,Eléctrica,4x2,5.0,170.0,28600.0
+Toyota Corolla Cross 1.8 Seg HEV,Ubicación no encontrada,1.8 Seg HEV,Gris oscuro,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,1.8,SUV,32700.0,Eléctrica,4x2,5.0,170.0,34000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Capital Federal,2.0 Xei Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,19000.0,Eléctrica,4x2,5.0,170.0,31300.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Eléctrica,4x2,5.0,170.0,23333.33
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,21800.0,Eléctrica,4x2,5.0,98.0,33700.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Eléctrica,4x2,5.0,170.0,34000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,6000.0,Eléctrica,4x2,5.0,170.0,37400.0
+Toyota Corolla Cross 1.8 HYBRID XEI CVT 4x2,Ubicación no encontrada,1.8 HYBRID XEI CVT 4x2,Rojo,Toyota,Corolla Cross,2022,Híbrido,5.0,Automático,1.0,SUV,21286.0,Asistida,4x2,5.0,98.0,24553.33
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,30447.0,Eléctrica,4x2,5.0,170.0,26600.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. Costa Atlántica,2.0 Xli Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,600.0,Eléctrica,4x2,5.0,170.0,27000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Oeste,2.0 Xei Cvt,Gris,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,5900.0,Eléctrica,4x2,5.0,170.0,29500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Negro,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,8000.0,Eléctrica,4x2,5.0,170.0,36850.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,20000.0,Eléctrica,4x2,5.0,170.0,32500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Córdoba,1.8 Seg Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,2450.0,Eléctrica,4x2,5.0,98.0,41500.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Plateado,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,30000.0,Eléctrica,4x2,5.0,98.0,20000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Negro,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,50000.0,Eléctrica,4x2,5.0,170.0,28500.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Capital Federal,1.8 Xei Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,31000.0,Eléctrica,4x2,5.0,98.0,28900.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1111.0,Eléctrica,4x2,5.0,170.0,32500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Norte,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,2000.0,Eléctrica,4x2,5.0,98.0,42000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Capital Federal,2.0 Xei Cvt,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,600.0,Eléctrica,4x2,5.0,170.0,33000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Norte,2.0 Xli Cvt,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1500.0,Eléctrica,4x2,5.0,170.0,32000.0
+Toyota Corolla Cross 2.0 Xei Cvt,La Pampa,2.0 Xei Cvt,Gris,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,14000.0,Eléctrica,4x2,5.0,170.0,31000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1111.0,Eléctrica,4x2,5.0,170.0,37000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,4800.0,Eléctrica,4x2,5.0,170.0,30000.0
+Toyota Corolla Cross seg hev 1.8 ecvt,Ubicación no encontrada,seg hev 1.8 ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido,5.0,Automática,2.0,SUV,1000.0,Asistida,4x2,5.0,98.0,38000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Negro,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,20000.0,Eléctrica,4x2,5.0,98.0,33000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Plateado,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1000.0,Eléctrica,4x2,5.0,98.0,36900.0
+Toyota Corolla Cross Seg Hv,Ubicación no encontrada,SEG HV,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,2.0,SUV,1600.0,Hidráulica,4x2,5.0,170.0,38900.0
+Toyota Corolla Cross 2.0 Seg Cvt,Córdoba,2.0 Seg Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,7500.0,Eléctrica,4x2,5.0,170.0,32000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,20000.0,Eléctrica,4x2,5.0,98.0,24000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,500.0,Eléctrica,4x2,5.0,170.0,34000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Sur,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,550.0,Eléctrica,4x2,5.0,170.0,24000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,13000.0,Eléctrica,4x2,5.0,170.0,31000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Capital Federal,2.0 Xei Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,4800.0,Eléctrica,4x2,5.0,170.0,26000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Rojo,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,71000.0,electronic,4x2,5.0,170.0,21333.33
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,62600.0,Eléctrica,4x2,5.0,170.0,21193.33
+Toyota Corolla Cross 1.8 Xei Ecvt,Capital Federal,1.8 Xei Ecvt,Negro,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,62000.0,Eléctrica,4x2,5.0,98.0,26700.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Norte,2.0 Xei Cvt,Plateado,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,3500.0,Eléctrica,4x2,5.0,170.0,30000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,blue,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,11111.0,Eléctrica,4x2,5.0,170.0,29900.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Gris,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,12600.0,Eléctrica,4x2,5.0,98.0,29900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,7300.0,Eléctrica,4x2,5.0,98.0,35000.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Ubicación no encontrada,2.0 Grs Cvt 170cv,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,21000.0,Eléctrica,4x2,5.0,170.0,25066.67
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,8900.0,Eléctrica,4x2,5.0,98.0,29500.0
+Toyota Corolla Cross Xli,Santa Fe,Xli,,Toyota,Corolla Cross,2021,Nafta,4.0,Automática,2.0,SUV,38500.0,Eléctrica,4x2,5.0,170.0,25000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,6000.0,Eléctrica,4x2,5.0,98.0,25333.33
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,30000.0,Eléctrica,4x2,5.0,170.0,27500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,4200.0,Eléctrica,4x2,5.0,98.0,34000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Norte,2.0 Xli Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,26000.0,Eléctrica,4x2,5.0,170.0,28000.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Ubicación no encontrada,2.0 Grs Cvt 170cv,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Eléctrica,4x2,5.0,170.0,37500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,15057.0,Eléctrica,4x2,5.0,170.0,26800.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Entre Ríos,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,24000.0,Eléctrica,4x2,5.0,98.0,32000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Bs.As. G.B.A. Norte,1.8 Xei Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,2000.0,Eléctrica,4x2,5.0,98.0,36800.0
+Toyota Corolla Cross 2.0 Xei Cvt,Capital Federal,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,50000.0,Eléctrica,4x2,5.0,170.0,28500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Norte,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,18500.0,Eléctrica,4x2,5.0,170.0,28500.0
+Toyota Corolla Cross 2.0 Xei Cvt,Santa Fe,2.0 Xei Cvt,,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,20000.0,Eléctrica,4x2,5.0,170.0,27500.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Bs.As. G.B.A. Norte,2.0 Grs Cvt 170cv,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1111.0,Eléctrica,4x2,5.0,170.0,33800.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Norte,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,200.0,Eléctrica,4x2,5.0,170.0,31400.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Oeste,2.0 Xli Cvt,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,26000.0,Eléctrica,4x2,5.0,170.0,25000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,2000.0,Eléctrica,4x2,5.0,170.0,34900.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1111.0,Eléctrica,4x2,5.0,170.0,29000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,36600.0,electronic,4x2,5.0,170.0,28900.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Sur,2.0 Seg Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,3100.0,Eléctrica,4x2,5.0,170.0,34000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,5000.0,Eléctrica,4x2,5.0,98.0,26600.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,64000.0,Eléctrica,4x2,5.0,170.0,29500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Capital Federal,2.0 Seg Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,500.0,Eléctrica,4x2,5.0,170.0,34500.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1000.0,Eléctrica,4x2,5.0,98.0,32500.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Azul,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,14000.0,Eléctrica,4x2,5.0,170.0,29900.0
+Toyota Corolla Cross 2.0 Seg Cvt,Capital Federal,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,23000.0,Eléctrica,4x2,5.0,170.0,35500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,34900.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,10000.0,Eléctrica,4x2,5.0,170.0,26500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,36000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,58000.0,Eléctrica,4x2,5.0,170.0,25500.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Capital Federal,1.8 Xei Ecvt,Gris,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,30000.0,Eléctrica,4x2,5.0,98.0,28500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Norte,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Eléctrica,4x2,5.0,170.0,23304.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. Costa Atlántica,2.0 Xei Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,15000.0,Eléctrica,4x2,5.0,170.0,31000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Neuquén,2.0 Xei Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,19000.0,Eléctrica,4x2,5.0,170.0,28000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Gris,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,20000.0,Eléctrica,4x2,5.0,98.0,29500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,2024.0,Eléctrica,4x2,5.0,98.0,39000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,60000.0,Eléctrica,4x2,5.0,170.0,23333.33
+Toyota Corolla Cross 2.0 Seg Cvt,Entre Ríos,2.0 Seg Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,19367.0,Eléctrica,4x2,5.0,170.0,31000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Norte,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1111.0,Eléctrica,4x2,5.0,170.0,35000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,20000.0,Eléctrica,4x2,5.0,98.0,31999.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Gris,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,20000.0,Eléctrica,4x2,5.0,98.0,30000.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Bs.As. G.B.A. Sur,2.0 Grs Cvt 170cv,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,26000.0,Eléctrica,4x2,5.0,170.0,25666.67
+Toyota Corolla Cross 2.0 Seg Cvt,Córdoba,2.0 Seg Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,8000.0,Eléctrica,4x2,5.0,170.0,29000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,28000.0,Eléctrica,4x2,5.0,98.0,32000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,2500.0,Eléctrica,4x2,5.0,170.0,65000.0
+Toyota Corolla Cross 2.0 Seg Cvt,La Pampa,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,47000.0,Eléctrica,4x2,5.0,170.0,22000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Rojo,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,63000.0,Eléctrica,4x2,5.0,98.0,29000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,28000.0,Eléctrica,4x2,5.0,170.0,9933.33
+Toyota Corolla Cross 1.8 Seg Ecvt,Córdoba,1.8 Seg Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,32000.0,Eléctrica,4x2,5.0,98.0,28000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,500.0,Eléctrica,4x2,5.0,170.0,36900.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,18000.0,electronic,4x2,5.0,170.0,33000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Norte,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,26700.0,Eléctrica,4x2,5.0,170.0,28800.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1111111.0,Eléctrica,4x2,5.0,98.0,32000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,26000.0,Eléctrica,4x2,5.0,170.0,20533.33
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Norte,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,45500.0,Eléctrica,4x2,5.0,170.0,30000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Bs.As. G.B.A. Norte,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,1000.0,Eléctrica,4x2,5.0,98.0,36000.0
+"Toyota Cross Xei  2,0",Ubicación no encontrada,2.0 Xei Cvt,Gris,Toyota,Corolla Cross,2025,Nafta,5.0,Automática secuencial,,SUV,500.0,Eléctrica,Delantera,,,32000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Plateado,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,10500.0,Eléctrica,4x2,5.0,98.0,38500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,2.0,SUV,500.0,Eléctrica,4x2,5.0,98.0,37400.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,3500.0,Eléctrica,4x2,5.0,98.0,34900.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,45000.0,Eléctrica,4x2,5.0,170.0,23666.67
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,37400.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,36500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Buenos Aires Interior,1.8 Seg Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,11111.0,Eléctrica,4x2,5.0,98.0,35500.0
+Toyota Corolla Cross SEG HV 1.8 ECVT,Bs.As. G.B.A. Oeste,SEG HV 1.8 ECVT,,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,105000.0,Eléctrica,4x2,5.0,98.0,25000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Córdoba,1.8 Seg Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,5000.0,Eléctrica,4x2,5.0,98.0,28000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Capital Federal,1.8 Xei Ecvt,,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,10500.0,Eléctrica,4x2,5.0,98.0,29000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Sur,2.0 Xli Cvt,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Eléctrica,4x2,5.0,170.0,24000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Capital Federal,2.0 Xei Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,18000.0,Eléctrica,4x2,5.0,170.0,31000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,62600.0,Eléctrica,4x2,5.0,170.0,21193.33
+Toyota Corolla Cross 2.0 Xei Cvt,Capital Federal,2.0 Xei Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Eléctrica,4x2,5.0,170.0,29980.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,4000.0,Eléctrica,4x2,5.0,170.0,32000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Córdoba,2.0 Xli Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,10300.0,Eléctrica,4x2,5.0,170.0,30000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Buenos Aires Interior,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,27257.0,Eléctrica,4x2,5.0,170.0,26000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Norte,2.0 Xei Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,11000.0,Eléctrica,4x2,5.0,170.0,30500.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Ubicación no encontrada,2.0 Grs Cvt 170cv,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,39000.0,Eléctrica,4x2,5.0,170.0,29900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,24900.0,Eléctrica,4x2,5.0,98.0,31900.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Norte,2.0 Seg Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,12500.0,Eléctrica,4x2,5.0,170.0,28500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Oeste,2.0 Xli Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,17500.0,Eléctrica,4x2,5.0,170.0,22000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Capital Federal,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,60000.0,Eléctrica,4x2,5.0,98.0,30000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Capital Federal,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,10700.0,Eléctrica,4x2,5.0,170.0,28700.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Ubicación no encontrada,2.0 Grs Cvt 170cv,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,42000.0,Eléctrica,4x2,5.0,170.0,34000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,20000.0,Eléctrica,4x2,5.0,98.0,32900.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Buenos Aires Interior,1.8 Xei Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,45800.0,Eléctrica,4x2,5.0,98.0,23333.33
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,111111.0,Eléctrica,4x2,5.0,170.0,34000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Sur,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,25500.0,Eléctrica,4x2,5.0,170.0,23332.67
+Toyota Corolla Cross 2.0 Xei Cvt,Córdoba,2.0 Xei Cvt,Gris,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,39500.0,Eléctrica,4x2,5.0,170.0,25900.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,59000.0,Eléctrica,4x2,5.0,170.0,26500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Santa Cruz,2.0 Xli Cvt,Azul,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1000.0,Eléctrica,4x2,5.0,170.0,26000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Santa Fe,2.0 Xli Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,600.0,Eléctrica,4x2,5.0,170.0,24666.67
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. Costa Atlántica,2.0 Xli Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,9300.0,Eléctrica,4x2,5.0,170.0,27300.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Grey,Toyota,Corolla Cross,2022,Híbrido,5.0,Automático,1.0,SUV,30766.0,Asistida,4x2,5.0,170.0,20353.33
+Toyota Corolla Cross 2.0 Xei Cvt,San Luis,2.0 Xei Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,22000.0,Eléctrica,4x2,5.0,170.0,24000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Plateado,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,1000.0,Eléctrica,4x2,5.0,98.0,25000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Oeste,1.8 Seg Ecvt,,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,56000.0,Eléctrica,4x2,5.0,98.0,31900.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Norte,2.0 Xei Cvt,,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,6282.0,Eléctrica,4x2,5.0,170.0,28500.0
+Toyota Corolla Cross Cross Xei Cvt 2024,Capital Federal,cross xei cvt 2024,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,111111.0,Eléctrica,4x2,5.0,170.0,29000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Bs.As. G.B.A. Sur,1.8 Xei Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,15000.0,Eléctrica,4x2,5.0,98.0,30000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Plateado,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1111111.0,Eléctrica,4x2,5.0,98.0,33500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,63400.0,Eléctrica,4x2,5.0,170.0,13026.67
+Toyota Corolla Cross Seg,Bs.As. G.B.A. Oeste,Seg,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,4964.0,Eléctrica,4x2,5.0,170.0,31000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Negro,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,5450.0,Eléctrica,4x2,5.0,98.0,37650.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Norte,2.0 Xei Cvt,Plateado,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,500.0,Eléctrica,4x2,5.0,170.0,30300.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Negro,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,555.0,Eléctrica,4x2,5.0,98.0,41900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Norte,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,25000.0,Eléctrica,4x2,5.0,98.0,31500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Gris,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,21000.0,Eléctrica,4x2,5.0,170.0,22466.67
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,29122.0,Eléctrica,4x2,5.0,170.0,24000.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Bs.As. G.B.A. Sur,2.0 Grs Cvt 170cv,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,8000.0,Eléctrica,4x2,5.0,170.0,35000.0
+Toyota Corolla Cross 1.8 Xei Hv E-Cvt,Ubicación no encontrada,1.8 Xei Hv E-Cvt,Rojo,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,12000.0,electronic,4x2,5.0,98.0,33900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,6000.0,Eléctrica,4x2,5.0,98.0,30000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Plateado,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,6000.0,Eléctrica,4x2,5.0,170.0,24333.33
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,15000.0,Eléctrica,4x2,5.0,170.0,30500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Gris oscuro,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,13700.0,electronic,4x2,5.0,170.0,27866.67
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Norte,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,5000.0,Eléctrica,4x2,5.0,98.0,33800.0
+Toyota Corolla Cross 2.0 Xei Cvt,Capital Federal,2.0 Xei Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,2000.0,Eléctrica,4x2,5.0,170.0,33500.0
+Toyota Corolla Cross 2.0 Grs Cvt 170cv,Ubicación no encontrada,2.0 Grs Cvt 170cv,Blanco,Toyota,Corolla Cross,2021,Híbrido,5.0,Automática,2.0,SUV,56000.0,Eléctrica,4x2,5.0,170.0,32500.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Bs.As. G.B.A. Norte,1.8 Xei Ecvt,Gris,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,8000.0,Eléctrica,4x2,5.0,98.0,31000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Córdoba,1.8 Seg Ecvt,,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1000.0,Eléctrica,4x2,5.0,98.0,36900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Córdoba,1.8 Seg Ecvt,Azul,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,50000.0,Eléctrica,4x2,5.0,98.0,28000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Rojo,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,1489.0,Eléctrica,4x2,5.0,170.0,34000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,500.0,Eléctrica,4x2,5.0,170.0,34900.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1111.0,Eléctrica,4x2,5.0,170.0,25000.0
+Toyota Corolla Cross 2.0 Xei Cvt,Ubicación no encontrada,2.0 Xei Cvt,Plateado,Toyota,Corolla Cross,2022,Híbrido/Diesel,5.0,Automática,2.0,SUV,12000.0,Eléctrica,4x2,5.0,170.0,33000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,39112.0,Eléctrica,4x2,5.0,98.0,34000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Sur,1.8 Seg Ecvt,Plateado,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,501.0,Eléctrica,4x2,5.0,98.0,36500.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,24000.0,Eléctrica,4x2,5.0,170.0,28000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Capital Federal,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,24600.0,Eléctrica,4x2,5.0,170.0,28500.0
+Toyota Corolla Cross 2.0 Xei Cvt,Bs.As. G.B.A. Norte,2.0 Xei Cvt,,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,15000.0,Eléctrica,4x2,5.0,170.0,31500.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Plateado,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,2200.0,Eléctrica,4x2,5.0,98.0,36800.0
+Toyota Corolla Cross seg hev 1.8 ecvt,Bs.As. G.B.A. Oeste,seg hev 1.8 ecvt,Gris,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,2.0,SUV,500.0,Hidráulica,Delantera,5.0,98.0,33000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,111111.0,electronic,4x2,5.0,170.0,22848.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Bs.As. G.B.A. Sur,1.8 Xei Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,8500.0,Eléctrica,4x2,5.0,98.0,30000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,91220.0,Eléctrica,4x2,5.0,98.0,28900.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Negro,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,87500.0,Eléctrica,4x2,5.0,170.0,27900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Gris,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,31000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Ubicación no encontrada,1.8 Xei Ecvt,Blanco,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,42000.0,Eléctrica,4x2,5.0,98.0,23266.67
+Toyota Corolla Cross 1.8 Seg Ecvt Híbrida,Bs.As. G.B.A. Norte,1.8 Seg Ecvt Híbrida,Azul,Toyota,Corolla Cross,2023,Híbrido,5.0,Automática secuencial,1.8,SUV,31000.0,Eléctrica,4x2,5.0,98.0,33000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,555.0,Eléctrica,4x2,5.0,98.0,41800.0
+Toyota Corolla Cross XLI CVT,Ubicación no encontrada,XLI CVT,,Toyota,Corolla Cross,2021,Nafta,5.0,Automática,2.0,SUV,145000.0,Eléctrica,4x2,5.0,170.0,20000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,54000.0,Eléctrica,4x2,5.0,98.0,31500.0
+Cross Seg Hv,Bs.As. G.B.A. Norte,GR,Negro,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,599.0,Eléctrica,4x2,5.0,170.0,33000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Capital Federal,2.0 Seg Cvt,,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,15000.0,Eléctrica,4x2,5.0,170.0,28500.0
+Toyota Corolla Cross Seg Hibrida Mod 2025 New Desing 0km Tit,Bs.As. G.B.A. Norte,Corolla Cross HIVSEG,Plateado,Toyota,Corolla Cross,2025,Híbrido,5.0,Automática secuencial,,SUV,1000.0,Eléctrica,Delantera,,,42000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,2023.0,Eléctrica,4x2,5.0,170.0,36000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,111111.0,Eléctrica,4x2,5.0,170.0,36000.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Ubicación no encontrada,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2024,Híbrido/Nafta,5.0,Automática,1.8,SUV,1000.0,Eléctrica,4x2,5.0,98.0,37000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Bs.As. G.B.A. Norte,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,14500.0,Eléctrica,4x2,5.0,170.0,30500.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,500.0,Eléctrica,4x2,5.0,170.0,34900.0
+Toyota Corolla Cross 2.0 SEG GRS CVT,Capital Federal,2.0 SEG GRS CVT,Blanco,Toyota,Corolla Cross,2024,Nafta,5.0,Automática,2.0,SUV,1111.0,Eléctrica,4x2,5.0,170.0,34000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Bs.As. G.B.A. Norte,1.8 Xei Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,40000.0,Eléctrica,4x2,5.0,98.0,27200.0
+Toyota Corolla Cross XEI HEV 1.8 ECVT,Ubicación no encontrada,XEI HEV 1.8 ECVT,Gris,Toyota,Corolla Cross,2022,Eléctrico,4.0,Automática,1.8,SUV,1000.0,Eléctrica,4x2,5.0,98.0,31800.0
+Toyota Corolla Cross 2.0 Xli Cvt,Bs.As. G.B.A. Sur,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,24500.0,Eléctrica,4x2,5.0,170.0,18666.67
+Toyota Corolla Cross 1.8 Seg Ecvt,Santa Fe,1.8 Seg Ecvt,Negro,Toyota,Corolla Cross,2021,Híbrido/Nafta,5.0,Automática,1.8,SUV,42000.0,Eléctrica,4x2,5.0,98.0,25000.0
+Toyota Corolla Cross 2.0 Xli Cvt,Ubicación no encontrada,2.0 Xli Cvt,Blanco,Toyota,Corolla Cross,2022,Nafta,5.0,Automática,2.0,SUV,36000.0,Eléctrica,4x2,5.0,170.0,25900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Bs.As. G.B.A. Norte,1.8 Seg Ecvt,Blanco,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,500.0,Eléctrica,4x2,5.0,98.0,34900.0
+Toyota Corolla Cross 1.8 Seg Ecvt,Capital Federal,1.8 Seg Ecvt,,Toyota,Corolla Cross,2022,Híbrido/Nafta,5.0,Automática,1.8,SUV,6000.0,Eléctrica,4x2,5.0,98.0,35000.0
+Toyota Corolla Cross 1.8 Xei Ecvt,Capital Federal,1.8 Xei Ecvt,Azul,Toyota,Corolla Cross,2023,Híbrido/Nafta,5.0,Automática,1.8,SUV,1000.0,Eléctrica,4x2,5.0,98.0,33000.0
+Toyota Corolla Cross 2.0 Seg Cvt,Ubicación no encontrada,2.0 Seg Cvt,Gris,Toyota,Corolla Cross,2023,Nafta,5.0,Automática,2.0,SUV,2500.0,Eléctrica,4x2,5.0,170.0,65000.0
